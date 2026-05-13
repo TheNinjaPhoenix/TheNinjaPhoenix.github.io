@@ -723,7 +723,7 @@
 		{
 			"name": "CX02 Looter",
 			"rarity": "common",
-			"mana_cost": "{1{U}B}",
+			"mana_cost": "{1}{U/B}",
 			"type": "Creature",
 			"collector_number": "68",
 			"image_uris": {
@@ -743,7 +743,7 @@
 		{
 			"name": "CX04 Cast Dork",
 			"rarity": "common",
-			"mana_cost": "{1{R}G}",
+			"mana_cost": "{1}{R/G}",
 			"type": "Creature",
 			"collector_number": "70",
 			"image_uris": {
@@ -753,7 +753,7 @@
 		{
 			"name": "CX05 Protection",
 			"rarity": "common",
-			"mana_cost": "{1{G}W}",
+			"mana_cost": "{1}{G/W}",
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
@@ -783,7 +783,7 @@
 		{
 			"name": "CX08 2 MV Conditional 3",
 			"rarity": "common",
-			"mana_cost": "{1{G}U}",
+			"mana_cost": "{1}{G/W}",
 			"type": "Creature",
 			"collector_number": "74",
 			"image_uris": {
@@ -803,7 +803,7 @@
 		{
 			"name": "CX10 Hybrid Cooperator",
 			"rarity": "common",
-			"mana_cost": "{1{R}W}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Creature",
 			"collector_number": "76",
 			"image_uris": {
@@ -812,87 +812,86 @@
 		}
 	]
 
-[rare(1)]
-[uncommon(3)]
-[common(10)]
-	5 CB01 Small Filter
-	5 CB02 Fodder Aggro
-	5 CB03 2 Repeated Drain
-	5 CB04 3 MV Discard Creature
-	5 CB05 4 Sac Outlet
-	5 CB06 Titanite Demon
-	5 CB07 7 Fodder Discounter
-	5 CB08 4 Mill Husk
-	5 CB09 Hollow Sorcery
-	5 CB10 Card draw (added cost)
-	5 CB11 Harmonize Discard
-	5 CB12 Discard Spell
-	5 CB13 Fina's Embrace
-	5 CC01 Oscar, Fading Failure
-	5 CC02 Color fixer
-	5 CC03 Harmonize Coop Historic Support
-	5 CC04 Manalith+ ability
-	5 CC05 Husk Equipment
-	5 CC06 Abandoned Bonfire
-	5 CG01 1 Cheap Lifegain
-	5 CG02 2 MV Bear with Mechanic
-	5 CG03 2 GY Filter
-	5 CG04 3 Conditional +1
-	5 CG05 3 Conditional Landsearcher
-	5 CG06 4 Control Reach
-	5 CG07 4 Conditonal Trampler
-	5 CG08 5 Value creature
-	5 CG09 6 Trample with Upside
-	5 CG10 Disenchant Spell
-	5 CG11 Bite spell
-	5 CG12 Mana acceleration
-	5 CG13 Estus Flask
-	5 CR01 1 Haste Upside
-	5 CR02 2 Noncreature Pinger
-	5 CR03 Depths Lookout
-	5 CR04 3 Exile on ETB
-	5 CR05 4 Magma Spider
-	5 CR06 4 5 Shock Creature
-	5 CR07 Centipede Demon
-	5 CR08 2 Husk Equipment (haste)
-	5 CR09 4 Equipment (big damage)
-	5 CR10 Combat trick
-	5 CR11 Rummaging impulsive draw
-	5 CR12 Modal Shatter
-	5 CR13 Kalameet's Gaze
-	5 CU01 2 Modal Spell as Creature
-	5 CU02 3 Cheap Vigilance
-	5 CU03 Spell Return Creature
-	5 CU04 3 Spell discounter
-	5 CU05 Valley Guardian
-	5 CU06 Dragon-Path Scaleward
-	5 CU07 Blue Crystal Golem
-	5 CU08 Common Counterspell
-	5 CU09 Protective Instant
-	5 CU10 Big Draw Spell
-	5 CU11 Unending Whisper
-	5 CU12 Top or Bottom Spell
-	5 CU13 Just Another Undead
-	5 CW01 Apprentice Fire Keeper
-	5 CW02 Astoran Cleric
-	5 CW03 3 MV
-	5 CW04 3 MV
-	5 CW05 3 MV Token Creator
-	5 CW06 Hollow Common
-	5 CW07 Belltower Gargoyle
-	5 CW08 Balder Knight
-	5 CW09 Rest by the Bonfire
-	5 CW10 Focused Parry
-	5 CW11 Tranquil Walk of Peace
-	5 CW12 Husk Common
-	5 CW13 Harmonize Disenchant
-	5 CX01 Upside Flier
-	5 CX02 Looter
-	5 CX03 Dark Grasp
-	5 CX04 Cast Dork
-	5 CX05 Protection
-	5 CX06 Humanity Sprites
-	5 CX07 Graveyard Card
-	5 CX08 2 MV Conditional 3
-	5 CX09 Noncreature Trigger
-	5 CX10 Hybrid Cooperator
+
+[common(14)]
+	30 CB01 Small Filter
+	30 CB02 Fodder Aggro
+	30 CB03 2 Repeated Drain
+	30 CB04 3 MV Discard Creature
+	30 CB05 4 Sac Outlet
+	30 CB06 Titanite Demon
+	30 CB07 7 Fodder Discounter
+	30 CB08 4 Mill Husk
+	30 CB09 Hollow Sorcery
+	30 CB10 Card draw (added cost)
+	30 CB11 Harmonize Discard
+	30 CB12 Discard Spell
+	30 CB13 Fina's Embrace
+	30 CC01 Oscar, Fading Failure
+	30 CC02 Color fixer
+	30 CC03 Harmonize Coop Historic Support
+	30 CC04 Manalith+ ability
+	30 CC05 Husk Equipment
+	30 CC06 Abandoned Bonfire
+	30 CG01 1 Cheap Lifegain
+	30 CG02 2 MV Bear with Mechanic
+	30 CG03 2 GY Filter
+	30 CG04 3 Conditional +1
+	30 CG05 3 Conditional Landsearcher
+	30 CG06 4 Control Reach
+	30 CG07 4 Conditonal Trampler
+	30 CG08 5 Value creature
+	30 CG09 6 Trample with Upside
+	30 CG10 Disenchant Spell
+	30 CG11 Bite spell
+	30 CG12 Mana acceleration
+	30 CG13 Estus Flask
+	30 CR01 1 Haste Upside
+	30 CR02 2 Noncreature Pinger
+	30 CR03 Depths Lookout
+	30 CR04 3 Exile on ETB
+	30 CR05 4 Magma Spider
+	30 CR06 4 5 Shock Creature
+	30 CR07 Centipede Demon
+	30 CR08 2 Husk Equipment (haste)
+	30 CR09 4 Equipment (big damage)
+	30 CR10 Combat trick
+	30 CR11 Rummaging impulsive draw
+	30 CR12 Modal Shatter
+	30 CR13 Kalameet's Gaze
+	30 CU01 2 Modal Spell as Creature
+	30 CU02 3 Cheap Vigilance
+	30 CU03 Spell Return Creature
+	30 CU04 3 Spell discounter
+	30 CU05 Valley Guardian
+	30 CU06 Dragon-Path Scaleward
+	30 CU07 Blue Crystal Golem
+	30 CU08 Common Counterspell
+	30 CU09 Protective Instant
+	30 CU10 Big Draw Spell
+	30 CU11 Unending Whisper
+	30 CU12 Top or Bottom Spell
+	30 CU13 Just Another Undead
+	30 CW01 Apprentice Fire Keeper
+	30 CW02 Astoran Cleric
+	30 CW03 3 MV
+	30 CW04 3 MV
+	30 CW05 3 MV Token Creator
+	30 CW06 Hollow Common
+	30 CW07 Belltower Gargoyle
+	30 CW08 Balder Knight
+	30 CW09 Rest by the Bonfire
+	30 CW10 Focused Parry
+	30 CW11 Tranquil Walk of Peace
+	30 CW12 Husk Common
+	30 CW13 Harmonize Disenchant
+	30 CX01 Upside Flier
+	30 CX02 Looter
+	30 CX03 Dark Grasp
+	30 CX04 Cast Dork
+	30 CX05 Protection
+	30 CX06 Humanity Sprites
+	30 CX07 Graveyard Card
+	30 CX08 2 MV Conditional 3
+	30 CX09 Noncreature Trigger
+	30 CX10 Hybrid Cooperator
