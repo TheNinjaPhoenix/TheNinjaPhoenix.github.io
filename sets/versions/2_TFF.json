@@ -1,8 +1,11 @@
 ﻿{
     "name": "Dark Souls \u2014 The Fire Fades \u2014 Commontest",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "CB01 Small Filter",
@@ -20,6 +23,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "Black's creature percentages have jumped from 52% (10 out of 19) to 62% (9 out of 14), and its average power has jumped from 3.25 to 3.56.\n\nKeyword Distribution (At Common)\n\n2 Flying (different powers)\n1.5 Menace\n1.25 Deathtouch\n1 Lifelink\n\nWhile black has two common fliers, they're not quite as strong as white's or blue's. That is, they're good enough to include in your deck but are less often the all-star of the common creatures. Menace has been creeping up as it plays so well. Usually, deathtouch is on one of the smaller creatures, whereas lifelink tends to be on something slightly bigger than is seen in white at common."
         },
         {
@@ -38,6 +44,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -56,6 +65,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -74,6 +86,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Chris Cold",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -92,6 +107,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -110,6 +128,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Alessandro Paviolo",
+            "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -128,6 +149,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -146,6 +170,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -164,6 +191,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -182,6 +212,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -192,7 +225,7 @@
             "number": 38,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nHarmonize 7BB",
+            "rules_text": "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.\nHarmonize {7}{B}{B} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -200,6 +233,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -218,6 +254,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -236,6 +275,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "AriamisArts",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "Again, we focused common spells toward answers to threats. The efficiency of black's creature removal will vary, but all are still worth playing. The discard effect has turned into a Coercion variant (i.e., you get to select what nonland card gets discarded) to help give black more answers to rares and mythic rares. The one other effect we made sure to keep is card drawing. Black must spend a secondary resource, usually life, so the card drawing isn't quite as good as blue but good enough to include in your deck.\n\nEffects that don't have space on a spell at common, like Raise Dead (returning creature cards from the graveyard to the hand), can either be made at uncommon or can be added to creature spells as an effect."
         },
         {
@@ -254,6 +296,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Asaki",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -272,6 +317,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -290,6 +338,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "In the Play Booster world, we want the colorless cards to be a bit stronger because they help fill out all the decks. They still shouldn't step on the toes of the colors that do what they do best, but we've upped the power level to make them generically stronger. Because many Play Booster sets will have an upgrade in the land slot some percentage of the time, the artifacts don't have to do quite as much color fixing. \"Variance buster\" means that the card can help you find lands (through things like scrying and filtering) early in the game if you're short on land. Note it's not good at finding you a particular land. In general, we're being a bit stingier on access to extra colors as we don't want to encourage players splashing the bombs they open."
         },
         {
@@ -308,6 +359,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -326,6 +380,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -344,6 +401,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "AlexAFlynn",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -362,6 +422,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "Green has gone from having one spell, which is either a fight spell (two creatures do damage to each other) or a bite spell (your creature deals damage equal to its power to another creature) to having one of each. These spells usually also have some buffing to help your creature kill the opponent's larger rare and mythic rare creatures.\n\nAnother side effect of Play Boosters is that we have to be extra-careful with how easy we give green access to other colors in Limited, as it's much easier to just play a \"good stuff\" deck (a deck with all the best spells in each color) with all the powerful rares and mythic rares. This means we are more likely to do land fetching that gets lands off the top cards of your library rather than fetching one out of your deck. We will also be more careful with lower-rarity mana-acceleration spells to have green cards give you access to green mana rather than any color. This will still help you ramp without making it easier to splash other colors."
         },
         {
@@ -380,6 +443,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -398,6 +464,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -416,6 +485,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -434,6 +506,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -452,6 +527,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -470,6 +548,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -488,6 +569,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -506,6 +590,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -524,6 +611,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -534,7 +624,7 @@
             "number": 64,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature you don't control. If a creature with flying would be dealt damage this way, destroy it instead.\nHarmonize 5GG",
+            "rules_text": "Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature you don't control. If a creature with flying would be dealt damage this way, destroy it instead.\nHarmonize {5}{G}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -542,6 +632,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -560,6 +653,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -578,6 +674,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -596,6 +695,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "Red has the second-largest increase in creature percentages at common, jumping from 53% (10 out of 19) to 64% (9 out of 14). Its power has jumped from an average of 3.15 to 3.39. Red's two biggest changes are that it no longer has a guaranteed one-drop slot and instead has a guaranteed six-drop slot.\n\nKeyword Distribution (At Common)\n\n1.5 Trample\n1.5 Menace\n1.5 Haste\n1 Reach\n0.25 First strike\n0.20 Double strike\nLike black, we've been increasing red's menace percentages because we've enjoyed how it plays. It also now has a dedicated slot for reach, as having more rares and mythic rares means more flying threats. Like white, first strike is down."
         },
         {
@@ -614,6 +716,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -632,6 +737,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "DLEOBLACK",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -650,6 +758,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "ThemeFinland",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -668,6 +779,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -686,6 +800,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Brandon Ellis",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -704,6 +821,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Hendrik Ellinger",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -722,6 +842,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -740,6 +863,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -758,6 +884,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -768,7 +897,7 @@
             "number": 51,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.\nHarmonize 5RR",
+            "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.\nHarmonize {5}{R}{R} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -776,6 +905,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -794,6 +926,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -812,6 +947,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Asaki",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -830,6 +968,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "Blue creature percentages have gone up, but not as much as white, from 47% (9 out of 19) to 53% (8 out of 15). The average power has gone up from 3.39 to 3.62. For instance, there's no longer a default one-drop in blue at common and potentially multiple six-drops.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n1.5 Vigilance\n0.5 Ward N\n0.5 Defender\n0.5 Flash\n\nA year ago, we made a big change to add vigilance to blue. It's now the second-most-used keyword, mainly because making blue creatures want to attack can be difficult. Also, while this is not unique to blue, it's the most notable in blue: we're being more cautious with toughness-statted creatures, as they tend to stall out games."
         },
         {
@@ -848,6 +989,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -866,6 +1010,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -884,6 +1031,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -902,6 +1052,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Baekbae Seong",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -920,6 +1073,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "ThemeFinland",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -938,6 +1094,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Nahelus",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -956,6 +1115,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -974,6 +1136,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "Again, we ensure each color has common answers to rare and mythic rare bombs, especially creatures. For blue, this means making counterspells that are good at stopping big spells, trading in its traditional lockdown Aura for one that overwrites the creature (\"Enchanted creature is a 1/1 with no abilities\") and upping its bounce from hand to top (or bottom if the opponent chooses) of library. Blue also wants to have very efficient card drawing and card filtering."
         },
         {
@@ -992,6 +1157,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1002,7 +1170,7 @@
             "number": 25,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Draw a card.\nHarmonize 5U",
+            "rules_text": "Draw a card.\nHarmonize {5}{U} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1010,6 +1178,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1028,6 +1199,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1046,6 +1220,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Kerim Akyuz",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1064,6 +1241,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Anato Finnstark",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "Having less commons means less overall cards, both in creatures and noncreatures. White is still number one in the number of creatures, meaning it gets the most creatures by percentage of any color. While it's gone down one creature slot from Draft Boosters to Play Boosters, it's gone up in percentage. The default for Draft Boosters was 63% (12 out of 19) while the default for Play Boosters is 73% (11 out of 15).\n\nThe reason for this is that the drop in common cards means we have no room for \"unplayable commons.\" \"Unplayable common\" is defined as a card that situationally might be unplayable in a sealed deck. The card is too narrow in what it does. A good example would be what we used to call \"sideboard cards,\" such as Naturalize or Disenchant (\"Destroy target artifact or enchantment\"). It's the kind of card you usually don't start with because it often is a dead card in your hand, but you might sideboard it in if the opponent is running threats that it answers. The other major reason a card might be unplayable is power level.\n\nWe're doing three things to get rid of unplayable commons. One, the average power level will be higher (although set more for Limited play than Constructed). If you're playing a color, most monocolor creatures in that color will at least be playable in your deck. Some creatures may be more synergistic with certain draft themes, but the base creature stats will usually be something you can run. Two, we're moving some effects from common to uncommon. An example is temporary stealing (cards like Threaten) that we normally do at common in red. Three, we'll be making more use of modal effects. We can still do a Naturalize or Disenchant effect at common, but it will be paired with another effect that is generally more useful, allowing it to be standard in your deck.\n\nThe result of these changes is that the creature percentages at common are going up a bit. Creatures are just easier to make usable in more decks and inherently have a built-in win condition.\n\nThe other major effect you can see on creatures is that the average size is going up, especially in white. In Draft Boosters, white's default average power was 2.95. In Play Boosters, that goes up to 3.28. That's around a third of a power greater. This is being done to ensure that every creature is playable, as lower-powered creatures can become more situational.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n2 Vigilance\n1 Lifelink (low power)\n0.25 First strike\n0.20 Double strike\n\nThis set skeleton is set up a bit differently than the last one. Rather than call out slots for certain keyword abilities at common, the set skeleton lays out roughly how often it should appear. If an ability appears at a number below one, that means it might not always appear in every set but will average that number over multiple sets. However, first strike in white has fallen out of favor with R&D. The ability causes ground stalls, which is why we often only make it work offensively."
         },
         {
@@ -1082,6 +1262,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1100,6 +1283,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1118,6 +1304,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1136,6 +1325,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1154,6 +1346,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1172,6 +1367,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Oniruu",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1190,6 +1388,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "MenasLG",
+            "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1208,6 +1409,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Inkyh",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1226,6 +1430,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "Common spells must be a bit more practical. For white, which has the least spells by percentage, that means focusing mostly on removal cards. Combat tricks want to prioritize designs that save the creature (meaning you use them to functionally get rid of the opponent's creature without going down on creatures). Pacifism-style effects (Auras that keep you from attacking, blocking, and sometimes activating) are being replaced by Banishing Light-style effects (cards that exile something while they're on the battlefield). Effects that neutralize a creature without killing it need to have more \"text wiping\" because many rares have powerful noncombat abilities, often static or triggered, and the common cards need to be able to answer them. The Disenchant slot will most often be modal and will sometimes be an answer to creatures in addition to artifacts and enchantments.\n\nI also want to point out that this change forces certain effects out of spells and onto creatures. I'll use the go-wide team-pump effect (\"Creatures you control get +N/+N until end of turn.\"). Uncommon can clearly do larger pumps that help win games, but the simple +1/+1 granting will probably exist more on a creature as an \"enters the battlefield\" effect or an activated ability."
         },
         {
@@ -1244,6 +1451,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1262,6 +1472,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1272,7 +1485,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Destroy target artifact or enchantment.\nHarmonize 5WW",
+            "rules_text": "Destroy target artifact or enchantment.\nHarmonize {5}{W}{W} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1280,6 +1493,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1298,6 +1514,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Debbie Moylan",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1307,7 +1526,7 @@
             "type": "Creature",
             "number": 68,
             "color_identity": "UB",
-            "cost": "{1{U}B}",
+            "cost": "{1}{UB}",
             "rules_text": "When this creature enters, draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
@@ -1316,6 +1535,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1334,6 +1556,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "DLeoBlack (edited)",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1343,7 +1568,7 @@
             "type": "Creature",
             "number": 70,
             "color_identity": "RG",
-            "cost": "{1{R}G}",
+            "cost": "{1}{RG}",
             "rules_text": "{T}: Add {R} or {G}.\nWhenever you cast a spell from anywhere other than your hand, untap this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
@@ -1352,6 +1577,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1361,7 +1589,7 @@
             "type": "Instant",
             "number": 71,
             "color_identity": "WG",
-            "cost": "{1{G}W}",
+            "cost": "{1}{GW}",
             "rules_text": "Target creature you control gains hexproof and indestructible until end of turn. If that creature is equipped or enchanted, put a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -1370,6 +1598,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1388,6 +1619,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Lolita Brion",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1406,6 +1640,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1415,7 +1652,7 @@
             "type": "Creature",
             "number": 74,
             "color_identity": "UG",
-            "cost": "{1{G}U}",
+            "cost": "{1}{GU}",
             "rules_text": "Defender\nAs long as you've sacrificed a nonland permanent this turn, this creature can attack as though it didn't have defender.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
@@ -1424,6 +1661,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1442,6 +1682,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1451,7 +1694,7 @@
             "type": "Creature",
             "number": 76,
             "color_identity": "WR",
-            "cost": "{1{R}W}",
+            "cost": "{1}{RW}",
             "rules_text": "Cooperate {RW} [i]({RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]\nFirst strike",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
@@ -1460,6 +1703,9 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": ""
         }
     ]

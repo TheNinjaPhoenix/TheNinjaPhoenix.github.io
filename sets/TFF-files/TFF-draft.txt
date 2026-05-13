@@ -7,7 +7,7 @@
 			"type": "Creature",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/28_CB01 Small Filter.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/29_CB02 Fodder Aggro.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/30_CB03 2 Repeated Drain.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/31_CB04 3 MV Discard Creature.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/32_CB05 4 Sac Outlet.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Artifact Creature — Demon",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/33_CB06 Titanite Demon.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/34_CB07 7 Fodder Discounter.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/35_CB08 4 Mill Husk.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Sorcery",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/36_CB09 Hollow Sorcery.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/8.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/37_CB10 Card draw (added cost).png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/9.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/38_CB11 Harmonize Discard.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/10.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Sorcery",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/39_CB12 Discard Spell.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/40_CB13 Fina's Embrace.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/12.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/1_CC01 Oscar, Fading Failure.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/13.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/77_CC02 Color fixer.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/14.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/78_CC03 Harmonize Coop Historic Support.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/15.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Artifact",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/79_CC04 Manalith+ ability.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/16.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/80_CC05 Husk Equipment.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Land",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/81_CC06 Abandoned Bonfire.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/54_CG01 1 Cheap Lifegain.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/19.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/55_CG02 2 MV Bear with Mechanic.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/20.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Creature",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/56_CG03 2 GY Filter.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/57_CG04 3 Conditional +1.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/22.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Creature",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/58_CG05 3 Conditional Landsearcher.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/23.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/59_CG06 4 Control Reach.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/24.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/60_CG07 4 Conditonal Trampler.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/25.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/61_CG08 5 Value creature.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/26.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/62_CG09 6 Trample with Upside.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/27.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/63_CG10 Disenchant Spell.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/28.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/64_CG11 Bite spell.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/29.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/65_CG12 Mana acceleration.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/30.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Artifact",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/66_CG13 Estus Flask.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/31.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/41_CR01 1 Haste Upside.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/32.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Artifact Creature — Construct Dragon",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/42_CR02 2 Noncreature Pinger.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/33.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/43_CR03 Depths Lookout.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/34.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Dragon Warrior",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/44_CR04 3 Exile on ETB.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/35.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/45_CR05 4 Magma Spider.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/46_CR06 4 5 Shock Creature.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/37.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Creature — Demon Insect",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/47_CR07 Centipede Demon.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/38.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/48_CR08 2 Husk Equipment (haste).png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/39.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/49_CR09 4 Equipment (big damage).png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/40.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/50_CR10 Combat trick.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/41.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/51_CR11 Rummaging impulsive draw.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/42.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Sorcery",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/52_CR12 Modal Shatter.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/43.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Instant",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/53_CR13 Kalameet's Gaze.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/44.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Creature",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/15_CU01 2 Modal Spell as Creature.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/45.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/16_CU02 3 Cheap Vigilance.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/46.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/17_CU03 Spell Return Creature.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/47.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/18_CU04 3 Spell discounter.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/48.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/19_CU05 Valley Guardian.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/49.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Dragon Warrior",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/20_CU06 Dragon-Path Scaleward.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/50.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/21_CU07 Blue Crystal Golem.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/51.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Instant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/22_CU08 Common Counterspell.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/52.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/23_CU09 Protective Instant.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/53.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Sorcery",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/24_CU10 Big Draw Spell.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/54.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Sorcery",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/25_CU11 Unending Whisper.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/55.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Instant",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/26_CU12 Top or Bottom Spell.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/56.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/27_CU13 Just Another Undead.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/57.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/2_CW01 Apprentice Fire Keeper.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/58.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/3_CW02 Astoran Cleric.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/59.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Creature",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/4_CW03 3 MV.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/60.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/5_CW04 3 MV.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/61.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/6_CW05 3 MV Token Creator.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/62.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/7_CW06 Hollow Common.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/63.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/8_CW07 Belltower Gargoyle.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/64.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Zombie Knight",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/9_CW08 Balder Knight.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/65.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/10_CW09 Rest by the Bonfire.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/66.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/11_CW10 Focused Parry.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/67.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Enchantment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/12_CW11 Tranquil Walk of Peace.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/68.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/13_CW12 Husk Common.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/69.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/14_CW13 Harmonize Disenchant.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/70.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/67_CX01 Upside Flier.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/71.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Creature",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/68_CX02 Looter.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/72.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Sorcery",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/69_CX03 Dark Grasp.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/73.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Creature",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/70_CX04 Cast Dork.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/74.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/71_CX05 Protection.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/75.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Enchantment Creature — Soul Spirit",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/72_CX06 Humanity Sprites.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/76.png"
 			}
 		},
 		{
@@ -777,17 +777,17 @@
 			"type": "Creature",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/73_CX07 Graveyard Card.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/77.png"
 			}
 		},
 		{
 			"name": "CX08 2 MV Conditional 3",
 			"rarity": "common",
-			"mana_cost": "{1}{G/W}",
+			"mana_cost": "{1}{G/U}",
 			"type": "Creature",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/74_CX08 2 MV Conditional 3.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/78.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/75_CX09 Noncreature Trigger.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/79.png"
 			}
 		},
 		{
@@ -807,91 +807,338 @@
 			"type": "Creature",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/76_CX10 Hybrid Cooperator.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/80.png"
 			}
 		}
 	]
 
-
-[common(14)]
-	30 CB01 Small Filter
-	30 CB02 Fodder Aggro
-	30 CB03 2 Repeated Drain
-	30 CB04 3 MV Discard Creature
-	30 CB05 4 Sac Outlet
-	30 CB06 Titanite Demon
-	30 CB07 7 Fodder Discounter
-	30 CB08 4 Mill Husk
-	30 CB09 Hollow Sorcery
-	30 CB10 Card draw (added cost)
-	30 CB11 Harmonize Discard
-	30 CB12 Discard Spell
-	30 CB13 Fina's Embrace
-	30 CC01 Oscar, Fading Failure
-	30 CC02 Color fixer
-	30 CC03 Harmonize Coop Historic Support
-	30 CC04 Manalith+ ability
-	30 CC05 Husk Equipment
-	30 CC06 Abandoned Bonfire
-	30 CG01 1 Cheap Lifegain
-	30 CG02 2 MV Bear with Mechanic
-	30 CG03 2 GY Filter
-	30 CG04 3 Conditional +1
-	30 CG05 3 Conditional Landsearcher
-	30 CG06 4 Control Reach
-	30 CG07 4 Conditonal Trampler
-	30 CG08 5 Value creature
-	30 CG09 6 Trample with Upside
-	30 CG10 Disenchant Spell
-	30 CG11 Bite spell
-	30 CG12 Mana acceleration
-	30 CG13 Estus Flask
-	30 CR01 1 Haste Upside
-	30 CR02 2 Noncreature Pinger
-	30 CR03 Depths Lookout
-	30 CR04 3 Exile on ETB
-	30 CR05 4 Magma Spider
-	30 CR06 4 5 Shock Creature
-	30 CR07 Centipede Demon
-	30 CR08 2 Husk Equipment (haste)
-	30 CR09 4 Equipment (big damage)
-	30 CR10 Combat trick
-	30 CR11 Rummaging impulsive draw
-	30 CR12 Modal Shatter
-	30 CR13 Kalameet's Gaze
-	30 CU01 2 Modal Spell as Creature
-	30 CU02 3 Cheap Vigilance
-	30 CU03 Spell Return Creature
-	30 CU04 3 Spell discounter
-	30 CU05 Valley Guardian
-	30 CU06 Dragon-Path Scaleward
-	30 CU07 Blue Crystal Golem
-	30 CU08 Common Counterspell
-	30 CU09 Protective Instant
-	30 CU10 Big Draw Spell
-	30 CU11 Unending Whisper
-	30 CU12 Top or Bottom Spell
-	30 CU13 Just Another Undead
-	30 CW01 Apprentice Fire Keeper
-	30 CW02 Astoran Cleric
-	30 CW03 3 MV
-	30 CW04 3 MV
-	30 CW05 3 MV Token Creator
-	30 CW06 Hollow Common
-	30 CW07 Belltower Gargoyle
-	30 CW08 Balder Knight
-	30 CW09 Rest by the Bonfire
-	30 CW10 Focused Parry
-	30 CW11 Tranquil Walk of Peace
-	30 CW12 Husk Common
-	30 CW13 Harmonize Disenchant
-	30 CX01 Upside Flier
-	30 CX02 Looter
-	30 CX03 Dark Grasp
-	30 CX04 Cast Dork
-	30 CX05 Protection
-	30 CX06 Humanity Sprites
-	30 CX07 Graveyard Card
-	30 CX08 2 MV Conditional 3
-	30 CX09 Noncreature Trigger
-	30 CX10 Hybrid Cooperator
+[rare(1)]
+[uncommon(3)]
+[common(6)]
+	8 CB01 Small Filter
+	8 CB02 Fodder Aggro
+	8 CB03 2 Repeated Drain
+	8 CB04 3 MV Discard Creature
+	8 CB05 4 Sac Outlet
+	8 CB06 Titanite Demon
+	8 CB07 7 Fodder Discounter
+	8 CB08 4 Mill Husk
+	8 CB09 Hollow Sorcery
+	8 CB10 Card draw (added cost)
+	8 CB11 Harmonize Discard
+	8 CB12 Discard Spell
+	8 CB13 Fina's Embrace
+	8 CC01 Oscar, Fading Failure
+	8 CC02 Color fixer
+	8 CC03 Harmonize Coop Historic Support
+	8 CC04 Manalith+ ability
+	8 CC05 Husk Equipment
+	8 CC06 Abandoned Bonfire
+	8 CG01 1 Cheap Lifegain
+	8 CG02 2 MV Bear with Mechanic
+	8 CG03 2 GY Filter
+	8 CG04 3 Conditional +1
+	8 CG05 3 Conditional Landsearcher
+	8 CG06 4 Control Reach
+	8 CG07 4 Conditonal Trampler
+	8 CG08 5 Value creature
+	8 CG09 6 Trample with Upside
+	8 CG10 Disenchant Spell
+	8 CG11 Bite spell
+	8 CG12 Mana acceleration
+	8 CG13 Estus Flask
+	8 CR01 1 Haste Upside
+	8 CR02 2 Noncreature Pinger
+	8 CR03 Depths Lookout
+	8 CR04 3 Exile on ETB
+	8 CR05 4 Magma Spider
+	8 CR06 4 5 Shock Creature
+	8 CR07 Centipede Demon
+	8 CR08 2 Husk Equipment (haste)
+	8 CR09 4 Equipment (big damage)
+	8 CR10 Combat trick
+	8 CR11 Rummaging impulsive draw
+	8 CR12 Modal Shatter
+	8 CR13 Kalameet's Gaze
+	8 CU01 2 Modal Spell as Creature
+	8 CU02 3 Cheap Vigilance
+	8 CU03 Spell Return Creature
+	8 CU04 3 Spell discounter
+	8 CU05 Valley Guardian
+	8 CU06 Dragon-Path Scaleward
+	8 CU07 Blue Crystal Golem
+	8 CU08 Common Counterspell
+	8 CU09 Protective Instant
+	8 CU10 Big Draw Spell
+	8 CU11 Unending Whisper
+	8 CU12 Top or Bottom Spell
+	8 CU13 Just Another Undead
+	8 CW01 Apprentice Fire Keeper
+	8 CW02 Astoran Cleric
+	8 CW03 3 MV
+	8 CW04 3 MV
+	8 CW05 3 MV Token Creator
+	8 CW06 Hollow Common
+	8 CW07 Belltower Gargoyle
+	8 CW08 Balder Knight
+	8 CW09 Rest by the Bonfire
+	8 CW10 Focused Parry
+	8 CW11 Tranquil Walk of Peace
+	8 CW12 Husk Common
+	8 CW13 Harmonize Disenchant
+	8 CX01 Upside Flier
+	8 CX02 Looter
+	8 CX03 Dark Grasp
+	8 CX04 Cast Dork
+	8 CX05 Protection
+	8 CX06 Humanity Sprites
+	8 CX07 Graveyard Card
+	8 CX08 2 MV Conditional 3
+	8 CX09 Noncreature Trigger
+	8 CX10 Hybrid Cooperator
+[common | masterpiece(1)]
+	8 CB01 Small Filter
+	8 CB02 Fodder Aggro
+	8 CB03 2 Repeated Drain
+	8 CB04 3 MV Discard Creature
+	8 CB05 4 Sac Outlet
+	8 CB06 Titanite Demon
+	8 CB07 7 Fodder Discounter
+	8 CB08 4 Mill Husk
+	8 CB09 Hollow Sorcery
+	8 CB10 Card draw (added cost)
+	8 CB11 Harmonize Discard
+	8 CB12 Discard Spell
+	8 CB13 Fina's Embrace
+	8 CC01 Oscar, Fading Failure
+	8 CC02 Color fixer
+	8 CC03 Harmonize Coop Historic Support
+	8 CC04 Manalith+ ability
+	8 CC05 Husk Equipment
+	8 CC06 Abandoned Bonfire
+	8 CG01 1 Cheap Lifegain
+	8 CG02 2 MV Bear with Mechanic
+	8 CG03 2 GY Filter
+	8 CG04 3 Conditional +1
+	8 CG05 3 Conditional Landsearcher
+	8 CG06 4 Control Reach
+	8 CG07 4 Conditonal Trampler
+	8 CG08 5 Value creature
+	8 CG09 6 Trample with Upside
+	8 CG10 Disenchant Spell
+	8 CG11 Bite spell
+	8 CG12 Mana acceleration
+	8 CG13 Estus Flask
+	8 CR01 1 Haste Upside
+	8 CR02 2 Noncreature Pinger
+	8 CR03 Depths Lookout
+	8 CR04 3 Exile on ETB
+	8 CR05 4 Magma Spider
+	8 CR06 4 5 Shock Creature
+	8 CR07 Centipede Demon
+	8 CR08 2 Husk Equipment (haste)
+	8 CR09 4 Equipment (big damage)
+	8 CR10 Combat trick
+	8 CR11 Rummaging impulsive draw
+	8 CR12 Modal Shatter
+	8 CR13 Kalameet's Gaze
+	8 CU01 2 Modal Spell as Creature
+	8 CU02 3 Cheap Vigilance
+	8 CU03 Spell Return Creature
+	8 CU04 3 Spell discounter
+	8 CU05 Valley Guardian
+	8 CU06 Dragon-Path Scaleward
+	8 CU07 Blue Crystal Golem
+	8 CU08 Common Counterspell
+	8 CU09 Protective Instant
+	8 CU10 Big Draw Spell
+	8 CU11 Unending Whisper
+	8 CU12 Top or Bottom Spell
+	8 CU13 Just Another Undead
+	8 CW01 Apprentice Fire Keeper
+	8 CW02 Astoran Cleric
+	8 CW03 3 MV
+	8 CW04 3 MV
+	8 CW05 3 MV Token Creator
+	8 CW06 Hollow Common
+	8 CW07 Belltower Gargoyle
+	8 CW08 Balder Knight
+	8 CW09 Rest by the Bonfire
+	8 CW10 Focused Parry
+	8 CW11 Tranquil Walk of Peace
+	8 CW12 Husk Common
+	8 CW13 Harmonize Disenchant
+	8 CX01 Upside Flier
+	8 CX02 Looter
+	8 CX03 Dark Grasp
+	8 CX04 Cast Dork
+	8 CX05 Protection
+	8 CX06 Humanity Sprites
+	8 CX07 Graveyard Card
+	8 CX08 2 MV Conditional 3
+	8 CX09 Noncreature Trigger
+	8 CX10 Hybrid Cooperator
+[foil(1)]
+	12 CB01 Small Filter
+	12 CB02 Fodder Aggro
+	12 CB03 2 Repeated Drain
+	12 CB04 3 MV Discard Creature
+	12 CB05 4 Sac Outlet
+	12 CB06 Titanite Demon
+	12 CB07 7 Fodder Discounter
+	12 CB08 4 Mill Husk
+	12 CB09 Hollow Sorcery
+	12 CB10 Card draw (added cost)
+	12 CB11 Harmonize Discard
+	12 CB12 Discard Spell
+	12 CB13 Fina's Embrace
+	12 CC01 Oscar, Fading Failure
+	12 CC02 Color fixer
+	12 CC03 Harmonize Coop Historic Support
+	12 CC04 Manalith+ ability
+	12 CC05 Husk Equipment
+	12 CC06 Abandoned Bonfire
+	12 CG01 1 Cheap Lifegain
+	12 CG02 2 MV Bear with Mechanic
+	12 CG03 2 GY Filter
+	12 CG04 3 Conditional +1
+	12 CG05 3 Conditional Landsearcher
+	12 CG06 4 Control Reach
+	12 CG07 4 Conditonal Trampler
+	12 CG08 5 Value creature
+	12 CG09 6 Trample with Upside
+	12 CG10 Disenchant Spell
+	12 CG11 Bite spell
+	12 CG12 Mana acceleration
+	12 CG13 Estus Flask
+	12 CR01 1 Haste Upside
+	12 CR02 2 Noncreature Pinger
+	12 CR03 Depths Lookout
+	12 CR04 3 Exile on ETB
+	12 CR05 4 Magma Spider
+	12 CR06 4 5 Shock Creature
+	12 CR07 Centipede Demon
+	12 CR08 2 Husk Equipment (haste)
+	12 CR09 4 Equipment (big damage)
+	12 CR10 Combat trick
+	12 CR11 Rummaging impulsive draw
+	12 CR12 Modal Shatter
+	12 CR13 Kalameet's Gaze
+	12 CU01 2 Modal Spell as Creature
+	12 CU02 3 Cheap Vigilance
+	12 CU03 Spell Return Creature
+	12 CU04 3 Spell discounter
+	12 CU05 Valley Guardian
+	12 CU06 Dragon-Path Scaleward
+	12 CU07 Blue Crystal Golem
+	12 CU08 Common Counterspell
+	12 CU09 Protective Instant
+	12 CU10 Big Draw Spell
+	12 CU11 Unending Whisper
+	12 CU12 Top or Bottom Spell
+	12 CU13 Just Another Undead
+	12 CW01 Apprentice Fire Keeper
+	12 CW02 Astoran Cleric
+	12 CW03 3 MV
+	12 CW04 3 MV
+	12 CW05 3 MV Token Creator
+	12 CW06 Hollow Common
+	12 CW07 Belltower Gargoyle
+	12 CW08 Balder Knight
+	12 CW09 Rest by the Bonfire
+	12 CW10 Focused Parry
+	12 CW11 Tranquil Walk of Peace
+	12 CW12 Husk Common
+	12 CW13 Harmonize Disenchant
+	12 CX01 Upside Flier
+	12 CX02 Looter
+	12 CX03 Dark Grasp
+	12 CX04 Cast Dork
+	12 CX05 Protection
+	12 CX06 Humanity Sprites
+	12 CX07 Graveyard Card
+	12 CX08 2 MV Conditional 3
+	12 CX09 Noncreature Trigger
+	12 CX10 Hybrid Cooperator
+[wildcard(1)]
+	6 CB01 Small Filter
+	6 CB02 Fodder Aggro
+	6 CB03 2 Repeated Drain
+	6 CB04 3 MV Discard Creature
+	6 CB05 4 Sac Outlet
+	6 CB06 Titanite Demon
+	6 CB07 7 Fodder Discounter
+	6 CB08 4 Mill Husk
+	6 CB09 Hollow Sorcery
+	6 CB10 Card draw (added cost)
+	6 CB11 Harmonize Discard
+	6 CB12 Discard Spell
+	6 CB13 Fina's Embrace
+	6 CC01 Oscar, Fading Failure
+	6 CC02 Color fixer
+	6 CC03 Harmonize Coop Historic Support
+	6 CC04 Manalith+ ability
+	6 CC05 Husk Equipment
+	6 CC06 Abandoned Bonfire
+	6 CG01 1 Cheap Lifegain
+	6 CG02 2 MV Bear with Mechanic
+	6 CG03 2 GY Filter
+	6 CG04 3 Conditional +1
+	6 CG05 3 Conditional Landsearcher
+	6 CG06 4 Control Reach
+	6 CG07 4 Conditonal Trampler
+	6 CG08 5 Value creature
+	6 CG09 6 Trample with Upside
+	6 CG10 Disenchant Spell
+	6 CG11 Bite spell
+	6 CG12 Mana acceleration
+	6 CG13 Estus Flask
+	6 CR01 1 Haste Upside
+	6 CR02 2 Noncreature Pinger
+	6 CR03 Depths Lookout
+	6 CR04 3 Exile on ETB
+	6 CR05 4 Magma Spider
+	6 CR06 4 5 Shock Creature
+	6 CR07 Centipede Demon
+	6 CR08 2 Husk Equipment (haste)
+	6 CR09 4 Equipment (big damage)
+	6 CR10 Combat trick
+	6 CR11 Rummaging impulsive draw
+	6 CR12 Modal Shatter
+	6 CR13 Kalameet's Gaze
+	6 CU01 2 Modal Spell as Creature
+	6 CU02 3 Cheap Vigilance
+	6 CU03 Spell Return Creature
+	6 CU04 3 Spell discounter
+	6 CU05 Valley Guardian
+	6 CU06 Dragon-Path Scaleward
+	6 CU07 Blue Crystal Golem
+	6 CU08 Common Counterspell
+	6 CU09 Protective Instant
+	6 CU10 Big Draw Spell
+	6 CU11 Unending Whisper
+	6 CU12 Top or Bottom Spell
+	6 CU13 Just Another Undead
+	6 CW01 Apprentice Fire Keeper
+	6 CW02 Astoran Cleric
+	6 CW03 3 MV
+	6 CW04 3 MV
+	6 CW05 3 MV Token Creator
+	6 CW06 Hollow Common
+	6 CW07 Belltower Gargoyle
+	6 CW08 Balder Knight
+	6 CW09 Rest by the Bonfire
+	6 CW10 Focused Parry
+	6 CW11 Tranquil Walk of Peace
+	6 CW12 Husk Common
+	6 CW13 Harmonize Disenchant
+	6 CX01 Upside Flier
+	6 CX02 Looter
+	6 CX03 Dark Grasp
+	6 CX04 Cast Dork
+	6 CX05 Protection
+	6 CX06 Humanity Sprites
+	6 CX07 Graveyard Card
+	6 CX08 2 MV Conditional 3
+	6 CX09 Noncreature Trigger
+	6 CX10 Hybrid Cooperator

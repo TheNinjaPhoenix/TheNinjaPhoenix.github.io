@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "58"
     },
     {
         "card_name": "CU01 2 Modal Spell as Creature",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "45"
     },
     {
         "card_name": "CB01 Small Filter",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "0"
     },
     {
         "card_name": "CR01 1 Haste Upside",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "32"
     },
     {
         "card_name": "CG01 1 Cheap Lifegain",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "19"
     },
     {
         "card_name": "CW02 Astoran Cleric",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "59"
     },
     {
         "card_name": "CU02 3 Cheap Vigilance",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "46"
     },
     {
         "card_name": "CB02 Fodder Aggro",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "1"
     },
     {
         "card_name": "CR02 2 Noncreature Pinger",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "33"
     },
     {
         "card_name": "CG02 2 MV Bear with Mechanic",
@@ -77,7 +77,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "20"
     },
     {
         "card_name": "CW03 3 MV",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "60"
     },
     {
         "card_name": "CU03 Spell Return Creature",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "47"
     },
     {
         "card_name": "CB03 2 Repeated Drain",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "2"
     },
     {
         "card_name": "CR03 Depths Lookout",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "34"
     },
     {
         "card_name": "CG03 2 GY Filter",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "21"
     },
     {
         "card_name": "CW04 3 MV",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "61"
     },
     {
         "card_name": "CU04 3 Spell discounter",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "48"
     },
     {
         "card_name": "CB04 3 MV Discard Creature",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "3"
     },
     {
         "card_name": "CR04 3 Exile on ETB",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "35"
     },
     {
         "card_name": "CG04 3 Conditional +1",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "22"
     },
     {
         "card_name": "CW05 3 MV Token Creator",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "62"
     },
     {
         "card_name": "CU05 Valley Guardian",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "49"
     },
     {
         "card_name": "CB05 4 Sac Outlet",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "4"
     },
     {
         "card_name": "CR05 4 Magma Spider",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "36"
     },
     {
         "card_name": "CG05 3 Conditional Landsearcher",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "23"
     },
     {
         "card_name": "CW06 Hollow Common",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "63"
     },
     {
         "card_name": "CU06 Dragon-Path Scaleward",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "50"
     },
     {
         "card_name": "CB06 Titanite Demon",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "5"
     },
     {
         "card_name": "CR06 4 5 Shock Creature",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "37"
     },
     {
         "card_name": "CG06 4 Control Reach",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "24"
     },
     {
         "card_name": "CW07 Belltower Gargoyle",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "64"
     },
     {
         "card_name": "CU07 Blue Crystal Golem",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "51"
     },
     {
         "card_name": "CB07 7 Fodder Discounter",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "6"
     },
     {
         "card_name": "CR07 Centipede Demon",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "38"
     },
     {
         "card_name": "CG07 4 Conditonal Trampler",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "25"
     },
     {
         "card_name": "CW08 Balder Knight",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "65"
     },
     {
         "card_name": "CU08 Common Counterspell",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "52"
     },
     {
         "card_name": "CB08 4 Mill Husk",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "7"
     },
     {
         "card_name": "CR08 2 Husk Equipment (haste)",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "39"
     },
     {
         "card_name": "CG08 5 Value creature",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "26"
     },
     {
         "card_name": "CW09 Rest by the Bonfire",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "66"
     },
     {
         "card_name": "CU09 Protective Instant",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "53"
     },
     {
         "card_name": "CB09 Hollow Sorcery",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "8"
     },
     {
         "card_name": "CR09 4 Equipment (big damage)",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "40"
     },
     {
         "card_name": "CG09 6 Trample with Upside",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "27"
     },
     {
         "card_name": "CW10 Focused Parry",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "67"
     },
     {
         "card_name": "CU10 Big Draw Spell",
@@ -373,7 +373,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "54"
     },
     {
         "card_name": "CB10 Card draw (added cost)",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "9"
     },
     {
         "card_name": "CR10 Combat trick",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "41"
     },
     {
         "card_name": "CG10 Disenchant Spell",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "28"
     },
     {
         "card_name": "CW11 Tranquil Walk of Peace",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "68"
     },
     {
         "card_name": "CU11 Unending Whisper",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "55"
     },
     {
         "card_name": "CB11 Harmonize Discard",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "10"
     },
     {
         "card_name": "CR11 Rummaging impulsive draw",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "42"
     },
     {
         "card_name": "CG11 Bite spell",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "29"
     },
     {
         "card_name": "CW12 Husk Common",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "69"
     },
     {
         "card_name": "CU12 Top or Bottom Spell",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "56"
     },
     {
         "card_name": "CB12 Discard Spell",
@@ -461,7 +461,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "11"
     },
     {
         "card_name": "CR12 Modal Shatter",
@@ -469,7 +469,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "43"
     },
     {
         "card_name": "CG12 Mana acceleration",
@@ -477,7 +477,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "30"
     },
     {
         "card_name": "CW13 Harmonize Disenchant",
@@ -485,7 +485,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "70"
     },
     {
         "card_name": "CU13 Just Another Undead",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "57"
     },
     {
         "card_name": "CB13 Fina's Embrace",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "12"
     },
     {
         "card_name": "CR13 Kalameet's Gaze",
@@ -509,7 +509,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "44"
     },
     {
         "card_name": "CG13 Estus Flask",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "31"
     },
     {
         "card_name": "er"
@@ -538,7 +538,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "71"
     },
     {
         "card_name": "CX02 Looter",
@@ -546,7 +546,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "72"
     },
     {
         "card_name": "CX03 Dark Grasp",
@@ -554,7 +554,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "73"
     },
     {
         "card_name": "CX04 Cast Dork",
@@ -562,7 +562,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "74"
     },
     {
         "card_name": "CX05 Protection",
@@ -570,7 +570,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "75"
     },
     {
         "card_name": "er"
@@ -593,7 +593,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "76"
     },
     {
         "card_name": "CX09 Noncreature Trigger",
@@ -601,7 +601,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "79"
     },
     {
         "card_name": "CX07 Graveyard Card",
@@ -609,7 +609,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "77"
     },
     {
         "card_name": "CX10 Hybrid Cooperator",
@@ -617,7 +617,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "80"
     },
     {
         "card_name": "CX08 2 MV Conditional 3",
@@ -625,7 +625,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "78"
     },
     {
         "card_name": "er"
@@ -646,7 +646,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "13"
     },
     {
         "card_name": "CC02 Color fixer",
@@ -654,7 +654,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "14"
     },
     {
         "card_name": "CC03 Harmonize Coop Historic Support",
@@ -662,7 +662,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "15"
     },
     {
         "card_name": "CC04 Manalith+ ability",
@@ -670,7 +670,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "16"
     },
     {
         "card_name": "CC05 Husk Equipment",
@@ -678,7 +678,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "17"
     },
     {
         "card_name": "er"
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": ""
+        "position": "18"
     },
     {
         "card_name": "e"

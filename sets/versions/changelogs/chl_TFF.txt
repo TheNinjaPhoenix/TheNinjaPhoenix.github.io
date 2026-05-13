@@ -1,4 +1,194 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+CB01 Small Filter
+
+CB02 Fodder Aggro
+
+CB03 2 Repeated Drain
+
+CB04 3 MV Discard Creature
+
+CB05 4 Sac Outlet
+
+CB06 Titanite Demon
+
+CB07 7 Fodder Discounter
+
+CB08 4 Mill Husk
+
+CB09 Hollow Sorcery
+
+CB10 Card draw (added cost)
+
+CB11 Harmonize Discard
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Harmonize 7BB => Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Harmonize {7}{B}{B} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+CB12 Discard Spell
+
+CB13 Fina's Embrace
+
+CC01 Oscar, Fading Failure
+
+CC02 Color fixer
+
+CC03 Harmonize Coop Historic Support
+
+CC04 Manalith+ ability
+
+CC05 Husk Equipment
+
+CC06 Abandoned Bonfire
+
+CG01 1 Cheap Lifegain
+
+CG02 2 MV Bear with Mechanic
+
+CG03 2 GY Filter
+
+CG04 3 Conditional +1
+
+CG05 3 Conditional Landsearcher
+
+CG06 4 Control Reach
+
+CG07 4 Conditonal Trampler
+
+CG08 5 Value creature
+
+CG09 6 Trample with Upside
+
+CG10 Disenchant Spell
+
+CG11 Bite spell
+rules_text: Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature you don't control. If a creature with flying would be dealt damage this way, destroy it instead.
+Harmonize 5GG => Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature you don't control. If a creature with flying would be dealt damage this way, destroy it instead.
+Harmonize {5}{G}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+CG12 Mana acceleration
+
+CG13 Estus Flask
+
+CR01 1 Haste Upside
+
+CR02 2 Noncreature Pinger
+
+CR03 Depths Lookout
+
+CR04 3 Exile on ETB
+
+CR05 4 Magma Spider
+
+CR06 4 5 Shock Creature
+
+CR07 Centipede Demon
+
+CR08 2 Husk Equipment (haste)
+
+CR09 4 Equipment (big damage)
+
+CR10 Combat trick
+
+CR11 Rummaging impulsive draw
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards.
+Harmonize 5RR => As an additional cost to cast this spell, discard a card.
+Draw two cards.
+Harmonize {5}{R}{R} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+CR12 Modal Shatter
+
+CR13 Kalameet's Gaze
+
+CU01 2 Modal Spell as Creature
+
+CU02 3 Cheap Vigilance
+
+CU03 Spell Return Creature
+
+CU04 3 Spell discounter
+
+CU05 Valley Guardian
+
+CU06 Dragon-Path Scaleward
+
+CU07 Blue Crystal Golem
+
+CU08 Common Counterspell
+
+CU09 Protective Instant
+
+CU10 Big Draw Spell
+
+CU11 Unending Whisper
+rules_text: Draw a card.
+Harmonize 5U => Draw a card.
+Harmonize {5}{U} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+CU12 Top or Bottom Spell
+
+CU13 Just Another Undead
+
+CW01 Apprentice Fire Keeper
+
+CW02 Astoran Cleric
+
+CW03 3 MV
+
+CW04 3 MV
+
+CW05 3 MV Token Creator
+
+CW06 Hollow Common
+
+CW07 Belltower Gargoyle
+
+CW08 Balder Knight
+
+CW09 Rest by the Bonfire
+
+CW10 Focused Parry
+
+CW11 Tranquil Walk of Peace
+
+CW12 Husk Common
+
+CW13 Harmonize Disenchant
+rules_text: Destroy target artifact or enchantment.
+Harmonize 5WW => Destroy target artifact or enchantment.
+Harmonize {5}{W}{W} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+CX01 Upside Flier
+
+CX02 Looter
+cost: {1{U}B} => {1}{UB}
+
+CX03 Dark Grasp
+
+CX04 Cast Dork
+cost: {1{R}G} => {1}{RG}
+
+CX05 Protection
+cost: {1{G}W} => {1}{GW}
+
+CX06 Humanity Sprites
+
+CX07 Graveyard Card
+
+CX08 2 MV Conditional 3
+cost: {1{G}U} => {1}{GU}
+
+CX09 Noncreature Trigger
+
+CX10 Hybrid Cooperator
+cost: {1{R}W} => {1}{RW}
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
