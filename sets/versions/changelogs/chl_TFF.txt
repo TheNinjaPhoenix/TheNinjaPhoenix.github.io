@@ -1,4 +1,87 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+MB01 Curse-Spewer Basilisk added.
+MB02 The Age of Dark added.
+MC02 The Age of Ancients added.
+MG01 Sif, Courageous Pup added.
+MM01 Fair Lady's Offering added.
+MM02 Kalameet, Epithet added.
+MM03 The Age of Fire added.
+MM04 Seath, Epithet added.
+RA01 Snuggly's Nest added.
+RB04 Artorias, Abyss-Cursed added.
+RB05 The Four Kings added.
+RB06 Chasm of the Abyss added.
+RM01 Ciaran, Silent Blade added.
+RM01 Gwynevere's Bountiful Sunlight added.
+RM01 Priscilla, Keeper of the Lost added.
+RM03 Gwyn Links the Flame added.
+RM03 Patches, Trustworthy added.
+RM04 Chaos Engulfs Izalith added.
+RM04 Spell Harmonizer added.
+RM05 Gough, Blind Trueshot added.
+RM07 Nito's Miasma of Death added.
+RM07 The Gaping Dragon added.
+RM10 Dragonslayer Ornstein added.
+RM10 Sunlight Avenger added.
+RR05 Quelaag, Matriarch of Chaos added.
+RX01 Calamitous Blackflame added.
+UB03 Knights of Ash added.
+UB04 Petrus, Drenched in Sin added.
+UB05 Drake Valley Scourge added.
+UB06 Frenzied Darkwraiths added.
+UB07 Sunlit Madness added.
+UB09 Poison Mist added.
+UB10 Foil Escape added.
+UC05 Demon's Great Hammer added.
+UC08 Firelink Shrine added.
+UG11 Grass Crest Shield added.
+UG12 The Roots of Oolacile added.
+UM01 Rhea, Seeker of Kindling added.
+UM02 Pinwheel, Thrice-Masked added.
+UM03 Lautrec the Favored added.
+UM04 Izalith Firesage added.
+UM05 Siegmeyer, Honor-Bound Coward added.
+UM06 Darkmoon Knightess, Fire Keeper added.
+UM07 Asylum Jailor added.
+UM08 Alvina, Darkroot Mother added.
+UM09 Valley Stormkite added.
+UM10 Solaire, Sunlight Knight added.
+UM11 Tale of the Painted World added.
+UM12 Artorias Falls added.
+UM13 The Undead Curse added.
+UM14 Nurturing Chaos added.
+UM15 Kindle the Flame added.
+UM16 Oswald, Velka's Arbiter added.
+UM17 Maneater Mildred added.
+UM18 The Wolf Knight's Legacy added.
+UM19 The Duke's Great Sorceries added.
+UM20 Jolly Cooperation! added.
+UR01 Aggressive 1-drop added.
+UR03 Batwing Demon added.
+UR04 Dragonpath Hunter added.
+UR05 Burg Capra added.
+UR08 In The Firstborn's Footsteps added.
+UR11 Chaos Blade added.
+UU01 New Londo Haunted added.
+UU02 Beatrice, Seeker of Sorceries added.
+UU04 Dragon/Sorcery Unblockable added.
+UU06 Valley Windkite added.
+UU10 The Great Flood added.
+UU11 Crystal Curse added.
+UU12 The Paledrake's Pact added.
+UW02 +1/+1 Snowballer added.
+UW03 The Crestfallen Warrior added.
+UW07 Tarkus added.
+UW08 Gwyn's Silver Knights added.
+UW11 Cheap Equipment added.
+UW12 Miracle: Magic Barrier added.
+UX10 Miracle: Sunlight Blade added.
+
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.
