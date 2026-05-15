@@ -155,7 +155,7 @@
 		<card>
 			<name>CB05 4 Sac Outlet</name>
 			<text>Flying
-{3}, Hollow: Put a +1/+1 counter on this creature. It gains menace until end of turn. (To hollow, sacrifice a nonland permanent or discard a card.)</text>
+{3}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains menace until end of turn.</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/9.png" num="57">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -730,7 +730,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CR06 4/5 Shock Creature</name>
 			<text>Menace
-When this creature enters, you may hollow. If you do, this creature deals 2 damage to target creature. (To hollow, sacrifice a nonland permanent or discard a card.)</text>
+When this creature enters, you may discard a card. If you do, this creature deals 2 damage to target creature.</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/42.png" num="87">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -1431,7 +1431,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>CX07 Graveyard Card</name>
 			<text>At the beginning of combat on your turn, you may hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
-Whenever you hollow, put a +1/+1 counter on this creature.</text>
+Whenever you sacrifice a nonland permanent, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/82.png" num="164">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -1523,8 +1523,8 @@ Whenever this creature deals combat damage to a player, that player loses half t
 			<name>MB02 The Age of Dark</name>
 			<text>Bookmark r{3} — {3}{B}{B} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
 I, II — Hollow a number of times equal to the number of lore counters on this Saga. (To hollow, sacrifice a nonland permanent or discard a card.)
-III — Target player gains control of this Saga. It gains &quot;This Saga can&apos;t be sacrificed by spells or abilities.&quot;
-IV, V — Hollow a number of times equal to the number of lore counters on this Saga.</text>
+Target player gains control of this Saga. It gains &quot;This Saga can&apos;t be sacrificed by spells or abilities.&quot;
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/87.png" num="67">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -1542,8 +1542,8 @@ IV, V — Hollow a number of times equal to the number of lore counters on this 
 			<name>MC02 The Age of Ancients</name>
 			<text>Bookmark r{3} — {5} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
 I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
-II — Create two colorless 4/4 Dragon creature tokens with flying.
-III — Exile target nonland permanent an opponent controls.</text>
+Create two colorless 4/4 Dragon creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/88.png" num="2">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -1634,9 +1634,9 @@ Whenever you cast a sorcery spell, Seath, Epithet deals 2 damage to any target.<
 		<card>
 			<name>MM10 The Age of Fire</name>
 			<text>Bookmark r{4} — {R}{W} (You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Exile the top two cards of your library. You may play those cards until the end of your next turn. 
-II, III, IV — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
-V — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn.</text>
+Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+I, II — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+III, IV — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/93.png" num="123">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -1826,7 +1826,7 @@ When Priscilla enters, choose one —
 			<name>RM03 Gwyn Links the Flame</name>
 			<text>Bookmark r{4} — {1}{R} (You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
 I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature&apos;s mana value to any target.
-II, III — Each player loses 1 life, draws a card, then hollows. (To hollow, sacrifice a nonland permanent or discard a card.)
+II, III — Each player loses 1 life, draws a card, then sacrifices a creature.
 IV — Gwyn Links the Flame deals 3 damage to any target.</text>
 			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/103.png" num="128">TFF</set>
 			<prop>
@@ -2167,7 +2167,7 @@ Enchanted creature gets +1/+1 and has decayed. (It can&apos;t block. When it att
 		</card>
 		<card>
 			<name>UB08 Buyback</name>
-			<text>Return up to two target creature cards from your graveyard to your hand, then hollow. (To hollow, sacrifice a nonland permanent or discard a card.)</text>
+			<text>Return up to two target creature cards from your graveyard to your hand, then sacrifice a permanent.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/122.png" num="78">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2351,9 +2351,9 @@ Equip {2}</text>
 		<card>
 			<name>UG12 The Roots of Oolacile</name>
 			<text>Bookmark r{3} — {1}{G} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
-II — Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-III — Create two 1/1 green Fungus creature tokens.</text>
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+I — Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+II — Create two 1/1 green Fungus creature tokens.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/133.png" num="119">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -2574,8 +2574,8 @@ III — Exile up to one target creature you control, then return it to the battl
 		<card>
 			<name>UM12 Artorias Falls</name>
 			<text>Bookmark r{4} — {3}{B}{B} (You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
-I, II, III, IV — Draw a card, then hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
-Return up to one creature card from your graveyard to the battlefield.
+I, II, III — Draw a card, then hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
+IV — Return up to one creature card from your graveyard to the battlefield.
 ​</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/145.png" num="149">TFF</set>
 			<prop>
@@ -2683,9 +2683,9 @@ Maneater Mildred&apos;s power is equal to the number of creature cards in your g
 		<card>
 			<name>UM18 The Wolf Knight&apos;s Legacy</name>
 			<text>Bookmark r{3} — {1}{G} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Create a 2/2 green Wolf creature token.
-II — Return target creature to its owner&apos;s hand.
-III — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner&apos;s hand.
+II — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/151.png" num="155">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -2702,9 +2702,9 @@ III — Return up to one historic permanent card from your graveyard to your han
 		<card>
 			<name>UM19 The Duke&apos;s Great Sorceries</name>
 			<text>Bookmark r{3} — {2}{R}{R} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Create two 1/1 blue Human Wizard creature tokens with prowess.
-II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
-III — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. (Copies of permanents are tokens.)</text>
+Create two 1/1 blue Human Wizard creature tokens with prowess.
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. (Copies of permanents are tokens.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/152.png" num="156">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -2920,7 +2920,7 @@ Whenever you cast a Dragon or sorcery spell, this creature can&apos;t be blocked
 			<name>UU05 Flash Trick Creature</name>
 			<text>Flash
 When this creature enters, tap target creature an opponent controls.
-At the beginning of your end step, you may hollow. When you do, [effect]. (To hollow, sacrifice a nonland permanent or discard a card.)</text>
+At the beginning of your end step, you may discard a card. When you do, draw a card.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/164.png" num="46">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3170,8 +3170,7 @@ At the beginning of combat on each turn, if a creature entered under your contro
 		</card>
 		<card>
 			<name>UW09 Cheap Recursion</name>
-			<text>As an additional cost to cast this spell, you may hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
-Return target creature or artifact card with mana value 3 or less from your graveyard to the battlefield. If you hollowed, instead return up to two target creature or artifact cards each with mana value 3 or less from your graveyard to the battlefield.</text>
+			<text>Return target creature or artifact card with mana value 3 or less from your graveyard to the battlefield. You may sacrifice a creature or artifact. When you do, return another creature or artifact card with mana value 3 or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/178.png" num="24">TFF</set>
 			<prop>
 				<layout>normal</layout>

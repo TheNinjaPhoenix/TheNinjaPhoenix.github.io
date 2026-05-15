@@ -1,4 +1,169 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+CB05 4 Sac Outlet
+rules_text: Flying
+{3}, Hollow: Put a +1/+1 counter on this creature. It gains menace until end of turn. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Flying
+{3}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains menace until end of turn.
+
+CR03 Depths Lookout
+
+CR06 4/5 Shock Creature
+rules_text: Menace
+When this creature enters, you may hollow. If you do, this creature deals 2 damage to target creature. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Menace
+When this creature enters, you may discard a card. If you do, this creature deals 2 damage to target creature.
+
+CX07 Graveyard Card
+rules_text: At the beginning of combat on your turn, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Whenever you hollow, put a +1/+1 counter on this creature. => At the beginning of combat on your turn, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Whenever you sacrifice a nonland permanent, put a +1/+1 counter on this creature.
+
+MB02 The Age of Dark
+rules_text: Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+III — Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+IV, V — Hollow a number of times equal to the number of lore counters on this Saga. => Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.
+special_text: Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+III — Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+IV, V — Hollow a number of times equal to the number of lore counters on this Saga. => Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.
+
+MC02 The Age of Ancients
+rules_text: Bookmark r{3} — {5} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {5} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+special_text: Bookmark r{3} — {5} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {5} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+
+MM10 The Age of Fire
+rules_text: Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+II, III, IV — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+V — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn. => Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+I, II — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+III, IV — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn.
+special_text: Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+II, III, IV — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+V — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn. => Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+I, II — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+III, IV — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn.
+
+RM03 Gwyn Links the Flame
+rules_text: Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then hollows. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target.
+special_text: Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then hollows. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target.
+
+UB08 Buyback
+rules_text: Return up to two target creature cards from your graveyard to your hand, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Return up to two target creature cards from your graveyard to your hand, then sacrifice a permanent.
+
+UG12 The Roots of Oolacile
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+I — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens.
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+I — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens.
+
+UM12 Artorias Falls
+rules_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Return up to one creature card from your graveyard to the battlefield.
+​
+special_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Return up to one creature card from your graveyard to the battlefield.
+​
+
+UM18 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UM19 The Duke's Great Sorceries
+rules_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create two 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create two 1/1 blue Human Wizard creature tokens with prowess.
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create two 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create two 1/1 blue Human Wizard creature tokens with prowess.
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UU05 Flash Trick Creature
+rules_text: Flash
+When this creature enters, tap target creature an opponent controls.
+At the beginning of your end step, you may hollow. When you do, [effect]. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Flash
+When this creature enters, tap target creature an opponent controls.
+At the beginning of your end step, you may discard a card. When you do, draw a card.
+
+UW09 Cheap Recursion
+rules_text: As an additional cost to cast this spell, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return target creature or artifact card with mana value 3 or less from your graveyard to the battlefield. If you hollowed, instead return up to two target creature or artifact cards each with mana value 3 or less from your graveyard to the battlefield. => Return target creature or artifact card with mana value 3 or less from your graveyard to the battlefield. You may sacrifice a creature or artifact. When you do, return another creature or artifact card with mana value 3 or less from your graveyard to the battlefield.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 CB02 Fodder/Aggro added.
