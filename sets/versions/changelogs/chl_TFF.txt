@@ -1,4 +1,264 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+CU13 Crystal Curse added.
+MC01 The Everlasting Dragon added.
+MM102 Gwyn, Cindered added.
+RM02 The Four Kings added.
+RM02 The Four Kings added.
+UC02 Lurking Mimic added.
+UU09 Modal Spell added.
+UU10 Just Another Undead added.
+UU11 The Great Flood added.
+UX05 Stone Guardian added.
+
+CU13 Just Another Undead removed.
+RB05 The Four Kings removed.
+UU09 Modal Spell with Hollow removed.
+UU10 The Great Flood removed.
+UU11 Crystal Curse removed.
+
+CR03 Depths Lookout
+
+CX04 Cast Dork
+pt: 2/2 => 3/1
+
+CX07 Graveyard Card
+rules_text: At the beginning of combat on your turn, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Whenever you sacrifice a nonland permanent, put a +1/+1 counter on this creature. => At the beginning of combat on your turn, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Whenever you hollow, put a +1/+1 counter on this creature.
+
+MC02 The Age of Ancients
+
+MG01 Sif, Courageous Pup
+
+MM04 The Bed of Chaos
+
+MM07 Fair Lady's Offering
+
+MM09 Seath, Epithet
+
+MM10 The Age of Fire
+
+MM101 Kalameet, Epithet
+
+MU02 The Moonlight Greatsword
+rules_text: Equipped creature gets +2/+0 and has protection from activated or triggered abilities of other permanents. [i](That permanent can't be targeted, dealt damage, enchanted, or equipped by any activated or triggered abilities of other permanents.)[/i] 
+Whenever equipped creature deals combat damage to a player, exile a nonpermanent card from your graveyard with mana value less than or equal to that damage. You may cast that card this turn without paying its mana cost.
+Equip {3} => Equipped creature gets +2/+0 and has hexproof from activated and triggered abilities.
+Whenever equipped creature deals combat damage to a player, exile an instant or sorcery card from your graveyard with mana value less than or equal to that damage. You may cast that card this turn without paying its mana cost.
+Equip {3}
+
+RA01 Snuggly's Nest
+
+RB04 Artorias, Abyss-Cursed
+
+RB06 Chasm of the Abyss
+
+RM01 Ciaran, Silent Blade
+
+RM01 Gwynevere's Bountiful Sunlight
+
+RM01 Priscilla, Keeper of the Lost
+
+RM03 Gwyn Links the Flame
+rules_text: Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target.
+special_text: Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target.
+
+RM03 Patches, Trustworthy
+
+RM04 Chaos Engulfs Izalith
+rules_text: Bookmark r{2} — {2}{G} [i](You may cast this spell for its omit cost to have it enter with two lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Chaos Engulfs Izalith deals 3 damage to each creature.
+II — Create a 4/4 green Demon creature token with trample.
+III — Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle. => Bookmark r{2} — {1}{G}{G} [i](You may cast this spell for its omit cost to have it enter with two lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Chaos Engulfs Izalith deals 3 damage to each creature.
+II — Create a 4/4 green Demon creature token with trample.
+III — Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle.
+special_text: Bookmark r{2} — {2}{G} [i](You may cast this spell for its omit cost to have it enter with two lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Chaos Engulfs Izalith deals 3 damage to each creature.
+II — Create a 4/4 green Demon creature token with trample.
+III — Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle. => Bookmark r{2} — {1}{G}{G} [i](You may cast this spell for its omit cost to have it enter with two lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Chaos Engulfs Izalith deals 3 damage to each creature.
+II — Create a 4/4 green Demon creature token with trample.
+III — Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle.
+
+RM04 Spell Harmonizer
+
+RM05 Gough, Blind Trueshot
+
+RM07 Nito's Miasma of Death
+
+RM07 The Gaping Dragon
+
+RM09 Calamitous Blackflame
+rules_text: This spell costs {X} less to cast, where X is the number of Dragon and sorcery spells in your graveyard.
+Calamitous Blackflame deals 4 damage to each of up to X creatures. => This spell costs {X} less to cast, where X is the number of Dragon and sorcery cards in your graveyard.
+Calamitous Blackflame deals 4 damage to each of up to X creatures.
+
+RM10 Dragonslayer Ornstein
+
+RM10 Sunlight Avenger
+
+RR05 Quelaag, Matriarch of Chaos
+
+RW07 Light in the Dark
+
+UB01 Sac Payoff
+
+UB02 Bonewheel Skeleton
+
+UB03 Knights of Ash
+
+UB04 Petrus, Drenched in Sin
+
+UB05 Drake Valley Scourge
+
+UB06 Frenzied Darkwraiths
+
+UB07 Sunlit Madness
+
+UB08 Buyback
+
+UB09 Poison Mist
+
+UB10 Foil Escape
+
+UB11 Aggressive 1-drop
+
+UC01 Crystal Lizard
+
+UC03 Removal
+
+UC05 Demon's Great Hammer
+
+UC08 Firelink Shrine
+
+UG01 Uncommon Dork
+
+UG02 Creature Self-replacer
+
+UG03 Soul Generator
+
+UG04 Return from GY on stick
+pt: 3/2 => 4/2
+
+UG07 Taurus Demon
+
+UG08 Ashen Hydra
+
+UG11 Grass Crest Shield
+
+UG12 The Roots of Oolacile
+
+UM01 Rhea, Seeker of Kindling
+
+UM02 Pinwheel, Thrice-Masked
+
+UM03 Lautrec the Favored
+
+UM04 Izalith Firesage
+
+UM05 Siegmeyer, Honor-Bound Coward
+
+UM06 Darkmoon Knightess, Fire Keeper
+
+UM07 Asylum Jailor
+
+UM08 Alvina, Darkroot Mother
+
+UM09 Valley Stormkite
+
+UM10 Solaire, Sunlight Knight
+
+UM11 Tale of the Painted World
+
+UM12 Artorias Falls
+
+UM13 The Undead Curse
+
+UM14 Nurturing Chaos
+
+UM15 Kindle the Flame
+
+UM16 Oswald, Velka's Arbiter
+
+UM17 Maneater Mildred
+
+UM18 The Wolf Knight's Legacy
+
+UM19 The Duke's Great Sorceries
+
+UM20 Jolly Cooperation!
+
+UR01 Hollowing Mercenaries
+
+UR03 Batwing Demon
+
+UR04 Dragonpath Hunter
+
+UR05 Burg Capra
+
+UR08 In The Firstborn's Footsteps
+
+UR10 Miracle: Sunlight Blade
+
+UR11 Chaos Blade
+
+UU01 New Londo Haunted
+
+UU02 Beatrice, Seeker of Sorceries
+
+UU03 0-Power Creature
+
+UU04 Dragon/Sorcery Unblockable
+
+UU05 Flash Trick Creature
+
+UU06 Valley Windkite
+
+UU08 Creature counterspell
+
+UU12 The Paledrake's Pact
+
+UW01 Aggressive 1-drop
+
+UW02 +1/+1 Snowballer
+
+UW03 The Crestfallen Warrior
+
+UW04 OPT Draw
+
+UW05 Historic Searcher
+
+UW06 Double Striker
+
+UW07 Tarkus
+
+UW08 Gwyn's Silver Knights
+
+UW09 Cheap Recursion
+
+UW10 Removal with downside
+
+UW11 Cheap Equipment
+
+UW12 Miracle: Magic Barrier
+
+
+VERSION 9 CHANGELOG
 ====================
 
 CU13 Just Another Undead added.
