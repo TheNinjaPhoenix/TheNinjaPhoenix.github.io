@@ -5,106 +5,66 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "113"
+        "position": "114"
     },
     {
         "card_name": "MU02 The Moonlight Greatsword",
-        "number": 41,
+        "number": 42,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "94"
+        "position": "95"
     },
     {
         "card_name": "MB01 Curse-Spewer Basilisk",
-        "number": 66,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "85"
-    },
-    {
-        "card_name": "RR05 Quelaag, Matriarch of Chaos",
-        "number": 95,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "112"
-    },
-    {
-        "card_name": "MG01 Sif, Courageous Pup",
-        "number": 116,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "88"
-    },
-    {
-        "card_name": "UW02 +1/+1 Snowballer",
-        "number": 17,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "168"
-    },
-    {
-        "card_name": "CU13 Crystal Curse",
-        "number": 40,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "186"
-    },
-    {
-        "card_name": "MB02 The Age of Dark",
         "number": 67,
-        "shape": "saga",
+        "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "86"
     },
     {
-        "card_name": "UR01 Hollowing Mercenaries",
+        "card_name": "RR05 Quelaag, Matriarch of Chaos",
         "number": 96,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "153"
+        "position": "113"
     },
     {
-        "card_name": "UG01 Uncommon Dork",
+        "card_name": "MG01 Sif, Courageous Pup",
         "number": 117,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "180"
+        "position": "89"
     },
     {
-        "card_name": "UW03 The Crestfallen Warrior",
-        "number": 18,
+        "card_name": "UW01 Aggressive 1-drop",
+        "number": 17,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "169"
+        "position": "187"
     },
     {
         "card_name": "UU01 New Londo Haunted",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "159"
     },
     {
-        "card_name": "RB04 Artorias, Abyss-Cursed",
+        "card_name": "MB02 The Age of Dark",
         "number": 68,
-        "shape": "normal",
+        "shape": "saga",
         "set": "TFF",
         "rotated": false,
-        "position": "96"
+        "position": "87"
     },
     {
-        "card_name": "UR03 Batwing Demon",
+        "card_name": "UR01 Hollowing Mercenaries",
         "number": 97,
         "shape": "normal",
         "set": "TFF",
@@ -112,16 +72,16 @@
         "position": "154"
     },
     {
-        "card_name": "UG02 Creature Self-replacer",
+        "card_name": "UG01 Uncommon Dork",
         "number": 118,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "129"
+        "position": "180"
     },
     {
-        "card_name": "UW04 OPT Draw",
-        "number": 19,
+        "card_name": "UW02 +1/+1 Snowballer",
+        "number": 18,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -129,14 +89,14 @@
     },
     {
         "card_name": "UU02 Beatrice, Seeker of Sorceries",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "160"
     },
     {
-        "card_name": "RB05 The Four Kings",
+        "card_name": "RB04 Artorias, Abyss-Cursed",
         "number": 69,
         "shape": "normal",
         "set": "TFF",
@@ -144,7 +104,7 @@
         "position": "97"
     },
     {
-        "card_name": "UR04 Dragonpath Hunter",
+        "card_name": "UR03 Batwing Demon",
         "number": 98,
         "shape": "normal",
         "set": "TFF",
@@ -152,16 +112,16 @@
         "position": "155"
     },
     {
-        "card_name": "UG03 Soul Generator",
+        "card_name": "UG02 Creature Self-replacer",
         "number": 119,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "181"
+        "position": "130"
     },
     {
-        "card_name": "UW05 Historic Searcher",
-        "number": 20,
+        "card_name": "UW03 The Crestfallen Warrior",
+        "number": 19,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -169,14 +129,14 @@
     },
     {
         "card_name": "UU03 0-Power Creature",
-        "number": 44,
+        "number": 45,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "161"
     },
     {
-        "card_name": "RB06 Chasm of the Abyss",
+        "card_name": "RB05 The Four Kings",
         "number": 70,
         "shape": "normal",
         "set": "TFF",
@@ -184,7 +144,7 @@
         "position": "98"
     },
     {
-        "card_name": "UR05 Burg Capra",
+        "card_name": "UR04 Dragonpath Hunter",
         "number": 99,
         "shape": "normal",
         "set": "TFF",
@@ -192,16 +152,16 @@
         "position": "156"
     },
     {
-        "card_name": "UG04 Return from GY on stick",
+        "card_name": "UG03 Soul Generator",
         "number": 120,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "130"
+        "position": "181"
     },
     {
-        "card_name": "UW06 Double Striker",
-        "number": 21,
+        "card_name": "UW04 OPT Draw",
+        "number": 20,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -209,22 +169,22 @@
     },
     {
         "card_name": "UU04 Dragon/Sorcery Unblockable",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "162"
     },
     {
-        "card_name": "UB01 Sac Payoff",
+        "card_name": "RB06 Chasm of the Abyss",
         "number": 71,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "114"
+        "position": "99"
     },
     {
-        "card_name": "UR08 In The Firstborn's Footsteps",
+        "card_name": "UR05 Burg Capra",
         "number": 100,
         "shape": "normal",
         "set": "TFF",
@@ -232,16 +192,16 @@
         "position": "157"
     },
     {
-        "card_name": "UG08 Taurus Demon",
+        "card_name": "UG04 Return from GY on stick",
         "number": 121,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "182"
+        "position": "131"
     },
     {
-        "card_name": "UW07 Tarkus",
-        "number": 22,
+        "card_name": "UW05 Historic Searcher",
+        "number": 21,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -249,14 +209,14 @@
     },
     {
         "card_name": "UU05 Flash Trick Creature",
-        "number": 46,
+        "number": 47,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "163"
     },
     {
-        "card_name": "UB02 Bonewheel Skeleton",
+        "card_name": "UB01 Sac Payoff",
         "number": 72,
         "shape": "normal",
         "set": "TFF",
@@ -264,24 +224,24 @@
         "position": "115"
     },
     {
-        "card_name": "UR10 Miracle: Sunlight Blade",
+        "card_name": "UR08 In The Firstborn's Footsteps",
         "number": 101,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "183"
+        "position": "158"
     },
     {
-        "card_name": "UG11 Grass Crest Shield",
+        "card_name": "UG07 Taurus Demon",
         "number": 122,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "131"
+        "position": "182"
     },
     {
-        "card_name": "UW08 Gwyn's Silver Knights",
-        "number": 23,
+        "card_name": "UW06 Double Striker",
+        "number": 22,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -289,14 +249,14 @@
     },
     {
         "card_name": "UU06 Valley Windkite",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "164"
     },
     {
-        "card_name": "UB03 Knights of Ash",
+        "card_name": "UB02 Bonewheel Skeleton",
         "number": 73,
         "shape": "normal",
         "set": "TFF",
@@ -304,24 +264,24 @@
         "position": "116"
     },
     {
-        "card_name": "UR11 Chaos Blade",
+        "card_name": "UR10 Miracle: Sunlight Blade",
         "number": 102,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "158"
+        "position": "184"
     },
     {
-        "card_name": "UG12 The Roots of Oolacile",
+        "card_name": "UG08 Ashen Hydra",
         "number": 123,
-        "shape": "saga",
+        "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "132"
+        "position": "183"
     },
     {
-        "card_name": "UW09 Cheap Recursion",
-        "number": 24,
+        "card_name": "UW07 Tarkus",
+        "number": 23,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -329,14 +289,14 @@
     },
     {
         "card_name": "UU08 Creature counterspell",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "165"
     },
     {
-        "card_name": "UB04 Petrus, Drenched in Sin",
+        "card_name": "UB03 Knights of Ash",
         "number": 74,
         "shape": "normal",
         "set": "TFF",
@@ -344,39 +304,39 @@
         "position": "117"
     },
     {
-        "card_name": "CR01 1 Haste Upside",
-        "number": 82,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "37"
-    },
-    {
-        "card_name": "CG01 1 Cheap Lifegain",
+        "card_name": "UR11 Chaos Blade",
         "number": 103,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "24"
+        "position": "185"
     },
     {
-        "card_name": "UW10 Removal with downside",
-        "number": 25,
+        "card_name": "UG11 Grass Crest Shield",
+        "number": 124,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "UW08 Gwyn's Silver Knights",
+        "number": 24,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "176"
     },
     {
-        "card_name": "UU09 Modal Spell",
-        "number": 49,
+        "card_name": "UU09 Modal Spell with Hollow",
+        "number": 50,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "166"
     },
     {
-        "card_name": "UB05 Drake Valley Scourge",
+        "card_name": "UB04 Petrus, Drenched in Sin",
         "number": 75,
         "shape": "normal",
         "set": "TFF",
@@ -384,39 +344,39 @@
         "position": "118"
     },
     {
-        "card_name": "CR02 2 Noncreature Pinger",
+        "card_name": "CR01 1 Haste Upside",
         "number": 83,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "38"
+        "position": "37"
     },
     {
-        "card_name": "CG02 2 MV Bear with Mechanic",
-        "number": 104,
-        "shape": "normal",
+        "card_name": "UG12 The Roots of Oolacile",
+        "number": 125,
+        "shape": "saga",
         "set": "TFF",
         "rotated": false,
-        "position": "25"
+        "position": "133"
     },
     {
-        "card_name": "UW11 Cheap Equipment",
-        "number": 26,
+        "card_name": "UW09 Cheap Recursion",
+        "number": 25,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "177"
     },
     {
-        "card_name": "UU10 Just Another Undead",
-        "number": 50,
+        "card_name": "UU10 The Great Flood",
+        "number": 51,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "184"
+        "position": "167"
     },
     {
-        "card_name": "UB06 Frenzied Darkwraiths",
+        "card_name": "UB05 Drake Valley Scourge",
         "number": 76,
         "shape": "normal",
         "set": "TFF",
@@ -424,39 +384,39 @@
         "position": "119"
     },
     {
-        "card_name": "CR03 Depths Lookout",
+        "card_name": "CR02 2 Noncreature Pinger",
         "number": 84,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "39"
+        "position": "38"
     },
     {
-        "card_name": "CG03 2 GY Filter",
-        "number": 105,
+        "card_name": "CG01 1 Cheap Lifegain",
+        "number": 104,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "26"
+        "position": "24"
     },
     {
-        "card_name": "UW12 Miracle: Magic Barrier",
-        "number": 27,
+        "card_name": "UW10 Removal with downside",
+        "number": 26,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "178"
+        "position": "186"
     },
     {
-        "card_name": "UU11 The Great Flood",
-        "number": 51,
-        "shape": "saga",
+        "card_name": "UU11 Crystal Curse",
+        "number": 52,
+        "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "185"
+        "position": "168"
     },
     {
-        "card_name": "UB07 Sunlit Madness",
+        "card_name": "UB06 Frenzied Darkwraiths",
         "number": 77,
         "shape": "normal",
         "set": "TFF",
@@ -464,16 +424,96 @@
         "position": "120"
     },
     {
-        "card_name": "CR04 3 Exile on ETB",
+        "card_name": "CR03 Depths Lookout",
         "number": 85,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "CG02 2 MV Bear with Mechanic",
+        "number": 105,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "UW11 Cheap Equipment",
+        "number": 27,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "UU12 The Paledrake's Pact",
+        "number": 53,
+        "shape": "saga",
+        "set": "TFF",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "UB07 Sunlit Madness",
+        "number": 78,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "CR04 3 Exile on ETB",
+        "number": 86,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "40"
     },
     {
-        "card_name": "CG04 3 Conditional +1/+1",
+        "card_name": "CG03 2 GY Filter",
         "number": 106,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "UW12 Miracle: Magic Barrier",
+        "number": 28,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "CU01 2 Modal Spell as Creature",
+        "number": 29,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "UB08 Buyback",
+        "number": 79,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "CR05 4 Magma Spider",
+        "number": 87,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "CG04 3 Conditional +1/+1",
+        "number": 107,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -485,35 +525,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "62"
+        "position": "63"
     },
     {
-        "card_name": "UU12 The Paledrake's Pact",
-        "number": 52,
-        "shape": "saga",
-        "set": "TFF",
-        "rotated": false,
-        "position": "167"
-    },
-    {
-        "card_name": "UB08 Buyback",
-        "number": 78,
+        "card_name": "CU02 3 Cheap Vigilance",
+        "number": 30,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "121"
+        "position": "51"
     },
     {
-        "card_name": "CR05 4 Magma Spider",
-        "number": 86,
+        "card_name": "UB09 Poison Mist",
+        "number": 80,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "41"
+        "position": "123"
+    },
+    {
+        "card_name": "CR06 4/5 Shock Creature",
+        "number": 88,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "42"
     },
     {
         "card_name": "CG05 3 Conditional Landsearcher",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -525,35 +565,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "63"
+        "position": "64"
     },
     {
-        "card_name": "CU01 2 Modal Spell as Creature",
-        "number": 28,
+        "card_name": "CU03 Spell Return Creature",
+        "number": 31,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "50"
+        "position": "52"
     },
     {
-        "card_name": "UB09 Poison Mist",
-        "number": 79,
+        "card_name": "UB10 Foil Escape",
+        "number": 81,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "122"
+        "position": "124"
     },
     {
-        "card_name": "CR06 4/5 Shock Creature",
-        "number": 87,
+        "card_name": "CR07 Centipede Demon",
+        "number": 89,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "42"
+        "position": "43"
     },
     {
         "card_name": "CG06 4 Control Reach",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -565,35 +605,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "64"
+        "position": "65"
     },
     {
-        "card_name": "CU02 3 Cheap Vigilance",
-        "number": 29,
+        "card_name": "CU04 3 Spell discounter",
+        "number": 32,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "51"
+        "position": "53"
     },
     {
-        "card_name": "UB10 Foil Escape",
-        "number": 80,
+        "card_name": "UB11 Aggressive 1-drop",
+        "number": 82,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "123"
+        "position": "125"
     },
     {
-        "card_name": "CR07 Centipede Demon",
-        "number": 88,
+        "card_name": "CR08 2 Husk Equipment (haste)",
+        "number": 90,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "43"
+        "position": "44"
     },
     {
         "card_name": "CG07 Brutish Mushroom",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -605,35 +645,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "65"
+        "position": "66"
     },
     {
-        "card_name": "CU03 Spell Return Creature",
-        "number": 30,
+        "card_name": "CU05 Valley Guardian",
+        "number": 33,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "52"
+        "position": "54"
     },
     {
-        "card_name": "UB11 Aggressive 1-drop",
-        "number": 81,
+        "card_name": "CB01 Small Filter",
+        "number": 54,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "124"
+        "position": "5"
     },
     {
-        "card_name": "CR08 2 Husk Equipment (haste)",
-        "number": 89,
+        "card_name": "CR09 4 Equipment (big damage)",
+        "number": 91,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "44"
+        "position": "45"
     },
     {
         "card_name": "CG08 5 Value creature",
-        "number": 110,
+        "number": 111,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -645,35 +685,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "66"
+        "position": "67"
     },
     {
-        "card_name": "CU04 3 Spell discounter",
-        "number": 31,
+        "card_name": "CU06 Dragon-Path Scaleward",
+        "number": 34,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "53"
+        "position": "55"
     },
     {
-        "card_name": "CB01 Small Filter",
-        "number": 53,
+        "card_name": "CB02 Fodder/Aggro",
+        "number": 55,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "5"
+        "position": "6"
     },
     {
-        "card_name": "CR09 4 Equipment (big damage)",
-        "number": 90,
+        "card_name": "CR10 Combat trick",
+        "number": 92,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "45"
+        "position": "46"
     },
     {
         "card_name": "CG09 6 Trample with Upside",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -685,35 +725,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "67"
+        "position": "68"
     },
     {
-        "card_name": "CU05 Valley Guardian",
-        "number": 32,
+        "card_name": "CU07 Blue Crystal Golem",
+        "number": 35,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "54"
+        "position": "56"
     },
     {
-        "card_name": "CB02 Fodder/Aggro",
-        "number": 54,
+        "card_name": "CB03 2 Repeated Drain",
+        "number": 56,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "6"
+        "position": "7"
     },
     {
-        "card_name": "CR10 Combat trick",
-        "number": 91,
+        "card_name": "CR11 Rummaging/impulsive draw",
+        "number": 93,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "46"
+        "position": "47"
     },
     {
         "card_name": "CG10 Disenchant Spell",
-        "number": 112,
+        "number": 113,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -725,35 +765,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "68"
+        "position": "69"
     },
     {
-        "card_name": "CU06 Dragon-Path Scaleward",
-        "number": 33,
+        "card_name": "CU08 Common Counterspell",
+        "number": 36,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "55"
+        "position": "57"
     },
     {
-        "card_name": "CB03 2 Repeated Drain",
-        "number": 55,
+        "card_name": "CB04 3 MV Discard Creature",
+        "number": 57,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "7"
+        "position": "8"
     },
     {
-        "card_name": "CR11 Rummaging/impulsive draw",
-        "number": 92,
+        "card_name": "CR12 Modal Shatter",
+        "number": 94,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "47"
+        "position": "48"
     },
     {
         "card_name": "CG11 Bite spell",
-        "number": 113,
+        "number": 114,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -765,35 +805,35 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "69"
+        "position": "70"
     },
     {
-        "card_name": "CU07 Blue Crystal Golem",
-        "number": 34,
+        "card_name": "CU09 Protective Instant",
+        "number": 37,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "56"
+        "position": "58"
     },
     {
-        "card_name": "CB04 3 MV Discard Creature",
-        "number": 56,
+        "card_name": "CB05 4 Sac Outlet",
+        "number": 58,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "8"
+        "position": "9"
     },
     {
-        "card_name": "CR12 Modal Shatter",
-        "number": 93,
+        "card_name": "CR13 Kalameet's Gaze",
+        "number": 95,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "48"
+        "position": "49"
     },
     {
         "card_name": "CG12 Mana acceleration",
-        "number": 114,
+        "number": 115,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -805,35 +845,30 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "70"
+        "position": "71"
     },
     {
-        "card_name": "CU08 Common Counterspell",
-        "number": 35,
+        "card_name": "CU10 Big Draw Spell",
+        "number": 38,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "57"
+        "position": "59"
     },
     {
-        "card_name": "CB05 4 Sac Outlet",
-        "number": 57,
+        "card_name": "CB06 Titanite Demon",
+        "number": 59,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "9"
+        "position": "10"
     },
     {
-        "card_name": "CR13 Kalameet's Gaze",
-        "number": 94,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "49"
+        "card_name": "e"
     },
     {
         "card_name": "CG13 Estus Flask",
-        "number": 115,
+        "number": 116,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -845,23 +880,23 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "71"
+        "position": "72"
     },
     {
-        "card_name": "CU09 Protective Instant",
-        "number": 36,
+        "card_name": "CU11 Unending Whisper",
+        "number": 39,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "58"
+        "position": "60"
     },
     {
-        "card_name": "CB06 Titanite Demon",
-        "number": 58,
+        "card_name": "CB07 7 Ariamis Phalanx",
+        "number": 60,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "10"
+        "position": "11"
     },
     {
         "card_name": "e"
@@ -875,23 +910,23 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "72"
+        "position": "73"
     },
     {
-        "card_name": "CU10 Big Draw Spell",
-        "number": 37,
+        "card_name": "CU12 Top or Bottom Spell",
+        "number": 40,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "59"
+        "position": "61"
     },
     {
-        "card_name": "CB07 7 Ariamis Phalanx",
-        "number": 59,
+        "card_name": "CB08 4 Mill Husk",
+        "number": 61,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "11"
+        "position": "12"
     },
     {
         "card_name": "e"
@@ -905,23 +940,23 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "73"
+        "position": "74"
     },
     {
-        "card_name": "CU11 Unending Whisper",
-        "number": 38,
+        "card_name": "CU13 Just Another Undead",
+        "number": 41,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "60"
+        "position": "62"
     },
     {
-        "card_name": "CB08 4 Mill Husk",
-        "number": 60,
+        "card_name": "CB09 Hollow Sorcery",
+        "number": 62,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "12"
+        "position": "13"
     },
     {
         "card_name": "e"
@@ -935,39 +970,14 @@
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "74"
-    },
-    {
-        "card_name": "CU12 Top or Bottom Spell",
-        "number": 39,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "61"
-    },
-    {
-        "card_name": "CB09 Hollow Sorcery",
-        "number": 61,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "13"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "75"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "CB10 Gain Favor",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -987,7 +997,7 @@
     },
     {
         "card_name": "CB11 Harmonize Discard",
-        "number": 63,
+        "number": 64,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1007,7 +1017,7 @@
     },
     {
         "card_name": "CB12 Discard Spell",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1027,7 +1037,7 @@
     },
     {
         "card_name": "CB13 Fina's Embrace",
-        "number": 65,
+        "number": 66,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1054,102 +1064,14 @@
     "a->gold",
     {
         "card_name": "RM01 Ciaran, Silent Blade",
-        "number": 130,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "99"
-    },
-    {
-        "card_name": "UM02 Pinwheel, Thrice-Masked",
-        "number": 144,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "134"
-    },
-    {
-        "card_name": "RM03 Gwyn Links the Flame",
-        "number": 133,
-        "shape": "saga",
-        "set": "TFF",
-        "rotated": false,
-        "position": "102"
-    },
-    {
-        "card_name": "MM04 The Bed of Chaos",
-        "number": 124,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "89"
-    },
-    {
-        "card_name": "RM05 Gough, Blind Trueshot",
-        "number": 137,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "106"
-    },
-    {
-        "card_name": "RM01 Gwynevere's Bountiful Sunlight",
         "number": 131,
-        "shape": "saga",
+        "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "100"
     },
     {
-        "card_name": "UM12 Artorias Falls",
-        "number": 154,
-        "shape": "saga",
-        "set": "TFF",
-        "rotated": false,
-        "position": "144"
-    },
-    {
-        "card_name": "RM03 Patches, Trustworthy",
-        "number": 134,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "103"
-    },
-    {
-        "card_name": "RM04 Chaos Engulfs Izalith",
-        "number": 135,
-        "shape": "saga",
-        "set": "TFF",
-        "rotated": false,
-        "position": "104"
-    },
-    {
-        "card_name": "UM05 Siegmeyer, Honor-Bound Coward",
-        "number": 147,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "137"
-    },
-    {
-        "card_name": "RM01 Priscilla, Keeper of the Lost",
-        "number": 132,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "101"
-    },
-    {
-        "card_name": "CX02 Looter",
-        "number": 164,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "76"
-    },
-    {
-        "card_name": "UM03 Lautrec the Favored",
+        "card_name": "UM02 Pinwheel, Thrice-Masked",
         "number": 145,
         "shape": "normal",
         "set": "TFF",
@@ -1157,69 +1079,79 @@
         "position": "135"
     },
     {
-        "card_name": "RM04 Spell Harmonizer",
-        "number": 136,
+        "card_name": "RM03 Gwyn Links the Flame",
+        "number": 134,
+        "shape": "saga",
+        "set": "TFF",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "MM04 The Bed of Chaos",
+        "number": 126,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "105"
+        "position": "90"
     },
     {
-        "card_name": "UM15 Kindle the Flame",
-        "number": 157,
+        "card_name": "RM05 Gough, Blind Trueshot",
+        "number": 138,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "147"
+        "position": "107"
     },
     {
-        "card_name": "UM01 Rhea, Seeker of Kindling",
-        "number": 143,
-        "shape": "normal",
+        "card_name": "RM01 Gwynevere's Bountiful Sunlight",
+        "number": 132,
+        "shape": "saga",
         "set": "TFF",
         "rotated": false,
-        "position": "133"
+        "position": "101"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UM13 The Undead Curse",
+        "card_name": "UM12 Artorias Falls",
         "number": 155,
-        "shape": "normal",
+        "shape": "saga",
         "set": "TFF",
         "rotated": false,
         "position": "145"
     },
     {
-        "card_name": "UM04 Izalith Firesage",
-        "number": 146,
+        "card_name": "RM03 Patches, Trustworthy",
+        "number": 135,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "136"
+        "position": "104"
     },
     {
-        "card_name": "CX05 Protection",
-        "number": 167,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "79"
-    },
-    {
-        "card_name": "UM11 Tale of the Painted World",
-        "number": 153,
+        "card_name": "RM04 Chaos Engulfs Izalith",
+        "number": 136,
         "shape": "saga",
         "set": "TFF",
         "rotated": false,
-        "position": "143"
+        "position": "105"
     },
     {
-        "card_name": "e"
+        "card_name": "UM05 Siegmeyer, Honor-Bound Coward",
+        "number": 148,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "138"
     },
     {
-        "card_name": "CX03 Dark Grasp",
+        "card_name": "RM01 Priscilla, Keeper of the Lost",
+        "number": 133,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "CX02 Looter",
         "number": 165,
         "shape": "normal",
         "set": "TFF",
@@ -1227,7 +1159,42 @@
         "position": "77"
     },
     {
-        "card_name": "UM14 Nurturing Chaos",
+        "card_name": "UM03 Lautrec the Favored",
+        "number": 146,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "RM04 Spell Harmonizer",
+        "number": 137,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "UM15 Kindle the Flame",
+        "number": 158,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "UM01 Rhea, Seeker of Kindling",
+        "number": 144,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM13 The Undead Curse",
         "number": 156,
         "shape": "normal",
         "set": "TFF",
@@ -1235,15 +1202,58 @@
         "position": "146"
     },
     {
+        "card_name": "UM04 Izalith Firesage",
+        "number": 147,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "CX05 Protection",
+        "number": 168,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "UM11 Tale of the Painted World",
+        "number": 154,
+        "shape": "saga",
+        "set": "TFF",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CX03 Dark Grasp",
+        "number": 166,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "UM14 Nurturing Chaos",
+        "number": 157,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "147"
+    },
+    {
         "card_name": "e"
     },
     {
         "card_name": "CX01 Upside Flier",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "75"
+        "position": "76"
     },
     {
         "card_name": "e"
@@ -1253,11 +1263,11 @@
     },
     {
         "card_name": "CX04 Cast Dork",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "78"
+        "position": "79"
     },
     {
         "card_name": "e"
@@ -1279,137 +1289,6 @@
     },
     {
         "card_name": "UM06 Darkmoon Knightess, Fire Keeper",
-        "number": 148,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "138"
-    },
-    {
-        "card_name": "MM09 Seath, Epithet",
-        "number": 126,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "91"
-    },
-    {
-        "card_name": "MM07 Fair Lady's Offering",
-        "number": 125,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "90"
-    },
-    {
-        "card_name": "MM10 The Age of Fire",
-        "number": 127,
-        "shape": "saga",
-        "set": "TFF",
-        "rotated": false,
-        "position": "92"
-    },
-    {
-        "card_name": "UM08 Alvina, Darkroot Mother",
-        "number": 150,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "140"
-    },
-    {
-        "card_name": "UM16 Oswald, Velka's Arbiter",
-        "number": 158,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "148"
-    },
-    {
-        "card_name": "RM09 Calamitous Blackflame",
-        "number": 140,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "109"
-    },
-    {
-        "card_name": "RM07 Nito's Miasma of Death",
-        "number": 138,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "107"
-    },
-    {
-        "card_name": "RM10 Dragonslayer Ornstein",
-        "number": 141,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "110"
-    },
-    {
-        "card_name": "UM18 The Wolf Knight's Legacy",
-        "number": 160,
-        "shape": "saga",
-        "set": "TFF",
-        "rotated": false,
-        "position": "150"
-    },
-    {
-        "card_name": "CX06 Humanity Sprites",
-        "number": 168,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "80"
-    },
-    {
-        "card_name": "UM09 Valley Stormkite",
-        "number": 151,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "141"
-    },
-    {
-        "card_name": "RM07 The Gaping Dragon",
-        "number": 139,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "108"
-    },
-    {
-        "card_name": "RM10 Sunlight Avenger",
-        "number": 142,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "111"
-    },
-    {
-        "card_name": "CX08 2 MV Conditional 3/3",
-        "number": 170,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "82"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UM19 The Duke's Great Sorceries",
-        "number": 161,
-        "shape": "saga",
-        "set": "TFF",
-        "rotated": false,
-        "position": "151"
-    },
-    {
-        "card_name": "UM07 Asylum Jailor",
         "number": 149,
         "shape": "normal",
         "set": "TFF",
@@ -1417,12 +1296,143 @@
         "position": "139"
     },
     {
-        "card_name": "UM10 Solaire, Sunlight Knight",
+        "card_name": "MM09 Seath, Epithet",
+        "number": 128,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "MM07 Fair Lady's Offering",
+        "number": 127,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "MM10 The Age of Fire",
+        "number": 129,
+        "shape": "saga",
+        "set": "TFF",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "UM08 Alvina, Darkroot Mother",
+        "number": 151,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "UM16 Oswald, Velka's Arbiter",
+        "number": 159,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "RM09 Calamitous Blackflame",
+        "number": 141,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "RM07 Nito's Miasma of Death",
+        "number": 139,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "RM10 Dragonslayer Ornstein",
+        "number": 142,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "UM18 The Wolf Knight's Legacy",
+        "number": 161,
+        "shape": "saga",
+        "set": "TFF",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "CX06 Humanity Sprites",
+        "number": 169,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "UM09 Valley Stormkite",
         "number": 152,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "142"
+    },
+    {
+        "card_name": "RM07 The Gaping Dragon",
+        "number": 140,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "RM10 Sunlight Avenger",
+        "number": 143,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "CX08 2 MV Conditional 3/3",
+        "number": 171,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM19 The Duke's Great Sorceries",
+        "number": 162,
+        "shape": "saga",
+        "set": "TFF",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "UM07 Asylum Jailor",
+        "number": 150,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "UM10 Solaire, Sunlight Knight",
+        "number": 153,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "143"
     },
     {
         "card_name": "e"
@@ -1432,27 +1442,27 @@
     },
     {
         "card_name": "CX09 Noncreature Trigger",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "83"
+        "position": "84"
     },
     {
         "card_name": "UM17 Maneater Mildred",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "149"
+        "position": "150"
     },
     {
         "card_name": "UM20 Jolly Cooperation!",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "152"
+        "position": "153"
     },
     {
         "card_name": "e"
@@ -1465,19 +1475,19 @@
     },
     {
         "card_name": "CX07 Graveyard Card",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "81"
+        "position": "82"
     },
     {
         "card_name": "CX10 Hybrid Cooperator",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "84"
+        "position": "85"
     },
     {
         "card_name": "e"
@@ -1499,19 +1509,14 @@
     },
     {
         "card_name": "MM101 Kalameet, Epithet",
-        "number": 128,
+        "number": 130,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "93"
+        "position": "94"
     },
     {
-        "card_name": "MM102 Gwyn, Cindered",
-        "number": 129,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "179"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1541,26 +1546,18 @@
         "shape": "saga",
         "set": "TFF",
         "rotated": false,
-        "position": "87"
+        "position": "88"
     },
     {
         "card_name": "RA01 Snuggly's Nest",
-        "number": 177,
-        "shape": "normal",
-        "set": "TFF",
-        "rotated": false,
-        "position": "95"
-    },
-    {
-        "card_name": "UC01 Crystal Lizard",
         "number": 178,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "125"
+        "position": "96"
     },
     {
-        "card_name": "UC03 Removal",
+        "card_name": "UC01 Crystal Lizard",
         "number": 179,
         "shape": "normal",
         "set": "TFF",
@@ -1568,12 +1565,20 @@
         "position": "126"
     },
     {
-        "card_name": "UC05 Demon's Great Hammer",
+        "card_name": "UC03 Removal",
         "number": 180,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
         "position": "127"
+    },
+    {
+        "card_name": "UC05 Demon's Great Hammer",
+        "number": 181,
+        "shape": "normal",
+        "set": "TFF",
+        "rotated": false,
+        "position": "128"
     },
     {
         "card_name": "CC01 Oscar, Fading Failure",
@@ -1585,7 +1590,7 @@
     },
     {
         "card_name": "CC02 Color fixer",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1593,7 +1598,7 @@
     },
     {
         "card_name": "CC03 Harmonize/Coop/Historic Support",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1601,7 +1606,7 @@
     },
     {
         "card_name": "CC04 Manalith+ ability",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1609,7 +1614,7 @@
     },
     {
         "card_name": "CC05 Husk Equipment",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1632,15 +1637,15 @@
     },
     {
         "card_name": "UC08 Firelink Shrine",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "128"
+        "position": "129"
     },
     {
         "card_name": "CC06 Abandoned Bonfire",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1672,7 +1677,7 @@
     },
     {
         "card_name": "BL01 Plains",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1680,7 +1685,7 @@
     },
     {
         "card_name": "BL02 Island",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1688,7 +1693,7 @@
     },
     {
         "card_name": "BL03 Swamp",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1696,7 +1701,7 @@
     },
     {
         "card_name": "BL04 Mountain",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
@@ -1704,7 +1709,7 @@
     },
     {
         "card_name": "BL05 Forest",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
