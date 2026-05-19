@@ -4,6 +4,11 @@
             "set_code": "TFF",
             "set_name": "Dark Souls \u2014 The Fire Fades \u2014 InDevFile",
             "formats": ""
+        },
+        {
+            "set_code": "TFFP",
+            "set_name": "DarkSoulsTFFRareless",
+            "formats": ""
         }
     ]
 }

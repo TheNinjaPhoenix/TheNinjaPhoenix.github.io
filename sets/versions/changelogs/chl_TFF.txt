@@ -1,4 +1,458 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+RM02 added.
+RR04 Quelaag, Matriarch of Chaos added.
+RR05 Spellcopy added.
+UB08 Reach of the Abyss added.
+UG01 Eggburdened Servants added.
+UG05 The Roots of Oolacile added.
+UG10 Grass Crest Shield added.
+UR06 Attacker buffer added.
+UW02 Go-Wide Payoff added.
+UX02 Crow Demons added.
+UX04 Bite spell added.
+UX07 Buyback added.
+UX08 Dusk, Displaced Princess added.
+UX10 Coop & Soul Supporter added.
+
+RR05 Quelaag, Matriarch of Chaos removed.
+UB08 Buyback removed.
+UG01 Uncommon Dork removed.
+UG11 Grass Crest Shield removed.
+UG12 The Roots of Oolacile removed.
+UU12 The Paledrake's Pact removed.
+UG05 Dusk, Displaced Princess removed.
+
+CC03 Harmonize/Coop/Historic Support
+rules_text: Equipped creature gets +1/+0.
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on equipped creature.
+Equip {2} => Equipped creature gets +1/+0.
+Whenever you cast a spell from anywhere but your hand, put a +1/+1 counter on equipped creature.
+Equip {2}
+
+CG04 3 Conditional +1/+1
+rules_text: Reach
+At the beginning of your end step, if you cast a spell from anywhere other than your hand this turn, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Reach
+At the beginning of your end step, if you cast a spell from anywhere but your hand this turn, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+CG07 Brutish Mushroom
+
+CR12 Modal Shatter
+type: Sorcery => Instant
+
+CW04 3 MV Token Payoff
+
+CW05 3 MV Token Creator
+
+CW06 Hollow Common
+
+CW07 Belltower Gargoyle
+
+CW08 Balder Knight
+
+CW09 Rest by the Bonfire
+
+CW10 Focused Parry
+
+CW11 Tranquil Walk of Peace
+
+CW12 Husk Common
+
+CW13 Harmonize Disenchant
+
+CX01 Upside Flier
+
+CX02 Looter
+
+CX03 Dark Grasp
+
+CX04 Cast Dork
+rules_text: {T}: Add {R} or {G}.
+Whenever you cast a spell from anywhere other than your hand, untap this creature. => {T}: Add {R} or {G}.
+Whenever you cast a spell from anywhere but your hand, untap this creature.
+
+CX05 Protection
+
+CX06 Humanity Sprites
+
+CX07 Graveyard Card
+
+CX08 2 MV Conditional 3/3
+
+CX09 Noncreature Trigger
+rules_text: Flying
+Whenever you cast a sorcery spell, this creature deals 1 damage to target creature. => Flying
+Whenever you cast a Dragon or sorcery spell, this creature deals 1 damage to target creature.
+
+CX10 Hybrid Cooperator
+
+MB01 Curse-Spewer Basilisk
+
+MB02 The Age of Dark
+rules_text: Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+III — Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+IV, V — Hollow a number of times equal to the number of lore counters on this Saga. => Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.
+special_text: Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+III — Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+IV, V — Hollow a number of times equal to the number of lore counters on this Saga. => Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.
+
+MC01 The Everlasting Dragon
+
+MC02 The Age of Ancients
+rules_text: Bookmark r{3} — {5} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+special_text: Bookmark r{3} — {5} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+
+MG01 Sif, Courageous Pup
+
+MM04 The Bed of Chaos
+
+MM07 Fair Lady's Offering
+
+MM09 Seath, Epithet
+
+MM10 The Age of Fire
+rules_text: Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+II, III, IV — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+V — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn. => Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+I, II — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+III, IV — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn.
+special_text: Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+II, III, IV — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+V — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn. => Bookmark r{4} — {R}{W} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Exile the top two cards of your library. You may play those cards until the end of your next turn. 
+I, II — The Age of Fire deals X damage to any target, where X is 6 minus the number of lore counters on this Saga. You gain life equal to the damage dealt this way.
+III, IV — You may sacrifice a legendary creature you control. If you do, exile this Saga and you may cast it this turn.
+
+MM101 Kalameet, Epithet
+
+MM102 Gwyn, Cindered
+
+MU02 The Moonlight Greatsword
+rules_text: Equipped creature gets +2/+0 and has hexproof from activated and triggered abilities.
+Whenever equipped creature deals combat damage to a player, exile an instant or sorcery card from your graveyard with mana value less than or equal to that damage. You may cast that card this turn without paying its mana cost.
+Equip {3} => Equipped creature gets +2/+0 and has hexproof from activated and triggered abilities.
+Whenever equipped creature deals combat damage to a player, you may exile an instant or sorcery card from your graveyard with mana value less than or equal to that damage. You may cast a copy of that card this turn without paying its mana cost.
+Equip {2}
+
+RA01 Snuggly's Nest
+
+RB03 Artorias, Abyss-Cursed
+
+RB04 Smough, Grisly Executioner
+
+RB06 Chasm of the Abyss
+
+RC01 Havel, Stoneclad Slayer
+
+RM01 Ciaran, Silent Blade
+
+RM01 Gwynevere's Bountiful Sunlight
+
+RM01 Priscilla, Keeper of the Lost
+
+RM02 The Four Kings
+
+RM03 Gwyn Links the Flame
+rules_text: Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+Each player loses 1 life, draws a card, then sacrifices a creature.
+II, III — Gwyn Links the Flame deals 3 damage to any target.
+special_text: Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+Each player loses 1 life, draws a card, then sacrifices a creature.
+II, III — Gwyn Links the Flame deals 3 damage to any target.
+
+RM03 Patches, Trustworthy
+
+RM04 Chaos Engulfs Izalith
+
+RM04 Spell Harmonizer
+
+RM05 Gough, Blind Trueshot
+
+RM07 Nito's Miasma of Death
+
+RM07 The Gaping Dragon
+
+RM09 Calamitous Blackflame
+rules_text: This spell costs {X} less to cast, where X is the number of Dragon and sorcery cards in your graveyard.
+Calamitous Blackflame deals 4 damage to each of up to X creatures. => This spell costs {X} less to cast, where X is the number of Dragon or sorcery cards in your graveyard.
+Calamitous Blackflame deals 4 damage to each of up to X creatures.
+
+RM10 Dragonslayer Ornstein
+cost: {3}{R}{W} => {1}{R}{W}
+pt: 4/4 => 2/3
+
+RM10 Sunlight Avenger
+
+RW07 Light in the Dark
+
+UB01 Sac Payoff
+
+UB02 Bonewheel Skeleton
+
+UB03 Knights of Ash
+
+UB04 Petrus, Drenched in Sin
+
+UB05 Drake Valley Scourge
+
+UB06 Frenzied Darkwraiths
+
+UB07 Sunlit Madness
+
+UB09 Poison Mist
+
+UB10 Foil Escape
+
+UB11 Aggressive 1-drop
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Human creature token with decayed, then attach this Equipment to it.)[/i]
+Equipped creature has deathtouch.
+Equip {1} => Husk [i](When this Equipment enters, create a 2/2 colorless Human creature token with decayed, then attach this Equipment to it.)[/i]
+Equipped creature has menace.
+Equip {1}
+
+UC01 Crystal Lizard
+
+UC02 Lurking Mimic
+
+UC03 Removal
+
+UC05 Demon's Great Hammer
+
+UC08 Firelink Shrine
+
+UG02 Creature Self-replacer
+rules_text: Cooperate {1}{G} [i]({1}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Flash
+Reach
+When this creature dies, draw a card. => Cooperate {1}{G} [i]({1}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Reach
+When this creature dies, draw a card.
+
+UG03 Soul Generator
+cost: {1}{G} => {2}{G}
+pt: 1/3 => 2/3
+
+UG04 Return from GY on stick
+
+UG06 Stone Guardian
+cost: {4}{G}{G} => {3}{G}{G}
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[effect] => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+UG07 Taurus Demon
+
+UG08 Ashen Hydra
+
+UM01 Rhea, Seeker of Kindling
+
+UM02 Pinwheel, Thrice-Masked
+
+UM03 Lautrec the Favored
+
+UM04 Izalith Firesage
+rules_text: Trample
+Whenever you cast a spell, this creature s deals 1 damage to any target. If that spell was cast from anywhere other than your hand, this creature deals 2 damage to any target. => Trample
+Whenever you cast a spell, this creature deals 1 damage to any target. If that spell was cast from anywhere but your hand, this creature deals 2 damage to any target.
+
+UM05 Siegmeyer, Honor-Bound Coward
+
+UM06 Darkmoon Knightess, Fire Keeper
+
+UM07 Asylum Jailor
+
+UM08 Alvina, Darkroot Mother
+
+UM09 Valley Stormkite
+rules_text: Flying
+When this creature enters, choose one — 
+• This creature deals 2 damage divided as you choose among one or two targets.
+• Return target sorcery card from your graveyard to your hand. => Flying
+When this creature enters, choose one — 
+• This creature deals 2 damage divided as you choose among one or two targets.
+• Return target instant or sorcery card from your graveyard to your hand.
+
+UM10 Solaire, Sunlight Knight
+
+UM11 Tale of the Painted World
+
+UM12 Artorias Falls
+rules_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Return up to one creature card from your graveyard to the battlefield.
+​
+special_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Return up to one creature card from your graveyard to the battlefield.
+​
+
+UM13 The Undead Curse
+
+UM14 Nurturing Chaos
+
+UM15 Kindle the Flame
+rules_text: When Kindle the Flame enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever you put a +1/+1 counter on a creature you control, you may draw a card. This ability triggers only once each turn. => When this enchantment enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever you put a +1/+1 counter on a creature you control, you may draw a card. This ability triggers only once each turn.
+
+UM16 Oswald, Velka's Arbiter
+
+UM17 Maneater Mildred
+
+UM18 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UM19 The Duke's Great Sorceries
+rules_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create two 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create two 1/1 blue Human Wizard creature tokens with prowess.
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create two 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create two 1/1 blue Human Wizard creature tokens with prowess.
+I — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II — Add {U}{R}. If you spend this mana on a Dragon or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UM20 Jolly Cooperation!
+
+UR01 Hollowing Mercenaries
+
+UR03 Batwing Demon
+
+UR04 Dragonpath Hunter
+
+UR05 Burg Capra
+
+UR08 In The Firstborn's Footsteps
+
+UR09 Blazing Breath
+type: Sorcery => Instant
+cost: {1}{R}{R} => {1}{R}
+rules_text: Blazing Breath deals 2 damage to each creature. 
+Harmonize {5}{R}{R} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Blazing Breath deals 1 damage to each creature you don't control. 
+Harmonize {R}{R} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+UR10 Chaos Blade
+
+UR11 Miracle: Sunlight Blade
+
+UU01 New Londo Haunted
+
+UU02 Beatrice, Seeker of Sorceries
+
+UU03 0-Power Creature
+
+UU04 Dragon/Sorcery Unblockable
+
+UU05 Flash Trick Creature
+
+UU06 Valley Windkite
+
+UU08 Creature counterspell
+
+UU09 Modal Spell
+
+UU10 Just Another Undead
+
+UU11 The Great Flood
+cost: {3}{U}{U} => {3}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target nonland permanents to their owners' hands.
+II — [effect]
+III — Draw two cards, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Bookmark r{3} — {1}{U} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Tap target creature an opponent controls. Put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target nonland permanents to their owners' hands.
+II — [effect]
+III — Draw two cards, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Bookmark r{3} — {1}{U} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Tap target creature an opponent controls. Put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+
+UW01 Aggressive 1-drop
+
+UW03 The Crestfallen Warrior
+
+UW04 OPT Draw
+
+UW05 Historic Searcher
+
+UW06 Double Striker
+
+UW07 Tarkus, Black Iron Champion
+
+UW08 Gwyn's Silver Knights
+
+UW09 Cheap Recursion
+rules_text: Return target creature or artifact card with mana value 3 or less from your graveyard to the battlefield. You may sacrifice a creature or artifact. When you do, return another creature or artifact card with mana value 3 or less from your graveyard to the battlefield. => Choose one or two target creature or artifact cards with mana value 3 or less from your graveyard to the battlefield. If you choose two cards this way, sacrifice a creature or artifact. Then, return the chosen cards to the battlefield.
+
+UW10 Removal with downside
+
+UW11 Cheap Equipment
+
+UW12 Miracle: Magic Barrier
+
+UX05 Fire Keeper Anastacia
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CW04 3 MV Token Payoff added.
