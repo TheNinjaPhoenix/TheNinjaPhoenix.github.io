@@ -1,4 +1,74 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+CG13 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+special_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+
+CU13 The Great Flood
+rules_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+
+MB03 The Age of Dark
+rules_text: Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+III — Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+IV, V — Hollow a number of times equal to the number of lore counters on this Saga. => Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.
+special_text: Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+III — Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+IV, V — Hollow a number of times equal to the number of lore counters on this Saga. => Bookmark r{3} — {3}{B}{B} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Hollow a number of times equal to the number of lore counters on this Saga. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Target player gains control of this Saga. It gains “This Saga can't be sacrificed by spells or abilities.”
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.
+
+UM18 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+
+VERSION 17 CHANGELOG
 ====================
 
 RM21 Gwyndolin's Manipulation added.

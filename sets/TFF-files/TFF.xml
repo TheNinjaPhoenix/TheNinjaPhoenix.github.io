@@ -624,8 +624,8 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		<card>
 			<name>CG13 From Firelink, Onwards</name>
 			<text>Bookmark r{4} — {1}{G} (You may cast this spell for its omit cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
-I, II, III — Create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+I, II — Create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
 ​</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/36.png" num="132">TFF</set>
 			<prop>
@@ -1086,8 +1086,8 @@ When enchanted permanent leaves the battlefield, draw a card.</text>
 		<card>
 			<name>CU13 The Great Flood</name>
 			<text>Bookmark r{3} — {1}{U} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I, II, III — Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-Return target tapped creature to its owner&apos;s hand. Draw a card.
+I, II — Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+III — Return target tapped creature to its owner&apos;s hand. Draw a card.
 ​</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/62.png" num="46">TFF</set>
 			<prop>
@@ -1544,8 +1544,8 @@ Equip—Sacrifice a creature.</text>
 			<name>MB03 The Age of Dark</name>
 			<text>Bookmark r{3} — {3}{B}{B} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
 I, II — Hollow a number of times equal to the number of lore counters on this Saga. (To hollow, sacrifice a nonland permanent or discard a card.)
-III — Target player gains control of this Saga. It gains &quot;This Saga can&apos;t be sacrificed by spells or abilities.&quot;
-IV, V — Hollow a number of times equal to the number of lore counters on this Saga.</text>
+Target player gains control of this Saga. It gains &quot;This Saga can&apos;t be sacrificed by spells or abilities.&quot;
+III, IV, V — Hollow a number of times equal to the number of lore counters on this Saga.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/88.png" num="75">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -3362,9 +3362,9 @@ Maneater Mildred&apos;s power is equal to the number of creature cards in your g
 		<card>
 			<name>UM18 The Wolf Knight&apos;s Legacy</name>
 			<text>Bookmark r{3} — {1}{G} (You may cast this spell for its omit cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Create a 2/2 green Wolf creature token.
-II — Return target creature to its owner&apos;s hand.
-III — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner&apos;s hand.
+II — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/190.png" num="185">TFF</set>
 			<prop>
 				<layout>saga</layout>
