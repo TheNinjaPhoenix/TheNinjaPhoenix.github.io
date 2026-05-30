@@ -103,7 +103,7 @@ Whenever you cast a spell, if mana from a creature was spent to cast it, copy it
 		<card>
 			<name>MB02 Gravelord Sword</name>
 			<text>Equipped creature gets +2/+0 and has hexproof from non-black activated and triggered abilities.
-Whenever equipped creature deals combat damage to a player, return up to creature card from a graveyard to the battlefield with mana value less than or equal to that damage to the battlefield with a finality counter on it. It enters tapped and attacking target opponent.
+Whenever equipped creature deals combat damage to a player, return up to creature card from a graveyard to the battlefield with mana value less than or equal to that damage to the battlefield with a finality counter on it.
 Equip—Sacrifice a creature.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/5.png" num="92">TFF</set>
 			<prop>
@@ -2753,8 +2753,8 @@ When enchanted permanent leaves the battlefield, draw a card.</text>
 		<card>
 			<name>CU13 The Great Flood</name>
 			<text>Bookmark r{3} — {1}{U} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I, II, III — Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-Return target tapped creature to its owner&apos;s hand. Draw a card.
+I, II — Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+III — Return target tapped creature to its owner&apos;s hand. Draw a card.
 ​</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/159.png" num="56">TFF</set>
 			<prop>
@@ -3602,8 +3602,8 @@ When this creature dies, draw a card.</text>
 			<name>UG05 The Roots of Oolacile</name>
 			<text>Bookmark r{3} — {2}{G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
 I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
-II — Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-III — Create two 1/1 green Fungus creature tokens.</text>
+Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+II — Create two 1/1 green Fungus creature tokens.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/208.png" num="173">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -4060,9 +4060,9 @@ Maneater Mildred&apos;s power is equal to the number of creature cards in your g
 		<card>
 			<name>UM18 The Wolf Knight&apos;s Legacy</name>
 			<text>Bookmark r{3} — {1}{G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Create a 2/2 green Wolf creature token.
-II — Return target creature to its owner&apos;s hand.
-III — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
+Create a 2/2 green Wolf creature token.
+I — Return target creature to its owner&apos;s hand.
+II — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/233.png" num="227">TFF</set>
 			<prop>
 				<layout>saga</layout>
