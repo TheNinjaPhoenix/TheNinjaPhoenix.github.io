@@ -606,8 +606,8 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		<card>
 			<name>CG13 From Firelink, Onwards</name>
 			<text>Bookmark r{4} — {1}{G} (You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
-Create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+I — Create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+II, III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
 ​</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/35.png" num="115">TFFP</set>
 			<prop>
@@ -659,7 +659,7 @@ Until end of turn, whenever you put a +1/+1 counter on a creature, it gains tram
 		</card>
 		<card>
 			<name>CR03 Depths Lookout</name>
-			<text>Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Menace</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/38.png" num="80">TFFP</set>
 			<prop>
@@ -946,7 +946,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 		</card>
 		<card>
 			<name>CU06 Dragon-Path Scaleward</name>
-			<text>Cooperate {1}{U} ({1}{U}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {1}{U} ({1}{U}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Hexproof</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/54.png" num="33">TFFP</set>
 			<prop>
@@ -1068,8 +1068,8 @@ When enchanted permanent leaves the battlefield, draw a card.</text>
 		<card>
 			<name>CU13 The Great Flood</name>
 			<text>Bookmark r{3} — {1}{U} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-Return target tapped creature to its owner&apos;s hand. Draw a card.
+I, II — Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+III — Return target tapped creature to its owner&apos;s hand. Draw a card.
 ​</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/61.png" num="40">TFFP</set>
 			<prop>
@@ -1210,7 +1210,7 @@ When this creature enters, destroy target tapped creature.</text>
 		</card>
 		<card>
 			<name>CW08 Balder Knight</name>
-			<text>Cooperate {2}{W} ({2}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {2}{W} ({2}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Whenever this creature deals combat damage to a player, untap target nonland permanent.</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/69.png" num="10">TFFP</set>
 			<prop>
@@ -1469,7 +1469,7 @@ Whenever you cast a Dragon, instant or sorcery spell, this creature deals 1 dama
 		</card>
 		<card>
 			<name>CX10 Hybrid Cooperator</name>
-			<text>Cooperate {RW} ({RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {RW} ({RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 First strike</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/84.png" num="157">TFFP</set>
 			<prop>
@@ -1748,7 +1748,7 @@ When this creature enters, destroy target creature. Its controller creates a Sou
 		</card>
 		<card>
 			<name>CG08 6mv trampler</name>
-			<text>Cooperate {1}{G}{G} ({1}{G}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {1}{G}{G} ({1}{G}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Trample</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/100.png" num="110">TFFP</set>
 			<prop>
@@ -1864,7 +1864,7 @@ When this land enters, return another land you control to its owner&apos;s hand.
 		</card>
 		<card>
 			<name>UG02 Creature Self-replacer</name>
-			<text>Cooperate {1}{G} ({1}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {1}{G} ({1}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Reach
 When this creature dies, draw a card.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/107.png" num="117">TFFP</set>
@@ -1918,9 +1918,9 @@ When this creature dies, draw a card.</text>
 		<card>
 			<name>UG05 The Roots of Oolacile</name>
 			<text>Bookmark r{3} — {2}{G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-Search your library for a basic land card, put it onto the battlefield, then shuffle.
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
 Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-Create two 1/1 green Fungus creature tokens.</text>
+II — Create two 1/1 green Fungus creature tokens.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/110.png" num="120">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2028,7 +2028,7 @@ When this creature enters, you may sacrifice another creature. If you do, search
 			<name>UG11 Fang Boar Helm</name>
 			<text>When this Equipment enters, attach it to target creature you control. That creature fights up to one target creature.
 Equipped creature gets +2/+0 and has trample.
-Equip {3}</text>
+Equip {2}</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/116.png" num="126">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2045,9 +2045,9 @@ Equip {3}</text>
 		<card>
 			<name>UG12 Blessings of Sunlight</name>
 			<text>Bookmark r{3} — {G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-Create a 1/1 white Human creature token.
-Until your next turn, creatures you control gain &quot;{T}: Add one mana of any color.&quot;
-When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.</text>
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain &quot;{T}: Add one mana of any color.&quot;
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/117.png" num="127">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2063,7 +2063,8 @@ When you next cast a creature spell this turn, that creature enters with an addi
 		</card>
 		<card>
 			<name>UM01 Rhea, Seeker of Kindling</name>
-			<text>When Rhea enters, scry 3, then reveal the top card of your library. If it&apos;s a historic card, you gain life equal to its mana value, then put it into your hand. Otherwise, put it into your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
+			<text>Lifelink
+When Rhea enters, scry 3, then reveal the top card of your library. If it&apos;s a historic card, you gain life equal to its mana value, then put it into your hand. Otherwise, put it into your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/118.png" num="128">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2229,7 +2230,7 @@ When this creature enters, choose one —
 		</card>
 		<card>
 			<name>UM10 Solaire, Sunlight Knight</name>
-			<text>Cooperate {R}{W} ({R}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {R}{W} ({R}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 First strike
 Attacking creatures you control get +1/+0.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/127.png" num="137">TFFP</set>
@@ -2268,7 +2269,7 @@ III — Exile up to one target creature you control, then return it to the battl
 		<card>
 			<name>UM12 Artorias Falls</name>
 			<text>Bookmark r{4} — {3}{B}{B} (You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
-Draw a card, then hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
+I, II, III, IV — Draw a card, then hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
 Return up to one creature card from your graveyard to the battlefield.
 ​</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/129.png" num="139">TFFP</set>
@@ -2378,8 +2379,8 @@ Maneater Mildred&apos;s power is equal to the number of creature cards in your g
 			<name>UM18 The Wolf Knight&apos;s Legacy</name>
 			<text>Bookmark r{3} — {1}{G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
 Create a 2/2 green Wolf creature token.
-Return target creature to its owner&apos;s hand.
-Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
+I — Return target creature to its owner&apos;s hand.
+II — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/135.png" num="145">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2484,7 +2485,7 @@ At the beginning of combat on your turn, you may tap this creature. If you do, a
 		</card>
 		<card>
 			<name>UR04 Attacker buffer</name>
-			<text>Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Whenever this creature attacks with one or more other creatures, another attacking creature you control gets +X/+0 until end of turn, where is the number of attacking creatures.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/141.png" num="94">TFFP</set>
 			<prop>
@@ -2521,7 +2522,7 @@ At the beginning of combat on your turn, create a 2/1 black Dog creature token w
 		<card>
 			<name>UR06 Dragonpath Hunter</name>
 			<text>Whenever you pay this card&apos;s cooperate cost, and when this creature enters, exile the top card of your library. You may play that card this turn.
-Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Haste</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/143.png" num="96">TFFP</set>
 			<prop>
@@ -2558,7 +2559,7 @@ Whenever this creature deals combat damage to a player, create that many tapped 
 		<card>
 			<name>UR08 In The Firstborn&apos;s Footsteps</name>
 			<text>As an additional cost to cast this spell, hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
-Draw two cards, then create a tapped Treasure token and a 1/1 red Dragon creature token with flying and &quot;{1}{R}: This creature gets +1/+0 until end of turn.&quot;</text>
+Draw two cards, then create a 1/1 red Dragon creature token with flying and &quot;{1}{R}: This creature gets +1/+0 until end of turn.&quot;</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/145.png" num="98">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2720,7 +2721,7 @@ Whenever you discard a card for the first time each turn, choose target creature
 		</card>
 		<card>
 			<name>UU04 Forest-Clan Spellblade</name>
-			<text>Cooperate {1}{U} ({1}{U}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {1}{U} ({1}{U}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 This creature can&apos;t be blocked if you&apos;ve cast a historic spell this turn. (Artifacts, legendaries, and Sagas are historic.)
 Whenever this creature deals combat damage to a player, draw a card.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/154.png" num="44">TFFP</set>
@@ -2845,9 +2846,9 @@ Enchanted creature loses all abilities and has base power and toughness 1/1.</te
 		<card>
 			<name>UU12 The Paledrake&apos;s Pact</name>
 			<text>Bookmark r{3} — {2}{U} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-This Saga gains &quot;You may cast noncreature spells as though they had flash.&quot;
-Draw two cards, then discard a card.
-Return up to two target creatures to their owner&apos;s hands. If you return a creature to your hand this way, draw a card.</text>
+I — This Saga gains &quot;You may cast noncreature spells as though they had flash.&quot;
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner&apos;s hands. If you return a creature to your hand this way, draw a card.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/161.png" num="52">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2863,7 +2864,7 @@ Return up to two target creatures to their owner&apos;s hands. If you return a c
 		</card>
 		<card>
 			<name>UW01 Aggressive 1-drop</name>
-			<text>Whenever one or more +1/+1 counters are put on this creature, it gains first strike until end of turn. This ability triggers only once per turn, and only on your turn.</text>
+			<text>Whenever one or more +1/+1 counters are put on this creature, it gains first strike until end of turn. This ability triggers only on your turn.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/162.png" num="16">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2953,7 +2954,7 @@ When this creature enters, return target permanent card that entered your gravey
 		</card>
 		<card>
 			<name>UW06 Double Striker</name>
-			<text>Cooperate {W}{W} ({W}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {W}{W} ({W}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Double strike</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/167.png" num="21">TFFP</set>
 			<prop>
@@ -2971,7 +2972,7 @@ Double strike</text>
 		</card>
 		<card>
 			<name>UW07 Tarkus, Black Iron Champion</name>
-			<text>Cooperate {2}{W} ({2}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
+			<text>Cooperate {2}{W} ({2}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)
 Vigilance
 Whenever this creature deals combat damage to a player, exile up to one target artifact or enchantment they control.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/168.png" num="22">TFFP</set>
@@ -3114,7 +3115,7 @@ Whenever you cast a spell during an opponent&apos;s turn, you may draw a card. I
 			<name>UX03 Scourge of the Valley</name>
 			<text>Flying, haste
 Decayed (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
-{2}{BR}{BR}, Exile a creature card from your graveyard: Return this creature card from your graveyard to the battlefield tapped.</text>
+{2}{BR}{BR}, Exile a creature card and noncreature card from your graveyard: Return this creature card from your graveyard to the battlefield tapped.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/176.png" num="160">TFFP</set>
 			<prop>
 				<layout>normal</layout>
