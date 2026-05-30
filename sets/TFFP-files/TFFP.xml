@@ -347,11 +347,11 @@ If enchanted permanent is a creature, it gets +1/+1. If enchanted permanent is a
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC07 Harmonize/Coop/Historic Support</name>
+			<name>UC04 Harmonize/Coop/Historic Support</name>
 			<text>Equipped creature gets +1/+0.
 Whenever you cast a spell from anywhere but your hand, put a +1/+1 counter on equipped creature.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/20.png" num="177">TFFP</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/20.png" num="174">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -365,7 +365,7 @@ Equip {2}</text>
 		<card>
 			<name>CC04 Manalith+ ability</name>
 			<text>{T}: Add one mana of any color.
-At the beginning of your end step, if you&apos;ve sacrificed a nonland permanent this turn, untap Manalith+ ability.</text>
+{2}, {T}, Sacrifice this artifact: Return target nonland permanent card from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/21.png" num="170">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -606,8 +606,8 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		<card>
 			<name>CG13 From Firelink, Onwards</name>
 			<text>Bookmark r{4} — {1}{G} (You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-II, III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+Create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
 ​</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/35.png" num="115">TFFP</set>
 			<prop>
@@ -1068,8 +1068,8 @@ When enchanted permanent leaves the battlefield, draw a card.</text>
 		<card>
 			<name>CU13 The Great Flood</name>
 			<text>Bookmark r{3} — {1}{U} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I, II — Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-III — Return target tapped creature to its owner&apos;s hand. Draw a card.
+Put a stun counter on it on target creature an opponent controls. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Return target tapped creature to its owner&apos;s hand. Draw a card.
 ​</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/61.png" num="40">TFFP</set>
 			<prop>
@@ -1699,7 +1699,7 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC01 Bounding Dragons</name>
+			<name>UC03 Bounding Dragons</name>
 			<text>When this creature enters, exile target card from a graveyard. If that card was a creature, create a tapped Treasure token.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/97.png" num="2">TFFP</set>
 			<prop>
@@ -1709,12 +1709,12 @@ Equip {1}</text>
 				<maintype>Creature</maintype>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
-				<pt>4/4</pt>
+				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC02 Crystal Lizard</name>
+			<name>UC01 Crystal Lizard</name>
 			<text>When this creature leaves the battlefield, draw a card.
 {T}, Sacrifice this creature: Add one mana of any color.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/98.png" num="172">TFFP</set>
@@ -1730,7 +1730,7 @@ Equip {1}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC03 Lurking Mimic</name>
+			<name>UC02 Lurking Mimic</name>
 			<text>Flash
 When this creature enters, destroy target creature. Its controller creates a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 {T}, Sacrifice this creature: Add one mana of any color.</text>
@@ -1765,10 +1765,10 @@ Trample</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC04 Altar to the Gods</name>
+			<name>UC05 Altar to the Gods</name>
 			<text>Whenever one or more cards are put into an opponent&apos;s graveyard for the first time each turn, exile them.
 {1}, {T}, Sacrifice this artifact: Target creature gains protection from the color of your choice until end of turn. (That permanent can&apos;t be targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/101.png" num="174">TFFP</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/101.png" num="175">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1780,11 +1780,11 @@ Trample</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC05 Demon&apos;s Great Hammer</name>
+			<name>UC06 Demon&apos;s Great Hammer</name>
 			<text>Husk (When this Equipment enters, create a 2/2 colorless Human creature token with decayed, then attach this Equipment to it.)
 Equipped creature gets +6/+6 and loses flying.
 Equip {6}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/102.png" num="175">TFFP</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/102.png" num="176">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1796,12 +1796,12 @@ Equip {6}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC06 Zweihander</name>
+			<name>UC07 Zweihander</name>
 			<text>Husk (When this Equipment enters, create a 2/2 colorless Human creature token with decayed, then attach this Equipment to it.)
 Equipped creature gets +4/+0 and has trample.
 Whenever equipped creature attacks, put a stun counter on it.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/103.png" num="176">TFFP</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/103.png" num="177">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1815,7 +1815,7 @@ Equip {2}</text>
 		<card>
 			<name>UC08 Surveil Bounceland</name>
 			<text>Surveil Bounceland enters tapped.
-When this land enters, return another land you control to its owner&apos;s hand. If a nonbasic land was returned this way, surveil 1.
+When this land enters, return another land you control to its owner&apos;s hand, then surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}: Add {C}{C}.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/104.png" num="179">TFFP</set>
 			<prop>
@@ -1918,9 +1918,9 @@ When this creature dies, draw a card.</text>
 		<card>
 			<name>UG05 The Roots of Oolacile</name>
 			<text>Bookmark r{3} — {2}{G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
 Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-II — Create two 1/1 green Fungus creature tokens.</text>
+Create two 1/1 green Fungus creature tokens.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/110.png" num="120">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2045,9 +2045,9 @@ Equip {2}</text>
 		<card>
 			<name>UG12 Blessings of Sunlight</name>
 			<text>Bookmark r{3} — {G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Create a 1/1 white Human creature token.
-II — Until your next turn, creatures you control gain &quot;{T}: Add one mana of any color.&quot;
-III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.</text>
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain &quot;{T}: Add one mana of any color.&quot;
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/117.png" num="127">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2269,7 +2269,7 @@ III — Exile up to one target creature you control, then return it to the battl
 		<card>
 			<name>UM12 Artorias Falls</name>
 			<text>Bookmark r{4} — {3}{B}{B} (You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don&apos;t trigger.)
-I, II, III, IV — Draw a card, then hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
+Draw a card, then hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
 Return up to one creature card from your graveyard to the battlefield.
 ​</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/129.png" num="139">TFFP</set>
@@ -2379,8 +2379,8 @@ Maneater Mildred&apos;s power is equal to the number of creature cards in your g
 			<name>UM18 The Wolf Knight&apos;s Legacy</name>
 			<text>Bookmark r{3} — {1}{G} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
 Create a 2/2 green Wolf creature token.
-I — Return target creature to its owner&apos;s hand.
-II — Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
+Return target creature to its owner&apos;s hand.
+Return up to one historic permanent card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/135.png" num="145">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2397,9 +2397,9 @@ II — Return up to one historic permanent card from your graveyard to your hand
 		<card>
 			<name>UM19 The Duke&apos;s Great Sorceries</name>
 			<text>Bookmark r{3} — {2}{R}{R} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — Create a 1/1 blue Human Wizard creature tokens with prowess.
-II — Exile the top card of your library. Until the end of your next turn, you may play those cards.
-III — Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. (Copies of permanents are tokens.)</text>
+Create a 1/1 blue Human Wizard creature tokens with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play those cards.
+Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. (Copies of permanents are tokens.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/136.png" num="146">TFFP</set>
 			<prop>
 				<layout>saga</layout>
@@ -2846,9 +2846,9 @@ Enchanted creature loses all abilities and has base power and toughness 1/1.</te
 		<card>
 			<name>UU12 The Paledrake&apos;s Pact</name>
 			<text>Bookmark r{3} — {2}{U} (You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don&apos;t trigger.)
-I — This Saga gains &quot;You may cast noncreature spells as though they had flash.&quot;
-II — Draw two cards, then discard a card.
-III — Return up to two target creatures to their owner&apos;s hands. If you return a creature to your hand this way, draw a card.</text>
+This Saga gains &quot;You may cast noncreature spells as though they had flash.&quot;
+Draw two cards, then discard a card.
+Return up to two target creatures to their owner&apos;s hands. If you return a creature to your hand this way, draw a card.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/161.png" num="52">TFFP</set>
 			<prop>
 				<layout>saga</layout>

@@ -201,11 +201,11 @@
 			}
 		},
 		{
-			"name": "UC07 Harmonize/Coop/Historic Support",
+			"name": "UC04 Harmonize/Coop/Historic Support",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "177",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/20.png"
 			}
@@ -971,7 +971,7 @@
 			}
 		},
 		{
-			"name": "UC01 Bounding Dragons",
+			"name": "UC03 Bounding Dragons",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Creature — Dragon",
@@ -981,7 +981,7 @@
 			}
 		},
 		{
-			"name": "UC02 Crystal Lizard",
+			"name": "UC01 Crystal Lizard",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Treasure Lizard",
@@ -991,7 +991,7 @@
 			}
 		},
 		{
-			"name": "UC03 Lurking Mimic",
+			"name": "UC02 Lurking Mimic",
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Treasure Horror",
@@ -1011,31 +1011,31 @@
 			}
 		},
 		{
-			"name": "UC04 Altar to the Gods",
+			"name": "UC05 Altar to the Gods",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/101.png"
 			}
 		},
 		{
-			"name": "UC05 Demon's Great Hammer",
+			"name": "UC06 Demon's Great Hammer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/102.png"
 			}
 		},
 		{
-			"name": "UC06 Zweihander",
+			"name": "UC07 Zweihander",
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact — Equipment",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/103.png"
 			}
@@ -1854,7 +1854,7 @@
 
 [rare(1)]
 [uncommon(3)]
-	4 UC07 Harmonize/Coop/Historic Support
+	4 UC04 Harmonize/Coop/Historic Support
 	4 CC05 Husk Equipment
 	4 UB01 Sac Payoff
 	4 UB02 Bonewheel Skeleton
@@ -1868,12 +1868,12 @@
 	4 UB10 Poison Mist
 	4 UB11 Foil Escape
 	4 UB12 Aggressive 1-drop
-	4 UC01 Bounding Dragons
-	4 UC02 Crystal Lizard
-	4 UC03 Lurking Mimic
-	4 UC04 Altar to the Gods
-	4 UC05 Demon's Great Hammer
-	4 UC06 Zweihander
+	4 UC03 Bounding Dragons
+	4 UC01 Crystal Lizard
+	4 UC02 Lurking Mimic
+	4 UC05 Altar to the Gods
+	4 UC06 Demon's Great Hammer
+	4 UC07 Zweihander
 	4 UC08 Surveil Bounceland
 	4 UC09 Firelink Shrine
 	4 UG01 Eggburdened Servants
@@ -2132,7 +2132,7 @@
 	12 CB13 Fina's Embrace
 	12 CC01 Oscar, Fading Failure
 	12 CC02 Color fixer
-	6 UC07 Harmonize/Coop/Historic Support
+	6 UC04 Harmonize/Coop/Historic Support
 	12 CC04 Manalith+ ability
 	6 CC05 Husk Equipment
 	12 CC06 Abandoned Bonfire
@@ -2209,13 +2209,13 @@
 	6 UB10 Poison Mist
 	6 UB11 Foil Escape
 	6 UB12 Aggressive 1-drop
-	6 UC01 Bounding Dragons
-	6 UC02 Crystal Lizard
-	6 UC03 Lurking Mimic
+	6 UC03 Bounding Dragons
+	6 UC01 Crystal Lizard
+	6 UC02 Lurking Mimic
 	12 CG08 6mv trampler
-	6 UC04 Altar to the Gods
-	6 UC05 Demon's Great Hammer
-	6 UC06 Zweihander
+	6 UC05 Altar to the Gods
+	6 UC06 Demon's Great Hammer
+	6 UC07 Zweihander
 	6 UC08 Surveil Bounceland
 	6 UC09 Firelink Shrine
 	6 UG01 Eggburdened Servants
@@ -2313,7 +2313,7 @@
 	6 CB13 Fina's Embrace
 	6 CC01 Oscar, Fading Failure
 	6 CC02 Color fixer
-	15 UC07 Harmonize/Coop/Historic Support
+	15 UC04 Harmonize/Coop/Historic Support
 	6 CC04 Manalith+ ability
 	15 CC05 Husk Equipment
 	6 CC06 Abandoned Bonfire
@@ -2390,13 +2390,13 @@
 	15 UB10 Poison Mist
 	15 UB11 Foil Escape
 	15 UB12 Aggressive 1-drop
-	15 UC01 Bounding Dragons
-	15 UC02 Crystal Lizard
-	15 UC03 Lurking Mimic
+	15 UC03 Bounding Dragons
+	15 UC01 Crystal Lizard
+	15 UC02 Lurking Mimic
 	6 CG08 6mv trampler
-	15 UC04 Altar to the Gods
-	15 UC05 Demon's Great Hammer
-	15 UC06 Zweihander
+	15 UC05 Altar to the Gods
+	15 UC06 Demon's Great Hammer
+	15 UC07 Zweihander
 	15 UC08 Surveil Bounceland
 	15 UC09 Firelink Shrine
 	15 UG01 Eggburdened Servants
