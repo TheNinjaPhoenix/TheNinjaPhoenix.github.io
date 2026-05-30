@@ -1,4 +1,500 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+UC07 Harmonize/Coop/Historic Support added.
+CR05 Cragspider added.
+CR06 Demon Statues added.
+CG08 6mv trampler added.
+UC04 Altar to the Gods added.
+UC05 Demon's Great Hammer added.
+UC06 Zweihander added.
+UU05 Seath's Pisaca added.
+UU04 Forest-Clan Spellblade added.
+UX04 Hunted by Demons added.
+CC03 Iron Sentinel added.
+
+CC03 Harmonize/Coop/Historic Support removed.
+CG08 6 Trample with Upside removed.
+CR05 Magma Spider removed.
+CR06 4/5 Shock Creature removed.
+UC04 Iron Sentinel removed.
+UC05 Altar to the Gods removed.
+UC06 Demon's Great Hammer removed.
+UC07 Zweihander removed.
+UU04 Seath's Pisaca removed.
+UU05 Forest-Clan Spellblade removed.
+UX04 Bite spell removed.
+
+CB11 Discard Spell
+cost: {3}{B} => {2}{B}
+
+CC04 Manalith+ ability
+rules_text: {T}: Add one mana of any color.
+{4}, {T}: Return up to one permanent card from your graveyard to your hand. Activate only if you've dealt combat damage to an opponent this turn. => {T}: Add one mana of any color.
+At the beginning of your end step, if you've sacrificed a nonland permanent this turn, untap Manalith+ ability.
+
+CC05 Husk Equipment
+
+CG09 Disenchant Spell
+
+CG10 Grass Crest Shield
+
+CG11 Estus Flask
+type: Artifact => Artifact — Food
+rules_text: This artifact enters with three charge counters on it.
+{T}, Remove a charge counter from this artifact: You gain 2 life. 
+When the last charge counter is removed from this artifact, search your library for a basic land card, reveal it, put it into your hand, then shuffle. => When you sacrifice this artifact, create a token that's a copy of this card, except it doesn't have this ability.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+
+CG12 Mana acceleration
+
+CG13 From Firelink, Onwards
+cost: {2}{G}{G} => {3}{G}
+rules_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+special_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+
+CR01 Haste Upside
+
+CR02 Dragonpath Zealot
+type: Creature — Human Dragon => Creature — Human Dragon Warrior
+
+CR03 Depths Lookout
+
+CR04 Exile on ETB
+type: Creature — Dragon Warrior => Creature — Human Dragon Warrior
+
+CR07 Centipede Demon
+
+CR08 Husk Equipment (haste)
+
+CR09 Husk Equipment (damage)
+
+CR10 Combat trick
+
+CR11 Rummaging/impulsive draw
+
+CR12 Modal Shatter
+
+CR13 Kalameet's Gaze
+
+CU01 Modal Spell as Creature
+
+CU02 Cheap Vigilance
+type: Artifact Creature => Creature
+
+CU03 Spell Return Creature
+
+CU04 Spell discounter
+
+CU05 Valley Bluescale
+
+CU06 Dragon-Path Scaleward
+type: Creature — Dragon Warrior => Creature — Human Dragon Warrior
+
+CU07 Blue Crystal Golem
+cost: {4}{U}{U} => {5}{U}
+pt: 5/5 => 6/6
+
+CU08 Common Counterspell
+
+CU09 Protective Instant
+
+CU10 Big Draw Spell
+
+CU11 Top or Bottom Spell
+
+CU12 Crystal Curse
+
+CU13 The Great Flood
+rules_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​
+
+CW01 Apprentice Fire Keeper
+
+CW02 Astoran Cleric
+
+CW03 Tapper
+
+CW04 Token Payoff
+
+CW05 Token Creator
+
+CW06 Hollow Common
+
+CW07 Belltower Gargoyle
+
+CW08 Balder Knight
+
+CW09 Rest by the Bonfire
+
+CW10 Focused Parry
+
+CW11 Tranquil Walk of Peace
+
+CW12 Husk Common
+
+CW13 Harmonize Disenchant
+
+CX01 Destined for More
+
+CX02 Looter
+
+CX03 Dark Grasp
+
+CX04 Cast Dork
+
+CX05 Protection
+
+CX06 Humanity Sprites
+
+CX07 Graveyard Card
+
+CX08 Conditional 3/3
+
+CX09 Noncreature Trigger
+
+CX10 Hybrid Cooperator
+
+UB01 Sac Payoff
+
+UB02 Bonewheel Skeleton
+
+UB03 Knights of Ash
+
+UB04 Chester, Epiphet
+
+UB05 Petrus, Drenched in Sin
+
+UB06 Mass of Souls
+type: Creature — Spirit Horror => Enchantment Creature — Soul Horror
+rules_text: Deathtouch
+{B}{B}, Hollow: Each creature gets -2/-2 until of turn. Activate only once each turn, and only as a sorcery. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Deathtouch
+{B}{B}, Hollow: Each creature gets -2/-2 until of turn. Activate only once as a sorcery. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+
+UB07 Frenzied Darkwraiths
+
+UB08 Sunlit Madness
+
+UB09 Reach of the Abyss
+
+UB10 Poison Mist
+
+UB11 Foil Escape
+
+UB12 Aggressive 1-drop
+
+UC01 Bounding Dragons
+cost: {5} => {4}
+
+UC02 Crystal Lizard
+
+UC03 Lurking Mimic
+type: Artifact Creature => Artifact Creature — Treasure Horror
+cost: {3} => {6}
+rules_text: Flash
+When this creature dies, create a Treasure token. => Flash
+When this creature enters, destroy target creature. Its controller creates a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+{T}, Sacrifice this creature: Add one mana of any color.
+
+UC08 Surveil Bounceland
+
+UC09 Firelink Shrine
+
+UG01 Eggburdened Servants
+
+UG02 Creature Self-replacer
+
+UG03 Soul Generator
+
+UG04 Return from GY on stick
+
+UG05 The Roots of Oolacile
+rules_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Create two 1/1 green Fungus creature tokens.
+special_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Create two 1/1 green Fungus creature tokens.
+
+UG06 Stone Guardian
+
+UG07 Taurus Demon
+
+UG08 Ashen Hydra
+
+UG09 Artifact/Enchantment Removal
+
+UG10 Group Pump
+
+UG11 Fang Boar Helm
+cost: {1}{G} => {3}{G}
+rules_text: When this artifact enters, create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Equipped creature gets +2/+2 and has trample.
+Equip {4} => When this Equipment enters, attach it to target creature you control. That creature fights up to one target creature.
+Equipped creature gets +2/+0 and has trample.
+Equip {3}
+
+UG12 Blessings of Sunlight
+rules_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+special_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+
+UM01 Rhea, Seeker of Kindling
+
+UM02 Pinwheel, Thrice-Masked
+
+UM03 Lautrec the Favored
+
+UM04 Izalith Firesage
+
+UM05 Siegmeyer, Honor-Bound Coward
+
+UM06 Darkmoon Knightess, Fire Keeper
+
+UM07 Asylum Jailor
+
+UM08 Alvina, Darkroot Mother
+
+UM09 Valley Stormkite
+
+UM10 Solaire, Sunlight Knight
+
+UM11 Tale of the Painted World
+
+UM12 Artorias Falls
+rules_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​
+special_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​
+
+UM13 The Undead Curse
+
+UM14 Nurturing Chaos
+
+UM15 Kindle the Flame
+
+UM16 Oswald, Velka's Arbiter
+
+UM17 Maneater Mildred
+
+UM18 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UM19 The Duke's Great Sorceries
+cost: {3}{U}{R} => {1}{U}{R}
+rules_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create two 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create two 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play those cards.
+III — Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UM20 Jolly Cooperation!
+
+UR01 Hollowing Mercenaries
+
+UR02 Impulse Attacker
+
+UR03 Batwing Demon
+rules_text: Flying
+At the beginning of combat on your turn, you may tap this creature. If you do, another target creature you control gains flying until end of turn. => Flying, haste
+At the beginning of combat on your turn, you may tap this creature. If you do, another target creature you control gains flying and haste until end of turn.
+
+UR04 Attacker buffer
+
+UR05 Burg Capra
+
+UR06 Dragonpath Hunter
+
+UR07 Treasure Creator
+
+UR08 In The Firstborn's Footsteps
+cost: {1}{R} => {2}{R}
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw a card and create a 1/1 red Dragon creature token with flying and “{1}{R}: This creature gets +1/+0 until end of turn.” => As an additional cost to cast this spell, hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Draw two cards, then create a tapped Treasure token and a 1/1 red Dragon creature token with flying and “{1}{R}: This creature gets +1/+0 until end of turn.”
+
+UR09 Blazing Breath
+
+UR10 Electrifying Strike
+
+UR11 Chaos Blade
+
+UR12 Path of the Dragon
+cost: {2}{R} => {1}{R}
+rules_text: Enchant creature
+Enchanted creature is a Dragon and has prowess.
+Whenever you cast an instant or sorcery spell, enchanted creature deals 1 damage to any player. 
+When enchanted creature dies, return this enchantment to your hand. => Enchant creature
+Enchanted creature is a Dragon and has prowess.
+When enchanted creature dies, return this Aura to your hand.
+
+UU01 New Londo Haunted
+rules_text: Flying
+When this creature enters, tap target permanent.
+{3}{U}: Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Flying
+When this creature enters, tap target nonland permanent.
+{3}{U}: Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+
+UU02 Beatrice, Seeker of Sorceries
+
+UU03 0-Power
+rules_text: {1}{U}: This creature gets +2/-2 until end of turn.
+At the beginning of your end step, if a creature you control left the battlefield this turn, mill three cards. Return up to one historic card milled this way to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {1}{U}: This creature gets +2/-2 until end of turn.
+At the beginning of your end step, if a creature you control left the battlefield this turn, surveil 3. You may reveal a historic card from among cards you surveil this way and put it into your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UU06 Valley Darkward
+
+UU07 Creature counterspell
+
+UU08 Logan's Obsession
+type: Sorcery => Instant
+
+UU09 Modal Spell
+
+UU10 Affinity Draw
+
+UU11 Just Another Undead
+
+UU12 The Paledrake's Pact
+rules_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast Dragon and sorcery spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+special_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast Dragon and sorcery spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+
+UW01 Aggressive 1-drop
+
+UW02 Go-Wide Payoff
+
+UW03 The Crestfallen Warrior
+
+UW04 OPT Draw
+
+UW05 Return-to-Hand Blade
+
+UW06 Double Striker
+
+UW07 Tarkus, Black Iron Champion
+
+UW08 Gwyn's Silver Knights
+
+UW09 Cheap Recursion
+
+UW10 Removal with downside
+
+UW11 Cheap Equipment
+
+UW12 Miracle: Magic Barrier
+
+UX01 Sieglinde, Epithet
+
+UX02 Velka's Devoted
+
+UX03 Scourge of the Valley
+rules_text: Flying, haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{2}{B}{R}, Exile a Dragon card from your graveyard: Return this creature card from your graveyard to the battlefield tapped. => Flying, haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{2}{BR}{BR}, Exile a creature card from your graveyard: Return this creature card from your graveyard to the battlefield tapped.
+
+UX05 Fire Keeper Anastacia
+
+UX06 Hollowed Obsession
+
+UX07 Buyback
+
+UX08 Dusk, Displaced Princess
+
+UX09 Domnhall, Epiphet
+
+UX10 Coop & Soul Supporter
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CG10 Grass Crest Shield added.
