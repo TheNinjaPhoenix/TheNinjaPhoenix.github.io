@@ -64,7 +64,7 @@
 			"name": "CB02 Fodder/Aggro",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature",
+			"type": "Creature — Zombie Soldier",
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/6.png"
@@ -441,7 +441,7 @@
 			}
 		},
 		{
-			"name": "CR09 Husk Equipment (damage)",
+			"name": "CR09 Fire Battleaxe",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Artifact — Equipment",
@@ -461,7 +461,7 @@
 			}
 		},
 		{
-			"name": "CR11 Rummaging/impulsive draw",
+			"name": "CR11 A Moment of Doubt",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
@@ -571,7 +571,7 @@
 			}
 		},
 		{
-			"name": "CU09 Protective Instant",
+			"name": "CU09 Ancient Oolacile's Sorceries",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
@@ -591,7 +591,7 @@
 			}
 		},
 		{
-			"name": "CU11 Top or Bottom Spell",
+			"name": "CU11 Dusk's Imprisonment",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
@@ -1183,7 +1183,7 @@
 		{
 			"name": "UM01 Rhea, Seeker of Kindling",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
+			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "128",
 			"image_uris": {
@@ -1223,7 +1223,7 @@
 		{
 			"name": "UM05 Siegmeyer, Honor-Bound Coward",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{W}",
+			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "132",
 			"image_uris": {
@@ -1283,7 +1283,7 @@
 		{
 			"name": "UM11 Tale of the Painted World",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "138",
 			"image_uris": {
@@ -1353,7 +1353,7 @@
 		{
 			"name": "UM18 The Wolf Knight's Legacy",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "145",
 			"image_uris": {
@@ -1671,10 +1671,10 @@
 			}
 		},
 		{
-			"name": "UW06 Double Striker",
+			"name": "UW06 Paladin of Ariamis",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Knight",
 			"collector_number": "21",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/167.png"
@@ -1937,7 +1937,7 @@
 	4 UW03 The Crestfallen Warrior
 	4 UW04 OPT Draw
 	4 UW05 Return-to-Hand Blade
-	4 UW06 Double Striker
+	4 UW06 Paladin of Ariamis
 	4 UW07 Tarkus, Black Iron Champion
 	4 UW08 Gwyn's Silver Knights
 	4 UW09 Cheap Recursion
@@ -1992,9 +1992,9 @@
 	8 CR06 Demon Statues
 	8 CR07 Centipede Demon
 	8 CR08 Husk Equipment (haste)
-	8 CR09 Husk Equipment (damage)
+	8 CR09 Fire Battleaxe
 	8 CR10 Combat trick
-	8 CR11 Rummaging/impulsive draw
+	8 CR11 A Moment of Doubt
 	8 CR12 Modal Shatter
 	8 CR13 Kalameet's Gaze
 	8 CU01 Modal Spell as Creature
@@ -2005,9 +2005,9 @@
 	8 CU06 Dragon-Path Scaleward
 	8 CU07 Blue Crystal Golem
 	8 CU08 Common Counterspell
-	8 CU09 Protective Instant
+	8 CU09 Ancient Oolacile's Sorceries
 	8 CU10 Big Draw Spell
-	8 CU11 Top or Bottom Spell
+	8 CU11 Dusk's Imprisonment
 	8 CU12 Crystal Curse
 	8 CU13 The Great Flood
 	8 CW01 Apprentice Fire Keeper
@@ -2073,9 +2073,9 @@
 	8 CR06 Demon Statues
 	8 CR07 Centipede Demon
 	8 CR08 Husk Equipment (haste)
-	8 CR09 Husk Equipment (damage)
+	8 CR09 Fire Battleaxe
 	8 CR10 Combat trick
-	8 CR11 Rummaging/impulsive draw
+	8 CR11 A Moment of Doubt
 	8 CR12 Modal Shatter
 	8 CR13 Kalameet's Gaze
 	8 CU01 Modal Spell as Creature
@@ -2086,9 +2086,9 @@
 	8 CU06 Dragon-Path Scaleward
 	8 CU07 Blue Crystal Golem
 	8 CU08 Common Counterspell
-	8 CU09 Protective Instant
+	8 CU09 Ancient Oolacile's Sorceries
 	8 CU10 Big Draw Spell
-	8 CU11 Top or Bottom Spell
+	8 CU11 Dusk's Imprisonment
 	8 CU12 Crystal Curse
 	8 CU13 The Great Flood
 	8 CW01 Apprentice Fire Keeper
@@ -2156,9 +2156,9 @@
 	12 CR06 Demon Statues
 	12 CR07 Centipede Demon
 	12 CR08 Husk Equipment (haste)
-	12 CR09 Husk Equipment (damage)
+	12 CR09 Fire Battleaxe
 	12 CR10 Combat trick
-	12 CR11 Rummaging/impulsive draw
+	12 CR11 A Moment of Doubt
 	12 CR12 Modal Shatter
 	12 CR13 Kalameet's Gaze
 	12 CU01 Modal Spell as Creature
@@ -2169,9 +2169,9 @@
 	12 CU06 Dragon-Path Scaleward
 	12 CU07 Blue Crystal Golem
 	12 CU08 Common Counterspell
-	12 CU09 Protective Instant
+	12 CU09 Ancient Oolacile's Sorceries
 	12 CU10 Big Draw Spell
-	12 CU11 Top or Bottom Spell
+	12 CU11 Dusk's Imprisonment
 	12 CU12 Crystal Curse
 	12 CU13 The Great Flood
 	12 CW01 Apprentice Fire Keeper
@@ -2279,7 +2279,7 @@
 	6 UW03 The Crestfallen Warrior
 	6 UW04 OPT Draw
 	6 UW05 Return-to-Hand Blade
-	6 UW06 Double Striker
+	6 UW06 Paladin of Ariamis
 	6 UW07 Tarkus, Black Iron Champion
 	6 UW08 Gwyn's Silver Knights
 	6 UW09 Cheap Recursion
@@ -2337,9 +2337,9 @@
 	6 CR06 Demon Statues
 	6 CR07 Centipede Demon
 	6 CR08 Husk Equipment (haste)
-	6 CR09 Husk Equipment (damage)
+	6 CR09 Fire Battleaxe
 	6 CR10 Combat trick
-	6 CR11 Rummaging/impulsive draw
+	6 CR11 A Moment of Doubt
 	6 CR12 Modal Shatter
 	6 CR13 Kalameet's Gaze
 	6 CU01 Modal Spell as Creature
@@ -2350,9 +2350,9 @@
 	6 CU06 Dragon-Path Scaleward
 	6 CU07 Blue Crystal Golem
 	6 CU08 Common Counterspell
-	6 CU09 Protective Instant
+	6 CU09 Ancient Oolacile's Sorceries
 	6 CU10 Big Draw Spell
-	6 CU11 Top or Bottom Spell
+	6 CU11 Dusk's Imprisonment
 	6 CU12 Crystal Curse
 	6 CU13 The Great Flood
 	6 CW01 Apprentice Fire Keeper
@@ -2460,7 +2460,7 @@
 	15 UW03 The Crestfallen Warrior
 	15 UW04 OPT Draw
 	15 UW05 Return-to-Hand Blade
-	15 UW06 Double Striker
+	15 UW06 Paladin of Ariamis
 	15 UW07 Tarkus, Black Iron Champion
 	15 UW08 Gwyn's Silver Knights
 	15 UW09 Cheap Recursion

@@ -1,4 +1,180 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+CR09 Fire Battleaxe added.
+CR11 A Moment of Doubt added.
+CU09 Ancient Oolacile's Sorceries added.
+CU11 Dusk's Imprisonment added.
+UW06 Paladin of Ariamis added.
+
+CR09 Husk Equipment (damage) removed.
+CR11 Rummaging/impulsive draw removed.
+CU09 Protective Instant removed.
+CU11 Top or Bottom Spell removed.
+UW06 Double Striker removed.
+
+CB02 Fodder/Aggro
+type: Creature => Creature — Zombie Soldier
+
+CG13 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+special_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+
+CU13 The Great Flood
+rules_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+
+CW02 Astoran Cleric
+
+CW10 Focused Parry
+
+UG05 The Roots of Oolacile
+rules_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens.
+special_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens.
+
+UG12 Blessings of Sunlight
+rules_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+special_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+
+UM01 Rhea, Seeker of Kindling
+cost: {1}{W}{U} => {W}{U}
+pt: 1/3 => 1/2
+
+UM05 Siegmeyer, Honor-Bound Coward
+cost: {3}{G}{W} => {2}{G}{W}
+
+UM09 Valley Stormkite
+rules_text: Flying
+When this creature enters, choose one — 
+• This creature deals 2 damage divided as you choose among one or two targets.
+• Return target instant or sorcery card from your graveyard to your hand. => Flying
+When this creature enters, choose one — 
+• This creature deals 2 damage to any target.
+• Return target instant or sorcery card from your graveyard to your hand.
+
+UM11 Tale of the Painted World
+cost: {2}{W}{U} => {1}{W}{U}
+
+UM12 Artorias Falls
+rules_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​
+special_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​
+
+UM13 The Undead Curse
+rules_text: At the beginning of your upkeep, create a 2/2 colorless Human creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste. => When this enchantment enters, and at the beginning of your upkeep, create a 2/2 colorless Human creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste.
+
+UM18 The Wolf Knight's Legacy
+cost: {2}{G}{U} => {1}{G}{U}
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UM19 The Duke's Great Sorceries
+rules_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 blue Human Wizard creature tokens with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play those cards.
+Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play those cards.
+III — When you next cast a Dragon, instant or sorcery spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 blue Human Wizard creature tokens with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play those cards.
+Add {U}{R}. If you spend this mana on a Dragon, instant or sorcery spell, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 blue Human Wizard creature tokens with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play those cards.
+III — When you next cast a Dragon, instant or sorcery spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UU12 The Paledrake's Pact
+rules_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+special_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 CW05 Sinful Missionary added.
