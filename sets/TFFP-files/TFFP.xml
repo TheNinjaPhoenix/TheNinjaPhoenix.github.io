@@ -5,7 +5,7 @@
 			<name>TFFP</name>
 			<longname>DarkSoulsTFFRareless</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-30</releasedate>
+			<releasedate>2026-05-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -537,13 +537,14 @@ Forestcycling {2G} ({2G}, Discard this card: Search your library for a Forest ca
 			<name>CG09 Disenchant Spell</name>
 			<text>Choose one —
 • Destroy target artifact or enchantment.
-• Exile target card from a graveyard. Draw a card.</text>
+• Exile target card from a graveyard. Draw a card.
+Harmonize {5}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/31.png" num="111">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>1G</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
@@ -1156,13 +1157,13 @@ This creature has +2/+0 as long as a token entered under your control this turn.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW05 Token Creator</name>
-			<text>Whenever this creature leaves the battlefield, create a 1/1 Human creature token.</text>
+			<name>CW05 Sinful Missionary</name>
+			<text>Whenever this creature leaves the battlefield, create a 1/1 black Bird creature token with flying.</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/66.png" num="7">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Cleric</type>
 				<maintype>Creature</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
@@ -1296,15 +1297,14 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CW13 Harmonize Disenchant</name>
-			<text>Destroy target artifact or enchantment.
-Harmonize {5}{W}{W} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+			<name>CW13 Disenchant</name>
+			<text>Destroy target artifact or enchantment.</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/74.png" num="15">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
@@ -1579,7 +1579,7 @@ Whenever Chester deals combat damage to a player, exile the top card of their li
 		<card>
 			<name>UB06 Mass of Souls</name>
 			<text>Deathtouch
-{B}{B}, Hollow: Each creature gets -2/-2 until of turn. Activate only once as a sorcery. (To hollow, sacrifice a nonland permanent or discard a card.)</text>
+{2}{B}{B}, Hollow: Each creature gets -2/-2 until of turn. Activate only once as a sorcery. (To hollow, sacrifice a nonland permanent or discard a card.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/90.png" num="71">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -2559,7 +2559,9 @@ Whenever this creature deals combat damage to a player, create that many tapped 
 		<card>
 			<name>UR08 In The Firstborn&apos;s Footsteps</name>
 			<text>As an additional cost to cast this spell, hollow. (To hollow, sacrifice a nonland permanent or discard a card.)
-Draw two cards, then create a 1/1 red Dragon creature token with flying and &quot;{1}{R}: This creature gets +1/+0 until end of turn.&quot;</text>
+Draw two cards, then choose one —
+• Create a tapped Treasure token.
+• Create a 1/1 red Dragon creature token with flying and &quot;{1}{R}: This creature gets +1/+0 until end of turn.&quot;</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/145.png" num="98">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3138,10 +3140,10 @@ Harmonize {5}{RG}{RG} (You may cast this card from your graveyard for its harmon
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2R/G</manacost>
-				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 			</prop>
@@ -3182,7 +3184,8 @@ Harmonize {5}{RG}{RG} (You may cast this card from your graveyard for its harmon
 		</card>
 		<card>
 			<name>UX07 Buyback</name>
-			<text>Sacrifice a permanent, then return a permanent card from your graveyard to your hand. If you sacrificed a creature this way, draw a card.</text>
+			<text>Sacrifice a permanent, then return a permanent card from your graveyard to your hand. If you sacrificed a creature this way, draw a card.
+Harmonize {6}{BG}{BG} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/180.png" num="164">TFFP</set>
 			<prop>
 				<layout>normal</layout>
@@ -3215,22 +3218,20 @@ Harmonize {5}{RG}{RG} (You may cast this card from your graveyard for its harmon
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UX09 Domnhall, Epiphet</name>
-			<text>When UX09 Domnhall enters, create a tapped Treasure token.
-The first time you cast a spell each turn, scry 2. If that spell was a Dragon, instant or sorcery spell, scry 2, then draw a card.</text>
+			<name>UX09 Uncommon Spellcopy</name>
+			<text>When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/182.png" num="166">TFFP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Artificer</type>
-				<maintype>Creature</maintype>
-				<manacost>3U/R</manacost>
-				<cmc>4</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/RU/R</manacost>
+				<cmc>2</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/4</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>UX10 Coop &amp; Soul Supporter</name>

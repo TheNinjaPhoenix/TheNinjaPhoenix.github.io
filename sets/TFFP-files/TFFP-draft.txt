@@ -314,7 +314,7 @@
 			"name": "CG09 Disenchant Spell",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/31.png"
@@ -661,10 +661,10 @@
 			}
 		},
 		{
-			"name": "CW05 Token Creator",
+			"name": "CW05 Sinful Missionary",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Cleric",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/66.png"
@@ -741,10 +741,10 @@
 			}
 		},
 		{
-			"name": "CW13 Harmonize Disenchant",
+			"name": "CW13 Disenchant",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/74.png"
@@ -1773,8 +1773,8 @@
 		{
 			"name": "UX04 Hunted by Demons",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R/G}",
-			"type": "Instant",
+			"mana_cost": "{1}{R/G}",
+			"type": "Sorcery",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/177.png"
@@ -1821,10 +1821,10 @@
 			}
 		},
 		{
-			"name": "UX09 Domnhall, Epiphet",
+			"name": "UX09 Uncommon Spellcopy",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U/R}",
-			"type": "Legendary Creature — Human Artificer",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Instant",
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/182.png"
@@ -1952,7 +1952,7 @@
 	4 UX06 Hollowed Obsession
 	4 UX07 Buyback
 	4 UX08 Dusk, Displaced Princess
-	4 UX09 Domnhall, Epiphet
+	4 UX09 Uncommon Spellcopy
 	4 UX10 Coop & Soul Supporter
 [common(6)]
 	8 CB01 Small Filter
@@ -2014,7 +2014,7 @@
 	8 CW02 Astoran Cleric
 	8 CW03 Tapper
 	8 CW04 Token Payoff
-	8 CW05 Token Creator
+	8 CW05 Sinful Missionary
 	8 CW06 Hollow Common
 	8 CW07 Belltower Gargoyle
 	8 CW08 Balder Knight
@@ -2022,7 +2022,7 @@
 	8 CW10 Focused Parry
 	8 CW11 Tranquil Walk of Peace
 	8 CW12 Husk Common
-	8 CW13 Harmonize Disenchant
+	8 CW13 Disenchant
 	8 CX01 Destined for More
 	8 CX02 Looter
 	8 CX03 Dark Grasp
@@ -2095,7 +2095,7 @@
 	8 CW02 Astoran Cleric
 	8 CW03 Tapper
 	8 CW04 Token Payoff
-	8 CW05 Token Creator
+	8 CW05 Sinful Missionary
 	8 CW06 Hollow Common
 	8 CW07 Belltower Gargoyle
 	8 CW08 Balder Knight
@@ -2103,7 +2103,7 @@
 	8 CW10 Focused Parry
 	8 CW11 Tranquil Walk of Peace
 	8 CW12 Husk Common
-	8 CW13 Harmonize Disenchant
+	8 CW13 Disenchant
 	8 CX01 Destined for More
 	8 CX02 Looter
 	8 CX03 Dark Grasp
@@ -2178,7 +2178,7 @@
 	12 CW02 Astoran Cleric
 	12 CW03 Tapper
 	12 CW04 Token Payoff
-	12 CW05 Token Creator
+	12 CW05 Sinful Missionary
 	12 CW06 Hollow Common
 	12 CW07 Belltower Gargoyle
 	12 CW08 Balder Knight
@@ -2186,7 +2186,7 @@
 	12 CW10 Focused Parry
 	12 CW11 Tranquil Walk of Peace
 	12 CW12 Husk Common
-	12 CW13 Harmonize Disenchant
+	12 CW13 Disenchant
 	12 CX01 Destined for More
 	12 CX02 Looter
 	12 CX03 Dark Grasp
@@ -2294,7 +2294,7 @@
 	6 UX06 Hollowed Obsession
 	6 UX07 Buyback
 	6 UX08 Dusk, Displaced Princess
-	6 UX09 Domnhall, Epiphet
+	6 UX09 Uncommon Spellcopy
 	6 UX10 Coop & Soul Supporter
 	12 CC03 Iron Sentinel
 [wildcard(1)]
@@ -2359,7 +2359,7 @@
 	6 CW02 Astoran Cleric
 	6 CW03 Tapper
 	6 CW04 Token Payoff
-	6 CW05 Token Creator
+	6 CW05 Sinful Missionary
 	6 CW06 Hollow Common
 	6 CW07 Belltower Gargoyle
 	6 CW08 Balder Knight
@@ -2367,7 +2367,7 @@
 	6 CW10 Focused Parry
 	6 CW11 Tranquil Walk of Peace
 	6 CW12 Husk Common
-	6 CW13 Harmonize Disenchant
+	6 CW13 Disenchant
 	6 CX01 Destined for More
 	6 CX02 Looter
 	6 CX03 Dark Grasp
@@ -2475,6 +2475,6 @@
 	15 UX06 Hollowed Obsession
 	15 UX07 Buyback
 	15 UX08 Dusk, Displaced Princess
-	15 UX09 Domnhall, Epiphet
+	15 UX09 Uncommon Spellcopy
 	15 UX10 Coop & Soul Supporter
 	6 CC03 Iron Sentinel

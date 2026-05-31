@@ -1,4 +1,47 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+CW05 Sinful Missionary added.
+CW13 Disenchant added.
+UX09 Uncommon Spellcopy added.
+
+CW05 Token Creator removed.
+CW13 Harmonize Disenchant removed.
+UX09 Domnhall, Epiphet removed.
+
+CG09 Disenchant Spell
+type: Instant => Sorcery
+rules_text: Choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard. Draw a card. => Choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard. Draw a card.
+Harmonize {5}{G}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+UB03 Knights of Ash
+
+UB06 Mass of Souls
+rules_text: Deathtouch
+{B}{B}, Hollow: Each creature gets -2/-2 until of turn. Activate only once as a sorcery. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Deathtouch
+{2}{B}{B}, Hollow: Each creature gets -2/-2 until of turn. Activate only once as a sorcery. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+
+UR08 In The Firstborn's Footsteps
+rules_text: As an additional cost to cast this spell, hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Draw two cards, then create a 1/1 red Dragon creature token with flying and “{1}{R}: This creature gets +1/+0 until end of turn.” => As an additional cost to cast this spell, hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Draw two cards, then choose one —
+• Create a tapped Treasure token.
+• Create a 1/1 red Dragon creature token with flying and “{1}{R}: This creature gets +1/+0 until end of turn.”
+
+UX04 Hunted by Demons
+type: Instant => Sorcery
+cost: {2}{RG} => {1}{RG}
+
+UX07 Buyback
+rules_text: Sacrifice a permanent, then return a permanent card from your graveyard to your hand. If you sacrificed a creature this way, draw a card. => Sacrifice a permanent, then return a permanent card from your graveyard to your hand. If you sacrificed a creature this way, draw a card.
+Harmonize {6}{BG}{BG} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 UC04 Harmonize/Coop/Historic Support added.
