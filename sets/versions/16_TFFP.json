@@ -701,7 +701,7 @@
             "notes": ""
         },
         {
-            "card_name": "CR01 Haste Upside",
+            "card_name": "CR01 Quelana's Apprentice",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human Shaman",
@@ -764,7 +764,7 @@
             "notes": ""
         },
         {
-            "card_name": "CR04 Exile on ETB",
+            "card_name": "CR04 Warrior of the Path",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human Dragon Warrior",
@@ -1646,11 +1646,11 @@
             "notes": ""
         },
         {
-            "card_name": "CZ07 Festering Knight",
+            "card_name": "CZ08 Festering Knight",
             "color": "BG",
             "rarity": "common",
             "type": "Creature \u2014 Zombie Knight",
-            "number": 155,
+            "number": 156,
             "color_identity": "BG",
             "cost": "{3}{BG}{BG}",
             "rules_text": "At the beginning of combat on your turn, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]\nWhenever you hollow, put a +1/+1 counter on this creature.",
@@ -1667,11 +1667,11 @@
             "notes": ""
         },
         {
-            "card_name": "CZ08 Roots of the World",
+            "card_name": "CZ10 Roots of the World",
             "color": "UG",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 156,
+            "number": 158,
             "color_identity": "UG",
             "cost": "{1}{GU}{GU}",
             "rules_text": "The first time you cast or copy a noncreature spell each turn, create a Soul token. [i](It's an enchantment with \u201c{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]",
@@ -1688,11 +1688,11 @@
             "notes": ""
         },
         {
-            "card_name": "CZ09 Azure Whelp",
+            "card_name": "CZ07 Azure Whelp",
             "color": "UR",
             "rarity": "common",
             "type": "Creature \u2014 Dragon",
-            "number": 157,
+            "number": 155,
             "color_identity": "UR",
             "cost": "{1}{UR}{UR}",
             "rules_text": "Flying\nWhenever you cast a Dragon, instant or sorcery spell, this creature deals 1 damage to target creature.",
@@ -1709,11 +1709,11 @@
             "notes": ""
         },
         {
-            "card_name": "CZ10 Swift Swordstress",
+            "card_name": "CZ09 Swift Swordstress",
             "color": "WR",
             "rarity": "common",
             "type": "Creature \u2014 Human Warrior",
-            "number": 158,
+            "number": 157,
             "color_identity": "WR",
             "cost": "{1}{RW}",
             "rules_text": "Cooperate {1}{RW} [i]({1}{RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)[/i]\nThe creature has first strike during your turn.",
@@ -2171,7 +2171,7 @@
             "notes": ""
         },
         {
-            "card_name": "UG02 Creature Self-replacer",
+            "card_name": "UG02 Forest-Clan Ambusher",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Rogue",
@@ -2192,11 +2192,11 @@
             "notes": ""
         },
         {
-            "card_name": "UZ07 Kirk, Knight of Thorns",
+            "card_name": "UZ08 Kirk, Knight of Thorns",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Knight",
-            "number": 165,
+            "number": 166,
             "color_identity": "BG",
             "cost": "{2}{BG}",
             "rules_text": "Whenever Kirk becomes blocked, defending player loses 2 life.\nWhenever Kirk deals combat damage to a player, create a Soul token. [i](It's an enchantment with \u201c{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]",
@@ -2318,7 +2318,7 @@
             "notes": ""
         },
         {
-            "card_name": "UG09 Artifact/Enchantment Removal",
+            "card_name": "UG09 Guardian's Respite",
             "color": "G",
             "rarity": "uncommon",
             "type": "Instant",
@@ -2528,11 +2528,11 @@
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
         {
-            "card_name": "UM07 Asylum Jailor",
+            "card_name": "UM08 Asylum Jailor",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon",
-            "number": 135,
+            "number": 136,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "Vigilance, reach\nWhen this creature enters, mill four cards, then you may put a creature card or land card from among the milled cards on top of your library.",
@@ -2549,11 +2549,11 @@
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
         {
-            "card_name": "UM08 Alvina, Darkroot Mother",
+            "card_name": "UM10 Alvina, Darkroot Mother",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Cat",
-            "number": 136,
+            "number": 138,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Whenever one or more creatures you control deal combat damage to a player, choose one \u2014\n\u2022 Put a lore counter on or remove a lore counter from target Saga you control. [i](Removing lore counters doesn't cause chapter abilities to trigger.)[/i]\n\u2022 Draw a card.",
@@ -2570,11 +2570,11 @@
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
         {
-            "card_name": "UM09 Valley Stormkite",
+            "card_name": "UM07 Valley Stormkite",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Dragon",
-            "number": 137,
+            "number": 135,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
             "rules_text": "Flying\nWhen this creature enters, choose one \u2014 \n\u2022 This creature deals 2 damage to any target.\n\u2022 Return target instant or sorcery card from your graveyard to your hand.",
@@ -2591,11 +2591,11 @@
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
         {
-            "card_name": "UM10 Solaire, Sunlight Knight",
+            "card_name": "UM09 Solaire, Sunlight Knight",
             "color": "WR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Knight",
-            "number": 138,
+            "number": 137,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Cooperate {R}{W} [i]({R}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)[/i]\nFirst strike\nAttacking creatures you control get +1/+0.",
@@ -2738,11 +2738,11 @@
             "notes": ""
         },
         {
-            "card_name": "UM17 Maneater Mildred",
+            "card_name": "UM18 Maneater Mildred",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Barbarian",
-            "number": 145,
+            "number": 146,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "When Maneater Mildred enters, you may hollow. If you do, draw a card. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]\nTrample\nManeater Mildred's power is equal to the number of creature cards in your graveyard.",
@@ -2759,17 +2759,17 @@
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
         {
-            "card_name": "UM18 The Wolf Knight's Legacy",
+            "card_name": "UM20 The Wolf Knight's Legacy",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 146,
+            "number": 148,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nCreate a 2/2 green Wolf creature token.\nI \u2014 Return up to one target creature to its owner's hand.\nII \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
+            "rules_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 2/2 green Wolf creature token.\nII \u2014 Return up to one target creature to its owner's hand.\nIII \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nCreate a 2/2 green Wolf creature token.\nI \u2014 Return up to one target creature to its owner's hand.\nII \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
+            "special_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 2/2 green Wolf creature token.\nII \u2014 Return up to one target creature to its owner's hand.\nIII \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
             "shape": "saga",
             "set": "TFFP",
             "loyalty": "",
@@ -2780,11 +2780,11 @@
             "notes": ""
         },
         {
-            "card_name": "UM19 The Duke's Great Sorceries",
+            "card_name": "UM17 The Duke's Great Sorceries",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Saga",
-            "number": 147,
+            "number": 145,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Bookmark r{3} \u2014 {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 1/1 blue Human Wizard creature token with prowess.\nII \u2014 Exile the top card of your library. Until the end of your next turn, you may play those cards.\nIII \u2014 When you next cast a Dragon, instant or sorcery spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]",
@@ -2801,11 +2801,11 @@
             "notes": ""
         },
         {
-            "card_name": "UM20 Jolly Cooperation!",
+            "card_name": "UM19 Jolly Cooperation!",
             "color": "WR",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 148,
+            "number": 147,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "When this enchantment enters, create a 2/2 white Human Knight creature token.\nWhenever a creature you control becomes the target of a spell or ability you control for the first time each turn, copy it. You may choose new targets for the copy.",
@@ -3200,7 +3200,7 @@
             "notes": ""
         },
         {
-            "card_name": "UU07 Creature counterspell",
+            "card_name": "UU07 Aural Snare",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
@@ -3326,7 +3326,7 @@
             "notes": ""
         },
         {
-            "card_name": "UW01 Aggressive 1-drop",
+            "card_name": "UW01 Way of White Guardian",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Knight",
@@ -3683,11 +3683,11 @@
             "notes": ""
         },
         {
-            "card_name": "UZ08 Dusk, Displaced Princess",
+            "card_name": "UZ10 Dusk, Displaced Princess",
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 166,
+            "number": 168,
             "color_identity": "UG",
             "cost": "{2}{GU}{GU}",
             "rules_text": "When Dusk enters, look at the top five cards of your library. You may reveal an instant, sorcery or Saga card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n{GU}, Sacrifice Dusk: Return target instant, sorcery or Saga card from your graveyard to your hand.",
@@ -3704,11 +3704,11 @@
             "notes": ""
         },
         {
-            "card_name": "UZ09 Paledrake's Mastery",
+            "card_name": "UZ07 Paledrake's Mastery",
             "color": "UR",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 167,
+            "number": 165,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
             "rules_text": "When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",
@@ -3725,11 +3725,11 @@
             "notes": ""
         },
         {
-            "card_name": "UZ10 Leeroy, Golden Champion",
+            "card_name": "UZ09 Leeroy, Golden Champion",
             "color": "WR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Knight",
-            "number": 168,
+            "number": 167,
             "color_identity": "WR",
             "cost": "{1}{RW}",
             "rules_text": "Whenever you put one or more +1/+1 counters on a creature you control, another target creature you control gets +1/+1 until end of turn.",

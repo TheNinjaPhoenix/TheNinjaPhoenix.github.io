@@ -1,6 +1,6 @@
 ﻿[
     {
-        "card_name": "UW01 Aggressive 1-drop",
+        "card_name": "UW01 Way of White Guardian",
         "number": 17,
         "shape": "normal",
         "set": "TFFP",
@@ -72,7 +72,7 @@
         "position": "135"
     },
     {
-        "card_name": "UG02 Creature Self-replacer",
+        "card_name": "UG02 Forest-Clan Ambusher",
         "number": 118,
         "shape": "normal",
         "set": "TFFP",
@@ -248,7 +248,7 @@
         "position": "164"
     },
     {
-        "card_name": "UU07 Creature counterspell",
+        "card_name": "UU07 Aural Snare",
         "number": 48,
         "shape": "normal",
         "set": "TFFP",
@@ -352,7 +352,7 @@
         "position": "142"
     },
     {
-        "card_name": "UG09 Artifact/Enchantment Removal",
+        "card_name": "UG09 Guardian's Respite",
         "number": 125,
         "shape": "normal",
         "set": "TFFP",
@@ -504,7 +504,7 @@
         "position": "194"
     },
     {
-        "card_name": "CR01 Haste Upside",
+        "card_name": "CR01 Quelana's Apprentice",
         "number": 79,
         "shape": "normal",
         "set": "TFFP",
@@ -624,7 +624,7 @@
         "position": "8"
     },
     {
-        "card_name": "CR04 Exile on ETB",
+        "card_name": "CR04 Warrior of the Path",
         "number": 82,
         "shape": "normal",
         "set": "TFFP",
@@ -1196,32 +1196,32 @@
         "position": "119"
     },
     {
-        "card_name": "UM09 Valley Stormkite",
-        "number": 137,
+        "card_name": "UM07 Valley Stormkite",
+        "number": 135,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "122"
     },
     {
-        "card_name": "UM07 Asylum Jailor",
-        "number": 135,
+        "card_name": "UM08 Asylum Jailor",
+        "number": 136,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "120"
     },
     {
-        "card_name": "UM10 Solaire, Sunlight Knight",
-        "number": 138,
+        "card_name": "UM09 Solaire, Sunlight Knight",
+        "number": 137,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "123"
     },
     {
-        "card_name": "UM08 Alvina, Darkroot Mother",
-        "number": 136,
+        "card_name": "UM10 Alvina, Darkroot Mother",
+        "number": 138,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
@@ -1236,32 +1236,32 @@
         "position": "129"
     },
     {
-        "card_name": "UM19 The Duke's Great Sorceries",
-        "number": 147,
+        "card_name": "UM17 The Duke's Great Sorceries",
+        "number": 145,
         "shape": "saga",
         "set": "TFFP",
         "rotated": false,
         "position": "132"
     },
     {
-        "card_name": "UM17 Maneater Mildred",
-        "number": 145,
+        "card_name": "UM18 Maneater Mildred",
+        "number": 146,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "130"
     },
     {
-        "card_name": "UM20 Jolly Cooperation!",
-        "number": 148,
+        "card_name": "UM19 Jolly Cooperation!",
+        "number": 147,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "133"
     },
     {
-        "card_name": "UM18 The Wolf Knight's Legacy",
-        "number": 146,
+        "card_name": "UM20 The Wolf Knight's Legacy",
+        "number": 148,
         "shape": "saga",
         "set": "TFFP",
         "rotated": false,
@@ -1276,32 +1276,32 @@
         "position": "174"
     },
     {
-        "card_name": "UZ09 Paledrake's Mastery",
-        "number": 167,
+        "card_name": "UZ07 Paledrake's Mastery",
+        "number": 165,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "176"
     },
     {
-        "card_name": "UZ07 Kirk, Knight of Thorns",
-        "number": 165,
+        "card_name": "UZ08 Kirk, Knight of Thorns",
+        "number": 166,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "104"
     },
     {
-        "card_name": "UZ10 Leeroy, Golden Champion",
-        "number": 168,
+        "card_name": "UZ09 Leeroy, Golden Champion",
+        "number": 167,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "177"
     },
     {
-        "card_name": "UZ08 Dusk, Displaced Princess",
-        "number": 166,
+        "card_name": "UZ10 Dusk, Displaced Princess",
+        "number": 168,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
@@ -1316,32 +1316,32 @@
         "position": "77"
     },
     {
-        "card_name": "CZ09 Azure Whelp",
-        "number": 157,
+        "card_name": "CZ07 Azure Whelp",
+        "number": 155,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "80"
     },
     {
-        "card_name": "CZ07 Festering Knight",
-        "number": 155,
+        "card_name": "CZ08 Festering Knight",
+        "number": 156,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "78"
     },
     {
-        "card_name": "CZ10 Swift Swordstress",
-        "number": 158,
+        "card_name": "CZ09 Swift Swordstress",
+        "number": 157,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
         "position": "81"
     },
     {
-        "card_name": "CZ08 Roots of the World",
-        "number": 156,
+        "card_name": "CZ10 Roots of the World",
+        "number": 158,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,

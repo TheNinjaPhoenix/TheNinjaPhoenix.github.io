@@ -1,4 +1,54 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+CR01 Quelana's Apprentice added.
+CR04 Warrior of the Path added.
+CZ08 Festering Knight added.
+CZ10 Roots of the World added.
+CZ07 Azure Whelp added.
+CZ09 Swift Swordstress added.
+UG02 Forest-Clan Ambusher added.
+UZ08 Kirk, Knight of Thorns added.
+UG09 Guardian's Respite added.
+UM08 Asylum Jailor added.
+UM10 Alvina, Darkroot Mother added.
+UM07 Valley Stormkite added.
+UM09 Solaire, Sunlight Knight added.
+UM18 Maneater Mildred added.
+UM20 The Wolf Knight's Legacy added.
+UM17 The Duke's Great Sorceries added.
+UM19 Jolly Cooperation! added.
+UU07 Aural Snare added.
+UW01 Way of White Guardian added.
+UZ10 Dusk, Displaced Princess added.
+UZ07 Paledrake's Mastery added.
+UZ09 Leeroy, Golden Champion added.
+
+CR01 Haste Upside removed.
+CR04 Exile on ETB removed.
+CZ07 Festering Knight removed.
+CZ08 Roots of the World removed.
+CZ09 Azure Whelp removed.
+CZ10 Swift Swordstress removed.
+UG02 Creature Self-replacer removed.
+UZ07 Kirk, Knight of Thorns removed.
+UG09 Artifact/Enchantment Removal removed.
+UM07 Asylum Jailor removed.
+UM08 Alvina, Darkroot Mother removed.
+UM09 Valley Stormkite removed.
+UM10 Solaire, Sunlight Knight removed.
+UM17 Maneater Mildred removed.
+UM18 The Wolf Knight's Legacy removed.
+UM19 The Duke's Great Sorceries removed.
+UM20 Jolly Cooperation! removed.
+UU07 Creature counterspell removed.
+UW01 Aggressive 1-drop removed.
+UZ08 Dusk, Displaced Princess removed.
+UZ09 Paledrake's Mastery removed.
+UZ10 Leeroy, Golden Champion removed.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 CB11 Barbed Blade added.

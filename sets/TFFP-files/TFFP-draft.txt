@@ -331,7 +331,7 @@
 			}
 		},
 		{
-			"name": "CR01 Haste Upside",
+			"name": "CR01 Quelana's Apprentice",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Shaman",
@@ -361,7 +361,7 @@
 			}
 		},
 		{
-			"name": "CR04 Exile on ETB",
+			"name": "CR04 Warrior of the Path",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Dragon Warrior",
@@ -781,41 +781,41 @@
 			}
 		},
 		{
-			"name": "CZ07 Festering Knight",
+			"name": "CZ08 Festering Knight",
 			"rarity": "common",
 			"mana_cost": "{3}{B/G}{B/G}",
 			"type": "Creature — Zombie Knight",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/78.png"
 			}
 		},
 		{
-			"name": "CZ08 Roots of the World",
+			"name": "CZ10 Roots of the World",
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Enchantment",
-			"collector_number": "156",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/79.png"
 			}
 		},
 		{
-			"name": "CZ09 Azure Whelp",
+			"name": "CZ07 Azure Whelp",
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Creature — Dragon",
-			"collector_number": "157",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/80.png"
 			}
 		},
 		{
-			"name": "CZ10 Swift Swordstress",
+			"name": "CZ09 Swift Swordstress",
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/81.png"
 			}
@@ -1031,7 +1031,7 @@
 			}
 		},
 		{
-			"name": "UG02 Creature Self-replacer",
+			"name": "UG02 Forest-Clan Ambusher",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Rogue",
@@ -1041,11 +1041,11 @@
 			}
 		},
 		{
-			"name": "UZ07 Kirk, Knight of Thorns",
+			"name": "UZ08 Kirk, Knight of Thorns",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/G}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/104.png"
 			}
@@ -1101,7 +1101,7 @@
 			}
 		},
 		{
-			"name": "UG09 Artifact/Enchantment Removal",
+			"name": "UG09 Guardian's Respite",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
@@ -1201,41 +1201,41 @@
 			}
 		},
 		{
-			"name": "UM07 Asylum Jailor",
+			"name": "UM08 Asylum Jailor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Demon",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/120.png"
 			}
 		},
 		{
-			"name": "UM08 Alvina, Darkroot Mother",
+			"name": "UM10 Alvina, Darkroot Mother",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Cat",
-			"collector_number": "136",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/121.png"
 			}
 		},
 		{
-			"name": "UM09 Valley Stormkite",
+			"name": "UM07 Valley Stormkite",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "137",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/122.png"
 			}
 		},
 		{
-			"name": "UM10 Solaire, Sunlight Knight",
+			"name": "UM09 Solaire, Sunlight Knight",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/123.png"
 			}
@@ -1301,41 +1301,41 @@
 			}
 		},
 		{
-			"name": "UM17 Maneater Mildred",
+			"name": "UM18 Maneater Mildred",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Human Barbarian",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/130.png"
 			}
 		},
 		{
-			"name": "UM18 The Wolf Knight's Legacy",
+			"name": "UM20 The Wolf Knight's Legacy",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "146",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/131.png"
 			}
 		},
 		{
-			"name": "UM19 The Duke's Great Sorceries",
+			"name": "UM17 The Duke's Great Sorceries",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "147",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/132.png"
 			}
 		},
 		{
-			"name": "UM20 Jolly Cooperation!",
+			"name": "UM19 Jolly Cooperation!",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/133.png"
 			}
@@ -1521,7 +1521,7 @@
 			}
 		},
 		{
-			"name": "UU07 Creature counterspell",
+			"name": "UU07 Aural Snare",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
@@ -1581,7 +1581,7 @@
 			}
 		},
 		{
-			"name": "UW01 Aggressive 1-drop",
+			"name": "UW01 Way of White Guardian",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Knight",
@@ -1751,31 +1751,31 @@
 			}
 		},
 		{
-			"name": "UZ08 Dusk, Displaced Princess",
+			"name": "UZ10 Dusk, Displaced Princess",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}{G/U}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "166",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/175.png"
 			}
 		},
 		{
-			"name": "UZ09 Paledrake's Mastery",
+			"name": "UZ07 Paledrake's Mastery",
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Instant",
-			"collector_number": "167",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/176.png"
 			}
 		},
 		{
-			"name": "UZ10 Leeroy, Golden Champion",
+			"name": "UZ09 Leeroy, Golden Champion",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/177.png"
 			}
@@ -2015,14 +2015,14 @@
 	4 UC08 Sen's Fortress
 	4 UC09 Firelink Shrine
 	4 UG01 Eggburdened Servants
-	4 UG02 Creature Self-replacer
-	4 UZ07 Kirk, Knight of Thorns
+	4 UG02 Forest-Clan Ambusher
+	4 UZ08 Kirk, Knight of Thorns
 	4 UG06 Sif, Guardian Gravewolf
 	4 UG05 The Roots of Oolacile
 	4 UG04 Stone Guardian
 	4 UG03 Royal Gardener
 	4 UG08 Ashen Hydra
-	4 UG09 Artifact/Enchantment Removal
+	4 UG09 Guardian's Respite
 	4 UG10 Plan of Attack
 	4 UG11 Fang Boar Helm
 	4 UG12 Blessings of Sunlight
@@ -2032,20 +2032,20 @@
 	4 UM04 Izalith Firesage
 	4 UM05 Siegmeyer, Honor-Bound Coward
 	4 UM06 Darkmoon Knightess, Fire Keeper
-	4 UM07 Asylum Jailor
-	4 UM08 Alvina, Darkroot Mother
-	4 UM09 Valley Stormkite
-	4 UM10 Solaire, Sunlight Knight
+	4 UM08 Asylum Jailor
+	4 UM10 Alvina, Darkroot Mother
+	4 UM07 Valley Stormkite
+	4 UM09 Solaire, Sunlight Knight
 	4 UM11 Tale of the Painted World
 	4 UM12 Artorias Falls
 	4 UM13 The Undead Curse
 	4 UM14 Nurturing Chaos
 	4 UM15 Kindle the Flame
 	4 UM16 Oswald, Velka's Pardoner
-	4 UM17 Maneater Mildred
-	4 UM18 The Wolf Knight's Legacy
-	4 UM19 The Duke's Great Sorceries
-	4 UM20 Jolly Cooperation!
+	4 UM18 Maneater Mildred
+	4 UM20 The Wolf Knight's Legacy
+	4 UM17 The Duke's Great Sorceries
+	4 UM19 Jolly Cooperation!
 	4 UR01 Hollowing Mercenaries
 	4 UR02 Impulsive Pyromancer
 	4 UR03 Batwing Demon
@@ -2064,13 +2064,13 @@
 	4 UU05 Seath's Pisaca
 	4 UU04 Forest-Clan Seeker
 	4 UU06 Valley Darkward
-	4 UU07 Creature counterspell
+	4 UU07 Aural Snare
 	4 UU08 Logan's Obsession
 	4 UU09 Eidas's Research
 	4 UU10 Visions of Ariamis
 	4 UU11 Just Another Undead
 	4 UU12 The Paledrake's Pact
-	4 UW01 Aggressive 1-drop
+	4 UW01 Way of White Guardian
 	4 UW02 Branded Healer
 	4 UW03 The Crestfallen Warrior
 	4 UW04 Astora Elite
@@ -2087,9 +2087,9 @@
 	4 UZ04 Hunted by Demons
 	4 UZ05 Fire Keeper Anastacia
 	4 UZ06 Hollowed Obsession
-	4 UZ08 Dusk, Displaced Princess
-	4 UZ09 Paledrake's Mastery
-	4 UZ10 Leeroy, Golden Champion
+	4 UZ10 Dusk, Displaced Princess
+	4 UZ07 Paledrake's Mastery
+	4 UZ09 Leeroy, Golden Champion
 	4 UB04 Chester, Epiphet
 	4 UW12 Light in the Dark
 	4 UG07 Taurus Demon
@@ -2121,10 +2121,10 @@
 	8 CG11 Estus Flask
 	8 CG12 Within the Archtree
 	8 CG13 From Firelink, Onwards
-	8 CR01 Haste Upside
+	8 CR01 Quelana's Apprentice
 	8 CR02 Dragonpath Zealot
 	8 CG02 Depths Lookout
-	8 CR04 Exile on ETB
+	8 CR04 Warrior of the Path
 	8 CR05 Cragspider
 	8 CR06 Demon Statues
 	8 CR07 Centipede Demon
@@ -2166,10 +2166,10 @@
 	8 CZ04 Servant of Chaos
 	8 CZ05 Undead Determination
 	8 CZ06 Humanity Sprites
-	8 CZ07 Festering Knight
-	8 CZ08 Roots of the World
-	8 CZ09 Azure Whelp
-	8 CZ10 Swift Swordstress
+	8 CZ08 Festering Knight
+	8 CZ10 Roots of the World
+	8 CZ07 Azure Whelp
+	8 CZ09 Swift Swordstress
 	8 CG08 Izalith Rockworm
 	8 CC03 Iron Sentinel
 	8 CR03 Ruthless Pyromancer
@@ -2203,10 +2203,10 @@
 	8 CG11 Estus Flask
 	8 CG12 Within the Archtree
 	8 CG13 From Firelink, Onwards
-	8 CR01 Haste Upside
+	8 CR01 Quelana's Apprentice
 	8 CR02 Dragonpath Zealot
 	8 CG02 Depths Lookout
-	8 CR04 Exile on ETB
+	8 CR04 Warrior of the Path
 	8 CR05 Cragspider
 	8 CR06 Demon Statues
 	8 CR07 Centipede Demon
@@ -2248,10 +2248,10 @@
 	8 CZ04 Servant of Chaos
 	8 CZ05 Undead Determination
 	8 CZ06 Humanity Sprites
-	8 CZ07 Festering Knight
-	8 CZ08 Roots of the World
-	8 CZ09 Azure Whelp
-	8 CZ10 Swift Swordstress
+	8 CZ08 Festering Knight
+	8 CZ10 Roots of the World
+	8 CZ07 Azure Whelp
+	8 CZ09 Swift Swordstress
 	8 CG08 Izalith Rockworm
 	8 CC03 Iron Sentinel
 	8 CR03 Ruthless Pyromancer
@@ -2286,10 +2286,10 @@
 	12 CG11 Estus Flask
 	12 CG12 Within the Archtree
 	12 CG13 From Firelink, Onwards
-	12 CR01 Haste Upside
+	12 CR01 Quelana's Apprentice
 	12 CR02 Dragonpath Zealot
 	12 CG02 Depths Lookout
-	12 CR04 Exile on ETB
+	12 CR04 Warrior of the Path
 	12 CR05 Cragspider
 	12 CR06 Demon Statues
 	12 CR07 Centipede Demon
@@ -2331,10 +2331,10 @@
 	12 CZ04 Servant of Chaos
 	12 CZ05 Undead Determination
 	12 CZ06 Humanity Sprites
-	12 CZ07 Festering Knight
-	12 CZ08 Roots of the World
-	12 CZ09 Azure Whelp
-	12 CZ10 Swift Swordstress
+	12 CZ08 Festering Knight
+	12 CZ10 Roots of the World
+	12 CZ07 Azure Whelp
+	12 CZ09 Swift Swordstress
 	6 UB01 Darkwraith Allegiant
 	6 UB02 Bonewheel Skeleton
 	6 UB03 Knights of Ash
@@ -2356,14 +2356,14 @@
 	6 UC08 Sen's Fortress
 	6 UC09 Firelink Shrine
 	6 UG01 Eggburdened Servants
-	6 UG02 Creature Self-replacer
-	6 UZ07 Kirk, Knight of Thorns
+	6 UG02 Forest-Clan Ambusher
+	6 UZ08 Kirk, Knight of Thorns
 	6 UG06 Sif, Guardian Gravewolf
 	6 UG05 The Roots of Oolacile
 	6 UG04 Stone Guardian
 	6 UG03 Royal Gardener
 	6 UG08 Ashen Hydra
-	6 UG09 Artifact/Enchantment Removal
+	6 UG09 Guardian's Respite
 	6 UG10 Plan of Attack
 	6 UG11 Fang Boar Helm
 	6 UG12 Blessings of Sunlight
@@ -2373,20 +2373,20 @@
 	6 UM04 Izalith Firesage
 	6 UM05 Siegmeyer, Honor-Bound Coward
 	6 UM06 Darkmoon Knightess, Fire Keeper
-	6 UM07 Asylum Jailor
-	6 UM08 Alvina, Darkroot Mother
-	6 UM09 Valley Stormkite
-	6 UM10 Solaire, Sunlight Knight
+	6 UM08 Asylum Jailor
+	6 UM10 Alvina, Darkroot Mother
+	6 UM07 Valley Stormkite
+	6 UM09 Solaire, Sunlight Knight
 	6 UM11 Tale of the Painted World
 	6 UM12 Artorias Falls
 	6 UM13 The Undead Curse
 	6 UM14 Nurturing Chaos
 	6 UM15 Kindle the Flame
 	6 UM16 Oswald, Velka's Pardoner
-	6 UM17 Maneater Mildred
-	6 UM18 The Wolf Knight's Legacy
-	6 UM19 The Duke's Great Sorceries
-	6 UM20 Jolly Cooperation!
+	6 UM18 Maneater Mildred
+	6 UM20 The Wolf Knight's Legacy
+	6 UM17 The Duke's Great Sorceries
+	6 UM19 Jolly Cooperation!
 	6 UR01 Hollowing Mercenaries
 	6 UR02 Impulsive Pyromancer
 	6 UR03 Batwing Demon
@@ -2405,13 +2405,13 @@
 	6 UU05 Seath's Pisaca
 	6 UU04 Forest-Clan Seeker
 	6 UU06 Valley Darkward
-	6 UU07 Creature counterspell
+	6 UU07 Aural Snare
 	6 UU08 Logan's Obsession
 	6 UU09 Eidas's Research
 	6 UU10 Visions of Ariamis
 	6 UU11 Just Another Undead
 	6 UU12 The Paledrake's Pact
-	6 UW01 Aggressive 1-drop
+	6 UW01 Way of White Guardian
 	6 UW02 Branded Healer
 	6 UW03 The Crestfallen Warrior
 	6 UW04 Astora Elite
@@ -2428,9 +2428,9 @@
 	6 UZ04 Hunted by Demons
 	6 UZ05 Fire Keeper Anastacia
 	6 UZ06 Hollowed Obsession
-	6 UZ08 Dusk, Displaced Princess
-	6 UZ09 Paledrake's Mastery
-	6 UZ10 Leeroy, Golden Champion
+	6 UZ10 Dusk, Displaced Princess
+	6 UZ07 Paledrake's Mastery
+	6 UZ09 Leeroy, Golden Champion
 	12 CC03 Iron Sentinel
 	12 CR03 Ruthless Pyromancer
 	12 CB01 Asylum Vermin
@@ -2467,10 +2467,10 @@
 	6 CG11 Estus Flask
 	6 CG12 Within the Archtree
 	6 CG13 From Firelink, Onwards
-	6 CR01 Haste Upside
+	6 CR01 Quelana's Apprentice
 	6 CR02 Dragonpath Zealot
 	6 CG02 Depths Lookout
-	6 CR04 Exile on ETB
+	6 CR04 Warrior of the Path
 	6 CR05 Cragspider
 	6 CR06 Demon Statues
 	6 CR07 Centipede Demon
@@ -2512,10 +2512,10 @@
 	6 CZ04 Servant of Chaos
 	6 CZ05 Undead Determination
 	6 CZ06 Humanity Sprites
-	6 CZ07 Festering Knight
-	6 CZ08 Roots of the World
-	6 CZ09 Azure Whelp
-	6 CZ10 Swift Swordstress
+	6 CZ08 Festering Knight
+	6 CZ10 Roots of the World
+	6 CZ07 Azure Whelp
+	6 CZ09 Swift Swordstress
 	15 UB01 Darkwraith Allegiant
 	15 UB02 Bonewheel Skeleton
 	15 UB03 Knights of Ash
@@ -2537,14 +2537,14 @@
 	15 UC08 Sen's Fortress
 	15 UC09 Firelink Shrine
 	15 UG01 Eggburdened Servants
-	15 UG02 Creature Self-replacer
-	15 UZ07 Kirk, Knight of Thorns
+	15 UG02 Forest-Clan Ambusher
+	15 UZ08 Kirk, Knight of Thorns
 	15 UG06 Sif, Guardian Gravewolf
 	15 UG05 The Roots of Oolacile
 	15 UG04 Stone Guardian
 	15 UG03 Royal Gardener
 	15 UG08 Ashen Hydra
-	15 UG09 Artifact/Enchantment Removal
+	15 UG09 Guardian's Respite
 	15 UG10 Plan of Attack
 	15 UG11 Fang Boar Helm
 	15 UG12 Blessings of Sunlight
@@ -2554,20 +2554,20 @@
 	15 UM04 Izalith Firesage
 	15 UM05 Siegmeyer, Honor-Bound Coward
 	15 UM06 Darkmoon Knightess, Fire Keeper
-	15 UM07 Asylum Jailor
-	15 UM08 Alvina, Darkroot Mother
-	15 UM09 Valley Stormkite
-	15 UM10 Solaire, Sunlight Knight
+	15 UM08 Asylum Jailor
+	15 UM10 Alvina, Darkroot Mother
+	15 UM07 Valley Stormkite
+	15 UM09 Solaire, Sunlight Knight
 	15 UM11 Tale of the Painted World
 	15 UM12 Artorias Falls
 	15 UM13 The Undead Curse
 	15 UM14 Nurturing Chaos
 	15 UM15 Kindle the Flame
 	15 UM16 Oswald, Velka's Pardoner
-	15 UM17 Maneater Mildred
-	15 UM18 The Wolf Knight's Legacy
-	15 UM19 The Duke's Great Sorceries
-	15 UM20 Jolly Cooperation!
+	15 UM18 Maneater Mildred
+	15 UM20 The Wolf Knight's Legacy
+	15 UM17 The Duke's Great Sorceries
+	15 UM19 Jolly Cooperation!
 	15 UR01 Hollowing Mercenaries
 	15 UR02 Impulsive Pyromancer
 	15 UR03 Batwing Demon
@@ -2586,13 +2586,13 @@
 	15 UU05 Seath's Pisaca
 	15 UU04 Forest-Clan Seeker
 	15 UU06 Valley Darkward
-	15 UU07 Creature counterspell
+	15 UU07 Aural Snare
 	15 UU08 Logan's Obsession
 	15 UU09 Eidas's Research
 	15 UU10 Visions of Ariamis
 	15 UU11 Just Another Undead
 	15 UU12 The Paledrake's Pact
-	15 UW01 Aggressive 1-drop
+	15 UW01 Way of White Guardian
 	15 UW02 Branded Healer
 	15 UW03 The Crestfallen Warrior
 	15 UW04 Astora Elite
@@ -2609,9 +2609,9 @@
 	15 UZ04 Hunted by Demons
 	15 UZ05 Fire Keeper Anastacia
 	15 UZ06 Hollowed Obsession
-	15 UZ08 Dusk, Displaced Princess
-	15 UZ09 Paledrake's Mastery
-	15 UZ10 Leeroy, Golden Champion
+	15 UZ10 Dusk, Displaced Princess
+	15 UZ07 Paledrake's Mastery
+	15 UZ09 Leeroy, Golden Champion
 	6 CC03 Iron Sentinel
 	6 CR03 Ruthless Pyromancer
 	6 CB01 Asylum Vermin
