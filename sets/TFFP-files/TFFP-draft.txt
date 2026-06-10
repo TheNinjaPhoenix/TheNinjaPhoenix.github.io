@@ -111,11 +111,11 @@
 			}
 		},
 		{
-			"name": "CB08 Darkmoon Longsword",
+			"name": "CB11 Barbed Blade",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "61",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/11.png"
 			}
@@ -131,21 +131,21 @@
 			}
 		},
 		{
-			"name": "CB10 Gain Favor",
+			"name": "CB08 Gain Favor",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/13.png"
 			}
 		},
 		{
-			"name": "CB11 Discard Spell",
+			"name": "CB10 Loss of Self",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/14.png"
 			}
@@ -191,7 +191,7 @@
 			}
 		},
 		{
-			"name": "UC04 Harmonize/Coop/Historic Support",
+			"name": "UC04 Pyromancer's Flame",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "CC05 Knight's Claymore",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
 			"collector_number": "171",
@@ -311,7 +311,7 @@
 			}
 		},
 		{
-			"name": "CG12 Roots of the Archtree",
+			"name": "CG12 Within the Archtree",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
@@ -421,7 +421,7 @@
 			}
 		},
 		{
-			"name": "CR10 Repel the Invaders",
+			"name": "CR10 Repel the Hordes",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
@@ -461,20 +461,20 @@
 			}
 		},
 		{
-			"name": "CU01 Modal Spell as Creature",
+			"name": "CU01 Darkmoon Squire",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature",
+			"type": "Creature — Human Knight",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/46.png"
 			}
 		},
 		{
-			"name": "CU03 Cheap Vigilance",
+			"name": "CU03 Wizened Spellsword",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature",
+			"type": "Creature — Human Knight",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/47.png"
@@ -541,7 +541,7 @@
 			}
 		},
 		{
-			"name": "CU09 Study Lost Magic",
+			"name": "CU09 Primal Sorceries",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
@@ -621,10 +621,10 @@
 			}
 		},
 		{
-			"name": "CW04 Encouraged Adventurer",
+			"name": "CW04 Knights-in-Arms",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Knight",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/62.png"
@@ -641,7 +641,7 @@
 			}
 		},
 		{
-			"name": "CW06 Spirit of Sunlight",
+			"name": "CW06 Spirit of the Altar",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Spirit Knight",
@@ -701,7 +701,7 @@
 			}
 		},
 		{
-			"name": "CW12 Husk Common",
+			"name": "CW12 Cleric's Talisman",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Equipment",
@@ -721,7 +721,7 @@
 			}
 		},
 		{
-			"name": "CX01 Destined for More",
+			"name": "CZ01 Destined for More",
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Sorcery",
@@ -731,17 +731,17 @@
 			}
 		},
 		{
-			"name": "CX02 Looter",
+			"name": "CZ02 Preying Bandit",
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
-			"type": "Creature",
+			"type": "Creature — Human Rogue",
 			"collector_number": "150",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/73.png"
 			}
 		},
 		{
-			"name": "CX03 Dark Grasp",
+			"name": "CZ03 Dark Grasp",
 			"rarity": "common",
 			"mana_cost": "{B/R}",
 			"type": "Sorcery",
@@ -751,17 +751,17 @@
 			}
 		},
 		{
-			"name": "CX04 Cast Dork",
+			"name": "CZ04 Servant of Chaos",
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
-			"type": "Creature",
+			"type": "Creature — Human Shaman",
 			"collector_number": "152",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/75.png"
 			}
 		},
 		{
-			"name": "CX05 Undead Determination",
+			"name": "CZ05 Undead Determination",
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Instant",
@@ -771,7 +771,7 @@
 			}
 		},
 		{
-			"name": "CX06 Humanity Sprites",
+			"name": "CZ06 Humanity Sprites",
 			"rarity": "common",
 			"mana_cost": "{W/B}",
 			"type": "Enchantment Creature — Soul Spirit",
@@ -781,27 +781,27 @@
 			}
 		},
 		{
-			"name": "CX07 Graveyard Card",
+			"name": "CZ07 Festering Knight",
 			"rarity": "common",
 			"mana_cost": "{3}{B/G}{B/G}",
-			"type": "Creature",
+			"type": "Creature — Zombie Knight",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/78.png"
 			}
 		},
 		{
-			"name": "CX08 Conditional 3/3",
+			"name": "CZ08 Roots of the World",
 			"rarity": "common",
-			"mana_cost": "{1}{G/U}",
-			"type": "Creature",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Enchantment",
 			"collector_number": "156",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/79.png"
 			}
 		},
 		{
-			"name": "CX09 Azure Whelp",
+			"name": "CZ09 Azure Whelp",
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Creature — Dragon",
@@ -811,10 +811,10 @@
 			}
 		},
 		{
-			"name": "CX10 Hybrid Cooperator",
+			"name": "CZ10 Swift Swordstress",
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
-			"type": "Creature",
+			"type": "Creature — Human Warrior",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/81.png"
@@ -921,7 +921,7 @@
 			}
 		},
 		{
-			"name": "UB12 Aggressive 1-drop",
+			"name": "UB12 Sinister Shotels",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Artifact — Equipment",
@@ -1001,7 +1001,7 @@
 			}
 		},
 		{
-			"name": "UC08 Surveil Bounceland",
+			"name": "UC08 Sen's Fortress",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
@@ -1041,7 +1041,7 @@
 			}
 		},
 		{
-			"name": "UX07 Kirk, Knight of Thorns",
+			"name": "UZ07 Kirk, Knight of Thorns",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/G}",
 			"type": "Legendary Creature — Human Knight",
@@ -1081,10 +1081,10 @@
 			}
 		},
 		{
-			"name": "UG03 Blighttown Explorer",
+			"name": "UG03 Royal Gardener",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Knight",
+			"type": "Creature — Scarecrow",
 			"collector_number": "119",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/108.png"
@@ -1111,7 +1111,7 @@
 			}
 		},
 		{
-			"name": "UG10 Group Pump",
+			"name": "UG10 Plan of Attack",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Sorcery",
@@ -1351,10 +1351,10 @@
 			}
 		},
 		{
-			"name": "UR02 Impulse Attacker",
+			"name": "UR02 Impulsive Pyromancer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature",
+			"type": "Creature — Human Shaman",
 			"collector_number": "93",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/135.png"
@@ -1371,10 +1371,10 @@
 			}
 		},
 		{
-			"name": "UR04 Attacker buffer",
+			"name": "UR04 Unrelenting Hollows",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature",
+			"type": "Creature — Zombie Soldier",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/137.png"
@@ -1401,10 +1401,10 @@
 			}
 		},
 		{
-			"name": "UR07 Treasure Creator",
+			"name": "UR07 Bridge Wyvern",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Creature",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/140.png"
@@ -1481,10 +1481,10 @@
 			}
 		},
 		{
-			"name": "UU03 0-Power",
+			"name": "UU03 Man-Eater Shell",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature",
+			"type": "Creature — Oyster Horror",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/148.png"
@@ -1541,7 +1541,7 @@
 			}
 		},
 		{
-			"name": "UU09 Modal Spell",
+			"name": "UU09 Eidas's Research",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
@@ -1584,17 +1584,17 @@
 			"name": "UW01 Aggressive 1-drop",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature",
+			"type": "Creature — Human Knight",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/158.png"
 			}
 		},
 		{
-			"name": "UW02 Go-Wide Payoff",
+			"name": "UW02 Branded Healer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Warrior Cleric",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/159.png"
@@ -1621,10 +1621,10 @@
 			}
 		},
 		{
-			"name": "UW05 Return-to-Hand Blade",
+			"name": "UW05 Allied Adventurer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Knight",
 			"collector_number": "21",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/162.png"
@@ -1671,7 +1671,7 @@
 			}
 		},
 		{
-			"name": "UW10 Removal with downside",
+			"name": "UW10 Righteous Strike",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
@@ -1681,17 +1681,17 @@
 			}
 		},
 		{
-			"name": "UW11 The Lifehunt Scythe",
+			"name": "UW11 Silver Knight Armor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Artifact — Equipment",
+			"type": "Artifact — Equipment",
 			"collector_number": "27",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/168.png"
 			}
 		},
 		{
-			"name": "UX01 Sieglinde, Epithet",
+			"name": "UZ01 Sieglinde, Epithet",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W/U}",
 			"type": "Legendary Creature — Human Knight",
@@ -1701,7 +1701,7 @@
 			}
 		},
 		{
-			"name": "UX02 Velka's Devoted",
+			"name": "UZ02 Velka's Devoted",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Creature — Human Bird Horror",
@@ -1711,7 +1711,7 @@
 			}
 		},
 		{
-			"name": "UX03 Scourge of the Valley",
+			"name": "UZ03 Scourge of the Valley",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Creature — Dragon Zombie",
@@ -1721,7 +1721,7 @@
 			}
 		},
 		{
-			"name": "UX04 Hunted by Demons",
+			"name": "UZ04 Hunted by Demons",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}",
 			"type": "Sorcery",
@@ -1731,7 +1731,7 @@
 			}
 		},
 		{
-			"name": "UX05 Fire Keeper Anastacia",
+			"name": "UZ05 Fire Keeper Anastacia",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}",
 			"type": "Legendary Creature — Human Cleric",
@@ -1741,7 +1741,7 @@
 			}
 		},
 		{
-			"name": "UX06 Hollowed Obsession",
+			"name": "UZ06 Hollowed Obsession",
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Instant",
@@ -1751,7 +1751,7 @@
 			}
 		},
 		{
-			"name": "UX08 Dusk, Displaced Princess",
+			"name": "UZ08 Dusk, Displaced Princess",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}{G/U}",
 			"type": "Legendary Creature — Human Noble",
@@ -1761,7 +1761,7 @@
 			}
 		},
 		{
-			"name": "UX09 Uncommon Spellcopy",
+			"name": "UZ09 Paledrake's Mastery",
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Instant",
@@ -1771,7 +1771,7 @@
 			}
 		},
 		{
-			"name": "UX10 Leeroy, Golden Champion",
+			"name": "UZ10 Leeroy, Golden Champion",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Human Knight",
@@ -1941,7 +1941,7 @@
 			}
 		},
 		{
-			"name": "CB01 Preying Bandit",
+			"name": "CB01 Asylum Vermin",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
@@ -1994,8 +1994,7 @@
 
 [rare(1)]
 [uncommon(3)]
-	4 UC04 Harmonize/Coop/Historic Support
-	4 CC05 Knight's Claymore
+	4 UC04 Pyromancer's Flame
 	4 UB01 Darkwraith Allegiant
 	4 UB02 Bonewheel Skeleton
 	4 UB03 Knights of Ash
@@ -2006,25 +2005,25 @@
 	4 UB09 Reach of the Abyss
 	4 UB10 Poison Mist
 	4 UB11 Foil Escape
-	4 UB12 Aggressive 1-drop
+	4 UB12 Sinister Shotels
 	4 UC03 Bounding Dragons
 	4 UC01 Crystal Lizard
 	4 UC02 Lurking Mimic
 	4 UC05 Altar to the Gods
 	4 UC06 Demon's Great Hammer
 	4 UC07 Zweihander
-	4 UC08 Surveil Bounceland
+	4 UC08 Sen's Fortress
 	4 UC09 Firelink Shrine
 	4 UG01 Eggburdened Servants
 	4 UG02 Creature Self-replacer
-	4 UX07 Kirk, Knight of Thorns
+	4 UZ07 Kirk, Knight of Thorns
 	4 UG06 Sif, Guardian Gravewolf
 	4 UG05 The Roots of Oolacile
 	4 UG04 Stone Guardian
-	4 UG03 Blighttown Explorer
+	4 UG03 Royal Gardener
 	4 UG08 Ashen Hydra
 	4 UG09 Artifact/Enchantment Removal
-	4 UG10 Group Pump
+	4 UG10 Plan of Attack
 	4 UG11 Fang Boar Helm
 	4 UG12 Blessings of Sunlight
 	4 UM01 Rhea, Seeker of Kindling
@@ -2048,12 +2047,12 @@
 	4 UM19 The Duke's Great Sorceries
 	4 UM20 Jolly Cooperation!
 	4 UR01 Hollowing Mercenaries
-	4 UR02 Impulse Attacker
+	4 UR02 Impulsive Pyromancer
 	4 UR03 Batwing Demon
-	4 UR04 Attacker buffer
+	4 UR04 Unrelenting Hollows
 	4 UR05 Burg Capra
 	4 UR06 Dragonpath Hunter
-	4 UR07 Treasure Creator
+	4 UR07 Bridge Wyvern
 	4 UR08 In The Firstborn's Footsteps
 	4 UR09 Blazing Breath
 	4 UR10 Electrifying Strike
@@ -2061,36 +2060,36 @@
 	4 UR12 Path of the Dragon
 	4 UU01 New Londo Haunted
 	4 UU02 Beatrice, Seeker of Sorceries
-	4 UU03 0-Power
+	4 UU03 Man-Eater Shell
 	4 UU05 Seath's Pisaca
 	4 UU04 Forest-Clan Seeker
 	4 UU06 Valley Darkward
 	4 UU07 Creature counterspell
 	4 UU08 Logan's Obsession
-	4 UU09 Modal Spell
+	4 UU09 Eidas's Research
 	4 UU10 Visions of Ariamis
 	4 UU11 Just Another Undead
 	4 UU12 The Paledrake's Pact
 	4 UW01 Aggressive 1-drop
-	4 UW02 Go-Wide Payoff
+	4 UW02 Branded Healer
 	4 UW03 The Crestfallen Warrior
 	4 UW04 Astora Elite
-	4 UW05 Return-to-Hand Blade
+	4 UW05 Allied Adventurer
 	4 UW06 Paladin of Ariamis
 	4 UW07 Tarkus, Black Iron Champion
 	4 UW08 Gwyn's Silver Knights
 	4 UW09 Cheap Recursion
-	4 UW10 Removal with downside
-	4 UW11 The Lifehunt Scythe
-	4 UX01 Sieglinde, Epithet
-	4 UX02 Velka's Devoted
-	4 UX03 Scourge of the Valley
-	4 UX04 Hunted by Demons
-	4 UX05 Fire Keeper Anastacia
-	4 UX06 Hollowed Obsession
-	4 UX08 Dusk, Displaced Princess
-	4 UX09 Uncommon Spellcopy
-	4 UX10 Leeroy, Golden Champion
+	4 UW10 Righteous Strike
+	4 UW11 Silver Knight Armor
+	4 UZ01 Sieglinde, Epithet
+	4 UZ02 Velka's Devoted
+	4 UZ03 Scourge of the Valley
+	4 UZ04 Hunted by Demons
+	4 UZ05 Fire Keeper Anastacia
+	4 UZ06 Hollowed Obsession
+	4 UZ08 Dusk, Displaced Princess
+	4 UZ09 Paledrake's Mastery
+	4 UZ10 Leeroy, Golden Champion
 	4 UB04 Chester, Epiphet
 	4 UW12 Light in the Dark
 	4 UG07 Taurus Demon
@@ -2101,15 +2100,16 @@
 	8 CB04 Watcher of Sins
 	8 CB06 Titanite Demon
 	8 CB07 Ariamis Phalanx
-	8 CB08 Darkmoon Longsword
+	8 CB11 Barbed Blade
 	8 CB09 Claimed by Death
-	8 CB10 Gain Favor
-	8 CB11 Discard Spell
+	8 CB08 Gain Favor
+	8 CB10 Loss of Self
 	8 CB12 Tale of the Abyss
 	8 CB13 Fina's Embrace
 	8 CC02 Oscar, Fading Failure
 	8 CC01 Purposeless Undead
 	8 CC04 Homeward Bone
+	8 CC05 Knight's Claymore
 	8 CC06 Abandoned Bonfire
 	8 CG03 Scouring Slime
 	8 CG04 Hollowing Merchant
@@ -2119,7 +2119,7 @@
 	8 CG09 Collapsing Strike
 	8 CG10 Grass Crest Shield
 	8 CG11 Estus Flask
-	8 CG12 Roots of the Archtree
+	8 CG12 Within the Archtree
 	8 CG13 From Firelink, Onwards
 	8 CR01 Haste Upside
 	8 CR02 Dragonpath Zealot
@@ -2130,19 +2130,19 @@
 	8 CR07 Centipede Demon
 	8 CR08 Merchant's Katana
 	8 CR09 Fire Battleaxe
-	8 CR10 Repel the Invaders
+	8 CR10 Repel the Hordes
 	8 CR11 A Moment of Doubt
 	8 CR12 Clash of Iron
 	8 CR13 Kalameet's Gaze
-	8 CU01 Modal Spell as Creature
-	8 CU03 Cheap Vigilance
+	8 CU01 Darkmoon Squire
+	8 CU03 Wizened Spellsword
 	8 CU02 Wayward Scholar
 	8 CU04 Vinheim Assassin
 	8 CU05 Valley Bluescale
 	8 CU06 Dragon-Path Scaleward
 	8 CU07 Blue Crystal Golem
 	8 CU08 Primeval Gaze
-	8 CU09 Study Lost Magic
+	8 CU09 Primal Sorceries
 	8 CU10 Blessings of the Darkmoon
 	8 CU11 Imprisoned Across Time
 	8 CU12 Crystal Curse
@@ -2150,30 +2150,30 @@
 	8 CW01 Apprentice Fire Keeper
 	8 CW02 Astoran Cleric
 	8 CW03 Soul Seeker
-	8 CW04 Encouraged Adventurer
+	8 CW04 Knights-in-Arms
 	8 CW05 Sinful Missionary
-	8 CW06 Spirit of Sunlight
+	8 CW06 Spirit of the Altar
 	8 CW07 Belltower Gargoyle
 	8 CW08 Balder Knight
 	8 CW09 Rest by the Bonfire
 	8 CW10 Focused Parry
 	8 CW11 Darkmoon Malediction
-	8 CW12 Husk Common
+	8 CW12 Cleric's Talisman
 	8 CW13 Corrupt Soul
-	8 CX01 Destined for More
-	8 CX02 Looter
-	8 CX03 Dark Grasp
-	8 CX04 Cast Dork
-	8 CX05 Undead Determination
-	8 CX06 Humanity Sprites
-	8 CX07 Graveyard Card
-	8 CX08 Conditional 3/3
-	8 CX09 Azure Whelp
-	8 CX10 Hybrid Cooperator
+	8 CZ01 Destined for More
+	8 CZ02 Preying Bandit
+	8 CZ03 Dark Grasp
+	8 CZ04 Servant of Chaos
+	8 CZ05 Undead Determination
+	8 CZ06 Humanity Sprites
+	8 CZ07 Festering Knight
+	8 CZ08 Roots of the World
+	8 CZ09 Azure Whelp
+	8 CZ10 Swift Swordstress
 	8 CG08 Izalith Rockworm
 	8 CC03 Iron Sentinel
 	8 CR03 Ruthless Pyromancer
-	8 CB01 Preying Bandit
+	8 CB01 Asylum Vermin
 	8 CG01 Flameblinded Witch
 [common | masterpiece(1)]
 	8 CB05 Wandering Vagabond
@@ -2182,15 +2182,16 @@
 	8 CB04 Watcher of Sins
 	8 CB06 Titanite Demon
 	8 CB07 Ariamis Phalanx
-	8 CB08 Darkmoon Longsword
+	8 CB11 Barbed Blade
 	8 CB09 Claimed by Death
-	8 CB10 Gain Favor
-	8 CB11 Discard Spell
+	8 CB08 Gain Favor
+	8 CB10 Loss of Self
 	8 CB12 Tale of the Abyss
 	8 CB13 Fina's Embrace
 	8 CC02 Oscar, Fading Failure
 	8 CC01 Purposeless Undead
 	8 CC04 Homeward Bone
+	8 CC05 Knight's Claymore
 	8 CC06 Abandoned Bonfire
 	8 CG03 Scouring Slime
 	8 CG04 Hollowing Merchant
@@ -2200,7 +2201,7 @@
 	8 CG09 Collapsing Strike
 	8 CG10 Grass Crest Shield
 	8 CG11 Estus Flask
-	8 CG12 Roots of the Archtree
+	8 CG12 Within the Archtree
 	8 CG13 From Firelink, Onwards
 	8 CR01 Haste Upside
 	8 CR02 Dragonpath Zealot
@@ -2211,19 +2212,19 @@
 	8 CR07 Centipede Demon
 	8 CR08 Merchant's Katana
 	8 CR09 Fire Battleaxe
-	8 CR10 Repel the Invaders
+	8 CR10 Repel the Hordes
 	8 CR11 A Moment of Doubt
 	8 CR12 Clash of Iron
 	8 CR13 Kalameet's Gaze
-	8 CU01 Modal Spell as Creature
-	8 CU03 Cheap Vigilance
+	8 CU01 Darkmoon Squire
+	8 CU03 Wizened Spellsword
 	8 CU02 Wayward Scholar
 	8 CU04 Vinheim Assassin
 	8 CU05 Valley Bluescale
 	8 CU06 Dragon-Path Scaleward
 	8 CU07 Blue Crystal Golem
 	8 CU08 Primeval Gaze
-	8 CU09 Study Lost Magic
+	8 CU09 Primal Sorceries
 	8 CU10 Blessings of the Darkmoon
 	8 CU11 Imprisoned Across Time
 	8 CU12 Crystal Curse
@@ -2231,30 +2232,30 @@
 	8 CW01 Apprentice Fire Keeper
 	8 CW02 Astoran Cleric
 	8 CW03 Soul Seeker
-	8 CW04 Encouraged Adventurer
+	8 CW04 Knights-in-Arms
 	8 CW05 Sinful Missionary
-	8 CW06 Spirit of Sunlight
+	8 CW06 Spirit of the Altar
 	8 CW07 Belltower Gargoyle
 	8 CW08 Balder Knight
 	8 CW09 Rest by the Bonfire
 	8 CW10 Focused Parry
 	8 CW11 Darkmoon Malediction
-	8 CW12 Husk Common
+	8 CW12 Cleric's Talisman
 	8 CW13 Corrupt Soul
-	8 CX01 Destined for More
-	8 CX02 Looter
-	8 CX03 Dark Grasp
-	8 CX04 Cast Dork
-	8 CX05 Undead Determination
-	8 CX06 Humanity Sprites
-	8 CX07 Graveyard Card
-	8 CX08 Conditional 3/3
-	8 CX09 Azure Whelp
-	8 CX10 Hybrid Cooperator
+	8 CZ01 Destined for More
+	8 CZ02 Preying Bandit
+	8 CZ03 Dark Grasp
+	8 CZ04 Servant of Chaos
+	8 CZ05 Undead Determination
+	8 CZ06 Humanity Sprites
+	8 CZ07 Festering Knight
+	8 CZ08 Roots of the World
+	8 CZ09 Azure Whelp
+	8 CZ10 Swift Swordstress
 	8 CG08 Izalith Rockworm
 	8 CC03 Iron Sentinel
 	8 CR03 Ruthless Pyromancer
-	8 CB01 Preying Bandit
+	8 CB01 Asylum Vermin
 	8 CG01 Flameblinded Witch
 [foil(1)]
 	12 CB05 Wandering Vagabond
@@ -2263,17 +2264,17 @@
 	12 CB04 Watcher of Sins
 	12 CB06 Titanite Demon
 	12 CB07 Ariamis Phalanx
-	12 CB08 Darkmoon Longsword
+	12 CB11 Barbed Blade
 	12 CB09 Claimed by Death
-	12 CB10 Gain Favor
-	12 CB11 Discard Spell
+	12 CB08 Gain Favor
+	12 CB10 Loss of Self
 	12 CB12 Tale of the Abyss
 	12 CB13 Fina's Embrace
 	12 CC02 Oscar, Fading Failure
 	12 CC01 Purposeless Undead
-	6 UC04 Harmonize/Coop/Historic Support
+	6 UC04 Pyromancer's Flame
 	12 CC04 Homeward Bone
-	6 CC05 Knight's Claymore
+	12 CC05 Knight's Claymore
 	12 CC06 Abandoned Bonfire
 	12 CG03 Scouring Slime
 	12 CG04 Hollowing Merchant
@@ -2283,7 +2284,7 @@
 	12 CG09 Collapsing Strike
 	12 CG10 Grass Crest Shield
 	12 CG11 Estus Flask
-	12 CG12 Roots of the Archtree
+	12 CG12 Within the Archtree
 	12 CG13 From Firelink, Onwards
 	12 CR01 Haste Upside
 	12 CR02 Dragonpath Zealot
@@ -2294,19 +2295,19 @@
 	12 CR07 Centipede Demon
 	12 CR08 Merchant's Katana
 	12 CR09 Fire Battleaxe
-	12 CR10 Repel the Invaders
+	12 CR10 Repel the Hordes
 	12 CR11 A Moment of Doubt
 	12 CR12 Clash of Iron
 	12 CR13 Kalameet's Gaze
-	12 CU01 Modal Spell as Creature
-	12 CU03 Cheap Vigilance
+	12 CU01 Darkmoon Squire
+	12 CU03 Wizened Spellsword
 	12 CU02 Wayward Scholar
 	12 CU04 Vinheim Assassin
 	12 CU05 Valley Bluescale
 	12 CU06 Dragon-Path Scaleward
 	12 CU07 Blue Crystal Golem
 	12 CU08 Primeval Gaze
-	12 CU09 Study Lost Magic
+	12 CU09 Primal Sorceries
 	12 CU10 Blessings of the Darkmoon
 	12 CU11 Imprisoned Across Time
 	12 CU12 Crystal Curse
@@ -2314,26 +2315,26 @@
 	12 CW01 Apprentice Fire Keeper
 	12 CW02 Astoran Cleric
 	12 CW03 Soul Seeker
-	12 CW04 Encouraged Adventurer
+	12 CW04 Knights-in-Arms
 	12 CW05 Sinful Missionary
-	12 CW06 Spirit of Sunlight
+	12 CW06 Spirit of the Altar
 	12 CW07 Belltower Gargoyle
 	12 CW08 Balder Knight
 	12 CW09 Rest by the Bonfire
 	12 CW10 Focused Parry
 	12 CW11 Darkmoon Malediction
-	12 CW12 Husk Common
+	12 CW12 Cleric's Talisman
 	12 CW13 Corrupt Soul
-	12 CX01 Destined for More
-	12 CX02 Looter
-	12 CX03 Dark Grasp
-	12 CX04 Cast Dork
-	12 CX05 Undead Determination
-	12 CX06 Humanity Sprites
-	12 CX07 Graveyard Card
-	12 CX08 Conditional 3/3
-	12 CX09 Azure Whelp
-	12 CX10 Hybrid Cooperator
+	12 CZ01 Destined for More
+	12 CZ02 Preying Bandit
+	12 CZ03 Dark Grasp
+	12 CZ04 Servant of Chaos
+	12 CZ05 Undead Determination
+	12 CZ06 Humanity Sprites
+	12 CZ07 Festering Knight
+	12 CZ08 Roots of the World
+	12 CZ09 Azure Whelp
+	12 CZ10 Swift Swordstress
 	6 UB01 Darkwraith Allegiant
 	6 UB02 Bonewheel Skeleton
 	6 UB03 Knights of Ash
@@ -2344,7 +2345,7 @@
 	6 UB09 Reach of the Abyss
 	6 UB10 Poison Mist
 	6 UB11 Foil Escape
-	6 UB12 Aggressive 1-drop
+	6 UB12 Sinister Shotels
 	6 UC03 Bounding Dragons
 	6 UC01 Crystal Lizard
 	6 UC02 Lurking Mimic
@@ -2352,18 +2353,18 @@
 	6 UC05 Altar to the Gods
 	6 UC06 Demon's Great Hammer
 	6 UC07 Zweihander
-	6 UC08 Surveil Bounceland
+	6 UC08 Sen's Fortress
 	6 UC09 Firelink Shrine
 	6 UG01 Eggburdened Servants
 	6 UG02 Creature Self-replacer
-	6 UX07 Kirk, Knight of Thorns
+	6 UZ07 Kirk, Knight of Thorns
 	6 UG06 Sif, Guardian Gravewolf
 	6 UG05 The Roots of Oolacile
 	6 UG04 Stone Guardian
-	6 UG03 Blighttown Explorer
+	6 UG03 Royal Gardener
 	6 UG08 Ashen Hydra
 	6 UG09 Artifact/Enchantment Removal
-	6 UG10 Group Pump
+	6 UG10 Plan of Attack
 	6 UG11 Fang Boar Helm
 	6 UG12 Blessings of Sunlight
 	6 UM01 Rhea, Seeker of Kindling
@@ -2387,12 +2388,12 @@
 	6 UM19 The Duke's Great Sorceries
 	6 UM20 Jolly Cooperation!
 	6 UR01 Hollowing Mercenaries
-	6 UR02 Impulse Attacker
+	6 UR02 Impulsive Pyromancer
 	6 UR03 Batwing Demon
-	6 UR04 Attacker buffer
+	6 UR04 Unrelenting Hollows
 	6 UR05 Burg Capra
 	6 UR06 Dragonpath Hunter
-	6 UR07 Treasure Creator
+	6 UR07 Bridge Wyvern
 	6 UR08 In The Firstborn's Footsteps
 	6 UR09 Blazing Breath
 	6 UR10 Electrifying Strike
@@ -2400,39 +2401,39 @@
 	6 UR12 Path of the Dragon
 	6 UU01 New Londo Haunted
 	6 UU02 Beatrice, Seeker of Sorceries
-	6 UU03 0-Power
+	6 UU03 Man-Eater Shell
 	6 UU05 Seath's Pisaca
 	6 UU04 Forest-Clan Seeker
 	6 UU06 Valley Darkward
 	6 UU07 Creature counterspell
 	6 UU08 Logan's Obsession
-	6 UU09 Modal Spell
+	6 UU09 Eidas's Research
 	6 UU10 Visions of Ariamis
 	6 UU11 Just Another Undead
 	6 UU12 The Paledrake's Pact
 	6 UW01 Aggressive 1-drop
-	6 UW02 Go-Wide Payoff
+	6 UW02 Branded Healer
 	6 UW03 The Crestfallen Warrior
 	6 UW04 Astora Elite
-	6 UW05 Return-to-Hand Blade
+	6 UW05 Allied Adventurer
 	6 UW06 Paladin of Ariamis
 	6 UW07 Tarkus, Black Iron Champion
 	6 UW08 Gwyn's Silver Knights
 	6 UW09 Cheap Recursion
-	6 UW10 Removal with downside
-	6 UW11 The Lifehunt Scythe
-	6 UX01 Sieglinde, Epithet
-	6 UX02 Velka's Devoted
-	6 UX03 Scourge of the Valley
-	6 UX04 Hunted by Demons
-	6 UX05 Fire Keeper Anastacia
-	6 UX06 Hollowed Obsession
-	6 UX08 Dusk, Displaced Princess
-	6 UX09 Uncommon Spellcopy
-	6 UX10 Leeroy, Golden Champion
+	6 UW10 Righteous Strike
+	6 UW11 Silver Knight Armor
+	6 UZ01 Sieglinde, Epithet
+	6 UZ02 Velka's Devoted
+	6 UZ03 Scourge of the Valley
+	6 UZ04 Hunted by Demons
+	6 UZ05 Fire Keeper Anastacia
+	6 UZ06 Hollowed Obsession
+	6 UZ08 Dusk, Displaced Princess
+	6 UZ09 Paledrake's Mastery
+	6 UZ10 Leeroy, Golden Champion
 	12 CC03 Iron Sentinel
 	12 CR03 Ruthless Pyromancer
-	12 CB01 Preying Bandit
+	12 CB01 Asylum Vermin
 	6 UB04 Chester, Epiphet
 	12 CG01 Flameblinded Witch
 	6 UW12 Light in the Dark
@@ -2444,17 +2445,17 @@
 	6 CB04 Watcher of Sins
 	6 CB06 Titanite Demon
 	6 CB07 Ariamis Phalanx
-	6 CB08 Darkmoon Longsword
+	6 CB11 Barbed Blade
 	6 CB09 Claimed by Death
-	6 CB10 Gain Favor
-	6 CB11 Discard Spell
+	6 CB08 Gain Favor
+	6 CB10 Loss of Self
 	6 CB12 Tale of the Abyss
 	6 CB13 Fina's Embrace
 	6 CC02 Oscar, Fading Failure
 	6 CC01 Purposeless Undead
-	15 UC04 Harmonize/Coop/Historic Support
+	15 UC04 Pyromancer's Flame
 	6 CC04 Homeward Bone
-	15 CC05 Knight's Claymore
+	6 CC05 Knight's Claymore
 	6 CC06 Abandoned Bonfire
 	6 CG03 Scouring Slime
 	6 CG04 Hollowing Merchant
@@ -2464,7 +2465,7 @@
 	6 CG09 Collapsing Strike
 	6 CG10 Grass Crest Shield
 	6 CG11 Estus Flask
-	6 CG12 Roots of the Archtree
+	6 CG12 Within the Archtree
 	6 CG13 From Firelink, Onwards
 	6 CR01 Haste Upside
 	6 CR02 Dragonpath Zealot
@@ -2475,19 +2476,19 @@
 	6 CR07 Centipede Demon
 	6 CR08 Merchant's Katana
 	6 CR09 Fire Battleaxe
-	6 CR10 Repel the Invaders
+	6 CR10 Repel the Hordes
 	6 CR11 A Moment of Doubt
 	6 CR12 Clash of Iron
 	6 CR13 Kalameet's Gaze
-	6 CU01 Modal Spell as Creature
-	6 CU03 Cheap Vigilance
+	6 CU01 Darkmoon Squire
+	6 CU03 Wizened Spellsword
 	6 CU02 Wayward Scholar
 	6 CU04 Vinheim Assassin
 	6 CU05 Valley Bluescale
 	6 CU06 Dragon-Path Scaleward
 	6 CU07 Blue Crystal Golem
 	6 CU08 Primeval Gaze
-	6 CU09 Study Lost Magic
+	6 CU09 Primal Sorceries
 	6 CU10 Blessings of the Darkmoon
 	6 CU11 Imprisoned Across Time
 	6 CU12 Crystal Curse
@@ -2495,26 +2496,26 @@
 	6 CW01 Apprentice Fire Keeper
 	6 CW02 Astoran Cleric
 	6 CW03 Soul Seeker
-	6 CW04 Encouraged Adventurer
+	6 CW04 Knights-in-Arms
 	6 CW05 Sinful Missionary
-	6 CW06 Spirit of Sunlight
+	6 CW06 Spirit of the Altar
 	6 CW07 Belltower Gargoyle
 	6 CW08 Balder Knight
 	6 CW09 Rest by the Bonfire
 	6 CW10 Focused Parry
 	6 CW11 Darkmoon Malediction
-	6 CW12 Husk Common
+	6 CW12 Cleric's Talisman
 	6 CW13 Corrupt Soul
-	6 CX01 Destined for More
-	6 CX02 Looter
-	6 CX03 Dark Grasp
-	6 CX04 Cast Dork
-	6 CX05 Undead Determination
-	6 CX06 Humanity Sprites
-	6 CX07 Graveyard Card
-	6 CX08 Conditional 3/3
-	6 CX09 Azure Whelp
-	6 CX10 Hybrid Cooperator
+	6 CZ01 Destined for More
+	6 CZ02 Preying Bandit
+	6 CZ03 Dark Grasp
+	6 CZ04 Servant of Chaos
+	6 CZ05 Undead Determination
+	6 CZ06 Humanity Sprites
+	6 CZ07 Festering Knight
+	6 CZ08 Roots of the World
+	6 CZ09 Azure Whelp
+	6 CZ10 Swift Swordstress
 	15 UB01 Darkwraith Allegiant
 	15 UB02 Bonewheel Skeleton
 	15 UB03 Knights of Ash
@@ -2525,7 +2526,7 @@
 	15 UB09 Reach of the Abyss
 	15 UB10 Poison Mist
 	15 UB11 Foil Escape
-	15 UB12 Aggressive 1-drop
+	15 UB12 Sinister Shotels
 	15 UC03 Bounding Dragons
 	15 UC01 Crystal Lizard
 	15 UC02 Lurking Mimic
@@ -2533,18 +2534,18 @@
 	15 UC05 Altar to the Gods
 	15 UC06 Demon's Great Hammer
 	15 UC07 Zweihander
-	15 UC08 Surveil Bounceland
+	15 UC08 Sen's Fortress
 	15 UC09 Firelink Shrine
 	15 UG01 Eggburdened Servants
 	15 UG02 Creature Self-replacer
-	15 UX07 Kirk, Knight of Thorns
+	15 UZ07 Kirk, Knight of Thorns
 	15 UG06 Sif, Guardian Gravewolf
 	15 UG05 The Roots of Oolacile
 	15 UG04 Stone Guardian
-	15 UG03 Blighttown Explorer
+	15 UG03 Royal Gardener
 	15 UG08 Ashen Hydra
 	15 UG09 Artifact/Enchantment Removal
-	15 UG10 Group Pump
+	15 UG10 Plan of Attack
 	15 UG11 Fang Boar Helm
 	15 UG12 Blessings of Sunlight
 	15 UM01 Rhea, Seeker of Kindling
@@ -2568,12 +2569,12 @@
 	15 UM19 The Duke's Great Sorceries
 	15 UM20 Jolly Cooperation!
 	15 UR01 Hollowing Mercenaries
-	15 UR02 Impulse Attacker
+	15 UR02 Impulsive Pyromancer
 	15 UR03 Batwing Demon
-	15 UR04 Attacker buffer
+	15 UR04 Unrelenting Hollows
 	15 UR05 Burg Capra
 	15 UR06 Dragonpath Hunter
-	15 UR07 Treasure Creator
+	15 UR07 Bridge Wyvern
 	15 UR08 In The Firstborn's Footsteps
 	15 UR09 Blazing Breath
 	15 UR10 Electrifying Strike
@@ -2581,39 +2582,39 @@
 	15 UR12 Path of the Dragon
 	15 UU01 New Londo Haunted
 	15 UU02 Beatrice, Seeker of Sorceries
-	15 UU03 0-Power
+	15 UU03 Man-Eater Shell
 	15 UU05 Seath's Pisaca
 	15 UU04 Forest-Clan Seeker
 	15 UU06 Valley Darkward
 	15 UU07 Creature counterspell
 	15 UU08 Logan's Obsession
-	15 UU09 Modal Spell
+	15 UU09 Eidas's Research
 	15 UU10 Visions of Ariamis
 	15 UU11 Just Another Undead
 	15 UU12 The Paledrake's Pact
 	15 UW01 Aggressive 1-drop
-	15 UW02 Go-Wide Payoff
+	15 UW02 Branded Healer
 	15 UW03 The Crestfallen Warrior
 	15 UW04 Astora Elite
-	15 UW05 Return-to-Hand Blade
+	15 UW05 Allied Adventurer
 	15 UW06 Paladin of Ariamis
 	15 UW07 Tarkus, Black Iron Champion
 	15 UW08 Gwyn's Silver Knights
 	15 UW09 Cheap Recursion
-	15 UW10 Removal with downside
-	15 UW11 The Lifehunt Scythe
-	15 UX01 Sieglinde, Epithet
-	15 UX02 Velka's Devoted
-	15 UX03 Scourge of the Valley
-	15 UX04 Hunted by Demons
-	15 UX05 Fire Keeper Anastacia
-	15 UX06 Hollowed Obsession
-	15 UX08 Dusk, Displaced Princess
-	15 UX09 Uncommon Spellcopy
-	15 UX10 Leeroy, Golden Champion
+	15 UW10 Righteous Strike
+	15 UW11 Silver Knight Armor
+	15 UZ01 Sieglinde, Epithet
+	15 UZ02 Velka's Devoted
+	15 UZ03 Scourge of the Valley
+	15 UZ04 Hunted by Demons
+	15 UZ05 Fire Keeper Anastacia
+	15 UZ06 Hollowed Obsession
+	15 UZ08 Dusk, Displaced Princess
+	15 UZ09 Paledrake's Mastery
+	15 UZ10 Leeroy, Golden Champion
 	6 CC03 Iron Sentinel
 	6 CR03 Ruthless Pyromancer
-	6 CB01 Preying Bandit
+	6 CB01 Asylum Vermin
 	15 UB04 Chester, Epiphet
 	6 CG01 Flameblinded Witch
 	15 UW12 Light in the Dark

@@ -1,4 +1,217 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+CB11 Barbed Blade added.
+CB08 Gain Favor added.
+CB10 Loss of Self added.
+UC04 Pyromancer's Flame added.
+CG12 Within the Archtree added.
+CR10 Repel the Hordes added.
+CU01 Darkmoon Squire added.
+CU03 Wizened Spellsword added.
+CU09 Primal Sorceries added.
+CW04 Knights-in-Arms added.
+CW06 Spirit of the Altar added.
+CW12 Cleric's Talisman added.
+CZ01 Destined for More added.
+CZ02 Preying Bandit added.
+CZ03 Dark Grasp added.
+CZ04 Servant of Chaos added.
+CZ05 Undead Determination added.
+CZ06 Humanity Sprites added.
+CZ07 Festering Knight added.
+CZ08 Roots of the World added.
+CZ09 Azure Whelp added.
+CZ10 Swift Swordstress added.
+UB12 Sinister Shotels added.
+UC08 Sen's Fortress added.
+UZ07 Kirk, Knight of Thorns added.
+UG03 Royal Gardener added.
+UG10 Plan of Attack added.
+UR02 Impulsive Pyromancer added.
+UR04 Unrelenting Hollows added.
+UR07 Bridge Wyvern added.
+UU03 Man-Eater Shell added.
+UU09 Eidas's Research added.
+UW02 Branded Healer added.
+UW05 Allied Adventurer added.
+UW10 Righteous Strike added.
+UW11 Silver Knight Armor added.
+UZ01 Sieglinde, Epithet added.
+UZ02 Velka's Devoted added.
+UZ03 Scourge of the Valley added.
+UZ04 Hunted by Demons added.
+UZ05 Fire Keeper Anastacia added.
+UZ06 Hollowed Obsession added.
+UZ08 Dusk, Displaced Princess added.
+UZ09 Paledrake's Mastery added.
+UZ10 Leeroy, Golden Champion added.
+CB01 Asylum Vermin added.
+
+CB08 Darkmoon Longsword removed.
+CB10 Gain Favor removed.
+CB11 Discard Spell removed.
+UC04 Harmonize/Coop/Historic Support removed.
+CG12 Roots of the Archtree removed.
+CR10 Repel the Invaders removed.
+CU01 Modal Spell as Creature removed.
+CU03 Cheap Vigilance removed.
+CU09 Study Lost Magic removed.
+CW04 Encouraged Adventurer removed.
+CW06 Spirit of Sunlight removed.
+CW12 Husk Common removed.
+CX01 Destined for More removed.
+CX02 Looter removed.
+CX03 Dark Grasp removed.
+CX04 Cast Dork removed.
+CX05 Undead Determination removed.
+CX06 Humanity Sprites removed.
+CX07 Graveyard Card removed.
+CX08 Conditional 3/3 removed.
+CX09 Azure Whelp removed.
+CX10 Hybrid Cooperator removed.
+UB12 Aggressive 1-drop removed.
+UC08 Surveil Bounceland removed.
+UX07 Kirk, Knight of Thorns removed.
+UG03 Blighttown Explorer removed.
+UG10 Group Pump removed.
+UR02 Impulse Attacker removed.
+UR04 Attacker buffer removed.
+UR07 Treasure Creator removed.
+UU03 0-Power removed.
+UU09 Modal Spell removed.
+UW02 Go-Wide Payoff removed.
+UW05 Return-to-Hand Blade removed.
+UW10 Removal with downside removed.
+UW11 The Lifehunt Scythe removed.
+UX01 Sieglinde, Epithet removed.
+UX02 Velka's Devoted removed.
+UX03 Scourge of the Valley removed.
+UX04 Hunted by Demons removed.
+UX05 Fire Keeper Anastacia removed.
+UX06 Hollowed Obsession removed.
+UX08 Dusk, Displaced Princess removed.
+UX09 Uncommon Spellcopy removed.
+UX10 Leeroy, Golden Champion removed.
+CB01 Preying Bandit removed.
+
+CC05 Knight's Claymore
+
+CG13 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II, III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+special_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II, III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+
+CU02 Wayward Scholar
+pt: 2/2 => 2/1
+
+CU04 Vinheim Assassin
+pt: 1/2 => 1/3
+
+CU13 The Great Flood
+
+CW03 Soul Seeker
+
+UG05 The Roots of Oolacile
+rules_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens.
+special_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens.
+
+UG12 Blessings of Sunlight
+rules_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+special_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+
+UM12 Artorias Falls
+rules_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​
+special_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​
+
+UM18 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return up to one target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+I — Return up to one target creature to its owner's hand.
+II — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UU12 The Paledrake's Pact
+rules_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+special_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+
+UW01 Aggressive 1-drop
+type: Creature => Creature — Human Knight
+
+UW09 Cheap Recursion
+
+CR03 Ruthless Pyromancer
+
+
+VERSION 14 CHANGELOG
 ====================
 
 CC02 Oscar, Fading Failure added.

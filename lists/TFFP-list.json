@@ -40,7 +40,7 @@
         "position": "102"
     },
     {
-        "card_name": "UW02 Go-Wide Payoff",
+        "card_name": "UW02 Branded Healer",
         "number": 18,
         "shape": "normal",
         "set": "TFFP",
@@ -64,7 +64,7 @@
         "position": "83"
     },
     {
-        "card_name": "UR02 Impulse Attacker",
+        "card_name": "UR02 Impulsive Pyromancer",
         "number": 93,
         "shape": "normal",
         "set": "TFFP",
@@ -88,7 +88,7 @@
         "position": "160"
     },
     {
-        "card_name": "UU03 0-Power",
+        "card_name": "UU03 Man-Eater Shell",
         "number": 44,
         "shape": "normal",
         "set": "TFFP",
@@ -112,7 +112,7 @@
         "position": "136"
     },
     {
-        "card_name": "UG03 Blighttown Explorer",
+        "card_name": "UG03 Royal Gardener",
         "number": 119,
         "shape": "normal",
         "set": "TFFP",
@@ -144,7 +144,7 @@
         "position": "195"
     },
     {
-        "card_name": "UR04 Attacker buffer",
+        "card_name": "UR04 Unrelenting Hollows",
         "number": 95,
         "shape": "normal",
         "set": "TFFP",
@@ -160,7 +160,7 @@
         "position": "107"
     },
     {
-        "card_name": "UW05 Return-to-Hand Blade",
+        "card_name": "UW05 Allied Adventurer",
         "number": 21,
         "shape": "normal",
         "set": "TFFP",
@@ -264,7 +264,7 @@
         "position": "87"
     },
     {
-        "card_name": "UR07 Treasure Creator",
+        "card_name": "UR07 Bridge Wyvern",
         "number": 98,
         "shape": "normal",
         "set": "TFFP",
@@ -328,7 +328,7 @@
         "position": "166"
     },
     {
-        "card_name": "UU09 Modal Spell",
+        "card_name": "UU09 Eidas's Research",
         "number": 50,
         "shape": "normal",
         "set": "TFFP",
@@ -360,7 +360,7 @@
         "position": "110"
     },
     {
-        "card_name": "UW10 Removal with downside",
+        "card_name": "UW10 Righteous Strike",
         "number": 26,
         "shape": "normal",
         "set": "TFFP",
@@ -392,7 +392,7 @@
         "position": "143"
     },
     {
-        "card_name": "UG10 Group Pump",
+        "card_name": "UG10 Plan of Attack",
         "number": 126,
         "shape": "normal",
         "set": "TFFP",
@@ -400,7 +400,7 @@
         "position": "111"
     },
     {
-        "card_name": "UW11 The Lifehunt Scythe",
+        "card_name": "UW11 Silver Knight Armor",
         "number": 27,
         "shape": "normal",
         "set": "TFFP",
@@ -456,7 +456,7 @@
         "position": "157"
     },
     {
-        "card_name": "UB12 Aggressive 1-drop",
+        "card_name": "UB12 Sinister Shotels",
         "number": 78,
         "shape": "normal",
         "set": "TFFP",
@@ -488,7 +488,7 @@
         "position": "59"
     },
     {
-        "card_name": "CU01 Modal Spell as Creature",
+        "card_name": "CU01 Darkmoon Squire",
         "number": 29,
         "shape": "normal",
         "set": "TFFP",
@@ -496,7 +496,7 @@
         "position": "46"
     },
     {
-        "card_name": "CB01 Preying Bandit",
+        "card_name": "CB01 Asylum Vermin",
         "number": 54,
         "shape": "normal",
         "set": "TFFP",
@@ -568,7 +568,7 @@
         "position": "61"
     },
     {
-        "card_name": "CU03 Cheap Vigilance",
+        "card_name": "CU03 Wizened Spellsword",
         "number": 31,
         "shape": "normal",
         "set": "TFFP",
@@ -600,7 +600,7 @@
         "position": "23"
     },
     {
-        "card_name": "CW04 Encouraged Adventurer",
+        "card_name": "CW04 Knights-in-Arms",
         "number": 7,
         "shape": "normal",
         "set": "TFFP",
@@ -680,7 +680,7 @@
         "position": "25"
     },
     {
-        "card_name": "CW06 Spirit of Sunlight",
+        "card_name": "CW06 Spirit of the Altar",
         "number": 9,
         "shape": "normal",
         "set": "TFFP",
@@ -776,12 +776,12 @@
         "position": "53"
     },
     {
-        "card_name": "CB08 Darkmoon Longsword",
+        "card_name": "CB08 Gain Favor",
         "number": 61,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "11"
+        "position": "13"
     },
     {
         "card_name": "CR08 Merchant's Katana",
@@ -808,7 +808,7 @@
         "position": "67"
     },
     {
-        "card_name": "CU09 Study Lost Magic",
+        "card_name": "CU09 Primal Sorceries",
         "number": 37,
         "shape": "normal",
         "set": "TFFP",
@@ -856,15 +856,15 @@
         "position": "55"
     },
     {
-        "card_name": "CB10 Gain Favor",
+        "card_name": "CB10 Loss of Self",
         "number": 63,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "13"
+        "position": "14"
     },
     {
-        "card_name": "CR10 Repel the Invaders",
+        "card_name": "CR10 Repel the Hordes",
         "number": 88,
         "shape": "normal",
         "set": "TFFP",
@@ -896,12 +896,12 @@
         "position": "56"
     },
     {
-        "card_name": "CB11 Discard Spell",
+        "card_name": "CB11 Barbed Blade",
         "number": 64,
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "14"
+        "position": "11"
     },
     {
         "card_name": "CR11 A Moment of Doubt",
@@ -920,7 +920,7 @@
         "position": "30"
     },
     {
-        "card_name": "CW12 Husk Common",
+        "card_name": "CW12 Cleric's Talisman",
         "number": 15,
         "shape": "normal",
         "set": "TFFP",
@@ -952,7 +952,7 @@
         "position": "44"
     },
     {
-        "card_name": "CG12 Roots of the Archtree",
+        "card_name": "CG12 Within the Archtree",
         "number": 115,
         "shape": "normal",
         "set": "TFFP",
@@ -1093,7 +1093,7 @@
         "position": "128"
     },
     {
-        "card_name": "UX01 Sieglinde, Epithet",
+        "card_name": "UZ01 Sieglinde, Epithet",
         "number": 159,
         "shape": "normal",
         "set": "TFFP",
@@ -1101,7 +1101,7 @@
         "position": "169"
     },
     {
-        "card_name": "UX02 Velka's Devoted",
+        "card_name": "UZ02 Velka's Devoted",
         "number": 160,
         "shape": "normal",
         "set": "TFFP",
@@ -1109,7 +1109,7 @@
         "position": "170"
     },
     {
-        "card_name": "UX03 Scourge of the Valley",
+        "card_name": "UZ03 Scourge of the Valley",
         "number": 161,
         "shape": "normal",
         "set": "TFFP",
@@ -1117,7 +1117,7 @@
         "position": "171"
     },
     {
-        "card_name": "UX04 Hunted by Demons",
+        "card_name": "UZ04 Hunted by Demons",
         "number": 162,
         "shape": "normal",
         "set": "TFFP",
@@ -1125,7 +1125,7 @@
         "position": "172"
     },
     {
-        "card_name": "UX05 Fire Keeper Anastacia",
+        "card_name": "UZ05 Fire Keeper Anastacia",
         "number": 163,
         "shape": "normal",
         "set": "TFFP",
@@ -1133,7 +1133,7 @@
         "position": "173"
     },
     {
-        "card_name": "CX01 Destined for More",
+        "card_name": "CZ01 Destined for More",
         "number": 149,
         "shape": "normal",
         "set": "TFFP",
@@ -1141,7 +1141,7 @@
         "position": "72"
     },
     {
-        "card_name": "CX02 Looter",
+        "card_name": "CZ02 Preying Bandit",
         "number": 150,
         "shape": "normal",
         "set": "TFFP",
@@ -1149,7 +1149,7 @@
         "position": "73"
     },
     {
-        "card_name": "CX03 Dark Grasp",
+        "card_name": "CZ03 Dark Grasp",
         "number": 151,
         "shape": "normal",
         "set": "TFFP",
@@ -1157,7 +1157,7 @@
         "position": "74"
     },
     {
-        "card_name": "CX04 Cast Dork",
+        "card_name": "CZ04 Servant of Chaos",
         "number": 152,
         "shape": "normal",
         "set": "TFFP",
@@ -1165,7 +1165,7 @@
         "position": "75"
     },
     {
-        "card_name": "CX05 Undead Determination",
+        "card_name": "CZ05 Undead Determination",
         "number": 153,
         "shape": "normal",
         "set": "TFFP",
@@ -1268,7 +1268,7 @@
         "position": "131"
     },
     {
-        "card_name": "UX06 Hollowed Obsession",
+        "card_name": "UZ06 Hollowed Obsession",
         "number": 164,
         "shape": "normal",
         "set": "TFFP",
@@ -1276,7 +1276,7 @@
         "position": "174"
     },
     {
-        "card_name": "UX09 Uncommon Spellcopy",
+        "card_name": "UZ09 Paledrake's Mastery",
         "number": 167,
         "shape": "normal",
         "set": "TFFP",
@@ -1284,7 +1284,7 @@
         "position": "176"
     },
     {
-        "card_name": "UX07 Kirk, Knight of Thorns",
+        "card_name": "UZ07 Kirk, Knight of Thorns",
         "number": 165,
         "shape": "normal",
         "set": "TFFP",
@@ -1292,7 +1292,7 @@
         "position": "104"
     },
     {
-        "card_name": "UX10 Leeroy, Golden Champion",
+        "card_name": "UZ10 Leeroy, Golden Champion",
         "number": 168,
         "shape": "normal",
         "set": "TFFP",
@@ -1300,7 +1300,7 @@
         "position": "177"
     },
     {
-        "card_name": "UX08 Dusk, Displaced Princess",
+        "card_name": "UZ08 Dusk, Displaced Princess",
         "number": 166,
         "shape": "normal",
         "set": "TFFP",
@@ -1308,7 +1308,7 @@
         "position": "175"
     },
     {
-        "card_name": "CX06 Humanity Sprites",
+        "card_name": "CZ06 Humanity Sprites",
         "number": 154,
         "shape": "normal",
         "set": "TFFP",
@@ -1316,7 +1316,7 @@
         "position": "77"
     },
     {
-        "card_name": "CX09 Azure Whelp",
+        "card_name": "CZ09 Azure Whelp",
         "number": 157,
         "shape": "normal",
         "set": "TFFP",
@@ -1324,7 +1324,7 @@
         "position": "80"
     },
     {
-        "card_name": "CX07 Graveyard Card",
+        "card_name": "CZ07 Festering Knight",
         "number": 155,
         "shape": "normal",
         "set": "TFFP",
@@ -1332,7 +1332,7 @@
         "position": "78"
     },
     {
-        "card_name": "CX10 Hybrid Cooperator",
+        "card_name": "CZ10 Swift Swordstress",
         "number": 158,
         "shape": "normal",
         "set": "TFFP",
@@ -1340,7 +1340,7 @@
         "position": "81"
     },
     {
-        "card_name": "CX08 Conditional 3/3",
+        "card_name": "CZ08 Roots of the World",
         "number": 156,
         "shape": "normal",
         "set": "TFFP",
@@ -1369,14 +1369,6 @@
         "position": "93"
     },
     {
-        "card_name": "CC05 Knight's Claymore",
-        "number": 171,
-        "shape": "normal",
-        "set": "TFFP",
-        "rotated": false,
-        "position": "21"
-    },
-    {
         "card_name": "UC01 Crystal Lizard",
         "number": 172,
         "shape": "normal",
@@ -1393,7 +1385,7 @@
         "position": "95"
     },
     {
-        "card_name": "UC04 Harmonize/Coop/Historic Support",
+        "card_name": "UC04 Pyromancer's Flame",
         "number": 174,
         "shape": "normal",
         "set": "TFFP",
@@ -1457,7 +1449,12 @@
         "position": "20"
     },
     {
-        "card_name": "e"
+        "card_name": "CC05 Knight's Claymore",
+        "number": 171,
+        "shape": "normal",
+        "set": "TFFP",
+        "rotated": false,
+        "position": "21"
     },
     {
         "card_name": "e"
@@ -1466,7 +1463,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1481,7 +1478,10 @@
         "card_name": "er"
     },
     {
-        "card_name": "UC08 Surveil Bounceland",
+        "card_name": "er"
+    },
+    {
+        "card_name": "UC08 Sen's Fortress",
         "number": 179,
         "shape": "normal",
         "set": "TFFP",
