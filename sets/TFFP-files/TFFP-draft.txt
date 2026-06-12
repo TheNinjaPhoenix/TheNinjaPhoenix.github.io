@@ -1573,7 +1573,7 @@
 		{
 			"name": "UU12 The Paledrake's Pact",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "53",
 			"image_uris": {
@@ -1661,7 +1661,7 @@
 			}
 		},
 		{
-			"name": "UW09 Cheap Recursion",
+			"name": "UW09 Channel Soul",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
@@ -1671,33 +1671,13 @@
 			}
 		},
 		{
-			"name": "UW10 Righteous Strike",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/167.png"
-			}
-		},
-		{
 			"name": "UW11 Silver Knight Armor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/168.png"
-			}
-		},
-		{
-			"name": "UZ01 Sieglinde, Epithet",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W/U}",
-			"type": "Legendary Creature — Human Knight",
-			"collector_number": "159",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/169.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/167.png"
 			}
 		},
 		{
@@ -1707,7 +1687,7 @@
 			"type": "Creature — Human Bird Horror",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/170.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/168.png"
 			}
 		},
 		{
@@ -1717,7 +1697,7 @@
 			"type": "Creature — Dragon Zombie",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/171.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/169.png"
 			}
 		},
 		{
@@ -1727,7 +1707,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/172.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/170.png"
 			}
 		},
 		{
@@ -1737,7 +1717,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/173.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/171.png"
 			}
 		},
 		{
@@ -1747,7 +1727,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/174.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/172.png"
 			}
 		},
 		{
@@ -1757,7 +1737,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/175.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/173.png"
 			}
 		},
 		{
@@ -1767,7 +1747,7 @@
 			"type": "Instant",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/176.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/174.png"
 			}
 		},
 		{
@@ -1777,7 +1757,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/177.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/175.png"
 			}
 		},
 		{
@@ -1787,7 +1767,7 @@
 			"type": "Artifact Creature — Construct Warrior",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/178.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/176.png"
 			}
 		},
 		{
@@ -1797,7 +1777,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/179.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/177.png"
 			}
 		},
 		{
@@ -1807,7 +1787,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/180.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/178.png"
 			}
 		},
 		{
@@ -1817,17 +1797,7 @@
 			"type": "Token",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/181.png"
-			}
-		},
-		{
-			"name": "A11 — Soul",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Enchantment — Soul",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/182.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/179.png"
 			}
 		},
 		{
@@ -1837,7 +1807,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/183.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/180.png"
 			}
 		},
 		{
@@ -1847,7 +1817,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/184.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/181.png"
 			}
 		},
 		{
@@ -1857,7 +1827,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/185.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/182.png"
 			}
 		},
 		{
@@ -1867,7 +1837,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/186.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/183.png"
 			}
 		},
 		{
@@ -1877,7 +1847,7 @@
 			"type": "Token Creature — Human Knight",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/187.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/184.png"
 			}
 		},
 		{
@@ -1887,7 +1857,7 @@
 			"type": "Token Creature — Illusion",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/188.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/185.png"
 			}
 		},
 		{
@@ -1897,7 +1867,7 @@
 			"type": "Token Creature — Human Wizard",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/189.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/186.png"
 			}
 		},
 		{
@@ -1907,7 +1877,7 @@
 			"type": "Token Creature — Zombie Dog",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/190.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/187.png"
 			}
 		},
 		{
@@ -1917,7 +1887,7 @@
 			"type": "Token Creature — Fungus",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/191.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/188.png"
 			}
 		},
 		{
@@ -1927,7 +1897,7 @@
 			"type": "Token Creature — Wolf",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/192.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/189.png"
 			}
 		},
 		{
@@ -1937,7 +1907,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/193.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/190.png"
 			}
 		},
 		{
@@ -1947,7 +1917,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/194.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/191.png"
 			}
 		},
 		{
@@ -1957,7 +1927,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/195.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/192.png"
 			}
 		},
 		{
@@ -1967,7 +1937,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/196.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/193.png"
 			}
 		},
 		{
@@ -1977,7 +1947,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/197.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/194.png"
 			}
 		},
 		{
@@ -1986,6 +1956,36 @@
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Demon Minotaur",
 			"collector_number": "123",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/195.png"
+			}
+		},
+		{
+			"name": "A11 — Soul",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Soul",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/196.png"
+			}
+		},
+		{
+			"name": "UW10 Righteous Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/197.png"
+			}
+		},
+		{
+			"name": "UZ01 Sieglinde, Epithet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/198.png"
 			}
@@ -2078,10 +2078,8 @@
 	4 UW06 Paladin of Ariamis
 	4 UW07 Tarkus, Black Iron Champion
 	4 UW08 Gwyn's Silver Knights
-	4 UW09 Cheap Recursion
-	4 UW10 Righteous Strike
+	4 UW09 Channel Soul
 	4 UW11 Silver Knight Armor
-	4 UZ01 Sieglinde, Epithet
 	4 UZ02 Velka's Devoted
 	4 UZ03 Scourge of the Valley
 	4 UZ04 Hunted by Demons
@@ -2093,6 +2091,8 @@
 	4 UB04 Chester, Epiphet
 	4 UW12 Light in the Dark
 	4 UG07 Taurus Demon
+	4 UW10 Righteous Strike
+	4 UZ01 Sieglinde, Epithet
 [common(6)]
 	8 CB05 Wandering Vagabond
 	8 CB02 Mindless Militia
@@ -2419,10 +2419,8 @@
 	6 UW06 Paladin of Ariamis
 	6 UW07 Tarkus, Black Iron Champion
 	6 UW08 Gwyn's Silver Knights
-	6 UW09 Cheap Recursion
-	6 UW10 Righteous Strike
+	6 UW09 Channel Soul
 	6 UW11 Silver Knight Armor
-	6 UZ01 Sieglinde, Epithet
 	6 UZ02 Velka's Devoted
 	6 UZ03 Scourge of the Valley
 	6 UZ04 Hunted by Demons
@@ -2438,6 +2436,8 @@
 	12 CG01 Flameblinded Witch
 	6 UW12 Light in the Dark
 	6 UG07 Taurus Demon
+	6 UW10 Righteous Strike
+	6 UZ01 Sieglinde, Epithet
 [wildcard(1)]
 	6 CB05 Wandering Vagabond
 	6 CB02 Mindless Militia
@@ -2600,10 +2600,8 @@
 	15 UW06 Paladin of Ariamis
 	15 UW07 Tarkus, Black Iron Champion
 	15 UW08 Gwyn's Silver Knights
-	15 UW09 Cheap Recursion
-	15 UW10 Righteous Strike
+	15 UW09 Channel Soul
 	15 UW11 Silver Knight Armor
-	15 UZ01 Sieglinde, Epithet
 	15 UZ02 Velka's Devoted
 	15 UZ03 Scourge of the Valley
 	15 UZ04 Hunted by Demons
@@ -2619,3 +2617,5 @@
 	6 CG01 Flameblinded Witch
 	15 UW12 Light in the Dark
 	15 UG07 Taurus Demon
+	15 UW10 Righteous Strike
+	15 UZ01 Sieglinde, Epithet

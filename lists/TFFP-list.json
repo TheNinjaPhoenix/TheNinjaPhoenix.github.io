@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "195"
+        "position": "192"
     },
     {
         "card_name": "UR04 Unrelenting Hollows",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "198"
+        "position": "195"
     },
     {
         "card_name": "UW08 Gwyn's Silver Knights",
@@ -320,7 +320,7 @@
         "position": "109"
     },
     {
-        "card_name": "UW09 Cheap Recursion",
+        "card_name": "UW09 Channel Soul",
         "number": 25,
         "shape": "normal",
         "set": "TFFP",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "167"
+        "position": "197"
     },
     {
         "card_name": "UU10 Visions of Ariamis",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "168"
+        "position": "167"
     },
     {
         "card_name": "UU11 Just Another Undead",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "197"
+        "position": "194"
     },
     {
         "card_name": "UU12 The Paledrake's Pact",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "194"
+        "position": "191"
     },
     {
         "card_name": "CR01 Quelana's Apprentice",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "196"
+        "position": "193"
     },
     {
         "card_name": "CW02 Astoran Cleric",
@@ -589,7 +589,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "179"
+        "position": "177"
     },
     {
         "card_name": "CG03 Scouring Slime",
@@ -1098,7 +1098,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "169"
+        "position": "198"
     },
     {
         "card_name": "UZ02 Velka's Devoted",
@@ -1106,7 +1106,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "170"
+        "position": "168"
     },
     {
         "card_name": "UZ03 Scourge of the Valley",
@@ -1114,7 +1114,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "171"
+        "position": "169"
     },
     {
         "card_name": "UZ04 Hunted by Demons",
@@ -1122,7 +1122,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "172"
+        "position": "170"
     },
     {
         "card_name": "UZ05 Fire Keeper Anastacia",
@@ -1130,7 +1130,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "173"
+        "position": "171"
     },
     {
         "card_name": "CZ01 Destined for More",
@@ -1273,7 +1273,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "174"
+        "position": "172"
     },
     {
         "card_name": "UZ07 Paledrake's Mastery",
@@ -1281,7 +1281,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "176"
+        "position": "174"
     },
     {
         "card_name": "UZ08 Kirk, Knight of Thorns",
@@ -1297,7 +1297,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "177"
+        "position": "175"
     },
     {
         "card_name": "UZ10 Dusk, Displaced Princess",
@@ -1305,7 +1305,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "175"
+        "position": "173"
     },
     {
         "card_name": "CZ06 Humanity Sprites",
@@ -1438,7 +1438,7 @@
         "shape": "normal",
         "set": "TFFP",
         "rotated": false,
-        "position": "178"
+        "position": "176"
     },
     {
         "card_name": "CC04 Homeward Bone",
@@ -1584,7 +1584,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "180"
+        "position": "178"
     },
     {
         "card_name": "A11 \u2014 Soul",
@@ -1592,7 +1592,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "182"
+        "position": "196"
     },
     {
         "card_name": "A14 \u2014 Copy",
@@ -1600,7 +1600,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "181"
+        "position": "179"
     },
     {
         "card_name": "A12 \u2014 Treasure",
@@ -1608,7 +1608,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "185"
+        "position": "182"
     },
     {
         "card_name": "A02 \u2014 Human",
@@ -1616,7 +1616,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "186"
+        "position": "183"
     },
     {
         "card_name": "A03 \u2014 Human Knight",
@@ -1624,7 +1624,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "187"
+        "position": "184"
     },
     {
         "card_name": "A04 \u2014 Illusion",
@@ -1632,7 +1632,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "188"
+        "position": "185"
     },
     {
         "card_name": "A05 \u2014 Human Wizard",
@@ -1640,7 +1640,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "189"
+        "position": "186"
     },
     {
         "card_name": "A06 \u2014 Bird",
@@ -1648,7 +1648,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "183"
+        "position": "180"
     },
     {
         "card_name": "A07 \u2014 Dog",
@@ -1656,7 +1656,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "190"
+        "position": "187"
     },
     {
         "card_name": "A08 \u2014 Dragon",
@@ -1664,7 +1664,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "193"
+        "position": "190"
     },
     {
         "card_name": "A09 \u2014 Fungus",
@@ -1672,7 +1672,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "191"
+        "position": "188"
     },
     {
         "card_name": "A10 \u2014 Wolf",
@@ -1680,7 +1680,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "192"
+        "position": "189"
     },
     {
         "card_name": "A13 \u2014 Estus Flask",
@@ -1688,7 +1688,7 @@
         "shape": "token",
         "set": "TFFP",
         "rotated": false,
-        "position": "184"
+        "position": "181"
     },
     {
         "card_name": "e"

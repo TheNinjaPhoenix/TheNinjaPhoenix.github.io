@@ -183,7 +183,7 @@
             "number": 147,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
-            "rules_text": "Defender, reach\nWhen The Bed of Chaos enters, create two 0/1 red and green Demon Insect creature tokens named Chaos Bug with \u201c{T}, Sacrifice this creature: Add {R} or {G}.\u201d\nWhenever you cast a spell, if mana from a creature was spent to cast it, copy it. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]",
+            "rules_text": "Defender, reach\nWhen The Bed of Chaos enters, create two 0/1 red and green Demon Insect creature tokens named Chaos Bug with \u201c{T}, Sacrifice this creature: Add {R} or {G}.\u201d\nWhenever you cast a spell, if mana from a creature was spent to cast it, you may copy it. You may choose new targets for the copy. Activate only once each turn. [i](A copy of a permanent spell becomes a token.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -218,27 +218,6 @@
             "notes": ""
         },
         {
-            "card_name": "MM07 Seath, Epithet",
-            "color": "UR",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Elder Dragon",
-            "number": 148,
-            "color_identity": "UR",
-            "cost": "{3}{U}{U}{R}{R}",
-            "rules_text": "Flying\nAt the beginning of your upkeep, you may exile your hand, then draw that many cards.\nYou may play land cards and cast Dragon, instant and sorcery cards from among cards you own that were put into exile this turn.\nWhenever you cast a sorcery spell, Seath, Epithet deals 2 damage to any target.",
-            "flavor_text": "[i][/i]",
-            "pt": "6/6",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TFF",
-            "loyalty": "",
-            "artist": "Pablo Fernandez",
-            "alias": "",
-            "position": "10",
-            "rotated": false,
-            "notes": ""
-        },
-        {
             "card_name": "MM09 The Age of Fire",
             "color": "WR",
             "rarity": "mythic",
@@ -255,7 +234,7 @@
             "loyalty": "",
             "artist": "Yujia0412",
             "alias": "",
-            "position": "11",
+            "position": "10",
             "rotated": false,
             "notes": "[20 mythics are listed for the set skeleton. I've assigned two per color, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
         },
@@ -276,7 +255,7 @@
             "loyalty": "",
             "artist": "ArtofChamil",
             "alias": "",
-            "position": "12",
+            "position": "11",
             "rotated": false,
             "notes": "[20 mythics are listed for the set skeleton. I've assigned two per color, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
         },
@@ -297,7 +276,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "13",
+            "position": "12",
             "rotated": false,
             "notes": ""
         },
@@ -318,7 +297,7 @@
             "loyalty": "",
             "artist": "Jack Reynard",
             "alias": "",
-            "position": "14",
+            "position": "13",
             "rotated": false,
             "notes": "[20 mythics are listed for the set skeleton. I've assigned two per color, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
         },
@@ -339,7 +318,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "15",
+            "position": "14",
             "rotated": false,
             "notes": ""
         },
@@ -351,7 +330,7 @@
             "number": 149,
             "color_identity": "BG",
             "cost": "{2}{B}{B}{G}",
-            "rules_text": "Deathtouch\nThe first time you hollow each turn, choose up to one creature card hollowed this way. Exile cards from the top of your library until you exile a creature card with mana value less than or equal to the chosen card. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]",
+            "rules_text": "Deathtouch\n{1}{B}{G}, Sacrifice a creature: Create a copy that's a token of that creature, or a token that's a copy of target creature card in graveyard with mana value equal to 1 plus the sacrificed creature's mana value. They're black Skeletons in addition to their other types. Activate only once per turn, and only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -360,7 +339,7 @@
             "loyalty": "",
             "artist": "Kazo",
             "alias": "",
-            "position": "16",
+            "position": "15",
             "rotated": false,
             "notes": "[20 mythics are listed for the set skeleton. I've assigned two per color, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
         },
@@ -381,7 +360,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "17",
+            "position": "16",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
         },
@@ -402,7 +381,7 @@
             "loyalty": "",
             "artist": "Headdl",
             "alias": "",
-            "position": "18",
+            "position": "17",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
         },
@@ -423,7 +402,7 @@
             "loyalty": "",
             "artist": "Raquel Cornejo",
             "alias": "",
-            "position": "19",
+            "position": "18",
             "rotated": false,
             "notes": ""
         },
@@ -444,7 +423,7 @@
             "loyalty": "",
             "artist": "MisoKatsu",
             "alias": "",
-            "position": "20",
+            "position": "19",
             "rotated": false,
             "notes": ""
         },
@@ -465,7 +444,7 @@
             "loyalty": "",
             "artist": "Cosmic-Cuttlefish",
             "alias": "",
-            "position": "21",
+            "position": "20",
             "rotated": false,
             "notes": ""
         },
@@ -486,7 +465,7 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
-            "position": "22",
+            "position": "21",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
         },
@@ -507,7 +486,7 @@
             "loyalty": "",
             "artist": "Apljck",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
         },
@@ -528,7 +507,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
         },
@@ -549,7 +528,7 @@
             "loyalty": "",
             "artist": "PATVIT",
             "alias": "",
-            "position": "25",
+            "position": "24",
             "rotated": false,
             "notes": ""
         },
@@ -570,7 +549,7 @@
             "loyalty": "",
             "artist": "Ivan Vujovic",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "rotated": false,
             "notes": ""
         },
@@ -591,7 +570,7 @@
             "loyalty": "",
             "artist": "Dark Souls Concept Art",
             "alias": "",
-            "position": "27",
+            "position": "26",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
         },
@@ -612,7 +591,7 @@
             "loyalty": "",
             "artist": "Dark Souls Concept Art",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "rotated": false,
             "notes": ""
         },
@@ -633,7 +612,7 @@
             "loyalty": "",
             "artist": "Dark Souls Concept Art",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
         },
@@ -654,7 +633,7 @@
             "loyalty": "",
             "artist": "Sinraid",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "rotated": false,
             "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
         },
@@ -675,7 +654,7 @@
             "loyalty": "",
             "artist": "Francoyovich",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "rotated": false,
             "notes": ""
         },
@@ -696,7 +675,7 @@
             "loyalty": "",
             "artist": "Anthony Aron",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "rotated": false,
             "notes": ""
         },
@@ -717,7 +696,7 @@
             "loyalty": "",
             "artist": "Tripdancer",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "rotated": false,
             "notes": ""
         },
@@ -738,7 +717,7 @@
             "loyalty": "",
             "artist": "Juan Acosta",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "rotated": false,
             "notes": ""
         },
@@ -747,7 +726,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 165,
+            "number": 166,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "Bookmark r{3} \u2014 {4}{U}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 For each player, exile up to one target nonland permanent they control until this Saga leaves the battlefield.\nII \u2014 You gain life equal to the greatest mana value among cards exiled with this Saga.\nIII \u2014 Gain control of target creature.",
@@ -759,16 +738,16 @@
             "loyalty": "",
             "artist": "Koromoya",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "RM21 Priscilla, Keeper of the Lost",
+            "card_name": "RM11 Priscilla, Keeper of the Lost",
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Demigod Dragon",
-            "number": 166,
+            "number": 162,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "Flash\nLifelink\nPriscilla can't be blocked.\nWhen Priscilla enters, choose one \u2014\n\u2022 Return up to one other target permanent you control to its owner's hand.\n\u2022 Destroy target artifact or enchantment.",
@@ -780,7 +759,7 @@
             "loyalty": "",
             "artist": "Nowis-337",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "rotated": false,
             "notes": ""
         },
@@ -801,7 +780,7 @@
             "loyalty": "",
             "artist": "Luke Oram",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "rotated": false,
             "notes": ""
         },
@@ -810,7 +789,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 162,
+            "number": 163,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Bookmark r{4} \u2014 {1}{R} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.\nII, III \u2014 Each player loses 1 life, draws a card, then sacrifices a creature.\nIV \u2014 Gwyn Links the Flame deals 3 damage to any target.",
@@ -822,7 +801,7 @@
             "loyalty": "",
             "artist": "Yuchan",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "rotated": false,
             "notes": ""
         },
@@ -843,7 +822,7 @@
             "loyalty": "",
             "artist": "AndreuRomero",
             "alias": "",
-            "position": "39",
+            "position": "38",
             "rotated": false,
             "notes": ""
         },
@@ -852,7 +831,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
-            "number": 163,
+            "number": 164,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
             "rules_text": "Bookmark r{2} \u2014 {1}{G}{G} [i](You may cast this spell for its bookmark cost to have it enter with two lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Chaos Engulfs Izalith deals 3 damage to each creature.\nII \u2014 Create a 4/4 green Demon creature token with trample.\nIII \u2014 Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle.",
@@ -864,7 +843,7 @@
             "loyalty": "",
             "artist": "StefTastan",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "rotated": false,
             "notes": ""
         },
@@ -885,7 +864,7 @@
             "loyalty": "",
             "artist": "Marcial Niebres Jr",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "rotated": false,
             "notes": ""
         },
@@ -906,7 +885,7 @@
             "loyalty": "",
             "artist": "huapeiyun",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "rotated": false,
             "notes": ""
         },
@@ -915,7 +894,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Enchantment",
-            "number": 164,
+            "number": 165,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "When Nito's Miasma of Death enters, any number of target players hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]\nOnce during each of your turns, you may play a land or cast a permanent spell from among cards in your graveyard that were put there this turn.",
@@ -927,7 +906,7 @@
             "loyalty": "",
             "artist": "AnatoFinnstark",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "rotated": false,
             "notes": ""
         },
@@ -948,7 +927,7 @@
             "loyalty": "",
             "artist": "Luffie",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "rotated": false,
             "notes": ""
         },
@@ -969,7 +948,7 @@
             "loyalty": "",
             "artist": "SMrry",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "rotated": false,
             "notes": ""
         },
@@ -990,7 +969,7 @@
             "loyalty": "",
             "artist": "FrostRose",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "rotated": false,
             "notes": ""
         },
@@ -1011,7 +990,7 @@
             "loyalty": "",
             "artist": "SAMI",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "rotated": false,
             "notes": ""
         },
@@ -1032,7 +1011,7 @@
             "loyalty": "",
             "artist": "TheEchoOfTheVoid",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "rotated": false,
             "notes": ""
         },
@@ -1053,7 +1032,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "rotated": false,
             "notes": ""
         },
@@ -1074,7 +1053,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "rotated": false,
             "notes": ""
         },
@@ -1095,7 +1074,7 @@
             "loyalty": "",
             "artist": "Dave Rapoza",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "rotated": false,
             "notes": ""
         },
@@ -1116,7 +1095,7 @@
             "loyalty": "",
             "artist": "DrawSouls",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "rotated": false,
             "notes": ""
         },
@@ -1137,7 +1116,7 @@
             "loyalty": "",
             "artist": "Gradergage",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "rotated": false,
             "notes": ""
         },
@@ -1158,7 +1137,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "rotated": false,
             "notes": ""
         },
@@ -1179,7 +1158,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "rotated": false,
             "notes": ""
         },
@@ -1200,7 +1179,7 @@
             "loyalty": "",
             "artist": "Julian Bauer",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "rotated": false,
             "notes": ""
         },
@@ -1221,7 +1200,7 @@
             "loyalty": "",
             "artist": "Shadow1621",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "rotated": false,
             "notes": ""
         },
@@ -1242,7 +1221,7 @@
             "loyalty": "",
             "artist": "DrawSouls",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "rotated": false,
             "notes": ""
         },
@@ -1263,7 +1242,7 @@
             "loyalty": "",
             "artist": "Lolita Brion",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "rotated": false,
             "notes": ""
         },
@@ -1284,28 +1263,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "60",
-            "rotated": false,
-            "notes": ""
-        },
-        {
-            "card_name": "A11 \u2014 Soul",
-            "color": "",
-            "rarity": "common",
-            "type": "Token Enchantment \u2014 Soul",
-            "number": 2,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "TFF",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "61",
+            "position": "59",
             "rotated": false,
             "notes": ""
         },
@@ -1326,7 +1284,7 @@
             "loyalty": "",
             "artist": "MisoKatsu",
             "alias": "",
-            "position": "62",
+            "position": "60",
             "rotated": false,
             "notes": ""
         },
@@ -1347,7 +1305,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "63",
+            "position": "61",
             "rotated": false,
             "notes": ""
         },
@@ -1368,7 +1326,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "64",
+            "position": "62",
             "rotated": false,
             "notes": ""
         },
@@ -1389,7 +1347,7 @@
             "loyalty": "",
             "artist": "CloudinTrousers",
             "alias": "",
-            "position": "65",
+            "position": "63",
             "rotated": false,
             "notes": ""
         },
@@ -1410,7 +1368,7 @@
             "loyalty": "",
             "artist": "Mart\u00edn Bruno Techera",
             "alias": "",
-            "position": "66",
+            "position": "64",
             "rotated": false,
             "notes": ""
         },
@@ -1431,7 +1389,7 @@
             "loyalty": "",
             "artist": "Roman Razgriz",
             "alias": "",
-            "position": "67",
+            "position": "65",
             "rotated": false,
             "notes": ""
         },
@@ -1452,7 +1410,7 @@
             "loyalty": "",
             "artist": "Adam Plechaty",
             "alias": "",
-            "position": "68",
+            "position": "66",
             "rotated": false,
             "notes": ""
         },
@@ -1473,7 +1431,7 @@
             "loyalty": "",
             "artist": "StigmaS3v3N",
             "alias": "",
-            "position": "69",
+            "position": "67",
             "rotated": false,
             "notes": ""
         },
@@ -1494,7 +1452,7 @@
             "loyalty": "",
             "artist": "Hendrik Ellinger",
             "alias": "",
-            "position": "70",
+            "position": "68",
             "rotated": false,
             "notes": ""
         },
@@ -1515,7 +1473,7 @@
             "loyalty": "",
             "artist": "Hendrik Ellinger",
             "alias": "",
-            "position": "71",
+            "position": "69",
             "rotated": false,
             "notes": ""
         },
@@ -1536,7 +1494,7 @@
             "loyalty": "",
             "artist": "Hendrik Ellinger",
             "alias": "",
-            "position": "72",
+            "position": "70",
             "rotated": false,
             "notes": ""
         },
@@ -1557,7 +1515,7 @@
             "loyalty": "",
             "artist": "Ryzakier",
             "alias": "",
-            "position": "73",
+            "position": "71",
             "rotated": false,
             "notes": ""
         },
@@ -1578,7 +1536,7 @@
             "loyalty": "",
             "artist": "Patricia Pria",
             "alias": "",
-            "position": "74",
+            "position": "72",
             "rotated": false,
             "notes": ""
         },
@@ -1599,7 +1557,7 @@
             "loyalty": "",
             "artist": "Typhon Art",
             "alias": "",
-            "position": "75",
+            "position": "73",
             "rotated": false,
             "notes": ""
         },
@@ -1620,7 +1578,7 @@
             "loyalty": "",
             "artist": "Castaguer93",
             "alias": "",
-            "position": "76",
+            "position": "74",
             "rotated": false,
             "notes": ""
         },
@@ -1641,7 +1599,7 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
-            "position": "77",
+            "position": "75",
             "rotated": false,
             "notes": ""
         },
@@ -1662,7 +1620,7 @@
             "loyalty": "",
             "artist": "Stig Ballestad",
             "alias": "",
-            "position": "78",
+            "position": "76",
             "rotated": false,
             "notes": "Black's creature percentages have jumped from 52% (10 out of 19) to 62% (9 out of 14), and its average power has jumped from 3.25 to 3.56.\n\nKeyword Distribution (At Common)\n\n2 Flying (different powers)\n1.5 Menace\n1.25 Deathtouch\n1 Lifelink\n\nWhile black has two common fliers, they're not quite as strong as white's or blue's. That is, they're good enough to include in your deck but are less often the all-star of the common creatures. Menace has been creeping up as it plays so well. Usually, deathtouch is on one of the smaller creatures, whereas lifelink tends to be on something slightly bigger than is seen in white at common."
         },
@@ -1683,7 +1641,7 @@
             "loyalty": "",
             "artist": "Alessandro Paviolo",
             "alias": "",
-            "position": "79",
+            "position": "77",
             "rotated": false,
             "notes": ""
         },
@@ -1704,7 +1662,7 @@
             "loyalty": "",
             "artist": "Juan Pablo Roldan",
             "alias": "",
-            "position": "80",
+            "position": "78",
             "rotated": false,
             "notes": ""
         },
@@ -1725,7 +1683,7 @@
             "loyalty": "",
             "artist": "Wingless_sselgniW",
             "alias": "",
-            "position": "81",
+            "position": "79",
             "rotated": false,
             "notes": ""
         },
@@ -1746,7 +1704,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "82",
+            "position": "80",
             "rotated": false,
             "notes": ""
         },
@@ -1767,7 +1725,7 @@
             "loyalty": "",
             "artist": "Kate Fox",
             "alias": "",
-            "position": "83",
+            "position": "81",
             "rotated": false,
             "notes": ""
         },
@@ -1788,7 +1746,7 @@
             "loyalty": "",
             "artist": "sohlol",
             "alias": "",
-            "position": "84",
+            "position": "82",
             "rotated": false,
             "notes": ""
         },
@@ -1809,7 +1767,7 @@
             "loyalty": "",
             "artist": "Alex Fari\u00f1a Fernandez",
             "alias": "",
-            "position": "85",
+            "position": "83",
             "rotated": false,
             "notes": ""
         },
@@ -1830,7 +1788,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "86",
+            "position": "84",
             "rotated": false,
             "notes": "Again, we focused common spells toward answers to threats. The efficiency of black's creature removal will vary, but all are still worth playing. The discard effect has turned into a Coercion variant (i.e., you get to select what nonland card gets discarded) to help give black more answers to rares and mythic rares. The one other effect we made sure to keep is card drawing. Black must spend a secondary resource, usually life, so the card drawing isn't quite as good as blue but good enough to include in your deck.\n\nEffects that don't have space on a spell at common, like Raise Dead (returning creature cards from the graveyard to the hand), can either be made at uncommon or can be added to creature spells as an effect."
         },
@@ -1851,7 +1809,7 @@
             "loyalty": "",
             "artist": "Akunohako",
             "alias": "",
-            "position": "87",
+            "position": "85",
             "rotated": false,
             "notes": ""
         },
@@ -1872,7 +1830,7 @@
             "loyalty": "",
             "artist": "Asaki",
             "alias": "",
-            "position": "88",
+            "position": "86",
             "rotated": false,
             "notes": ""
         },
@@ -1893,7 +1851,7 @@
             "loyalty": "",
             "artist": "Dark Souls Concept Art",
             "alias": "",
-            "position": "89",
+            "position": "87",
             "rotated": false,
             "notes": ""
         },
@@ -1914,7 +1872,7 @@
             "loyalty": "",
             "artist": "Dark Signs",
             "alias": "",
-            "position": "90",
+            "position": "88",
             "rotated": false,
             "notes": ""
         },
@@ -1935,7 +1893,7 @@
             "loyalty": "",
             "artist": "Oniruu",
             "alias": "",
-            "position": "91",
+            "position": "89",
             "rotated": false,
             "notes": ""
         },
@@ -1956,7 +1914,7 @@
             "loyalty": "",
             "artist": "AlexAFlynn",
             "alias": "",
-            "position": "92",
+            "position": "90",
             "rotated": false,
             "notes": ""
         },
@@ -1977,7 +1935,7 @@
             "loyalty": "",
             "artist": "Jansteinky",
             "alias": "",
-            "position": "93",
+            "position": "91",
             "rotated": false,
             "notes": ""
         },
@@ -1998,7 +1956,7 @@
             "loyalty": "",
             "artist": "DLEOBLACK",
             "alias": "",
-            "position": "94",
+            "position": "92",
             "rotated": false,
             "notes": ""
         },
@@ -2019,7 +1977,7 @@
             "loyalty": "",
             "artist": "JimmyNijs",
             "alias": "",
-            "position": "95",
+            "position": "93",
             "rotated": false,
             "notes": "Green has gone from having one spell, which is either a fight spell (two creatures do damage to each other) or a bite spell (your creature deals damage equal to its power to another creature) to having one of each. These spells usually also have some buffing to help your creature kill the opponent's larger rare and mythic rare creatures.\n\nAnother side effect of Play Boosters is that we have to be extra-careful with how easy we give green access to other colors in Limited, as it's much easier to just play a \"good stuff\" deck (a deck with all the best spells in each color) with all the powerful rares and mythic rares. This means we are more likely to do land fetching that gets lands off the top cards of your library rather than fetching one out of your deck. We will also be more careful with lower-rarity mana-acceleration spells to have green cards give you access to green mana rather than any color. This will still help you ramp without making it easier to splash other colors."
         },
@@ -2040,7 +1998,7 @@
             "loyalty": "",
             "artist": "Turbodrawage",
             "alias": "",
-            "position": "96",
+            "position": "94",
             "rotated": false,
             "notes": ""
         },
@@ -2061,7 +2019,7 @@
             "loyalty": "",
             "artist": "Paul Canavan",
             "alias": "",
-            "position": "97",
+            "position": "95",
             "rotated": false,
             "notes": ""
         },
@@ -2082,7 +2040,7 @@
             "loyalty": "",
             "artist": "Lolita Brion",
             "alias": "",
-            "position": "98",
+            "position": "96",
             "rotated": false,
             "notes": ""
         },
@@ -2103,7 +2061,7 @@
             "loyalty": "",
             "artist": "dcj0ty3",
             "alias": "",
-            "position": "99",
+            "position": "97",
             "rotated": false,
             "notes": ""
         },
@@ -2124,7 +2082,7 @@
             "loyalty": "",
             "artist": "Dark Souls Concept Art",
             "alias": "",
-            "position": "100",
+            "position": "98",
             "rotated": false,
             "notes": ""
         },
@@ -2145,7 +2103,7 @@
             "loyalty": "",
             "artist": "Oniruu",
             "alias": "",
-            "position": "101",
+            "position": "99",
             "rotated": false,
             "notes": ""
         },
@@ -2166,7 +2124,7 @@
             "loyalty": "",
             "artist": "LazyRemnant",
             "alias": "",
-            "position": "102",
+            "position": "100",
             "rotated": false,
             "notes": ""
         },
@@ -2187,7 +2145,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "103",
+            "position": "101",
             "rotated": false,
             "notes": ""
         },
@@ -2208,7 +2166,7 @@
             "loyalty": "",
             "artist": "Zachary Perrett",
             "alias": "",
-            "position": "104",
+            "position": "102",
             "rotated": false,
             "notes": ""
         },
@@ -2220,16 +2178,16 @@
             "number": 131,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Bookmark r{4} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II, III \u2014 Create a Soul token. [i](It's an enchantment with \u201c{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]\nIV \u2014 Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. \n\u200b",
+            "rules_text": "Bookmark r{4} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II \u2014 Create a Soul token. [i](It's an enchantment with \u201c{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]\nIII, IV \u2014 Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. \n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Bookmark r{4} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II, III \u2014 Create a Soul token. [i](It's an enchantment with \u201c{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]\nIV \u2014 Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. \n\u200b",
+            "special_text": "Bookmark r{4} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II \u2014 Create a Soul token. [i](It's an enchantment with \u201c{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.\u201d)[/i]\nIII, IV \u2014 Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. \n\u200b",
             "shape": "saga",
             "set": "TFF",
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "position": "105",
+            "position": "103",
             "rotated": false,
             "notes": ""
         },
@@ -2250,7 +2208,7 @@
             "loyalty": "",
             "artist": "Joshua Esmeralda",
             "alias": "",
-            "position": "106",
+            "position": "104",
             "rotated": false,
             "notes": "Red has the second-largest increase in creature percentages at common, jumping from 53% (10 out of 19) to 64% (9 out of 14). Its power has jumped from an average of 3.15 to 3.39. Red's two biggest changes are that it no longer has a guaranteed one-drop slot and instead has a guaranteed six-drop slot.\n\nKeyword Distribution (At Common)\n\n1.5 Trample\n1.5 Menace\n1.5 Haste\n1 Reach\n0.25 First strike\n0.20 Double strike\nLike black, we've been increasing red's menace percentages because we've enjoyed how it plays. It also now has a dedicated slot for reach, as having more rares and mythic rares means more flying threats. Like white, first strike is down."
         },
@@ -2271,7 +2229,7 @@
             "loyalty": "",
             "artist": "ThemeFinland",
             "alias": "",
-            "position": "107",
+            "position": "105",
             "rotated": false,
             "notes": ""
         },
@@ -2292,7 +2250,7 @@
             "loyalty": "",
             "artist": "Ariamis Arts",
             "alias": "",
-            "position": "108",
+            "position": "106",
             "rotated": false,
             "notes": ""
         },
@@ -2313,7 +2271,7 @@
             "loyalty": "",
             "artist": "ThemeFinland",
             "alias": "",
-            "position": "109",
+            "position": "107",
             "rotated": false,
             "notes": ""
         },
@@ -2334,7 +2292,7 @@
             "loyalty": "",
             "artist": "Dark Souls Concept Art",
             "alias": "",
-            "position": "110",
+            "position": "108",
             "rotated": false,
             "notes": ""
         },
@@ -2355,7 +2313,7 @@
             "loyalty": "",
             "artist": "Brandon Ellis",
             "alias": "",
-            "position": "111",
+            "position": "109",
             "rotated": false,
             "notes": ""
         },
@@ -2376,7 +2334,7 @@
             "loyalty": "",
             "artist": "Hendrik Ellinger",
             "alias": "",
-            "position": "112",
+            "position": "110",
             "rotated": false,
             "notes": ""
         },
@@ -2397,7 +2355,7 @@
             "loyalty": "",
             "artist": "Cobalt Plasma",
             "alias": "",
-            "position": "113",
+            "position": "111",
             "rotated": false,
             "notes": ""
         },
@@ -2418,7 +2376,7 @@
             "loyalty": "",
             "artist": "MartianZombie",
             "alias": "",
-            "position": "114",
+            "position": "112",
             "rotated": false,
             "notes": ""
         },
@@ -2439,7 +2397,7 @@
             "loyalty": "",
             "artist": "themalodes",
             "alias": "",
-            "position": "115",
+            "position": "113",
             "rotated": false,
             "notes": ""
         },
@@ -2460,7 +2418,7 @@
             "loyalty": "",
             "artist": "EyYoJimbo",
             "alias": "",
-            "position": "116",
+            "position": "114",
             "rotated": false,
             "notes": ""
         },
@@ -2481,7 +2439,7 @@
             "loyalty": "",
             "artist": "Kotarou",
             "alias": "",
-            "position": "117",
+            "position": "115",
             "rotated": false,
             "notes": ""
         },
@@ -2502,7 +2460,7 @@
             "loyalty": "",
             "artist": "Dokomon",
             "alias": "",
-            "position": "118",
+            "position": "116",
             "rotated": false,
             "notes": ""
         },
@@ -2523,7 +2481,7 @@
             "loyalty": "",
             "artist": "Sohlol",
             "alias": "",
-            "position": "119",
+            "position": "117",
             "rotated": false,
             "notes": "Blue creature percentages have gone up, but not as much as white, from 47% (9 out of 19) to 53% (8 out of 15). The average power has gone up from 3.39 to 3.62. For instance, there's no longer a default one-drop in blue at common and potentially multiple six-drops.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n1.5 Vigilance\n0.5 Ward N\n0.5 Defender\n0.5 Flash\n\nA year ago, we made a big change to add vigilance to blue. It's now the second-most-used keyword, mainly because making blue creatures want to attack can be difficult. Also, while this is not unique to blue, it's the most notable in blue: we're being more cautious with toughness-statted creatures, as they tend to stall out games."
         },
@@ -2544,7 +2502,7 @@
             "loyalty": "",
             "artist": "Pablo Fernandez",
             "alias": "",
-            "position": "120",
+            "position": "118",
             "rotated": false,
             "notes": ""
         },
@@ -2565,7 +2523,7 @@
             "loyalty": "",
             "artist": "Brandon Ellis",
             "alias": "",
-            "position": "121",
+            "position": "119",
             "rotated": false,
             "notes": ""
         },
@@ -2586,7 +2544,7 @@
             "loyalty": "",
             "artist": "ChrisNazgul",
             "alias": "",
-            "position": "122",
+            "position": "120",
             "rotated": false,
             "notes": ""
         },
@@ -2607,7 +2565,7 @@
             "loyalty": "",
             "artist": "Baekbae Seong",
             "alias": "",
-            "position": "123",
+            "position": "121",
             "rotated": false,
             "notes": ""
         },
@@ -2628,7 +2586,7 @@
             "loyalty": "",
             "artist": "ThemeFinland",
             "alias": "",
-            "position": "124",
+            "position": "122",
             "rotated": false,
             "notes": ""
         },
@@ -2649,7 +2607,7 @@
             "loyalty": "",
             "artist": "Nahelus",
             "alias": "",
-            "position": "125",
+            "position": "123",
             "rotated": false,
             "notes": ""
         },
@@ -2670,7 +2628,7 @@
             "loyalty": "",
             "artist": "karasu",
             "alias": "",
-            "position": "126",
+            "position": "124",
             "rotated": false,
             "notes": ""
         },
@@ -2691,7 +2649,7 @@
             "loyalty": "",
             "artist": "Kazataca",
             "alias": "",
-            "position": "127",
+            "position": "125",
             "rotated": false,
             "notes": "Again, we ensure each color has common answers to rare and mythic rare bombs, especially creatures. For blue, this means making counterspells that are good at stopping big spells, trading in its traditional lockdown Aura for one that overwrites the creature (\"Enchanted creature is a 1/1 with no abilities\") and upping its bounce from hand to top (or bottom if the opponent chooses) of library. Blue also wants to have very efficient card drawing and card filtering."
         },
@@ -2712,7 +2670,7 @@
             "loyalty": "",
             "artist": "Rirth",
             "alias": "",
-            "position": "128",
+            "position": "126",
             "rotated": false,
             "notes": ""
         },
@@ -2733,7 +2691,7 @@
             "loyalty": "",
             "artist": "pixiv id 39099998",
             "alias": "",
-            "position": "129",
+            "position": "127",
             "rotated": false,
             "notes": ""
         },
@@ -2754,7 +2712,7 @@
             "loyalty": "",
             "artist": "hendrik_ellinger",
             "alias": "",
-            "position": "130",
+            "position": "128",
             "rotated": false,
             "notes": ""
         },
@@ -2775,7 +2733,7 @@
             "loyalty": "",
             "artist": "Laspinter",
             "alias": "",
-            "position": "131",
+            "position": "129",
             "rotated": false,
             "notes": ""
         },
@@ -2796,7 +2754,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "132",
+            "position": "130",
             "rotated": false,
             "notes": "Having less commons means less overall cards, both in creatures and noncreatures. White is still number one in the number of creatures, meaning it gets the most creatures by percentage of any color. While it's gone down one creature slot from Draft Boosters to Play Boosters, it's gone up in percentage. The default for Draft Boosters was 63% (12 out of 19) while the default for Play Boosters is 73% (11 out of 15).\n\nThe reason for this is that the drop in common cards means we have no room for \"unplayable commons.\" \"Unplayable common\" is defined as a card that situationally might be unplayable in a sealed deck. The card is too narrow in what it does. A good example would be what we used to call \"sideboard cards,\" such as Naturalize or Disenchant (\"Destroy target artifact or enchantment\"). It's the kind of card you usually don't start with because it often is a dead card in your hand, but you might sideboard it in if the opponent is running threats that it answers. The other major reason a card might be unplayable is power level.\n\nWe're doing three things to get rid of unplayable commons. One, the average power level will be higher (although set more for Limited play than Constructed). If you're playing a color, most monocolor creatures in that color will at least be playable in your deck. Some creatures may be more synergistic with certain draft themes, but the base creature stats will usually be something you can run. Two, we're moving some effects from common to uncommon. An example is temporary stealing (cards like Threaten) that we normally do at common in red. Three, we'll be making more use of modal effects. We can still do a Naturalize or Disenchant effect at common, but it will be paired with another effect that is generally more useful, allowing it to be standard in your deck.\n\nThe result of these changes is that the creature percentages at common are going up a bit. Creatures are just easier to make usable in more decks and inherently have a built-in win condition.\n\nThe other major effect you can see on creatures is that the average size is going up, especially in white. In Draft Boosters, white's default average power was 2.95. In Play Boosters, that goes up to 3.28. That's around a third of a power greater. This is being done to ensure that every creature is playable, as lower-powered creatures can become more situational.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n2 Vigilance\n1 Lifelink (low power)\n0.25 First strike\n0.20 Double strike\n\nThis set skeleton is set up a bit differently than the last one. Rather than call out slots for certain keyword abilities at common, the set skeleton lays out roughly how often it should appear. If an ability appears at a number below one, that means it might not always appear in every set but will average that number over multiple sets. However, first strike in white has fallen out of favor with R&D. The ability causes ground stalls, which is why we often only make it work offensively."
         },
@@ -2817,7 +2775,7 @@
             "loyalty": "",
             "artist": "Ricardo Soma",
             "alias": "",
-            "position": "133",
+            "position": "131",
             "rotated": false,
             "notes": ""
         },
@@ -2838,7 +2796,7 @@
             "loyalty": "",
             "artist": "Ludvikskp",
             "alias": "",
-            "position": "134",
+            "position": "132",
             "rotated": false,
             "notes": ""
         },
@@ -2859,7 +2817,7 @@
             "loyalty": "",
             "artist": "Einhajar",
             "alias": "",
-            "position": "135",
+            "position": "133",
             "rotated": false,
             "notes": ""
         },
@@ -2880,7 +2838,7 @@
             "loyalty": "",
             "artist": "Jansteinky",
             "alias": "",
-            "position": "136",
+            "position": "134",
             "rotated": false,
             "notes": ""
         },
@@ -2901,7 +2859,7 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
-            "position": "137",
+            "position": "135",
             "rotated": false,
             "notes": ""
         },
@@ -2922,7 +2880,7 @@
             "loyalty": "",
             "artist": "Oniruu",
             "alias": "",
-            "position": "138",
+            "position": "136",
             "rotated": false,
             "notes": ""
         },
@@ -2943,7 +2901,7 @@
             "loyalty": "",
             "artist": "MenasLG",
             "alias": "",
-            "position": "139",
+            "position": "137",
             "rotated": false,
             "notes": ""
         },
@@ -2964,7 +2922,7 @@
             "loyalty": "",
             "artist": "Inkyh",
             "alias": "",
-            "position": "140",
+            "position": "138",
             "rotated": false,
             "notes": ""
         },
@@ -2985,7 +2943,7 @@
             "loyalty": "",
             "artist": "Asaki",
             "alias": "",
-            "position": "141",
+            "position": "139",
             "rotated": false,
             "notes": "Common spells must be a bit more practical. For white, which has the least spells by percentage, that means focusing mostly on removal cards. Combat tricks want to prioritize designs that save the creature (meaning you use them to functionally get rid of the opponent's creature without going down on creatures). Pacifism-style effects (Auras that keep you from attacking, blocking, and sometimes activating) are being replaced by Banishing Light-style effects (cards that exile something while they're on the battlefield). Effects that neutralize a creature without killing it need to have more \"text wiping\" because many rares have powerful noncombat abilities, often static or triggered, and the common cards need to be able to answer them. The Disenchant slot will most often be modal and will sometimes be an answer to creatures in addition to artifacts and enchantments.\n\nI also want to point out that this change forces certain effects out of spells and onto creatures. I'll use the go-wide team-pump effect (\"Creatures you control get +N/+N until end of turn.\"). Uncommon can clearly do larger pumps that help win games, but the simple +1/+1 granting will probably exist more on a creature as an \"enters the battlefield\" effect or an activated ability."
         },
@@ -3006,7 +2964,7 @@
             "loyalty": "",
             "artist": "Hendrik Ellinger",
             "alias": "",
-            "position": "142",
+            "position": "140",
             "rotated": false,
             "notes": ""
         },
@@ -3027,7 +2985,7 @@
             "loyalty": "",
             "artist": "AlhinR0w",
             "alias": "",
-            "position": "143",
+            "position": "141",
             "rotated": false,
             "notes": ""
         },
@@ -3048,7 +3006,7 @@
             "loyalty": "",
             "artist": "JLIEN",
             "alias": "",
-            "position": "144",
+            "position": "142",
             "rotated": false,
             "notes": ""
         },
@@ -3069,7 +3027,7 @@
             "loyalty": "",
             "artist": "DrawSouls",
             "alias": "",
-            "position": "145",
+            "position": "143",
             "rotated": false,
             "notes": ""
         },
@@ -3090,7 +3048,7 @@
             "loyalty": "",
             "artist": "Brandon Ellis",
             "alias": "",
-            "position": "146",
+            "position": "144",
             "rotated": false,
             "notes": ""
         },
@@ -3111,7 +3069,7 @@
             "loyalty": "",
             "artist": "DLeoBlack (edited)",
             "alias": "",
-            "position": "147",
+            "position": "145",
             "rotated": false,
             "notes": ""
         },
@@ -3132,7 +3090,7 @@
             "loyalty": "",
             "artist": "Pizza Surgeon",
             "alias": "",
-            "position": "148",
+            "position": "146",
             "rotated": false,
             "notes": ""
         },
@@ -3153,7 +3111,7 @@
             "loyalty": "",
             "artist": "tsaiyuan",
             "alias": "",
-            "position": "149",
+            "position": "147",
             "rotated": false,
             "notes": ""
         },
@@ -3174,7 +3132,7 @@
             "loyalty": "",
             "artist": "Lolita Brion",
             "alias": "",
-            "position": "150",
+            "position": "148",
             "rotated": false,
             "notes": ""
         },
@@ -3195,7 +3153,7 @@
             "loyalty": "",
             "artist": "DrawSouls",
             "alias": "",
-            "position": "151",
+            "position": "149",
             "rotated": false,
             "notes": ""
         },
@@ -3216,7 +3174,7 @@
             "loyalty": "",
             "artist": "AdamScribbles",
             "alias": "",
-            "position": "152",
+            "position": "150",
             "rotated": false,
             "notes": ""
         },
@@ -3237,7 +3195,7 @@
             "loyalty": "",
             "artist": "Pau Ulises Serrano",
             "alias": "",
-            "position": "153",
+            "position": "151",
             "rotated": false,
             "notes": ""
         },
@@ -3258,7 +3216,7 @@
             "loyalty": "",
             "artist": "Zusacre",
             "alias": "",
-            "position": "154",
+            "position": "152",
             "rotated": false,
             "notes": ""
         },
@@ -3279,7 +3237,7 @@
             "loyalty": "",
             "artist": "Chris Nazgul",
             "alias": "",
-            "position": "155",
+            "position": "153",
             "rotated": false,
             "notes": ""
         },
@@ -3300,7 +3258,7 @@
             "loyalty": "",
             "artist": "Sam Dalton",
             "alias": "",
-            "position": "156",
+            "position": "154",
             "rotated": false,
             "notes": "While creature percentages go up in white uncommon and down in blue uncommon, they stay at mostly the same percentage in black.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
         },
@@ -3321,7 +3279,7 @@
             "loyalty": "",
             "artist": "Digital Basilisk",
             "alias": "",
-            "position": "157",
+            "position": "155",
             "rotated": false,
             "notes": ""
         },
@@ -3342,7 +3300,7 @@
             "loyalty": "",
             "artist": "Mitsugo",
             "alias": "",
-            "position": "158",
+            "position": "156",
             "rotated": false,
             "notes": ""
         },
@@ -3363,7 +3321,7 @@
             "loyalty": "",
             "artist": "ZipfelZeus",
             "alias": "",
-            "position": "159",
+            "position": "157",
             "rotated": false,
             "notes": ""
         },
@@ -3384,7 +3342,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
-            "position": "160",
+            "position": "158",
             "rotated": false,
             "notes": ""
         },
@@ -3405,7 +3363,7 @@
             "loyalty": "",
             "artist": "Moshi06185",
             "alias": "",
-            "position": "161",
+            "position": "159",
             "rotated": false,
             "notes": ""
         },
@@ -3426,7 +3384,7 @@
             "loyalty": "",
             "artist": "Thiago Rocha",
             "alias": "",
-            "position": "162",
+            "position": "160",
             "rotated": false,
             "notes": ""
         },
@@ -3447,7 +3405,7 @@
             "loyalty": "",
             "artist": "HQ-Kamissar",
             "alias": "",
-            "position": "163",
+            "position": "161",
             "rotated": false,
             "notes": ""
         },
@@ -3468,7 +3426,7 @@
             "loyalty": "",
             "artist": "Peter Gaber",
             "alias": "",
-            "position": "164",
+            "position": "162",
             "rotated": false,
             "notes": ""
         },
@@ -3489,7 +3447,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "165",
+            "position": "163",
             "rotated": false,
             "notes": ""
         },
@@ -3510,7 +3468,7 @@
             "loyalty": "",
             "artist": "Juan Acosta",
             "alias": "",
-            "position": "166",
+            "position": "164",
             "rotated": false,
             "notes": ""
         },
@@ -3531,7 +3489,7 @@
             "loyalty": "",
             "artist": "MarceloSperandio",
             "alias": "",
-            "position": "167",
+            "position": "165",
             "rotated": false,
             "notes": "Play Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
         },
@@ -3552,7 +3510,7 @@
             "loyalty": "",
             "artist": "Wiz220",
             "alias": "",
-            "position": "168",
+            "position": "166",
             "rotated": false,
             "notes": ""
         },
@@ -3573,7 +3531,7 @@
             "loyalty": "",
             "artist": "Francoyovich",
             "alias": "",
-            "position": "169",
+            "position": "167",
             "rotated": false,
             "notes": ""
         },
@@ -3594,7 +3552,7 @@
             "loyalty": "",
             "artist": "Pizza Surgeon",
             "alias": "",
-            "position": "170",
+            "position": "168",
             "rotated": false,
             "notes": "In the Play Booster world, we want the colorless cards to be a bit stronger because they help fill out all the decks. They still shouldn't step on the toes of the colors that do what they do best, but we've upped the power level to make them generically stronger. Because many Play Booster sets will have an upgrade in the land slot some percentage of the time, the artifacts don't have to do quite as much color fixing. \"Variance buster\" means that the card can help you find lands (through things like scrying and filtering) early in the game if you're short on land. Note it's not good at finding you a particular land. In general, we're being a bit stingier on access to extra colors as we don't want to encourage players splashing the bombs they open."
         },
@@ -3615,7 +3573,7 @@
             "loyalty": "",
             "artist": "Bar Huma",
             "alias": "",
-            "position": "171",
+            "position": "169",
             "rotated": false,
             "notes": ""
         },
@@ -3636,7 +3594,7 @@
             "loyalty": "",
             "artist": "Oniruu",
             "alias": "",
-            "position": "172",
+            "position": "170",
             "rotated": false,
             "notes": ""
         },
@@ -3657,7 +3615,7 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
-            "position": "173",
+            "position": "171",
             "rotated": false,
             "notes": ""
         },
@@ -3678,7 +3636,7 @@
             "loyalty": "",
             "artist": "Myron Unzhakov",
             "alias": "",
-            "position": "174",
+            "position": "172",
             "rotated": false,
             "notes": ""
         },
@@ -3699,7 +3657,7 @@
             "loyalty": "",
             "artist": "Danyinter95",
             "alias": "",
-            "position": "175",
+            "position": "173",
             "rotated": false,
             "notes": ""
         },
@@ -3720,7 +3678,7 @@
             "loyalty": "",
             "artist": "Robotico2",
             "alias": "",
-            "position": "176",
+            "position": "174",
             "rotated": false,
             "notes": ""
         },
@@ -3741,7 +3699,7 @@
             "loyalty": "",
             "artist": "Panjoool",
             "alias": "",
-            "position": "177",
+            "position": "175",
             "rotated": false,
             "notes": ""
         },
@@ -3762,7 +3720,7 @@
             "loyalty": "",
             "artist": "Dark Souls 1 Screenshot",
             "alias": "",
-            "position": "178",
+            "position": "176",
             "rotated": false,
             "notes": ""
         },
@@ -3783,7 +3741,7 @@
             "loyalty": "",
             "artist": "Dark Souls Concept Art",
             "alias": "",
-            "position": "179",
+            "position": "177",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -3804,7 +3762,7 @@
             "loyalty": "",
             "artist": "AntPlaza",
             "alias": "",
-            "position": "180",
+            "position": "178",
             "rotated": false,
             "notes": ""
         },
@@ -3825,7 +3783,7 @@
             "loyalty": "",
             "artist": "Juan Acosta",
             "alias": "",
-            "position": "181",
+            "position": "179",
             "rotated": false,
             "notes": ""
         },
@@ -3846,7 +3804,7 @@
             "loyalty": "",
             "artist": "Inkyh",
             "alias": "",
-            "position": "182",
+            "position": "180",
             "rotated": false,
             "notes": ""
         },
@@ -3867,7 +3825,7 @@
             "loyalty": "",
             "artist": "Dark Souls 1 Concept Art",
             "alias": "",
-            "position": "183",
+            "position": "181",
             "rotated": false,
             "notes": ""
         },
@@ -3888,7 +3846,7 @@
             "loyalty": "",
             "artist": "Entropy",
             "alias": "",
-            "position": "184",
+            "position": "182",
             "rotated": false,
             "notes": "Green uncommon creature percentage have gone up slightly from 62% (8 out of 13) to 64% (9 out of 14), making it the only color, along with white, to go up in percentage.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
         },
@@ -3909,7 +3867,7 @@
             "loyalty": "",
             "artist": "Crooked Nose Arts",
             "alias": "",
-            "position": "185",
+            "position": "183",
             "rotated": false,
             "notes": ""
         },
@@ -3930,7 +3888,7 @@
             "loyalty": "",
             "artist": "Janonna Art",
             "alias": "",
-            "position": "186",
+            "position": "184",
             "rotated": false,
             "notes": ""
         },
@@ -3942,16 +3900,16 @@
             "number": 145,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Bookmark r{3} \u2014 {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 1/1 white Human creature token.\nII \u2014 Until your next turn, creatures you control gain \u201c{T}: Add one mana of any color.\u201d\nIII \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.",
+            "rules_text": "Bookmark r{3} \u2014 {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 1/1 white Human creature token.\nUntil your next turn, creatures you control gain \u201c{T}: Add one mana of any color.\u201d\nII, III \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Bookmark r{3} \u2014 {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 1/1 white Human creature token.\nII \u2014 Until your next turn, creatures you control gain \u201c{T}: Add one mana of any color.\u201d\nIII \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.",
+            "special_text": "Bookmark r{3} \u2014 {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 1/1 white Human creature token.\nUntil your next turn, creatures you control gain \u201c{T}: Add one mana of any color.\u201d\nII, III \u2014 When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.",
             "shape": "saga",
             "set": "TFF",
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "187",
+            "position": "185",
             "rotated": false,
             "notes": ""
         },
@@ -3972,7 +3930,7 @@
             "loyalty": "",
             "artist": "Alex Svartengel",
             "alias": "",
-            "position": "188",
+            "position": "186",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -3993,7 +3951,7 @@
             "loyalty": "",
             "artist": "Otto Lehtonen",
             "alias": "",
-            "position": "189",
+            "position": "187",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4014,7 +3972,7 @@
             "loyalty": "",
             "artist": "MisoKatsu",
             "alias": "",
-            "position": "190",
+            "position": "188",
             "rotated": false,
             "notes": ""
         },
@@ -4035,7 +3993,7 @@
             "loyalty": "",
             "artist": "Marcial Niebres Jr",
             "alias": "",
-            "position": "191",
+            "position": "189",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4056,7 +4014,7 @@
             "loyalty": "",
             "artist": "Jansteinky",
             "alias": "",
-            "position": "192",
+            "position": "190",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4077,7 +4035,7 @@
             "loyalty": "",
             "artist": "ggutuArt",
             "alias": "",
-            "position": "193",
+            "position": "191",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4098,7 +4056,7 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
-            "position": "194",
+            "position": "192",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4119,7 +4077,7 @@
             "loyalty": "",
             "artist": "Tinhan",
             "alias": "",
-            "position": "195",
+            "position": "193",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4140,7 +4098,7 @@
             "loyalty": "",
             "artist": "BronSonofGod",
             "alias": "",
-            "position": "196",
+            "position": "194",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4161,7 +4119,7 @@
             "loyalty": "",
             "artist": "AntPlaza",
             "alias": "",
-            "position": "197",
+            "position": "195",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4182,7 +4140,7 @@
             "loyalty": "",
             "artist": "Daniel Shaffer",
             "alias": "",
-            "position": "198",
+            "position": "196",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4194,16 +4152,16 @@
             "number": 178,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Bookmark r{4} \u2014 {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II, III, IV \u2014 Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]\nReturn up to one creature card from your graveyard to the battlefield.\n\u200b",
+            "rules_text": "Bookmark r{4} \u2014 {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II, III \u2014 Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]\nIV \u2014 Return up to one creature card from your graveyard to the battlefield.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Bookmark r{4} \u2014 {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II, III, IV \u2014 Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]\nReturn up to one creature card from your graveyard to the battlefield.\n\u200b",
+            "special_text": "Bookmark r{4} \u2014 {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]\nI, II, III \u2014 Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]\nIV \u2014 Return up to one creature card from your graveyard to the battlefield.\n\u200b",
             "shape": "saga",
             "set": "TFF",
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "199",
+            "position": "197",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4224,7 +4182,7 @@
             "loyalty": "",
             "artist": "Mobiusu14",
             "alias": "",
-            "position": "200",
+            "position": "198",
             "rotated": false,
             "notes": ""
         },
@@ -4245,7 +4203,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "201",
+            "position": "199",
             "rotated": false,
             "notes": ""
         },
@@ -4266,7 +4224,7 @@
             "loyalty": "",
             "artist": "Francois Coutu",
             "alias": "",
-            "position": "202",
+            "position": "200",
             "rotated": false,
             "notes": ""
         },
@@ -4287,7 +4245,7 @@
             "loyalty": "",
             "artist": "Copehumu",
             "alias": "",
-            "position": "203",
+            "position": "201",
             "rotated": false,
             "notes": ""
         },
@@ -4308,7 +4266,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "204",
+            "position": "202",
             "rotated": false,
             "notes": ""
         },
@@ -4329,7 +4287,7 @@
             "loyalty": "",
             "artist": "Oabnormal",
             "alias": "",
-            "position": "205",
+            "position": "203",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4350,7 +4308,7 @@
             "loyalty": "",
             "artist": "SaneKyle",
             "alias": "",
-            "position": "206",
+            "position": "204",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4362,16 +4320,16 @@
             "number": 186,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 2/2 green Wolf creature token.\nII \u2014 Return up to one target creature to its owner's hand.\nIII \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
+            "rules_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 2/2 green Wolf creature token.\nReturn up to one target creature to its owner's hand.\nII, III \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 2/2 green Wolf creature token.\nII \u2014 Return up to one target creature to its owner's hand.\nIII \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
+            "special_text": "Bookmark r{3} \u2014 {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 Create a 2/2 green Wolf creature token.\nReturn up to one target creature to its owner's hand.\nII, III \u2014 Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]",
             "shape": "saga",
             "set": "TFF",
             "loyalty": "",
             "artist": "Ardoric-Art",
             "alias": "",
-            "position": "207",
+            "position": "205",
             "rotated": false,
             "notes": ""
         },
@@ -4392,7 +4350,7 @@
             "loyalty": "",
             "artist": "jasontn",
             "alias": "",
-            "position": "208",
+            "position": "206",
             "rotated": false,
             "notes": "Like black, red's uncommon creature percentages have basically stayed the same.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
         },
@@ -4413,7 +4371,7 @@
             "loyalty": "",
             "artist": "Leo Val",
             "alias": "",
-            "position": "209",
+            "position": "207",
             "rotated": false,
             "notes": ""
         },
@@ -4434,7 +4392,7 @@
             "loyalty": "",
             "artist": "Kaminari Taimei",
             "alias": "",
-            "position": "210",
+            "position": "208",
             "rotated": false,
             "notes": ""
         },
@@ -4455,7 +4413,7 @@
             "loyalty": "",
             "artist": "Conor Burke",
             "alias": "",
-            "position": "211",
+            "position": "209",
             "rotated": false,
             "notes": ""
         },
@@ -4476,7 +4434,7 @@
             "loyalty": "",
             "artist": "veigaman",
             "alias": "",
-            "position": "212",
+            "position": "210",
             "rotated": false,
             "notes": ""
         },
@@ -4497,7 +4455,7 @@
             "loyalty": "",
             "artist": "ThemeFinland",
             "alias": "",
-            "position": "213",
+            "position": "211",
             "rotated": false,
             "notes": ""
         },
@@ -4518,7 +4476,7 @@
             "loyalty": "",
             "artist": "Super-Furet",
             "alias": "",
-            "position": "214",
+            "position": "212",
             "rotated": false,
             "notes": ""
         },
@@ -4539,7 +4497,7 @@
             "loyalty": "",
             "artist": "Fabianrensch",
             "alias": "",
-            "position": "215",
+            "position": "213",
             "rotated": false,
             "notes": ""
         },
@@ -4560,7 +4518,7 @@
             "loyalty": "",
             "artist": "Sohlol",
             "alias": "",
-            "position": "216",
+            "position": "214",
             "rotated": false,
             "notes": ""
         },
@@ -4581,7 +4539,7 @@
             "loyalty": "",
             "artist": "Entropy",
             "alias": "",
-            "position": "217",
+            "position": "215",
             "rotated": false,
             "notes": ""
         },
@@ -4602,7 +4560,7 @@
             "loyalty": "",
             "artist": "Jadh Safri",
             "alias": "",
-            "position": "218",
+            "position": "216",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4623,7 +4581,7 @@
             "loyalty": "",
             "artist": "moshi06185",
             "alias": "",
-            "position": "219",
+            "position": "217",
             "rotated": false,
             "notes": ""
         },
@@ -4644,7 +4602,7 @@
             "loyalty": "",
             "artist": "michifromkmk",
             "alias": "",
-            "position": "220",
+            "position": "218",
             "rotated": false,
             "notes": "Blue is the one color where creature percentages have gone down at uncommon from 53% (7 out of 13) to 46% (6.5 out of 14).\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
         },
@@ -4665,7 +4623,7 @@
             "loyalty": "",
             "artist": "Uni",
             "alias": "",
-            "position": "221",
+            "position": "219",
             "rotated": false,
             "notes": ""
         },
@@ -4686,7 +4644,7 @@
             "loyalty": "",
             "artist": "Dark Souls 1 Screenshot",
             "alias": "",
-            "position": "222",
+            "position": "220",
             "rotated": false,
             "notes": ""
         },
@@ -4707,7 +4665,7 @@
             "loyalty": "",
             "artist": "Castaguer93",
             "alias": "",
-            "position": "223",
+            "position": "221",
             "rotated": false,
             "notes": ""
         },
@@ -4728,7 +4686,7 @@
             "loyalty": "",
             "artist": "Dark Souls 1 Screenshot",
             "alias": "",
-            "position": "224",
+            "position": "222",
             "rotated": false,
             "notes": ""
         },
@@ -4749,7 +4707,7 @@
             "loyalty": "",
             "artist": "Misokatsu",
             "alias": "",
-            "position": "225",
+            "position": "223",
             "rotated": false,
             "notes": ""
         },
@@ -4770,7 +4728,7 @@
             "loyalty": "",
             "artist": "Brandon Ellis",
             "alias": "",
-            "position": "226",
+            "position": "224",
             "rotated": false,
             "notes": ""
         },
@@ -4791,7 +4749,7 @@
             "loyalty": "",
             "artist": "Chen0924",
             "alias": "",
-            "position": "227",
+            "position": "225",
             "rotated": false,
             "notes": ""
         },
@@ -4812,7 +4770,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "228",
+            "position": "226",
             "rotated": false,
             "notes": ""
         },
@@ -4833,7 +4791,7 @@
             "loyalty": "",
             "artist": "DR Adri",
             "alias": "",
-            "position": "229",
+            "position": "227",
             "rotated": false,
             "notes": ""
         },
@@ -4854,7 +4812,7 @@
             "loyalty": "",
             "artist": "Kerim Akyuz",
             "alias": "",
-            "position": "230",
+            "position": "228",
             "rotated": false,
             "notes": ""
         },
@@ -4866,39 +4824,18 @@
             "number": 58,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Bookmark r{3} \u2014 {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 This Saga gains \u201cYou may cast noncreature spells as though they had flash.\u201d\nII \u2014 Draw two cards, then discard a card.\nIII \u2014 Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.",
+            "rules_text": "Bookmark r{3} \u2014 {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 This Saga gains \u201cYou may cast noncreature spells as though they had flash.\u201d\nDraw two cards, then discard a card.\nII, III \u2014 Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Bookmark r{3} \u2014 {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 This Saga gains \u201cYou may cast noncreature spells as though they had flash.\u201d\nII \u2014 Draw two cards, then discard a card.\nIII \u2014 Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.",
+            "special_text": "Bookmark r{3} \u2014 {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]\nI \u2014 This Saga gains \u201cYou may cast noncreature spells as though they had flash.\u201d\nDraw two cards, then discard a card.\nII, III \u2014 Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.",
             "shape": "saga",
             "set": "TFF",
             "loyalty": "",
             "artist": "SStarkm",
             "alias": "",
-            "position": "231",
+            "position": "229",
             "rotated": false,
             "notes": ""
-        },
-        {
-            "card_name": "UW01 Way of White Guardian",
-            "color": "W",
-            "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
-            "number": 21,
-            "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "Whenever one or more +1/+1 counters are put on this creature, it gains first strike until end of turn. This ability triggers only on your turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "1/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TFF",
-            "loyalty": "",
-            "artist": "Koromoya",
-            "alias": "",
-            "position": "232",
-            "rotated": false,
-            "notes": "While uncommon goes up 20 cards, only five are seen in monocolor, one per color. Like common in white, there is a shift upward in creature percentages. For example, creatures in white go from 61% (8 of 13) to 72% (10 of 14) at uncommon. This is due to the same larger factors. We just want more Limited-playable cards at common and uncommon.\n\nUncommon cards are also being raised in power level because they must compete more directly with rares and mythic rares.\n\nAnother change to uncommon is a shifting away from \"sideways build-arounds.\" More of those designs can be done at rare, as rares show up more frequently than they did in the Draft Booster world.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
         },
         {
             "card_name": "UW02 Branded Healer",
@@ -4917,7 +4854,7 @@
             "loyalty": "",
             "artist": "Ludvikskp",
             "alias": "",
-            "position": "233",
+            "position": "230",
             "rotated": false,
             "notes": ""
         },
@@ -4938,7 +4875,7 @@
             "loyalty": "",
             "artist": "SonyaM",
             "alias": "",
-            "position": "234",
+            "position": "231",
             "rotated": false,
             "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
         },
@@ -4959,7 +4896,7 @@
             "loyalty": "",
             "artist": "MisoKatsu",
             "alias": "",
-            "position": "235",
+            "position": "232",
             "rotated": false,
             "notes": ""
         },
@@ -4980,7 +4917,7 @@
             "loyalty": "",
             "artist": "BlazeMalefica",
             "alias": "",
-            "position": "236",
+            "position": "233",
             "rotated": false,
             "notes": ""
         },
@@ -5001,7 +4938,7 @@
             "loyalty": "",
             "artist": "CragTheRock",
             "alias": "",
-            "position": "237",
+            "position": "234",
             "rotated": false,
             "notes": ""
         },
@@ -5022,7 +4959,7 @@
             "loyalty": "",
             "artist": "MenaSLG",
             "alias": "",
-            "position": "238",
+            "position": "235",
             "rotated": false,
             "notes": ""
         },
@@ -5043,7 +4980,7 @@
             "loyalty": "",
             "artist": "Temmaru",
             "alias": "",
-            "position": "239",
+            "position": "236",
             "rotated": false,
             "notes": ""
         },
@@ -5064,7 +5001,7 @@
             "loyalty": "",
             "artist": "Meianmari",
             "alias": "",
-            "position": "240",
+            "position": "237",
             "rotated": false,
             "notes": ""
         },
@@ -5085,7 +5022,7 @@
             "loyalty": "",
             "artist": "Swoldier76",
             "alias": "",
-            "position": "241",
+            "position": "238",
             "rotated": false,
             "notes": ""
         },
@@ -5106,7 +5043,7 @@
             "loyalty": "",
             "artist": "Calings",
             "alias": "",
-            "position": "242",
+            "position": "239",
             "rotated": false,
             "notes": ""
         },
@@ -5127,28 +5064,7 @@
             "loyalty": "",
             "artist": "Eyedragon",
             "alias": "",
-            "position": "243",
-            "rotated": false,
-            "notes": ""
-        },
-        {
-            "card_name": "UZ01 Sieglinde, Epithet",
-            "color": "WU",
-            "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Human Knight",
-            "number": 197,
-            "color_identity": "WU",
-            "cost": "{2}{WU}",
-            "rules_text": "Whenever Sieglinde deals combat damage to a player, exile up to one other target permanent you control. Return that card to the battlefield under its owner's control tapped at the beginning of the next end step.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "TFF",
-            "loyalty": "",
-            "artist": "Mike Kime",
-            "alias": "",
-            "position": "244",
+            "position": "240",
             "rotated": false,
             "notes": ""
         },
@@ -5169,7 +5085,7 @@
             "loyalty": "",
             "artist": "AntPlaza",
             "alias": "",
-            "position": "245",
+            "position": "241",
             "rotated": false,
             "notes": ""
         },
@@ -5190,7 +5106,7 @@
             "loyalty": "",
             "artist": "Brent Holowell",
             "alias": "",
-            "position": "246",
+            "position": "242",
             "rotated": false,
             "notes": ""
         },
@@ -5211,7 +5127,7 @@
             "loyalty": "",
             "artist": "autocosm",
             "alias": "",
-            "position": "247",
+            "position": "243",
             "rotated": false,
             "notes": ""
         },
@@ -5232,7 +5148,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "248",
+            "position": "244",
             "rotated": false,
             "notes": ""
         },
@@ -5253,7 +5169,7 @@
             "loyalty": "",
             "artist": "Rockfrenzyart",
             "alias": "",
-            "position": "249",
+            "position": "245",
             "rotated": false,
             "notes": ""
         },
@@ -5274,7 +5190,7 @@
             "loyalty": "",
             "artist": "AriamisArts",
             "alias": "",
-            "position": "250",
+            "position": "246",
             "rotated": false,
             "notes": ""
         },
@@ -5295,7 +5211,7 @@
             "loyalty": "",
             "artist": "CGrobelski",
             "alias": "",
-            "position": "251",
+            "position": "247",
             "rotated": false,
             "notes": ""
         },
@@ -5316,7 +5232,7 @@
             "loyalty": "",
             "artist": "Pixiv ID 23865555",
             "alias": "",
-            "position": "252",
+            "position": "248",
             "rotated": false,
             "notes": ""
         },
@@ -5336,6 +5252,90 @@
             "set": "TFF",
             "loyalty": "",
             "artist": "Tontan",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "A11 \u2014 Soul",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Enchantment \u2014 Soul",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "TFF",
+            "loyalty": "",
+            "artist": "Anart",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "UW01 Way of White Guardian",
+            "color": "W",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Human Knight",
+            "number": 21,
+            "color_identity": "W",
+            "cost": "{W}",
+            "rules_text": "Whenever one or more creatures enter under your control, put a +1/+1 counter on this creature. This ability triggers only once each turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TFF",
+            "loyalty": "",
+            "artist": "Koromoya",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
+            "notes": "While uncommon goes up 20 cards, only five are seen in monocolor, one per color. Like common in white, there is a shift upward in creature percentages. For example, creatures in white go from 61% (8 of 13) to 72% (10 of 14) at uncommon. This is due to the same larger factors. We just want more Limited-playable cards at common and uncommon.\n\nUncommon cards are also being raised in power level because they must compete more directly with rares and mythic rares.\n\nAnother change to uncommon is a shifting away from \"sideways build-arounds.\" More of those designs can be done at rare, as rares show up more frequently than they did in the Draft Booster world.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
+        },
+        {
+            "card_name": "MM07 Seath, Epithet",
+            "color": "UR",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Elder Dragon",
+            "number": 148,
+            "color_identity": "UR",
+            "cost": "{3}{U}{U}{R}{R}",
+            "rules_text": "Flying\nWhenever Seath enters or attacks, you may exile your hand, then draw that many cards. \nYou may play land cards and cast Dragon, instant and sorcery cards from among cards you own that were put into exile this turn.\nYou may cast a spell each turn from among cards you own exiled that turn without paying its mana cost.",
+            "flavor_text": "[i][/i]",
+            "pt": "6/6",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TFF",
+            "loyalty": "",
+            "artist": "Pablo Fernandez",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "UZ01 Sieglinde, Epithet",
+            "color": "WU",
+            "rarity": "uncommon",
+            "type": "Legendary Creature \u2014 Human Knight",
+            "number": 197,
+            "color_identity": "WU",
+            "cost": "{2}{WU}",
+            "rules_text": "Whenever Sieglinde attacks, exile up to one other target permanent you control, then return that card to the battlefield tapped under its owner's control.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "TFF",
+            "loyalty": "",
+            "artist": "Mike Kime",
             "alias": "",
             "position": "253",
             "rotated": false,

@@ -1,4 +1,147 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+UW09 Channel Soul added.
+
+UW09 Cheap Recursion removed.
+
+CU13 The Great Flood
+rules_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​
+
+UG05 The Roots of Oolacile
+rules_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens.
+special_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens.
+
+UM20 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+II, III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+II, III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UU12 The Paledrake's Pact
+cost: {3}{U}{U} => {2}{U}{U}
+rules_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Draw two cards, then discard a card.
+II — This Saga gains “You may cast noncreature spells as though they had flash.”
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+special_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Draw two cards, then discard a card.
+II — This Saga gains “You may cast noncreature spells as though they had flash.”
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+
+UW01 Way of White Guardian
+rules_text: Whenever one or more +1/+1 counters are put on this creature, it gains first strike until end of turn. This ability triggers only on your turn. => Whenever one or more creatures enter under your control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+pt: 1/2 => 1/1
+
+UW11 Silver Knight Armor
+
+UZ02 Velka's Devoted
+
+UZ03 Scourge of the Valley
+
+UZ04 Hunted by Demons
+
+UZ05 Fire Keeper Anastacia
+
+UZ06 Hollowed Obsession
+
+UZ10 Dusk, Displaced Princess
+
+UZ07 Paledrake's Mastery
+
+UZ09 Leeroy, Golden Champion
+
+CC03 Iron Sentinel
+
+CR03 Ruthless Pyromancer
+
+A01 — Zombie
+
+A14 — Copy
+
+A06 — Bird
+
+A13 — Estus Flask
+
+A12 — Treasure
+
+A02 — Human
+
+A03 — Human Knight
+
+A04 — Illusion
+
+A05 — Human Wizard
+
+A07 — Dog
+
+A09 — Fungus
+
+A10 — Wolf
+
+A08 — Dragon
+
+CB01 Asylum Vermin
+
+UB04 Chester, Epiphet
+
+CG01 Flameblinded Witch
+
+UW12 Light in the Dark
+
+UG07 Taurus Demon
+
+A11 — Soul
+rules_text:  => {1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+
+UW10 Righteous Strike
+
+UZ01 Sieglinde, Epithet
+rules_text: Whenever Sieglinde deals combat damage to a player, exile up to one other target permanent you control. Return that card to the battlefield under its owner's control tapped at the beginning of the next end step. => Whenever Sieglinde attacks, exile up to one other target permanent you control, then return that card to the battlefield tapped under its owner's control.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 CR01 Quelana's Apprentice added.
