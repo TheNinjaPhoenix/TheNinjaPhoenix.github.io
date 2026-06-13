@@ -1,4 +1,439 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+UC02 Crystal Lizard added.
+UC03 Lurking Mimic added.
+UC01 Bounding Dragons added.
+
+UC03 Bounding Dragons removed.
+UC01 Crystal Lizard removed.
+UC02 Lurking Mimic removed.
+
+A01 — Zombie
+
+A02 — Human
+
+A03 — Human Knight
+
+A04 — Illusion
+
+A05 — Human Wizard
+
+A06 — Bird
+
+A07 — Dog
+
+A08 — Dragon
+rules_text: Flying
+{1}{R}: This creature gets +1/+0 until end of turn. => Flying
+pt: 1/1 => 4/4
+
+A09 — Fungus
+
+A10 — Wolf
+
+A11 — Soul
+
+A12 — Treasure
+
+A13 — Estus Flask
+cost: {1}{G} => 
+
+A14 — Copy
+
+CB01 Asylum Vermin
+
+CB02 Mindless Militia
+
+CB03 Depths Butcher
+
+CB04 Watcher of Sins
+
+CB05 Wandering Vagabond
+
+CB06 Titanite Demon
+
+CB07 Ariamis Phalanx
+
+CB08 Gain Favor
+
+CB09 Claimed by Death
+
+CB10 Loss of Self
+
+CB11 Barbed Blade
+
+CB12 Tale of the Abyss
+
+CB13 Fina's Embrace
+
+CC01 Purposeless Undead
+
+CC02 Oscar, Fading Failure
+
+CC03 Iron Sentinel
+
+CC04 Homeward Bone
+
+CC05 Knight's Claymore
+
+CC06 Abandoned Bonfire
+
+CG01 Flameblinded Witch
+
+CG02 Depths Lookout
+
+CG03 Scouring Slime
+
+CG04 Hollowing Merchant
+
+CG05 Darkroot Harvester
+
+CG06 Brutish Mushroom
+
+CG07 Forest-Clan Sentries
+
+CG08 Izalith Rockworm
+
+CG09 Collapsing Strike
+
+CG10 Grass Crest Shield
+
+CG11 Estus Flask
+
+CG12 Within the Archtree
+
+CG13 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+special_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+
+CR01 Quelana's Apprentice
+
+CR02 Dragonpath Zealot
+
+CR03 Ruthless Pyromancer
+
+CR04 Warrior of the Path
+
+CR05 Cragspider
+
+CR06 Demon Statues
+
+CR07 Centipede Demon
+
+CR08 Merchant's Katana
+
+CR09 Fire Battleaxe
+
+CR10 Repel the Hordes
+
+CR11 A Moment of Doubt
+
+CR12 Clash of Iron
+
+CR13 Kalameet's Gaze
+
+CU01 Darkmoon Squire
+
+CU02 Wayward Scholar
+
+CU03 Wizened Spellsword
+
+CU04 Vinheim Assassin
+
+CU05 Valley Bluescale
+
+CU06 Dragon-Path Scaleward
+
+CU07 Blue Crystal Golem
+
+CU08 Primeval Gaze
+
+CU09 Primal Sorceries
+
+CU10 Blessings of the Darkmoon
+
+CU11 Imprisoned Across Time
+
+CU12 Crystal Curse
+
+CU13 The Great Flood
+
+CW01 Apprentice Fire Keeper
+
+CW02 Astoran Cleric
+
+CW03 Soul Seeker
+
+CW04 Knights-in-Arms
+
+CW05 Sinful Missionary
+
+CW06 Spirit of the Altar
+
+CW07 Belltower Gargoyle
+
+CW08 Balder Knight
+
+CW09 Rest by the Bonfire
+
+CW10 Focused Parry
+
+CW11 Darkmoon Malediction
+
+CW12 Cleric's Talisman
+
+CW13 Corrupt Soul
+
+CZ01 Destined for More
+
+CZ02 Preying Bandit
+
+CZ03 Dark Grasp
+
+CZ04 Servant of Chaos
+
+CZ05 Undead Determination
+
+CZ06 Humanity Sprites
+
+CZ07 Azure Whelp
+
+CZ08 Festering Knight
+
+CZ09 Swift Swordstress
+
+CZ10 Roots of the World
+
+UB01 Darkwraith Allegiant
+
+UB02 Bonewheel Skeleton
+
+UB03 Knights of Ash
+
+UB04 Chester, Epiphet
+
+UB05 Petrus, Drenched in Sin
+
+UB06 Mass of Souls
+
+UB07 Frenzied Darkwraiths
+
+UB08 Sunlit Madness
+
+UB09 Reach of the Abyss
+
+UB10 Poison Mist
+
+UB11 Foil Escape
+
+UB12 Sinister Shotels
+
+UC04 Pyromancer's Flame
+
+UC05 Altar to the Gods
+
+UC06 Demon's Great Hammer
+
+UC07 Zweihander
+
+UC08 Sen's Fortress
+
+UC09 Firelink Shrine
+
+UG01 Eggburdened Servants
+
+UG02 Forest-Clan Ambusher
+
+UG03 Royal Gardener
+
+UG04 Stone Guardian
+
+UG05 The Roots of Oolacile
+
+UG06 Sif, Guardian Gravewolf
+
+UG07 Taurus Demon
+
+UG08 Ashen Hydra
+
+UG09 Guardian's Respite
+
+UG10 Plan of Attack
+
+UG11 Fang Boar Helm
+
+UG12 Blessings of Sunlight
+
+UM01 Rhea, Seeker of Kindling
+
+UM02 Pinwheel, Thrice-Masked
+
+UM03 Lautrec the Favored
+
+UM04 Izalith Firesage
+
+UM05 Siegmeyer, Honor-Bound Coward
+
+UM06 Darkmoon Knightess, Fire Keeper
+
+UM07 Valley Stormkite
+
+UM08 Asylum Jailor
+
+UM09 Solaire, Sunlight Knight
+
+UM10 Alvina, Darkroot Mother
+
+UM11 Tale of the Painted World
+
+UM12 Artorias Falls
+
+UM13 The Undead Curse
+
+UM14 Nurturing Chaos
+
+UM15 Kindle the Flame
+
+UM16 Oswald, Velka's Pardoner
+
+UM17 The Duke's Great Sorceries
+
+UM18 Maneater Mildred
+
+UM19 Jolly Cooperation!
+
+UM20 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+II, III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+II, III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UR01 Hollowing Mercenaries
+
+UR02 Impulsive Pyromancer
+
+UR03 Batwing Demon
+
+UR04 Unrelenting Hollows
+
+UR05 Burg Capra
+
+UR06 Dragonpath Hunter
+
+UR07 Bridge Wyvern
+
+UR08 In The Firstborn's Footsteps
+rules_text: As an additional cost to cast this spell, hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Draw two cards, then choose one —
+• Create a tapped Treasure token. 
+• Create a 1/1 red Dragon creature token with flying and “{1}{R}: This creature gets +1/+0 until end of turn.” => As an additional cost to cast this spell, hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Draw two cards, then create a tapped Treasure token.
+{4}{R}{R}, Exile this card from your graveyard: Create a 4/4 colorless Dragon creature token with flying.
+
+UR09 Blazing Breath
+
+UR10 Electrifying Strike
+
+UR11 Chaos Blade
+
+UR12 Path of the Dragon
+
+UU01 New Londo Haunted
+
+UU02 Beatrice, Seeker of Sorceries
+
+UU03 Man-Eater Shell
+
+UU04 Forest-Clan Seeker
+
+UU05 Seath's Pisaca
+
+UU06 Valley Darkward
+
+UU07 Aural Snare
+
+UU08 Logan's Obsession
+
+UU09 Eidas's Research
+
+UU10 Visions of Ariamis
+rules_text: Affinity for historic permanents [i](This spell costs {1} less to cast for each historic permanent you control.)[/i]
+Draw four cards. => Affinity for historic permanents [i](This spell costs {1} less to cast for each historic permanent you control.)[/i]
+Draw three cards.
+
+UU11 Just Another Undead
+
+UU12 The Paledrake's Pact
+
+UW01 Way of White Guardian
+
+UW02 Branded Healer
+
+UW03 The Crestfallen Warrior
+
+UW04 Astora Elite
+
+UW05 Allied Adventurer
+
+UW06 Paladin of Ariamis
+
+UW07 Tarkus, Black Iron Champion
+
+UW08 Gwyn's Silver Knights
+
+UW09 Channel Soul
+
+UW10 Righteous Strike
+
+UW11 Silver Knight Armor
+
+UW12 Light in the Dark
+
+UZ01 Sieglinde, Epithet
+
+UZ02 Velka's Devoted
+
+UZ03 Scourge of the Valley
+
+UZ04 Hunted by Demons
+
+UZ05 Fire Keeper Anastacia
+
+UZ06 Hollowed Obsession
+
+UZ07 Paledrake's Mastery
+
+UZ08 Kirk, Knight of Thorns
+
+UZ09 Leeroy, Golden Champion
+
+UZ10 Dusk, Displaced Princess
+
+
+VERSION 17 CHANGELOG
 ====================
 
 UW09 Channel Soul added.
