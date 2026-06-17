@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "181",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "182",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "183",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "184",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "185",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/18.png"
 			}
@@ -194,7 +194,7 @@
 			"name": "CB01 Asylum Vermin",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature — Rat",
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/19.png"
@@ -234,7 +234,7 @@
 			"name": "CB05 Wandering Vagabond",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Knight",
+			"type": "Creature — Knight",
 			"collector_number": "58",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/23.png"
@@ -414,7 +414,7 @@
 			"name": "CG04 Hollowing Merchant",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature",
+			"type": "Creature — Zombie Citizen",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/41.png"
@@ -424,7 +424,7 @@
 			"name": "CG05 Darkroot Harvester",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature",
+			"type": "Creature — Human Rogue",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/42.png"
@@ -444,7 +444,7 @@
 			"name": "CG07 Forest-Clan Sentries",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature",
+			"type": "Creature — Human Ranger",
 			"collector_number": "110",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/44.png"
@@ -461,7 +461,7 @@
 			}
 		},
 		{
-			"name": "CG09 Collapsing Strike",
+			"name": "CG09 Destructive Plunge",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
@@ -581,21 +581,21 @@
 			}
 		},
 		{
-			"name": "CR08 Merchant's Katana",
+			"name": "CR12 Merchant's Katana",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "86",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/58.png"
 			}
 		},
 		{
-			"name": "CR09 Fire Battleaxe",
+			"name": "CR13 Fire Battleaxe",
 			"rarity": "common",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "87",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/59.png"
 			}
@@ -603,7 +603,7 @@
 		{
 			"name": "CR10 Repel the Hordes",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
@@ -621,21 +621,21 @@
 			}
 		},
 		{
-			"name": "CR12 Clash of Iron",
+			"name": "CR08 Clash of Iron",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/62.png"
 			}
 		},
 		{
-			"name": "CR13 Kalameet's Gaze",
+			"name": "CR09 Kalameet's Gaze",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "91",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/63.png"
 			}
@@ -731,21 +731,21 @@
 			}
 		},
 		{
-			"name": "CU10 Blessings of the Darkmoon",
+			"name": "CU11 Blessings of the Darkmoon",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/73.png"
 			}
 		},
 		{
-			"name": "CU11 Imprisoned Across Time",
+			"name": "CU10 Imprisoned Across Time",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/74.png"
 			}
@@ -851,11 +851,11 @@
 			}
 		},
 		{
-			"name": "CW09 Rest by the Bonfire",
+			"name": "CW11 Rest by the Bonfire",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/85.png"
 			}
@@ -871,11 +871,11 @@
 			}
 		},
 		{
-			"name": "CW11 Darkmoon Malediction",
+			"name": "CW13 Darkmoon Malediction",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "14",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/87.png"
 			}
@@ -891,11 +891,11 @@
 			}
 		},
 		{
-			"name": "CW13 Corrupt Soul",
+			"name": "CW09 Corrupt Soul",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/89.png"
 			}
@@ -1071,51 +1071,51 @@
 			}
 		},
 		{
-			"name": "UB08 Sunlit Madness",
+			"name": "UB12 Sunlit Madness",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "74",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/107.png"
 			}
 		},
 		{
-			"name": "UB09 Reach of the Abyss",
+			"name": "UB10 Reach of the Abyss",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/108.png"
 			}
 		},
 		{
-			"name": "UB10 Poison Mist",
+			"name": "UB09 Poison Mist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/109.png"
 			}
 		},
 		{
-			"name": "UB11 Foil Escape",
+			"name": "UB08 Foil Escape",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/110.png"
 			}
 		},
 		{
-			"name": "UB12 Sinister Shotels",
+			"name": "UB11 Sinister Shotels",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/111.png"
 			}
@@ -1191,21 +1191,21 @@
 			}
 		},
 		{
-			"name": "UC08 Sen's Fortress",
+			"name": "UL11 Sen's Fortress",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "179",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/119.png"
 			}
 		},
 		{
-			"name": "UC09 Firelink Shrine",
+			"name": "UL12 Firelink Shrine",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "180",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/120.png"
 			}
@@ -1283,7 +1283,7 @@
 		{
 			"name": "UG08 Ashen Hydra",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{G}{G}",
+			"mana_cost": "{X}{G}",
 			"type": "Creature — Hydra",
 			"collector_number": "124",
 			"image_uris": {
@@ -1581,7 +1581,7 @@
 			}
 		},
 		{
-			"name": "UR06 Dragonpath Hunter",
+			"name": "UR06 Dragonpath Avenger",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Dragon Warrior",
@@ -1601,11 +1601,11 @@
 			}
 		},
 		{
-			"name": "UR08 In The Firstborn's Footsteps",
+			"name": "UR10 In The Firstborn's Footsteps",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/160.png"
 			}
@@ -1621,11 +1621,11 @@
 			}
 		},
 		{
-			"name": "UR10 Electrifying Strike",
+			"name": "UR08 Electrifying Strike",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/162.png"
 			}
@@ -1713,7 +1713,7 @@
 		{
 			"name": "UU07 Aural Snare",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
@@ -1851,41 +1851,41 @@
 			}
 		},
 		{
-			"name": "UW09 Channel Soul",
+			"name": "UW11 Channel Soul",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "25",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/185.png"
 			}
 		},
 		{
-			"name": "UW10 Righteous Strike",
+			"name": "UW09 Righteous Strike",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/186.png"
 			}
 		},
 		{
-			"name": "UW11 Silver Knight Armor",
+			"name": "UW12 Silver Knight Armor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/187.png"
 			}
 		},
 		{
-			"name": "UW12 Light in the Dark",
+			"name": "UW10 Light in the Dark",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/188.png"
 			}
@@ -1989,6 +1989,106 @@
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/198.png"
 			}
+		},
+		{
+			"name": "UL01 The Painted World",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/199.png"
+			}
+		},
+		{
+			"name": "UL02 Oolacile Township",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/200.png"
+			}
+		},
+		{
+			"name": "UL04 Demon Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/201.png"
+			}
+		},
+		{
+			"name": "UL03 The Northern Asylum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/202.png"
+			}
+		},
+		{
+			"name": "UL05 Royal Woods",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/203.png"
+			}
+		},
+		{
+			"name": "UL06 Ruined Cathedral",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/204.png"
+			}
+		},
+		{
+			"name": "UL08 Quelaag's Domain",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/205.png"
+			}
+		},
+		{
+			"name": "UL09 Sunlit Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/206.png"
+			}
+		},
+		{
+			"name": "UL10 Darkroot Basin",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/207.png"
+			}
+		},
+		{
+			"name": "UL07 Duke's Archives",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFFP-files/img/208.png"
+			}
 		}
 	]
 
@@ -2001,11 +2101,11 @@
 	4 UB05 Petrus, Drenched in Sin
 	4 UB06 Mass of Souls
 	4 UB07 Frenzied Darkwraiths
-	4 UB08 Sunlit Madness
-	4 UB09 Reach of the Abyss
-	4 UB10 Poison Mist
-	4 UB11 Foil Escape
-	4 UB12 Sinister Shotels
+	4 UB12 Sunlit Madness
+	4 UB10 Reach of the Abyss
+	4 UB09 Poison Mist
+	4 UB08 Foil Escape
+	4 UB11 Sinister Shotels
 	4 UC02 Crystal Lizard
 	4 UC03 Lurking Mimic
 	4 UC01 Bounding Dragons
@@ -2013,8 +2113,8 @@
 	4 UC05 Altar to the Gods
 	4 UC06 Demon's Great Hammer
 	4 UC07 Zweihander
-	4 UC08 Sen's Fortress
-	4 UC09 Firelink Shrine
+	4 UL11 Sen's Fortress
+	4 UL12 Firelink Shrine
 	4 UG01 Eggburdened Servants
 	4 UG02 Forest-Clan Ambusher
 	4 UG03 Royal Gardener
@@ -2052,11 +2152,11 @@
 	4 UR03 Batwing Demon
 	4 UR04 Unrelenting Hollows
 	4 UR05 Burg Capra
-	4 UR06 Dragonpath Hunter
+	4 UR06 Dragonpath Avenger
 	4 UR07 Bridge Wyvern
-	4 UR08 In The Firstborn's Footsteps
+	4 UR10 In The Firstborn's Footsteps
 	4 UR09 Blazing Breath
-	4 UR10 Electrifying Strike
+	4 UR08 Electrifying Strike
 	4 UR11 Chaos Blade
 	4 UR12 Path of the Dragon
 	4 UU01 New Londo Haunted
@@ -2079,10 +2179,10 @@
 	4 UW06 Paladin of Ariamis
 	4 UW07 Tarkus, Black Iron Champion
 	4 UW08 Gwyn's Silver Knights
-	4 UW09 Channel Soul
-	4 UW10 Righteous Strike
-	4 UW11 Silver Knight Armor
-	4 UW12 Light in the Dark
+	4 UW11 Channel Soul
+	4 UW09 Righteous Strike
+	4 UW12 Silver Knight Armor
+	4 UW10 Light in the Dark
 	4 UZ01 Sieglinde, Epithet
 	4 UZ02 Velka's Devoted
 	4 UZ03 Scourge of the Valley
@@ -2093,6 +2193,16 @@
 	4 UZ08 Kirk, Knight of Thorns
 	4 UZ09 Leeroy, Golden Champion
 	4 UZ10 Dusk, Displaced Princess
+	4 UL01 The Painted World
+	4 UL02 Oolacile Township
+	4 UL04 Demon Ruins
+	4 UL03 The Northern Asylum
+	4 UL05 Royal Woods
+	4 UL06 Ruined Cathedral
+	4 UL08 Quelaag's Domain
+	4 UL09 Sunlit Shrine
+	4 UL10 Darkroot Basin
+	4 UL07 Duke's Archives
 [common(6)]
 	8 CB01 Asylum Vermin
 	8 CB02 Mindless Militia
@@ -2121,7 +2231,7 @@
 	8 CG06 Brutish Mushroom
 	8 CG07 Forest-Clan Sentries
 	8 CG08 Izalith Rockworm
-	8 CG09 Collapsing Strike
+	8 CG09 Destructive Plunge
 	8 CG10 Grass Crest Shield
 	8 CG11 Estus Flask
 	8 CG12 Within the Archtree
@@ -2133,12 +2243,12 @@
 	8 CR05 Cragspider
 	8 CR06 Demon Statues
 	8 CR07 Centipede Demon
-	8 CR08 Merchant's Katana
-	8 CR09 Fire Battleaxe
+	8 CR12 Merchant's Katana
+	8 CR13 Fire Battleaxe
 	8 CR10 Repel the Hordes
 	8 CR11 A Moment of Doubt
-	8 CR12 Clash of Iron
-	8 CR13 Kalameet's Gaze
+	8 CR08 Clash of Iron
+	8 CR09 Kalameet's Gaze
 	8 CU01 Darkmoon Squire
 	8 CU02 Wayward Scholar
 	8 CU03 Wizened Spellsword
@@ -2148,8 +2258,8 @@
 	8 CU07 Blue Crystal Golem
 	8 CU08 Primeval Gaze
 	8 CU09 Primal Sorceries
-	8 CU10 Blessings of the Darkmoon
-	8 CU11 Imprisoned Across Time
+	8 CU11 Blessings of the Darkmoon
+	8 CU10 Imprisoned Across Time
 	8 CU12 Crystal Curse
 	8 CU13 The Great Flood
 	8 CW01 Apprentice Fire Keeper
@@ -2160,11 +2270,11 @@
 	8 CW06 Spirit of the Altar
 	8 CW07 Belltower Gargoyle
 	8 CW08 Balder Knight
-	8 CW09 Rest by the Bonfire
+	8 CW11 Rest by the Bonfire
 	8 CW10 Focused Parry
-	8 CW11 Darkmoon Malediction
+	8 CW13 Darkmoon Malediction
 	8 CW12 Cleric's Talisman
-	8 CW13 Corrupt Soul
+	8 CW09 Corrupt Soul
 	8 CZ01 Destined for More
 	8 CZ02 Preying Bandit
 	8 CZ03 Dark Grasp
@@ -2203,7 +2313,7 @@
 	8 CG06 Brutish Mushroom
 	8 CG07 Forest-Clan Sentries
 	8 CG08 Izalith Rockworm
-	8 CG09 Collapsing Strike
+	8 CG09 Destructive Plunge
 	8 CG10 Grass Crest Shield
 	8 CG11 Estus Flask
 	8 CG12 Within the Archtree
@@ -2215,12 +2325,12 @@
 	8 CR05 Cragspider
 	8 CR06 Demon Statues
 	8 CR07 Centipede Demon
-	8 CR08 Merchant's Katana
-	8 CR09 Fire Battleaxe
+	8 CR12 Merchant's Katana
+	8 CR13 Fire Battleaxe
 	8 CR10 Repel the Hordes
 	8 CR11 A Moment of Doubt
-	8 CR12 Clash of Iron
-	8 CR13 Kalameet's Gaze
+	8 CR08 Clash of Iron
+	8 CR09 Kalameet's Gaze
 	8 CU01 Darkmoon Squire
 	8 CU02 Wayward Scholar
 	8 CU03 Wizened Spellsword
@@ -2230,8 +2340,8 @@
 	8 CU07 Blue Crystal Golem
 	8 CU08 Primeval Gaze
 	8 CU09 Primal Sorceries
-	8 CU10 Blessings of the Darkmoon
-	8 CU11 Imprisoned Across Time
+	8 CU11 Blessings of the Darkmoon
+	8 CU10 Imprisoned Across Time
 	8 CU12 Crystal Curse
 	8 CU13 The Great Flood
 	8 CW01 Apprentice Fire Keeper
@@ -2242,11 +2352,11 @@
 	8 CW06 Spirit of the Altar
 	8 CW07 Belltower Gargoyle
 	8 CW08 Balder Knight
-	8 CW09 Rest by the Bonfire
+	8 CW11 Rest by the Bonfire
 	8 CW10 Focused Parry
-	8 CW11 Darkmoon Malediction
+	8 CW13 Darkmoon Malediction
 	8 CW12 Cleric's Talisman
-	8 CW13 Corrupt Soul
+	8 CW09 Corrupt Soul
 	8 CZ01 Destined for More
 	8 CZ02 Preying Bandit
 	8 CZ03 Dark Grasp
@@ -2285,7 +2395,7 @@
 	12 CG06 Brutish Mushroom
 	12 CG07 Forest-Clan Sentries
 	12 CG08 Izalith Rockworm
-	12 CG09 Collapsing Strike
+	12 CG09 Destructive Plunge
 	12 CG10 Grass Crest Shield
 	12 CG11 Estus Flask
 	12 CG12 Within the Archtree
@@ -2297,12 +2407,12 @@
 	12 CR05 Cragspider
 	12 CR06 Demon Statues
 	12 CR07 Centipede Demon
-	12 CR08 Merchant's Katana
-	12 CR09 Fire Battleaxe
+	12 CR12 Merchant's Katana
+	12 CR13 Fire Battleaxe
 	12 CR10 Repel the Hordes
 	12 CR11 A Moment of Doubt
-	12 CR12 Clash of Iron
-	12 CR13 Kalameet's Gaze
+	12 CR08 Clash of Iron
+	12 CR09 Kalameet's Gaze
 	12 CU01 Darkmoon Squire
 	12 CU02 Wayward Scholar
 	12 CU03 Wizened Spellsword
@@ -2312,8 +2422,8 @@
 	12 CU07 Blue Crystal Golem
 	12 CU08 Primeval Gaze
 	12 CU09 Primal Sorceries
-	12 CU10 Blessings of the Darkmoon
-	12 CU11 Imprisoned Across Time
+	12 CU11 Blessings of the Darkmoon
+	12 CU10 Imprisoned Across Time
 	12 CU12 Crystal Curse
 	12 CU13 The Great Flood
 	12 CW01 Apprentice Fire Keeper
@@ -2324,11 +2434,11 @@
 	12 CW06 Spirit of the Altar
 	12 CW07 Belltower Gargoyle
 	12 CW08 Balder Knight
-	12 CW09 Rest by the Bonfire
+	12 CW11 Rest by the Bonfire
 	12 CW10 Focused Parry
-	12 CW11 Darkmoon Malediction
+	12 CW13 Darkmoon Malediction
 	12 CW12 Cleric's Talisman
-	12 CW13 Corrupt Soul
+	12 CW09 Corrupt Soul
 	12 CZ01 Destined for More
 	12 CZ02 Preying Bandit
 	12 CZ03 Dark Grasp
@@ -2346,11 +2456,11 @@
 	6 UB05 Petrus, Drenched in Sin
 	6 UB06 Mass of Souls
 	6 UB07 Frenzied Darkwraiths
-	6 UB08 Sunlit Madness
-	6 UB09 Reach of the Abyss
-	6 UB10 Poison Mist
-	6 UB11 Foil Escape
-	6 UB12 Sinister Shotels
+	6 UB12 Sunlit Madness
+	6 UB10 Reach of the Abyss
+	6 UB09 Poison Mist
+	6 UB08 Foil Escape
+	6 UB11 Sinister Shotels
 	6 UC02 Crystal Lizard
 	6 UC03 Lurking Mimic
 	6 UC01 Bounding Dragons
@@ -2358,8 +2468,8 @@
 	6 UC05 Altar to the Gods
 	6 UC06 Demon's Great Hammer
 	6 UC07 Zweihander
-	6 UC08 Sen's Fortress
-	6 UC09 Firelink Shrine
+	6 UL11 Sen's Fortress
+	6 UL12 Firelink Shrine
 	6 UG01 Eggburdened Servants
 	6 UG02 Forest-Clan Ambusher
 	6 UG03 Royal Gardener
@@ -2397,11 +2507,11 @@
 	6 UR03 Batwing Demon
 	6 UR04 Unrelenting Hollows
 	6 UR05 Burg Capra
-	6 UR06 Dragonpath Hunter
+	6 UR06 Dragonpath Avenger
 	6 UR07 Bridge Wyvern
-	6 UR08 In The Firstborn's Footsteps
+	6 UR10 In The Firstborn's Footsteps
 	6 UR09 Blazing Breath
-	6 UR10 Electrifying Strike
+	6 UR08 Electrifying Strike
 	6 UR11 Chaos Blade
 	6 UR12 Path of the Dragon
 	6 UU01 New Londo Haunted
@@ -2424,10 +2534,10 @@
 	6 UW06 Paladin of Ariamis
 	6 UW07 Tarkus, Black Iron Champion
 	6 UW08 Gwyn's Silver Knights
-	6 UW09 Channel Soul
-	6 UW10 Righteous Strike
-	6 UW11 Silver Knight Armor
-	6 UW12 Light in the Dark
+	6 UW11 Channel Soul
+	6 UW09 Righteous Strike
+	6 UW12 Silver Knight Armor
+	6 UW10 Light in the Dark
 	6 UZ01 Sieglinde, Epithet
 	6 UZ02 Velka's Devoted
 	6 UZ03 Scourge of the Valley
@@ -2438,6 +2548,16 @@
 	6 UZ08 Kirk, Knight of Thorns
 	6 UZ09 Leeroy, Golden Champion
 	6 UZ10 Dusk, Displaced Princess
+	6 UL01 The Painted World
+	6 UL02 Oolacile Township
+	6 UL04 Demon Ruins
+	6 UL03 The Northern Asylum
+	6 UL05 Royal Woods
+	6 UL06 Ruined Cathedral
+	6 UL08 Quelaag's Domain
+	6 UL09 Sunlit Shrine
+	6 UL10 Darkroot Basin
+	6 UL07 Duke's Archives
 [wildcard(1)]
 	6 CB01 Asylum Vermin
 	6 CB02 Mindless Militia
@@ -2466,7 +2586,7 @@
 	6 CG06 Brutish Mushroom
 	6 CG07 Forest-Clan Sentries
 	6 CG08 Izalith Rockworm
-	6 CG09 Collapsing Strike
+	6 CG09 Destructive Plunge
 	6 CG10 Grass Crest Shield
 	6 CG11 Estus Flask
 	6 CG12 Within the Archtree
@@ -2478,12 +2598,12 @@
 	6 CR05 Cragspider
 	6 CR06 Demon Statues
 	6 CR07 Centipede Demon
-	6 CR08 Merchant's Katana
-	6 CR09 Fire Battleaxe
+	6 CR12 Merchant's Katana
+	6 CR13 Fire Battleaxe
 	6 CR10 Repel the Hordes
 	6 CR11 A Moment of Doubt
-	6 CR12 Clash of Iron
-	6 CR13 Kalameet's Gaze
+	6 CR08 Clash of Iron
+	6 CR09 Kalameet's Gaze
 	6 CU01 Darkmoon Squire
 	6 CU02 Wayward Scholar
 	6 CU03 Wizened Spellsword
@@ -2493,8 +2613,8 @@
 	6 CU07 Blue Crystal Golem
 	6 CU08 Primeval Gaze
 	6 CU09 Primal Sorceries
-	6 CU10 Blessings of the Darkmoon
-	6 CU11 Imprisoned Across Time
+	6 CU11 Blessings of the Darkmoon
+	6 CU10 Imprisoned Across Time
 	6 CU12 Crystal Curse
 	6 CU13 The Great Flood
 	6 CW01 Apprentice Fire Keeper
@@ -2505,11 +2625,11 @@
 	6 CW06 Spirit of the Altar
 	6 CW07 Belltower Gargoyle
 	6 CW08 Balder Knight
-	6 CW09 Rest by the Bonfire
+	6 CW11 Rest by the Bonfire
 	6 CW10 Focused Parry
-	6 CW11 Darkmoon Malediction
+	6 CW13 Darkmoon Malediction
 	6 CW12 Cleric's Talisman
-	6 CW13 Corrupt Soul
+	6 CW09 Corrupt Soul
 	6 CZ01 Destined for More
 	6 CZ02 Preying Bandit
 	6 CZ03 Dark Grasp
@@ -2527,11 +2647,11 @@
 	15 UB05 Petrus, Drenched in Sin
 	15 UB06 Mass of Souls
 	15 UB07 Frenzied Darkwraiths
-	15 UB08 Sunlit Madness
-	15 UB09 Reach of the Abyss
-	15 UB10 Poison Mist
-	15 UB11 Foil Escape
-	15 UB12 Sinister Shotels
+	15 UB12 Sunlit Madness
+	15 UB10 Reach of the Abyss
+	15 UB09 Poison Mist
+	15 UB08 Foil Escape
+	15 UB11 Sinister Shotels
 	15 UC02 Crystal Lizard
 	15 UC03 Lurking Mimic
 	15 UC01 Bounding Dragons
@@ -2539,8 +2659,8 @@
 	15 UC05 Altar to the Gods
 	15 UC06 Demon's Great Hammer
 	15 UC07 Zweihander
-	15 UC08 Sen's Fortress
-	15 UC09 Firelink Shrine
+	15 UL11 Sen's Fortress
+	15 UL12 Firelink Shrine
 	15 UG01 Eggburdened Servants
 	15 UG02 Forest-Clan Ambusher
 	15 UG03 Royal Gardener
@@ -2578,11 +2698,11 @@
 	15 UR03 Batwing Demon
 	15 UR04 Unrelenting Hollows
 	15 UR05 Burg Capra
-	15 UR06 Dragonpath Hunter
+	15 UR06 Dragonpath Avenger
 	15 UR07 Bridge Wyvern
-	15 UR08 In The Firstborn's Footsteps
+	15 UR10 In The Firstborn's Footsteps
 	15 UR09 Blazing Breath
-	15 UR10 Electrifying Strike
+	15 UR08 Electrifying Strike
 	15 UR11 Chaos Blade
 	15 UR12 Path of the Dragon
 	15 UU01 New Londo Haunted
@@ -2605,10 +2725,10 @@
 	15 UW06 Paladin of Ariamis
 	15 UW07 Tarkus, Black Iron Champion
 	15 UW08 Gwyn's Silver Knights
-	15 UW09 Channel Soul
-	15 UW10 Righteous Strike
-	15 UW11 Silver Knight Armor
-	15 UW12 Light in the Dark
+	15 UW11 Channel Soul
+	15 UW09 Righteous Strike
+	15 UW12 Silver Knight Armor
+	15 UW10 Light in the Dark
 	15 UZ01 Sieglinde, Epithet
 	15 UZ02 Velka's Devoted
 	15 UZ03 Scourge of the Valley
@@ -2619,3 +2739,13 @@
 	15 UZ08 Kirk, Knight of Thorns
 	15 UZ09 Leeroy, Golden Champion
 	15 UZ10 Dusk, Displaced Princess
+	15 UL01 The Painted World
+	15 UL02 Oolacile Township
+	15 UL04 Demon Ruins
+	15 UL03 The Northern Asylum
+	15 UL05 Royal Woods
+	15 UL06 Ruined Cathedral
+	15 UL08 Quelaag's Domain
+	15 UL09 Sunlit Shrine
+	15 UL10 Darkroot Basin
+	15 UL07 Duke's Archives

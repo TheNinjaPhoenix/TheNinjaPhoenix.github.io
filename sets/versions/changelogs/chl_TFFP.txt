@@ -1,4 +1,314 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+CG09 Destructive Plunge added.
+CR12 Merchant's Katana added.
+CR13 Fire Battleaxe added.
+CR08 Clash of Iron added.
+CR09 Kalameet's Gaze added.
+CU11 Blessings of the Darkmoon added.
+CU10 Imprisoned Across Time added.
+CW11 Rest by the Bonfire added.
+CW13 Darkmoon Malediction added.
+CW09 Corrupt Soul added.
+UB12 Sunlit Madness added.
+UB10 Reach of the Abyss added.
+UB09 Poison Mist added.
+UB08 Foil Escape added.
+UB11 Sinister Shotels added.
+UL11 Sen's Fortress added.
+UL12 Firelink Shrine added.
+UR06 Dragonpath Avenger added.
+UR10 In The Firstborn's Footsteps added.
+UR08 Electrifying Strike added.
+UW11 Channel Soul added.
+UW09 Righteous Strike added.
+UW12 Silver Knight Armor added.
+UW10 Light in the Dark added.
+UL01 The Painted World added.
+UL02 Oolacile Township added.
+UL04 Demon Ruins added.
+UL03 The Northern Asylum added.
+UL05 Royal Woods added.
+UL06 Ruined Cathedral added.
+UL08 Quelaag's Domain added.
+UL09 Sunlit Shrine added.
+UL10 Darkroot Basin added.
+UL07 Duke's Archives added.
+
+CG09 Collapsing Strike removed.
+CR08 Merchant's Katana removed.
+CR09 Fire Battleaxe removed.
+CR12 Clash of Iron removed.
+CR13 Kalameet's Gaze removed.
+CU10 Blessings of the Darkmoon removed.
+CU11 Imprisoned Across Time removed.
+CW09 Rest by the Bonfire removed.
+CW11 Darkmoon Malediction removed.
+CW13 Corrupt Soul removed.
+UB08 Sunlit Madness removed.
+UB09 Reach of the Abyss removed.
+UB10 Poison Mist removed.
+UB11 Foil Escape removed.
+UB12 Sinister Shotels removed.
+UC08 Sen's Fortress removed.
+UC09 Firelink Shrine removed.
+UR06 Dragonpath Hunter removed.
+UR08 In The Firstborn's Footsteps removed.
+UR10 Electrifying Strike removed.
+UW09 Channel Soul removed.
+UW10 Righteous Strike removed.
+UW11 Silver Knight Armor removed.
+UW12 Light in the Dark removed.
+
+CB01 Asylum Vermin
+type: Creature — Human Rogue => Creature — Rat
+rules_text: Deathtouch
+When this creature enters, if you sacrificed a permanent this turn, look at the top three cards of your library. You may put one of those cards back on top of your library. Put the rest into your graveyard. => Flash
+Deathtouch
+When this creature dies, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+CB03 Depths Butcher
+rules_text: Whenever you sacrifice a creature, target opponent loses 1 life. => Whenever you sacrifice a nonland permanent, target opponent loses 1 life.
+pt: 1/2 => 2/2
+
+CB04 Watcher of Sins
+rules_text: When this creature enters, target player discards a card. If they discard a creature card this way, create a 1/1 black Bird creature token with flying. => When this creature enters, target player discards a card. If they discard a land card this way, create a 1/1 black Bird creature token with flying. If they discard a nonland card this way, surveil 1.
+
+CB05 Wandering Vagabond
+type: Creature — Human Knight => Creature — Knight
+rules_text: {3}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains menace until end of turn. => {1}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains menace until end of turn.
+pt: 3/2 => 4/3
+
+CB06 Titanite Demon
+pt: 4/3 => 4/4
+
+CB09 Claimed by Death
+rules_text: As an additional cost to cast this spell, hollow or pay {4}. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Exile target creature. => As an additional cost to cast this spell, pay {3} or hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Exile target creature.
+
+CB12 Tale of the Abyss
+rules_text: Bookmark r{3} — {B} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature gets -2/-2 until end of turn.
+III — You lose 1 life and draw a card. => Bookmark r{3} — {B} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature an opponent controls gets -2/-2 until end of turn.
+III — Surveil 1. You lose 1 life and draw a card.
+special_text: Bookmark r{3} — {B} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature gets -2/-2 until end of turn.
+III — You lose 1 life and draw a card. => Bookmark r{3} — {B} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature an opponent controls gets -2/-2 until end of turn.
+III — Surveil 1. You lose 1 life and draw a card.
+
+CG04 Hollowing Merchant
+type: Creature => Creature — Zombie Citizen
+
+CG05 Darkroot Harvester
+type: Creature => Creature — Human Rogue
+
+CG07 Forest-Clan Sentries
+type: Creature => Creature — Human Ranger
+
+CG08 Izalith Rockworm
+rules_text: Trample
+When this creature enters, hollow, then gain life equal to the mana value of the hollowed card. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Trample
+When this creature enters, each player hollows. [i](To hollow, a player sacrifices a nonland permanent or discards a card.)[/i]
+
+CG13 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+special_text: Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+
+CR05 Cragspider
+rules_text: Reach
+{1}{R}: This creature gets +1/+1 until end of turn. => Reach
+This creature gets +1/+0 and has trample as long as you've exiled a card this turn, or cast a card from anywhere other than your hand this turn.
+pt: 4/2 => 3/4
+
+CR10 Repel the Hordes
+cost: {3}{R} => {2}{R}
+
+CU02 Wayward Scholar
+pt: 2/1 => 1/2
+
+CU04 Vinheim Assassin
+rules_text: When this creature enters, choose one —
+• Create a 1/1 black Bird creature token with flying.
+• Return target instant or sorcery card from your graveyard to your hand. => Flash
+When this creature enters, choose one —
+• Tap target creature.
+• Surveil 2. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+pt: 1/3 => 2/2
+
+CU08 Primeval Gaze
+rules_text: Counter target spell unless its controller pays {2}. If you control a historic permanent, counter that spell unless its controller pays {4} instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => As an additional cost to cast this spell, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Counter target spell unless its controller pays {2}. If you paid this spell's additional cost, counter that spell unless its controller pays {4} instead.
+
+CU13 The Great Flood
+rules_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+
+CW02 Astoran Cleric
+rules_text: Vigilance
+When this creature dies, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Vigilance
+When this creature enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+CW05 Sinful Missionary
+rules_text: Whenever this creature leaves the battlefield, create a 1/1 black Bird creature token with flying. => Lifelink
+Whenever this creature leaves the battlefield, create a 1/1 black Bird creature token with flying.
+
+CW06 Spirit of the Altar
+rules_text: As an additional cost to cast this spell, hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+When this creature enters, destroy target tapped creature. => When this creature enters, you may hollow. When you do, destroy target tapped creature an opponent controls. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+
+CZ02 Preying Bandit
+rules_text: When this creature enters, draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Flash
+When this creature enters, draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+pt: 2/2 => 2/1
+
+CZ07 Azure Whelp
+rules_text: Flying
+Whenever you cast a Dragon, instant or sorcery spell, this creature deals 1 damage to target creature. => Flying
+Whenever you cast a Dragon, instant or sorcery spell, this creature deals 1 damage to target creature an opponent controls.
+
+CZ09 Swift Swordstress
+rules_text: Cooperate {1}{RW} [i]({1}{RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)[/i]
+The creature has first strike during your turn. => Cooperate {1}{RW} [i]({1}{RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You can cast this card on a later turn from exile.)[/i]
+During your turn, this creature has first strike.
+
+UB04 Chester, Epiphet
+rules_text: Menace
+Whenever Chester deals combat damage to a player, exile the top card of their library. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell. => Flash
+When Chester enters, exile the top card of target opponent's library. You may play those cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.
+pt: 2/3 => 3/3
+
+UG08 Ashen Hydra
+cost: {X}{G}{G} => {X}{G}
+
+UG12 Blessings of Sunlight
+rules_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+special_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+
+UM06 Darkmoon Knightess, Fire Keeper
+rules_text: Darkmoon Knightess has first strike during your turn.
+At the beginning of your end step, if a creature left the battlefield this turn, each opponent loses 1 life and you create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => During your turn, Darkmoon Knightess has first strike.
+At the beginning of your end step, if a creature left the battlefield this turn, each opponent loses 1 life and you create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+UM12 Artorias Falls
+rules_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Return up to one creature card from your graveyard to the battlefield.
+​
+special_text: Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III, IV — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](You may cast this spell for its bookmark cost to have it enter with four lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+IV — Return up to one creature card from your graveyard to the battlefield.
+​
+
+UM16 Oswald, Velka's Pardoner
+rules_text: When Oswald enters, target opponent discards a card. If they discard a creature card this way, create a 1/1 black Bird creature token with flying.
+{2}, Sacrifice another creature: You gain 2 life and draw a card. => When Oswald enters, target opponent discards a card. If they discard a land card this way, create a 1/1 black Bird creature token with flying.
+{2}, Sacrifice another creature: You gain 2 life and draw a card.
+
+UM17 The Duke's Great Sorceries
+rules_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play those cards.
+III — When you next cast a Dragon, instant or sorcery spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+When you next cast a Dragon, instant or sorcery spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {2}{R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play those cards.
+III — When you next cast a Dragon, instant or sorcery spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {R}{R} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+When you next cast a Dragon, instant or sorcery spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UM20 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Return up to one target creature to its owner's hand.
+III — Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {1}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+Create a 2/2 green Wolf creature token.
+Return up to one target creature to its owner's hand.
+Return up to one historic permanent card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UR03 Batwing Demon
+rules_text: Flying, haste
+At the beginning of combat on your turn, you may tap this creature. If you do, another target creature you control gains flying and haste until end of turn. => Flying, haste
+{T}: Target creature you control gains flying and haste until end of turn.
+
+UU07 Aural Snare
+cost: {1}{U} => {1}{U}{U}
+rules_text: As an additional cost to cast this spell, pay {2} or hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Counter target creature spell. If you paid this spell's additional cost, instead counter target spell. => This spell costs {U} less if it targets a spell that wasn't cast from its owner's hand.
+Counter target spell.
+
+UW05 Allied Adventurer
+rules_text: Flash
+When this creature enters, return target permanent card that entered your graveyard from the battlefield this turn to your hand.
+{3}{W}{W}, {T}: Exile this creature, then return it to the battlefield tapped under its owner's control. => Flash
+When this creature enters, return target permanent card put into your graveyard from the battlefield this turn to your hand.
+{3}{W}{W}, {T}: Exile this creature, then return it to the battlefield tapped under its owner's control.
+
+UW08 Gwyn's Silver Knights
+pt: 4/4 => 5/4
+
+
+VERSION 18 CHANGELOG
 ====================
 
 UC02 Crystal Lizard added.
