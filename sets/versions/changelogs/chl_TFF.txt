@@ -1,4 +1,737 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+CB04 3 MV added.
+CG07 6 MV added.
+CG08 6 OR 7 MV added.
+CG09 Fight spell added.
+CG11 Combat trick (power pump) added.
+CG13 Dig for lands and/or creatures added.
+CR01 1 OR 2 MV added.
+CR06 4 OR 5 MV added.
+CR07 5 MV added.
+CR08 6 MV added.
+CR09 Combat trick added.
+CR12 Direct damage (efficient, usually deals 4) added.
+CU01 2 MV added.
+CU02 2 MV added.
+CU03 3 MV added.
+CU04 3 MV added.
+CU08 Counterspell added.
+CU09 Cantrip added.
+CU10 Draw spell (two to three cards) added.
+CW09 5 OR 6 MV added.
+MR01 added.
+MU01 added.
+MW01 added.
+MX10 added.
+MX09 added.
+RB01 added.
+RB02 added.
+RB03 added.
+RB05 added.
+RG02 added.
+RG03 added.
+RG04 added.
+RG05 added.
+RG06 added.
+RM05 added.
+RM06 added.
+RM10 added.
+RR01 added.
+RR03 added.
+RR04 added.
+RR06 added.
+RU01 added.
+RU02 added.
+RU03 added.
+RU04 added.
+RU05 added.
+RU06 added.
+RW01 added.
+RW02 added.
+RW04 added.
+RW05 added.
+RW06 added.
+RX01 added.
+RX02 added.
+RX03 added.
+RX04 added.
+RX05 added.
+RX06 added.
+UA05 Nameless Song added.
+UB06 added.
+UB11 Noncreature added.
+UB13 Noncreature added.
+UB14 Noncreature added.
+UG06 added.
+UG08 added.
+UG10 Noncreature added.
+UG13 Noncreature added.
+UG14 Noncreature added.
+UR03 added.
+UR05 added.
+UR13 Noncreature added.
+UR14 Noncreature added.
+UU01 added.
+UU02 added.
+UU03 added.
+UU04 added.
+UU05 added.
+UU06 added.
+UU07 added.
+UU09 Noncreature added.
+UU13 Noncreature added.
+UU14 Noncreature added.
+UW05 added.
+UW09 added.
+UW11 added.
+UW14 Noncreature added.
+UZ03 Lautrec the Favored added.
+UZ04 Jeremiah, Exiled King added.
+ZX02 Siegmeyer added.
+UM01 Tale of the Painted World added.
+RM02 Artorias Falls added.
+UM03 The Undead Curse added.
+UM04 Nurturing Chaos added.
+UM05 Bonfire's Warmth added.
+ZX01 Oswald added.
+UM07 The Duke's Great Sorceries added.
+UM08 Maneater Mildred added.
+UZ09 Jolly Cooperation! added.
+UM10 The Wolf Knight's Legacy added.
+RZ03 Scourge of the Valley added.
+CG10 Hunted by Demons added.
+UW12 Hollowed Obsession added.
+UW02 Leeroy, Golden Champion added.
+UZ06 The Hollows Hunt added.
+UB04 added.
+UR07 Izalith Firesage added.
+UZ07 Valley Darkward added.
+CR10 A Moment of Doubt added.
+CR02 Dragonpath Hunter added.
+CR11 Clash of Iron added.
+CR04 Zealot of the Path added.
+CB06 Barbed Blade added.
+CB08 Tale of the Abyss added.
+CB12 Claimed by Death added.
+CB10 Gain Favor added.
+CB11 Loss of Self added.
+CW10 Grass Crest Shield added.
+CG11 From Firelink, Onwards added.
+CU06 Paledrake's Fervent added.
+CU12 Imprisoned Across Time added.
+CU11 Crystal Curse added.
+CW06 Cleric's Talisman added.
+CW13 Darkmoon Malediction added.
+CW12 Rest by the Bonfire added.
+CW11 Focused Parry added.
+CW04 Soul Seeker added.
+CW05 Knights-in-Arms added.
+CW07 Spirit of the Altar added.
+MM08 Fair Lady's Offering added.
+MM101 Dark Sun Gwyndolin added.
+MG02 Smough's Great Hammer added.
+MR02 Quelaag's Furysword added.
+MW02 Lifehunt Scythe added.
+RA02 Snuggly's Nest added.
+RL02 New Londo Ruins added.
+RL03 Lost Izalith added.
+RL04 WB Land added.
+RL05 Anor Londo added.
+RL06 Ash Lake added.
+RM01 Priscilla, Keeper of the Lost added.
+RM03 Gwyn Links the Flame added.
+RM04 Chaos Engulfs Izalith added.
+RM08 Nito's Miasma of Death added.
+RM01 Gwyndolin's Manipulation added.
+RG01 Pharis of the Black Bow added.
+RR02 Chaos Witch added.
+RW03 Sanctuary Guardian added.
+UA01 Crystal Lizard added.
+UA02 Lurking Mimic added.
+UA03 Bounding Dragons added.
+UA04 Pyromancer's Flame added.
+UA06 Altar to the Gods added.
+UA07 Demon's Great Hammer added.
+UA08 Zweihander added.
+UL11 Sen's Fortress added.
+UL12 Firelink Shrine added.
+UL01 The Painted World added.
+UL02 Oolacile Township added.
+UL03 The Northern Asylum added.
+UL04 Demon Ruins added.
+UL05 Royal Woods added.
+UL06 Ruined Cathedral added.
+UL07 Duke's Archives added.
+UL08 Quelaag's Domain added.
+UL09 Sunlit Shrine added.
+UL10 Darkroot Basin added.
+UW10 Silver Knight Armor added.
+UW13 Light in the Dark added.
+CW03 Swift Swordstress added.
+CA01 Purposeless Undead added.
+CA02 Oscar, Fading Failure added.
+CA03 Iron Sentinel added.
+CA04 Homeward Bone added.
+CA05 Knight's Claymore added.
+CL01 Abandoned Bonfire added.
+
+MB03 The Age of Dark removed.
+MG02 Mythic Green Equipment removed.
+MM18 Fair Lady's Offering removed.
+MM09 The Age of Fire removed.
+MR02 Mythic Red Equipment removed.
+MW02 Mythic White Equipment removed.
+MM08 Nito, First of the Dead removed.
+RA01 Snuggly's Nest removed.
+RB03 Artorias, Abyss-Cursed removed.
+RL02 The Painted World removed.
+RL07 Oolacile Township removed.
+RL03 New Londo Ruins removed.
+RL08 The Duke's Archives removed.
+RL04 The Northern Asylum removed.
+RL09 Blighttown removed.
+RL10 Anor Londo removed.
+RL05 Lost Izalith removed.
+RL06 Royal Woods removed.
+RL11 Ash Lake removed.
+RM21 Gwyndolin's Manipulation removed.
+RM11 Priscilla, Keeper of the Lost removed.
+RM13 Gwyn Links the Flame removed.
+RM03 Patches, Trustworthy removed.
+RM14 Chaos Engulfs Izalith removed.
+RM04 Spell Harmonizer removed.
+RM05 Gough, Blind Trueshot removed.
+RM18 Nito's Miasma of Death removed.
+RM09 Sunlight Avenger removed.
+RR06 Noncreature removed.
+A01 — Zombie removed.
+A02 — Human removed.
+A03 — Human Knight removed.
+A04 — Illusion removed.
+A05 — Human Wizard removed.
+A06 — Bird removed.
+A07 — Dog removed.
+A08 — Dragon removed.
+A09 — Fungus removed.
+A10 — Wolf removed.
+A12 — Treasure removed.
+A13 — Estus Flask removed.
+A14 — Copy removed.
+A15 — Chaos Bug removed.
+A16 — Human Horror removed.
+A17 — Demon removed.
+A18 — Dragon removed.
+CB04 Watcher of Sins removed.
+CB06 Titanite Demon removed.
+CB08 Gain Favor removed.
+CB09 Claimed by Death removed.
+CB10 Loss of Self removed.
+CB11 Barbed Blade removed.
+CB12 Tale of the Abyss removed.
+CC01 Purposeless Undead removed.
+CC02 Oscar, Fading Failure removed.
+CC03 Iron Sentinel removed.
+CC04 Homeward Bone removed.
+CC05 Knight's Claymore removed.
+CC06 Abandoned Bonfire removed.
+CG07 Forest-Clan Sentries removed.
+CG08 Izalith Rockworm removed.
+CG09 Collapsing Strike removed.
+CG10 Grass Crest Shield removed.
+CG11 Estus Flask removed.
+CG13 From Firelink, Onwards removed.
+CR01 Quelana's Apprentice removed.
+CR02 Dragonpath Zealot removed.
+CR04 Warrior of the Path removed.
+CR06 Demon Statues removed.
+CR07 Centipede Demon removed.
+CR08 Merchant's Katana removed.
+CR09 Fire Battleaxe removed.
+CR10 Repel the Hordes removed.
+CR11 A Moment of Doubt removed.
+CR12 Clash of Iron removed.
+CU01 Darkmoon Squire removed.
+CU02 Wayward Scholar removed.
+CU03 Wizened Spellsword removed.
+CU04 Vinheim Assassin removed.
+CU06 Dragon-Path Scaleward removed.
+CU08 Primeval Gaze removed.
+CU09 Primal Sorceries removed.
+CU10 Blessings of the Darkmoon removed.
+CU11 Imprisoned Across Time removed.
+CU12 Crystal Curse removed.
+CW03 Soul Seeker removed.
+CW04 Knights-in-Arms removed.
+CW05 Sinful Missionary removed.
+CW06 Spirit of the Altar removed.
+CW07 Belltower Gargoyle removed.
+CW09 Rest by the Bonfire removed.
+CW10 Focused Parry removed.
+CW11 Darkmoon Malediction removed.
+CW12 Cleric's Talisman removed.
+CW13 Corrupt Soul removed.
+UB04 Chester, Epiphet removed.
+UB06 Mass of Souls removed.
+UB11 Foil Escape removed.
+UC01 Crystal Lizard removed.
+UC02 Lurking Mimic removed.
+UC03 Bounding Dragons removed.
+UC04 Pyromancer's Flame removed.
+UC05 Altar to the Gods removed.
+UC06 Demon's Great Hammer removed.
+UC07 Zweihander removed.
+UC08 Sen's Fortress removed.
+UC09 Firelink Shrine removed.
+UG10 Plan of Attack removed.
+UM01 Rhea, Seeker of Kindling removed.
+UM03 Lautrec the Favored removed.
+UM04 Izalith Firesage removed.
+UM05 Siegmeyer, Honor-Bound Coward removed.
+UM07 Valley Stormkite removed.
+UM08 Asylum Jailor removed.
+UM10 Alvina, Darkroot Mother removed.
+UM11 Tale of the Painted World removed.
+UM12 Artorias Falls removed.
+UM13 The Undead Curse removed.
+UM14 Nurturing Chaos removed.
+UM15 Kindle the Flame removed.
+UM16 Oswald, Velka's Pardoner removed.
+UM17 The Duke's Great Sorceries removed.
+UM18 Maneater Mildred removed.
+UM19 Jolly Cooperation! removed.
+UM20 The Wolf Knight's Legacy removed.
+UR03 Batwing Demon removed.
+UU01 New Londo Haunted removed.
+UU02 Beatrice, Seeker of Sorceries removed.
+UU03 Man-Eater Shell removed.
+UU04 Forest-Clan Seeker removed.
+UU05 Seath's Pisaca removed.
+UU06 Valley Darkward removed.
+UU09 Eidas's Research removed.
+UW02 Branded Healer removed.
+UW05 Allied Adventurer removed.
+UW09 Cheap Recursion removed.
+UW10 Righteous Strike removed.
+UW11 Silver Knight Armor removed.
+UW12 Light in the Dark removed.
+UZ03 Scourge of the Valley removed.
+UZ04 Hunted by Demons removed.
+UZ06 Hollowed Obsession removed.
+UZ07 Paledrake's Mastery removed.
+UZ09 Leeroy, Golden Champion removed.
+A11 — Soul removed.
+
+CZ01 Destined for More
+
+CZ02 Preying Bandit
+rules_text: When this creature enters, draw a card, then hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Flash
+When this creature enters, draw a card, then discard a card.
+pt: 2/2 => 2/1
+
+CZ03 Dark Grasp
+rules_text: Dark Grasp deals 2 damage to target creature. Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Dark Grasp deals 2 damage to target creature. Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+CZ04 Servant of Chaos
+rules_text: {T}: Add {R} or {G}.
+Whenever you cast a spell from anywhere but your hand, untap this creature. => {T}: Add {R} or {G}.
+Whenever you cast a spell from anywhere other than your hand, untap this creature.
+
+CZ05 Undead Determination
+
+CZ06 Humanity Sprites
+
+CZ07 Azure Whelp
+rules_text: Flying
+Whenever you cast a Dragon, instant or sorcery spell, this creature deals 1 damage to target creature. => Flying
+This creature gets +1/+1 as long as you have two or more noncreature, nonland cards in your graveyard. If you have four or more noncreature, nonland cards in your graveyard it gets +2/+2 instead.
+
+CZ08 Festering Knight
+rules_text: At the beginning of combat on your turn, you may hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Whenever you hollow, put a +1/+1 counter on this creature. => [i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on this creature.
+
+CZ09 Swift Swordstress
+rules_text: Cooperate {1}{RW} [i]({1}{RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+The creature has first strike during your turn. => Cooperate {1}{RW} [i]({1}{RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+During your turn, this creature has first strike.
+
+CZ10 Roots of the World
+rules_text: The first time you cast or copy a noncreature spell each turn, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => The first time you cast or copy a noncreature spell each turn, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+UM02 Pinwheel, Thrice-Masked
+rules_text: Flying
+At the beginning of your end step, if Pinwheel entered this turn or you discarded a card this turn, create a 2/2 blue Illusion creature token. => Flying
+When Pinwheel enters, create a 1/1 black Illusion creature token with flying.
+[i]Kindle [/i]— At the beginning of your end step, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, create a 1/1 black Illusion creature token with flying.
+pt: 2/3 => 2/2
+
+UM09 Solaire, Sunlight Knight
+
+UZ01 Sieglinde, Epithet
+
+UZ02 Velka's Devoted
+rules_text: Flying
+Whenever you cast a spell during an opponent's turn, you may draw a card. If you do, discard a card. => Flying
+Whenever you sacrifice a nonland permanent, draw a card, then discard a card. This ability triggers only once each turn.
+
+UZ05 Fire Keeper Anastacia
+rules_text: Whenever you cast a historic spell, create a Soul token. [i](Artifacts, legendaries, and Sagas are historic. A Soul token is an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Whenever a nontoken creature enters under your control, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+UZ08 Kirk, Knight of Thorns
+rules_text: Whenever Kirk becomes blocked, defending player loses 2 life.
+Whenever Kirk deals combat damage to a player, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Whenever Kirk becomes blocked, defending player loses 2 life.
+Whenever Kirk deals combat damage to a player, mill three cards. If a creature card is milled this way, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+UZ10 Dusk, Displaced Princess
+
+UM06 Darkmoon Knightess, Fire Keeper
+rules_text: Darkmoon Knightess has first strike during your turn.
+At the beginning of your end step, if a creature left the battlefield this turn, each opponent loses 1 life and you create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => During your turn, Darkmoon Knightess has first strike.
+Whenever an equipped creature you control dies, each opponent loses 1 life and you draw a card. This ability triggers only once each turn.
+
+CR13 Kalameet's Gaze
+rules_text: Kalameet's Gaze deals 6 damage to target creature. When that creature dies this turn, exile the top two cards of your library. Until the end of your next turn, you may play one of those cards. => Kalameet's Gaze deals 6 damage to target creature. When that creature dies this turn, exile the top card of your library. Until the end of your next turn, you may play that card.
+
+CR05 Cragspider
+rules_text: Reach
+{1}{R}: This creature gets +1/+1 until end of turn. => Reach
+This creature gets +1/+0 and has trample as long as you've exiled a card this turn, or cast a card from anywhere other than your hand this turn.
+pt: 4/2 => 3/4
+
+CR03 Ruthless Pyromancer
+
+CB01 Asylum Vermin
+type: Creature — Human Rogue => Creature — Rat
+rules_text: Deathtouch
+When this creature enters, if you sacrificed a permanent this turn, look at the top three cards of your library. You may put one of those cards back on top of your library. Put the rest into your graveyard. => Flash
+Deathtouch
+When this creature dies, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+CB02 Mindless Militia
+rules_text: When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{3}{B}{B}, Exile this card from your graveyard: Create a 2/2 colorless Zombie creature token with decayed. => When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{1}{B}{B}, Exile this card from your graveyard: Create a 2/2 colorless Zombie creature token with decayed.
+
+CB03 Depths Butcher
+rules_text: Whenever you sacrifice a creature, target opponent loses 1 life. => Whenever you sacrifice a nonland permanent, target opponent loses 1 life.
+pt: 1/2 => 2/2
+
+CB13 Fina's Embrace
+
+CB07 Ariamis Phalanx
+
+CB05 Wandering Vagabond
+type: Creature — Human Knight => Creature — Knight
+rules_text: {3}, Sacrifice a creature: Put a +1/+1 counter on this creature. It gains menace until end of turn. => [i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, choose one —
+• Put a +1/+1 counter on this creature. It gains menace until end of turn.
+• Attach target Equipment you control to this creature.
+pt: 3/2 => 4/3
+
+CG01 Flameblinded Witch
+rules_text: When this creature enters, create a Soul token and you gain 1 life. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => When this creature enters, create a Soul token and you gain 1 life. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+pt: 1/1 => 1/2
+
+CG02 Depths Lookout
+
+CG03 Scouring Slime
+
+CG04 Hollowing Merchant
+type: Creature => Creature — Zombie Citizen
+rules_text: At the beginning of your end step, if you cast a spell from anywhere but your hand this turn, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => At the beginning of your end step, if you cast a spell from anywhere other than your hand this turn, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+CG05 Darkroot Harvester
+type: Creature => Creature — Human Rogue
+cost: {2}{G} => {3}{G}
+pt: 3/2 => 3/4
+
+CG06 Brutish Mushroom
+cost: {3}{G} => {4}{G}
+pt: 2/4 => 3/5
+
+CG12 Within the Archtree
+rules_text: Enchant land
+When this enchantment enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color that land could produce. => Enchant land
+When this enchantment enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color that land could produce.
+
+CU05 Valley Bluescale
+
+CU07 Blue Crystal Golem
+
+CU13 The Great Flood
+rules_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: Bookmark r{3} — {1}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I, II, III — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Put a stun counter on it on target creature an opponent controls. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+
+CW08 Balder Knight
+
+CW01 Apprentice Fire Keeper
+rules_text: Whenever a creature enters under your control, gain 1 life.
+{2}{W}, {T}: Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Whenever a creature enters under your control, gain 1 life.
+{2}{W}, {T}: Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+CW02 Astoran Cleric
+rules_text: Vigilance
+When this creature dies, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Vigilance
+When this creature enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+MB01 Curse-Spewer Basilisk
+
+MB02 Gravelord Sword
+cost: {3}{B}{B} => {1}{B}{B}
+rules_text: Equipped creature gets +2/+0 and has hexproof from non-black activated and triggered abilities.
+Whenever equipped creature deals combat damage to a player, return up to creature card from a graveyard to the battlefield with equal or lesser mana value to that damage to the battlefield with a finality counter on it.
+Equip—Sacrifice a creature. => Equipped creature gets +2/+0 and has menace.
+[i]Kindle[/i] — Whenever equipped creature attacks, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a number of hone counters on Gravelord Sword equal to the greatest mana value among permanents you've sacrificed this turn. [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+Equip—Sacrifice a creature or pay {2}.
+
+MG01 Sif, Courageous Pup
+
+MC02 The Age of Ancients
+rules_text: Bookmark r{3} — {4} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+special_text: Bookmark r{3} — {4} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+
+MC01 The Everlasting Dragon
+
+MM03 Kalameet, Living Calamity
+
+MM04 The Bed of Chaos
+
+MM07 Seath, Epithet
+rules_text: Flying
+Whenever Seath enters or attacks, you may exile your hand, then draw that many cards. 
+You may play land cards and cast Dragon, instant and sorcery cards from among cards you own that were put into exile this turn.
+You may cast a spell each turn from among cards you own exiled that turn without paying its mana cost. => Flying
+Whenever Seath enters or attacks, you may exile your hand, then draw that many cards. 
+You may play land cards and cast Dragon and noncreature cards from among cards you own that were put into exile this turn.
+You may cast a spell each turn from among cards you own exiled that turn without paying its mana cost.
+
+MM102 Gwyn, Cindered
+
+MU02 Moonlight Greatsword
+
+RA01 Sac Supporter
+
+RB04 Smough, Grim Executioner
+rules_text: Menace
+When Smough enters, each player hollows. [i](To hollow, they sacrifice a nonland permanent or discard a card.)[/i]
+Whenever a creature you control dies, you lose 1 life and draw a card. => Menace
+When Smough enters, each player sacrifices a nonland permanent.
+Whenever a creature you control dies, you lose 1 life and draw a card.
+
+RB06 Chasm of the Abyss
+cost: {1}{B}{B} => {1}{B}
+rules_text: At the beginning of your upkeep, you lose 1 life and create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Soul tokens you control are 1/1 white and black Spirit creatures with flying in addition to their other types. => At the beginning of your upkeep, you lose 1 life and create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Soul enchantments you control are 1/1 white and black Spirit creatures with flying in addition to their other types.
+
+RC01 Havel, Stoneclad Slayer
+
+RL01 Kiln of the First Flame
+
+RM01 Ciaran, Silent Blade
+
+RM02 The Four Kings
+rules_text: Flying
+Whenever The Four Kings attacks, choose one at random:
+• Each opponent loses 4 life.
+• You draw two cards and lose 2 life.
+• Each player hollows. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+• Sacrifice The Four Kings. Create a 4/4 black Human Horror creature token with flying. => Flying
+Whenever The Four Kings attacks, choose one at random:
+• Each opponent loses 4 life.
+• You draw two cards and lose 2 life.
+• Each player sacrifices a creature.
+• Sacrifice The Four Kings. Create a 4/4 black Human Horror creature token with flying.
+
+RM07 Calamitous Blackflame
+
+RM08 The Gaping Dragon
+
+RM09 Dragonslayer Ornstein
+
+RR04 Quelaag, Matriarch of Chaos
+
+RR05 Spellcopy
+
+UB01 Darkwraith Allegiant
+
+UB02 Bonewheel Skeleton
+
+UB03 Knights of Ash
+
+UB05 Petrus, Drenched in Sin
+
+UB07 Frenzied Darkwraiths
+rules_text: Menace
+When this creature enters, until end of turn, target creature you control gets +X/+0 and target creature an opponent controls gets -0/-X, where X is the number of creature cards in your graveyard. => Menace
+When this creature enters, until end of turn, target creature you control gets +X/+0 and target creature an opponent controls gets -0/-X, where X is the number of nonland permanent cards in your graveyard.
+
+UB08 Sunlit Madness
+
+UB12 Sinister Shotels
+
+UB10 Poison Mist
+
+UB09 Reach of the Abyss
+rules_text: Surveil 2, then draw two cards.
+Each player hollows. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => Surveil 2, then draw two cards.
+[i]Kindle [/i]— You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, each other player sacrifices a nonland permanent.
+
+UG01 Eggburdened Servants
+
+UG02 Forest-Clan Ambusher
+
+UG03 Royal Gardener
+rules_text: When this creature enters, you may sacrifice another creature. If you do, put a trample counter on this creature and create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => [i]Kindle [/i]— When this creature enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a trample counter on this creature and create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+UG04 Stone Guardian
+
+UG05 The Roots of Oolacile
+rules_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens.
+special_text: Bookmark r{3} — {2}{G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {2}{G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens.
+
+UG06 Sif, Guardian Gravewolf
+rules_text: Vigilance
+When Sif deals combat damage to a player, return target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Vigilance
+When Sif deals combat damage to a player, [effect].
+
+UG07 Taurus Demon
+
+UG08 Ashen Hydra
+cost: {X}{G}{G} => {X}{G}
+
+UG09 Guardian's Respite
+
+UG11 Fang Boar Helm
+
+UG12 Blessings of Sunlight
+rules_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+special_text: Bookmark r{3} — {G} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+II, III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+
+UR01 Hollowing Mercenaries
+
+UR02 Impulsive Pyromancer
+
+UR04 Unrelenting Hollows
+
+UR05 Burg Capra
+
+UR07 Bridge Wyvern
+cost: {4}{R}{R} => {3}{R}{R}
+
+UR06 Dragonpath Hunter
+
+UR08 In The Firstborn's Footsteps
+rules_text: As an additional cost to cast this spell, hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Draw two cards, then choose one —
+• Create a tapped Treasure token. 
+• Create a 1/1 red Dragon creature token with flying and “{1}{R}: This creature gets +1/+0 until end of turn.” => As an additional cost to cast this spell, discard a card.
+Draw two cards, then create a tapped Treasure token.
+{4}{R}{R}, Exile this card from your graveyard: Create a 4/4 colorless Dragon creature token with flying.
+
+UR09 Blazing Breath
+
+UR10 Electrifying Strike
+
+UR11 Chaos Blade
+
+UR12 Path of the Dragon
+
+UU07 Aural Snare
+rules_text: As an additional cost to cast this spell, pay {2} or hollow. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i]
+Counter target creature spell. If you paid this spell's additional cost, instead counter target spell. => As an additional cost to cast this spell, pay {2} or sacrifice a nonland permanent.
+Counter target creature spell. If you paid this spell's additional cost, instead counter target spell.
+
+UU08 Logan's Obsession
+rules_text: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. If there is a Dragon card and an instant or sorcery card in your graveyard, instead put two of them into your hand and the rest into your graveyard. => Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. If there are two nonland, noncreature cards in your graveyard, instead put two of them into your hand and the rest into your graveyard.
+
+UU10 Visions of Ariamis
+
+UU11 Just Another Undead
+
+UU12 The Paledrake's Pact
+rules_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+II, III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+special_text: Bookmark r{3} — {2}{U} [i](You may cast this spell for its bookmark cost to have it enter with three lore counters on it. Skipped chapters don't trigger.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+Draw two cards, then discard a card.
+II, III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card. => Bookmark r{3} — {2}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — This Saga gains “You may cast noncreature spells as though they had flash.”
+II — Draw two cards, then discard a card.
+III — Return up to two target creatures to their owner's hands. If you return a creature to your hand this way, draw a card.
+
+UW01 Way of White Guardian
+
+UW03 The Crestfallen Warrior
+rules_text: When The Crestfallen Warrior enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+{1}, Hollow: The Crestfallen Warrior gains indestructible until end of turn. Tap it. [i](To hollow, sacrifice a nonland permanent or discard a card.)[/i] => When The Crestfallen Warrior enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+{1}, Sacrifice a creature: The Crestfallen Warrior gains indestructible until end of turn. Tap it.
+
+UW04 Astora Elite
+
+UW06 Paladin of Ariamis
+
+UW07 Tarkus, Black Iron Champion
+
+UW08 Gwyn's Silver Knights
+
+
+VERSION 17 CHANGELOG
 ====================
 
 RM11 Priscilla, Keeper of the Lost added.
