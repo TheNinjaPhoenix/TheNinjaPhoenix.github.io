@@ -1,4 +1,486 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+UR03 Unrelenting Hollows added.
+UR04 Burg Capra added.
+UR06 Bridge Wyvern added.
+UR05 Dragonpath Hunter added.
+
+UR03 removed.
+UR05 removed.
+UR04 Unrelenting Hollows removed.
+UR05 Burg Capra removed.
+UR07 Bridge Wyvern removed.
+UR06 Dragonpath Hunter removed.
+
+UA05 Nameless Song
+rules_text: Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+II — Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Draw a card. => Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+II — Draw a card.
+special_text: Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+II — Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Draw a card. => Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+II — Draw a card.
+
+UR13 Noncreature
+
+UR14 Noncreature
+
+UU01
+
+UU02
+
+UU03
+
+UU04
+
+UU05
+
+UU06
+
+UU07
+
+UU09 Noncreature
+
+UU13 Noncreature
+
+UU14 Noncreature
+
+UW09
+
+UW11
+
+UW14 Noncreature
+
+CZ01 Destined for More
+
+CZ03 Dark Grasp
+
+CZ04 Servant of Chaos
+
+CZ05 Undead Determination
+
+CZ06 Humanity Sprites
+
+CZ07 Azure Whelp
+
+CZ08 Festering Knight
+
+CZ09 Swift Swordstress
+
+CZ10 Roots of the World
+
+UM02 Pinwheel, Thrice-Masked
+
+UZ03 Lautrec the Favored
+
+UZ04 Jeremiah, Exiled King
+
+ZX02 Siegmeyer
+
+UM09 Solaire, Sunlight Knight
+
+UM01 Tale of the Painted World
+
+RM02 Artorias Falls
+
+UM03 The Undead Curse
+
+UM04 Nurturing Chaos
+
+UM05 Bonfire's Warmth
+
+ZX01 Oswald
+
+UM07 The Duke's Great Sorceries
+
+UM08 Maneater Mildred
+
+UZ09 Jolly Cooperation!
+
+UM10 The Wolf Knight's Legacy
+
+UZ01 Sieglinde, Epithet
+
+UZ02 Velka's Devoted
+
+RZ03 Scourge of the Valley
+
+CG10 Hunted by Demons
+
+UZ05 Fire Keeper Anastacia
+
+UW12 Hollowed Obsession
+
+UZ08 Kirk, Knight of Thorns
+
+UW02 Leeroy, Golden Champion
+
+UZ10 Dusk, Displaced Princess
+
+UZ06 The Hollows Hunt
+
+UM06 Darkmoon Knightess, Fire Keeper
+
+UB04
+
+UR07 Izalith Firesage
+
+UZ07 Valley Darkward
+
+CR09 A Moment of Doubt
+
+CR13 Kalameet's Gaze
+
+CR02 Dragonpath Hunter
+
+CR06 Cragspider
+
+CR11 Clash of Iron
+
+CR04 Zealot of the Path
+
+CR03 Ruthless Pyromancer
+
+CB01 Asylum Vermin
+
+CB02 Mindless Militia
+
+CB03 Depths Butcher
+
+CB06 Barbed Blade
+
+CB13 Fina's Embrace
+
+CB08 Tale of the Abyss
+
+CB12 Claimed by Death
+
+CB07 Ariamis Phalanx
+
+CB05 Wandering Vagabond
+
+CB10 Gain Favor
+
+CB11 Loss of Self
+
+CG01 Flameblinded Witch
+
+CG02 Depths Lookout
+
+CG03 Scouring Slime
+
+CG04 Hollowing Merchant
+
+CG05 Darkroot Harvester
+
+CG06 Brutish Mushroom
+
+CW10 Grass Crest Shield
+
+CG12 Within the Archtree
+
+CG11 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II, III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+special_text: Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+II, III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​ => Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III, IV — Until end of turn, whenever you put a +1/+1 counter on a creature, it gains trample until end of turn. 
+​
+
+CU05 Valley Bluescale
+
+CU06 Paledrake's Fervent
+
+CU07 Blue Crystal Golem
+
+CU12 Imprisoned Across Time
+
+CU11 Crystal Curse
+
+CU13 The Great Flood
+
+CW05 Cleric's Talisman
+
+CW13 Darkmoon Malediction
+
+CW12 Rest by the Bonfire
+
+CW11 Focused Parry
+
+CW06 Balder Knight
+
+CW01 Apprentice Fire Keeper
+
+CW02 Astoran Cleric
+
+CW03 Soul Seeker
+
+CW09 Knights-in-Arms
+
+CW07 Spirit of the Altar
+
+MB01 Curse-Spewer Basilisk
+
+MB02 Gravelord Sword
+
+MG01 Sif, Courageous Pup
+
+MC02 The Age of Ancients
+
+MC01 The Everlasting Dragon
+
+MM03 Kalameet, Living Calamity
+
+MM04 The Bed of Chaos
+
+MM08 Fair Lady's Offering
+
+MM101 Dark Sun Gwyndolin
+
+MM07 Seath, Epithet
+
+MM102 Gwyn, Cindered
+
+MU02 Moonlight Greatsword
+
+MG02 Smough's Great Hammer
+
+MR02 Quelaag's Furysword
+
+MW02 Lifehunt Scythe
+
+RA01 Sac Supporter
+
+RA02 Snuggly's Nest
+
+RB04 Smough, Grim Executioner
+
+RB06 Chasm of the Abyss
+
+RC01 Havel, Stoneclad Slayer
+
+RL01 Kiln of the First Flame
+
+RL02 New Londo Ruins
+
+RL03 Lost Izalith
+
+RL04 WB Land
+
+RL05 Anor Londo
+
+RL06 Ash Lake
+
+RM01 Ciaran, Silent Blade
+
+RM02 The Four Kings
+
+RM07 Calamitous Blackflame
+
+RM08 The Gaping Dragon
+
+RM09 Dragonslayer Ornstein
+
+RM01 Priscilla, Keeper of the Lost
+
+RM03 Gwyn Links the Flame
+
+RM04 Chaos Engulfs Izalith
+
+RM08 Nito's Miasma of Death
+
+RM01 Gwyndolin's Manipulation
+
+RR04 Quelaag, Matriarch of Chaos
+
+RG01 Pharis of the Black Bow
+
+RR02 Chaos Witch
+
+RW03 Sanctuary Guardian
+
+RR05 Spellcopy
+
+UB01 Darkwraith Allegiant
+
+UB02 Bonewheel Skeleton
+
+UB03 Knights of Ash
+
+UB05 Petrus, Drenched in Sin
+
+UB07 Frenzied Darkwraiths
+
+UB08 Sunlit Madness
+
+UB12 Sinister Shotels
+
+UB10 Poison Mist
+
+UB09 Reach of the Abyss
+
+UA01 Crystal Lizard
+
+UA02 Lurking Mimic
+
+UA03 Bounding Dragons
+
+UA04 Pyromancer's Flame
+
+UA06 Altar to the Gods
+
+UA07 Demon's Great Hammer
+
+UA08 Zweihander
+
+UL11 Sen's Fortress
+
+UL12 Firelink Shrine
+
+UG01 Eggburdened Servants
+
+UG02 Forest-Clan Ambusher
+
+UG03 Royal Gardener
+
+UG04 Stone Guardian
+
+UG05 The Roots of Oolacile
+
+UG06 Sif, Guardian Gravewolf
+
+UG07 Taurus of the Burg
+
+UG08 Ashen Hydra
+
+UG09 Guardian's Respite
+
+UG11 Fang Boar Helm
+
+UG12 Blessings of Sunlight
+
+UL01 The Painted World
+
+UL02 Oolacile Township
+
+UL03 The Northern Asylum
+
+UL04 Demon Ruins
+
+UL05 Royal Woods
+
+UL06 Ruined Cathedral
+
+UL07 Duke's Archives
+
+UL08 Quelaag's Domain
+
+UL09 Sunlit Shrine
+
+UL10 Darkroot Garden
+
+UR01 Hollowing Mercenaries
+
+UR02 Impulsive Pyromancer
+
+UR08 In The Firstborn's Footsteps
+
+UR09 Blazing Breath
+
+UR10 Electrifying Strike
+
+UR11 Chaos Blade
+
+UR12 Path of the Dragon
+
+UU07 Aural Snare
+
+UU08 Logan's Obsession
+
+UU10 Visions of Ariamis
+
+UU11 Just Another Undead
+
+UU12 The Paledrake's Pact
+
+UW01 Way of White Guardian
+
+UW03 The Crestfallen Warrior
+
+UW04 Astora Elite
+
+UW06 Paladin of Ariamis
+
+UW07 Tarkus, Black Iron Champion
+
+UW08 Gwyn's Silver Knights
+
+UW10 Silver Knight Armor
+
+UW13 Light in the Dark
+
+CA01 Purposeless Undead
+
+CA02 Oscar, Fading Failure
+
+CA03 Iron Sentinel
+
+CA04 Homeward Bone
+
+CA05 Knight's Claymore
+
+CL01 Abandoned Bonfire
+
+CU03 Darkmoon Squire
+
+CG08 Izalith Wurm
+
+CG13 Estus Flask
+
+CG07 Forest-Clan Sentries
+
+UW06 Belltower Sentry
+
+CW08 Bell Gargoyles
+
+CR01 Quelana's Apprentice
+
+CR05 Merchant's Katana
+
+CR10 Burn the Hordes
+
+CR08 Centipede Demon
+
+CR07 Demon Statues
+
+MB03 Artorias, Abyss-Cursed
+
+MB03 Artorias, Abyss-Cursed
+
+RM05 Gough, Blind Trueshot
+
+CW04 Branded Healer
+
+CB09 Hollow's Halberd
+
+
+VERSION 19 CHANGELOG
 ====================
 
 CU01 Preying Bandit added.
