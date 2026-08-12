@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "52",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "169",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "136",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "91",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/3.png"
 			}
@@ -45,17 +45,17 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Zombie Wizard",
-			"collector_number": "53",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/4.png"
 			}
 		},
 		{
-			"name": "CU04 New Londo Haunted",
+			"name": "CU04 The Lost of New Londo",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Spirit",
-			"collector_number": "55",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/5.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "138",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "65",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "29",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/12.png"
 			}
@@ -135,17 +135,17 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/13.png"
 			}
 		},
 		{
-			"name": "MX09",
+			"name": "MM03 Trusty Patches",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "5",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Planeswalker — Patches",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "105",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "106",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "107",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "109",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "177",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "178",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "179",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "180",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "181",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/23.png"
 			}
@@ -245,16 +245,16 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/24.png"
 			}
 		},
 		{
-			"name": "RM06",
+			"name": "RM06 Wolf Knight Artorias",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}",
-			"type": "",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Demigod Knight",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/25.png"
@@ -275,7 +275,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "140",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "142",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "143",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "146",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "67",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "68",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/32.png"
 			}
@@ -335,17 +335,17 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "69",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/33.png"
 			}
 		},
 		{
-			"name": "RU04",
+			"name": "RU04 Moonlight Butterfly",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "70",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "71",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "72",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "31",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "32",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "34",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "35",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/40.png"
 			}
@@ -415,19 +415,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "36",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/41.png"
-			}
-		},
-		{
-			"name": "RX01",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/42.png"
 			}
 		},
 		{
@@ -435,9 +425,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/43.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/42.png"
 			}
 		},
 		{
@@ -445,9 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "10",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/44.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/43.png"
 			}
 		},
 		{
@@ -455,9 +445,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "11",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/45.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/44.png"
 			}
 		},
 		{
@@ -465,9 +455,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "12",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/46.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/45.png"
 			}
 		},
 		{
@@ -475,9 +465,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "13",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/47.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/46.png"
 			}
 		},
 		{
@@ -485,19 +475,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Enchantment — Saga",
-			"collector_number": "15",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/48.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/47.png"
 			}
 		},
 		{
-			"name": "UB06",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "116",
+			"name": "CB06 Sinful Missionary",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/49.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/48.png"
 			}
 		},
 		{
@@ -505,9 +495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/50.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/49.png"
 			}
 		},
 		{
@@ -515,9 +505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "123",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/51.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/50.png"
 			}
 		},
 		{
@@ -525,19 +515,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "124",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/52.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/51.png"
 			}
 		},
 		{
-			"name": "UG06",
+			"name": "UG06 Forsaken of Darkroot",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "187",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/53.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/52.png"
 			}
 		},
 		{
@@ -545,9 +535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/54.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/53.png"
 			}
 		},
 		{
@@ -555,9 +545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/55.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/54.png"
 			}
 		},
 		{
@@ -565,9 +555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "196",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/56.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/55.png"
 			}
 		},
 		{
@@ -575,9 +565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "159",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/57.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/56.png"
 			}
 		},
 		{
@@ -585,19 +575,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "160",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/58.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/57.png"
 			}
 		},
 		{
-			"name": "UU01",
+			"name": "UU01 Forsaken of New Londo",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "73",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/59.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/58.png"
 			}
 		},
 		{
@@ -605,9 +595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "74",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/60.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/59.png"
 			}
 		},
 		{
@@ -615,9 +605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "75",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/61.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/60.png"
 			}
 		},
 		{
@@ -625,9 +615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "76",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/62.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/61.png"
 			}
 		},
 		{
@@ -635,9 +625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "77",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/63.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/62.png"
 			}
 		},
 		{
@@ -645,9 +635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "78",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/64.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/63.png"
 			}
 		},
 		{
@@ -655,9 +645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "79",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/65.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/64.png"
 			}
 		},
 		{
@@ -665,9 +655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "82",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/66.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/65.png"
 			}
 		},
 		{
@@ -675,9 +665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "86",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/67.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/66.png"
 			}
 		},
 		{
@@ -685,29 +675,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "87",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/67.png"
+			}
+		},
+		{
+			"name": "UW05 Forsaken of Astora",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/68.png"
-			}
-		},
-		{
-			"name": "UW09",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/69.png"
-			}
-		},
-		{
-			"name": "UW11",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/70.png"
 			}
 		},
 		{
@@ -715,9 +695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "50",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/71.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/69.png"
 			}
 		},
 		{
@@ -727,7 +707,7 @@
 			"type": "Sorcery",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/72.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/70.png"
 			}
 		},
 		{
@@ -737,27 +717,27 @@
 			"type": "Sorcery",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/73.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/71.png"
 			}
 		},
 		{
 			"name": "CZ04 Servant of Chaos",
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature — Human Warlock",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/74.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/72.png"
 			}
 		},
 		{
-			"name": "CZ05 Undead Determination",
+			"name": "CZ05 Determined Undead",
 			"rarity": "common",
-			"mana_cost": "{1}{G/W}",
-			"type": "Instant",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Zombie Knight",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/75.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/73.png"
 			}
 		},
 		{
@@ -767,7 +747,7 @@
 			"type": "Enchantment Creature — Soul Spirit",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/76.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/74.png"
 			}
 		},
 		{
@@ -777,7 +757,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/77.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/75.png"
 			}
 		},
 		{
@@ -787,7 +767,7 @@
 			"type": "Creature — Zombie Knight",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/78.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/76.png"
 			}
 		},
 		{
@@ -797,7 +777,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/79.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/77.png"
 			}
 		},
 		{
@@ -807,7 +787,7 @@
 			"type": "Enchantment",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/80.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/78.png"
 			}
 		},
 		{
@@ -817,7 +797,7 @@
 			"type": "Legendary Creature — Horror Wizard",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/81.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/79.png"
 			}
 		},
 		{
@@ -827,17 +807,17 @@
 			"type": "Legendary Creature — Human Knight Rogue",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/82.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/80.png"
 			}
 		},
 		{
 			"name": "UZ04 Jeremiah, Exiled King",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}{R/G}",
-			"type": "Legendary Creature — Human Shaman",
+			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/83.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/81.png"
 			}
 		},
 		{
@@ -845,9 +825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{W}",
 			"type": "Legendary Creature — Human Knight Coward",
-			"collector_number": "51",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/84.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/82.png"
 			}
 		},
 		{
@@ -857,7 +837,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/85.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/83.png"
 			}
 		},
 		{
@@ -867,7 +847,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/86.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/84.png"
 			}
 		},
 		{
@@ -875,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/87.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/85.png"
 			}
 		},
 		{
@@ -887,7 +867,7 @@
 			"type": "Enchantment",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/88.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/86.png"
 			}
 		},
 		{
@@ -897,7 +877,7 @@
 			"type": "Sorcery",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/89.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/87.png"
 			}
 		},
 		{
@@ -907,7 +887,7 @@
 			"type": "Enchantment",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/90.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/88.png"
 			}
 		},
 		{
@@ -917,7 +897,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/91.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/89.png"
 			}
 		},
 		{
@@ -927,7 +907,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/92.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/90.png"
 			}
 		},
 		{
@@ -937,7 +917,7 @@
 			"type": "Legendary Creature — Human Barbarian",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/93.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/91.png"
 			}
 		},
 		{
@@ -947,7 +927,7 @@
 			"type": "Enchantment",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/94.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/92.png"
 			}
 		},
 		{
@@ -957,7 +937,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/95.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/93.png"
 			}
 		},
 		{
@@ -967,7 +947,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/96.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/94.png"
 			}
 		},
 		{
@@ -977,7 +957,7 @@
 			"type": "Creature — Human Bird Horror",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/97.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/95.png"
 			}
 		},
 		{
@@ -987,7 +967,7 @@
 			"type": "Creature — Dragon Zombie",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/98.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/96.png"
 			}
 		},
 		{
@@ -995,9 +975,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/99.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/97.png"
 			}
 		},
 		{
@@ -1007,7 +987,7 @@
 			"type": "Legendary Creature — Human Cleric",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/100.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/98.png"
 			}
 		},
 		{
@@ -1015,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{W}",
 			"type": "Instant",
-			"collector_number": "48",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/101.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/99.png"
 			}
 		},
 		{
@@ -1027,7 +1007,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/102.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/100.png"
 			}
 		},
 		{
@@ -1035,9 +1015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "38",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/103.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/101.png"
 			}
 		},
 		{
@@ -1047,7 +1027,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/104.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/102.png"
 			}
 		},
 		{
@@ -1057,7 +1037,7 @@
 			"type": "Sorcery",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/105.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/103.png"
 			}
 		},
 		{
@@ -1067,27 +1047,27 @@
 			"type": "Legendary Creature — Demigod Knight",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/106.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/104.png"
 			}
 		},
 		{
-			"name": "UB04",
+			"name": "UB04 Forsaken of Carim",
 			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "114",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/107.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/105.png"
 			}
 		},
 		{
-			"name": "UR07 Izalith Firesage",
+			"name": "UR08 Izalith Firesage",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "153",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/108.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/106.png"
 			}
 		},
 		{
@@ -1097,7 +1077,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/109.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/107.png"
 			}
 		},
 		{
@@ -1105,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/110.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/108.png"
 			}
 		},
 		{
@@ -1115,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/111.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/109.png"
 			}
 		},
 		{
@@ -1125,19 +1105,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Dragon Warrior",
-			"collector_number": "126",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/112.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/110.png"
 			}
 		},
 		{
-			"name": "CR06 Cragspider",
+			"name": "CR05 Cragspider",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Spider Mutant",
-			"collector_number": "130",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/113.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/111.png"
 			}
 		},
 		{
@@ -1145,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/114.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/112.png"
 			}
 		},
 		{
@@ -1155,19 +1135,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Dragon Warrior",
-			"collector_number": "128",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/115.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/113.png"
 			}
 		},
 		{
-			"name": "CR03 Ruthless Pyromancer",
+			"name": "CR06 Ruthless Pyromancer",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Shaman",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warlock",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/116.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/114.png"
 			}
 		},
 		{
@@ -1175,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat",
-			"collector_number": "88",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/117.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/115.png"
 			}
 		},
 		{
@@ -1185,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Soldier",
-			"collector_number": "89",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/118.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/116.png"
 			}
 		},
 		{
@@ -1195,19 +1175,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Horror",
-			"collector_number": "90",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/119.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/117.png"
 			}
 		},
 		{
-			"name": "CB06 Barbed Blade",
+			"name": "CB08 Barbed Blade",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/120.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/118.png"
 			}
 		},
 		{
@@ -1215,29 +1195,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "100",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/121.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/119.png"
 			}
 		},
 		{
-			"name": "CB08 Tale of the Abyss",
+			"name": "CB05 Tale of the Abyss",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "95",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/122.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/120.png"
 			}
 		},
 		{
-			"name": "CB12 Claimed by Death",
+			"name": "CB12 Meet the Locals",
 			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "99",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/123.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/121.png"
 			}
 		},
 		{
@@ -1245,19 +1225,19 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Ooze",
-			"collector_number": "94",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/124.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/122.png"
 			}
 		},
 		{
-			"name": "CB05 Wandering Vagabond",
-			"rarity": "common",
+			"name": "UB06 Wandering Vagabond",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Knight",
-			"collector_number": "92",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/125.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/123.png"
 			}
 		},
 		{
@@ -1265,9 +1245,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "97",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/126.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/124.png"
 			}
 		},
 		{
@@ -1275,19 +1255,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/127.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/125.png"
 			}
 		},
 		{
 			"name": "CG01 Flameblinded Witch",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "161",
+			"type": "Creature — Human Warlock",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/128.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/126.png"
 			}
 		},
 		{
@@ -1295,9 +1275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "162",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/129.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/127.png"
 			}
 		},
 		{
@@ -1305,9 +1285,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "163",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/130.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/128.png"
 			}
 		},
 		{
@@ -1315,9 +1295,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Zombie Citizen",
-			"collector_number": "164",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/131.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/129.png"
 			}
 		},
 		{
@@ -1325,9 +1305,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "165",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/132.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/130.png"
 			}
 		},
 		{
@@ -1335,9 +1315,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Fungus",
-			"collector_number": "166",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/133.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/131.png"
 			}
 		},
 		{
@@ -1345,9 +1325,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "25",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/134.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/132.png"
 			}
 		},
 		{
@@ -1355,19 +1335,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "172",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/135.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/133.png"
 			}
 		},
 		{
 			"name": "CG11 From Firelink, Onwards",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "171",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/136.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/134.png"
 			}
 		},
 		{
@@ -1375,9 +1355,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "56",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/137.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/135.png"
 			}
 		},
 		{
@@ -1385,9 +1365,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Dragon Warrior",
-			"collector_number": "57",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/138.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/136.png"
 			}
 		},
 		{
@@ -1395,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "58",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/139.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/137.png"
 			}
 		},
 		{
@@ -1405,9 +1385,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/140.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/138.png"
 			}
 		},
 		{
@@ -1415,9 +1395,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "62",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/141.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/139.png"
 			}
 		},
 		{
@@ -1425,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "64",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/142.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/140.png"
 			}
 		},
 		{
@@ -1435,9 +1415,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "20",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/143.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/141.png"
 			}
 		},
 		{
@@ -1445,9 +1425,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "28",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/144.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/142.png"
 			}
 		},
 		{
@@ -1455,9 +1435,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/145.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/143.png"
 			}
 		},
 		{
@@ -1465,9 +1445,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/146.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/144.png"
 			}
 		},
 		{
@@ -1475,9 +1455,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Zombie Knight",
-			"collector_number": "21",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/147.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/145.png"
 			}
 		},
 		{
@@ -1485,9 +1465,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "16",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/148.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/146.png"
 			}
 		},
 		{
@@ -1495,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/149.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/147.png"
 			}
 		},
 		{
@@ -1505,9 +1485,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "18",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/150.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/148.png"
 			}
 		},
 		{
@@ -1515,9 +1495,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "24",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/151.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/149.png"
 			}
 		},
 		{
@@ -1525,9 +1505,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "22",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/152.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/150.png"
 			}
 		},
 		{
@@ -1535,9 +1515,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Basilisk",
-			"collector_number": "101",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/153.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/151.png"
 			}
 		},
 		{
@@ -1545,9 +1525,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "102",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/154.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/152.png"
 			}
 		},
 		{
@@ -1555,9 +1535,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Wolf",
-			"collector_number": "174",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/155.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/153.png"
 			}
 		},
 		{
@@ -1567,7 +1547,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/156.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/154.png"
 			}
 		},
 		{
@@ -1577,7 +1557,7 @@
 			"type": "Legendary Creature — Elder Dragon",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/157.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/155.png"
 			}
 		},
 		{
@@ -1585,9 +1565,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{R}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "197",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/158.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/156.png"
 			}
 		},
 		{
@@ -1595,9 +1575,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Elemental Horror",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/159.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/157.png"
 			}
 		},
 		{
@@ -1605,9 +1585,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/160.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/158.png"
 			}
 		},
 		{
@@ -1615,9 +1595,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — God",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/161.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/159.png"
 			}
 		},
 		{
@@ -1625,9 +1605,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}{R}{R}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/162.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/160.png"
 			}
 		},
 		{
@@ -1635,9 +1615,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Lendary Creature — God Zombie Knight",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/163.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/161.png"
 			}
 		},
 		{
@@ -1645,9 +1625,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "66",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/164.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/162.png"
 			}
 		},
 		{
@@ -1655,9 +1635,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "175",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/165.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/163.png"
 			}
 		},
 		{
@@ -1665,9 +1645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "139",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/166.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/164.png"
 			}
 		},
 		{
@@ -1675,9 +1655,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "30",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/167.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/165.png"
 			}
 		},
 		{
@@ -1687,7 +1667,7 @@
 			"type": "Artifact",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/168.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/166.png"
 			}
 		},
 		{
@@ -1697,7 +1677,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/169.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/167.png"
 			}
 		},
 		{
@@ -1705,9 +1685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Demigod Barbarian",
-			"collector_number": "108",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/170.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/168.png"
 			}
 		},
 		{
@@ -1715,9 +1695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "110",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/171.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/169.png"
 			}
 		},
 		{
@@ -1725,79 +1705,69 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Creature — Demigod Knight",
-			"collector_number": "7",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/170.png"
+			}
+		},
+		{
+			"name": "RL04 Kiln of the First Flame",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/171.png"
+			}
+		},
+		{
+			"name": "RL01 New Londo Ruins",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/172.png"
 			}
 		},
 		{
-			"name": "RL01 Kiln of the First Flame",
+			"name": "RL02 Lost Izalith",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "262",
+			"type": "Land — Mountain Forest",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/173.png"
 			}
 		},
 		{
-			"name": "RL02 New Londo Ruins",
+			"name": "RL03 Anor Londo",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
-			"collector_number": "263",
+			"type": "Land — Plains Swamp",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/174.png"
 			}
 		},
 		{
-			"name": "RL03 Lost Izalith",
+			"name": "RL05 Ash Lake",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
-			"collector_number": "264",
+			"type": "Land — Forest Island",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/175.png"
 			}
 		},
 		{
-			"name": "RL04 WB Land",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "265",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/176.png"
-			}
-		},
-		{
-			"name": "RL05 Anor Londo",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Plains",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/177.png"
-			}
-		},
-		{
-			"name": "RL06 Ash Lake",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Forest Island",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/178.png"
-			}
-		},
-		{
-			"name": "RM01 Ciaran, Silent Blade",
+			"name": "RM01 Ciaran, Lord's Blade",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Demigod Assassin",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/179.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/176.png"
 			}
 		},
 		{
@@ -1805,9 +1775,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Human Horror",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/180.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/177.png"
 			}
 		},
 		{
@@ -1817,7 +1787,7 @@
 			"type": "Sorcery",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/181.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/178.png"
 			}
 		},
 		{
@@ -1827,7 +1797,7 @@
 			"type": "Legendary Creature — Dragon Horror",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/182.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/179.png"
 			}
 		},
 		{
@@ -1837,7 +1807,7 @@
 			"type": "Legendary Creature — Demigod Knight",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/183.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/180.png"
 			}
 		},
 		{
@@ -1845,9 +1815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Demigod Dragon",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/184.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/181.png"
 			}
 		},
 		{
@@ -1855,9 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/185.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/182.png"
 			}
 		},
 		{
@@ -1865,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/186.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/183.png"
 			}
 		},
 		{
@@ -1877,7 +1847,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/187.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/184.png"
 			}
 		},
 		{
@@ -1885,19 +1855,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/188.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/185.png"
 			}
 		},
 		{
 			"name": "RR04 Quelaag, Matriarch of Chaos",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Legendary Creature — Spider Shaman",
-			"collector_number": "144",
+			"type": "Legendary Creature — Spider Warlock",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/189.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/186.png"
 			}
 		},
 		{
@@ -1905,19 +1875,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Archer",
-			"collector_number": "176",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/190.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/187.png"
 			}
 		},
 		{
 			"name": "RR02 Chaos Witch",
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "141",
+			"type": "Creature — Human Warlock",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/191.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/188.png"
 			}
 		},
 		{
@@ -1925,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Manticore",
-			"collector_number": "33",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/192.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/189.png"
 			}
 		},
 		{
@@ -1935,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/193.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/190.png"
 			}
 		},
 		{
@@ -1945,9 +1915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "111",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/194.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/191.png"
 			}
 		},
 		{
@@ -1955,9 +1925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "112",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/195.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/192.png"
 			}
 		},
 		{
@@ -1965,9 +1935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "113",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/196.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/193.png"
 			}
 		},
 		{
@@ -1975,9 +1945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Cleric Rogue",
-			"collector_number": "115",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/197.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/194.png"
 			}
 		},
 		{
@@ -1985,9 +1955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Wraith Soldier",
-			"collector_number": "117",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/198.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/195.png"
 			}
 		},
 		{
@@ -1995,9 +1965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "118",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/199.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/196.png"
 			}
 		},
 		{
@@ -2005,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "122",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/200.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/197.png"
 			}
 		},
 		{
@@ -2015,9 +1985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/201.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/198.png"
 			}
 		},
 		{
@@ -2025,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/202.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/199.png"
 			}
 		},
 		{
@@ -2037,7 +2007,7 @@
 			"type": "Artifact Creature — Treasure Lizard",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/203.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/200.png"
 			}
 		},
 		{
@@ -2047,7 +2017,7 @@
 			"type": "Artifact Creature — Treasure Horror",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/204.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/201.png"
 			}
 		},
 		{
@@ -2055,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Creature — Dragon",
-			"collector_number": "14",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/205.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/202.png"
 			}
 		},
 		{
@@ -2067,7 +2037,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/206.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/203.png"
 			}
 		},
 		{
@@ -2077,7 +2047,7 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/207.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/204.png"
 			}
 		},
 		{
@@ -2087,7 +2057,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/208.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/205.png"
 			}
 		},
 		{
@@ -2097,7 +2067,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/209.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/206.png"
 			}
 		},
 		{
@@ -2105,9 +2075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "278",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/210.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/207.png"
 			}
 		},
 		{
@@ -2115,9 +2085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/211.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/208.png"
 			}
 		},
 		{
@@ -2125,9 +2095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Insect Mutant",
-			"collector_number": "182",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/212.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/209.png"
 			}
 		},
 		{
@@ -2135,9 +2105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "183",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/213.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/210.png"
 			}
 		},
 		{
@@ -2145,9 +2115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Scarecrow",
-			"collector_number": "184",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/214.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/211.png"
 			}
 		},
 		{
@@ -2155,9 +2125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact Creature — Construct Warrior",
-			"collector_number": "185",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/215.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/212.png"
 			}
 		},
 		{
@@ -2165,49 +2135,49 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Saga",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/213.png"
+			}
+		},
+		{
+			"name": "UG07 Sif, Guardian Gravewolf",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Wolf",
 			"collector_number": "186",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/214.png"
+			}
+		},
+		{
+			"name": "UG08 Taurus of the Burg",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Demon Minotaur",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/215.png"
+			}
+		},
+		{
+			"name": "UG09 Ashen Hydra",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/216.png"
 			}
 		},
 		{
-			"name": "UG06 Sif, Guardian Gravewolf",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature — Wolf",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/217.png"
-			}
-		},
-		{
-			"name": "UG07 Taurus of the Burg",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Demon Minotaur",
-			"collector_number": "189",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/218.png"
-			}
-		},
-		{
-			"name": "UG08 Ashen Hydra",
-			"rarity": "uncommon",
-			"mana_cost": "{X}{G}",
-			"type": "Creature — Hydra",
-			"collector_number": "190",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/219.png"
-			}
-		},
-		{
-			"name": "UG09 Guardian's Respite",
+			"name": "UG10 Guardian's Respite",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "191",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/220.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/217.png"
 			}
 		},
 		{
@@ -2215,9 +2185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/221.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/218.png"
 			}
 		},
 		{
@@ -2225,9 +2195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/222.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/219.png"
 			}
 		},
 		{
@@ -2235,9 +2205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/223.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/220.png"
 			}
 		},
 		{
@@ -2245,9 +2215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/224.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/221.png"
 			}
 		},
 		{
@@ -2255,9 +2225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/225.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/222.png"
 			}
 		},
 		{
@@ -2265,9 +2235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/226.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/223.png"
 			}
 		},
 		{
@@ -2275,9 +2245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/227.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/224.png"
 			}
 		},
 		{
@@ -2285,9 +2255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "273",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/228.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/225.png"
 			}
 		},
 		{
@@ -2295,9 +2265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "274",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/229.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/226.png"
 			}
 		},
 		{
@@ -2305,9 +2275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "275",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/230.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/227.png"
 			}
 		},
 		{
@@ -2315,9 +2285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "276",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/231.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/228.png"
 			}
 		},
 		{
@@ -2325,9 +2295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "277",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/232.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/229.png"
 			}
 		},
 		{
@@ -2335,69 +2305,69 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Mercenary",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/230.png"
+			}
+		},
+		{
+			"name": "UR03 Great Swamp Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/231.png"
+			}
+		},
+		{
+			"name": "UR04 Unrelenting Hollows",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Soldier",
 			"collector_number": "147",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/232.png"
+			}
+		},
+		{
+			"name": "UR05 Burg Capra",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon Goat",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/233.png"
 			}
 		},
 		{
-			"name": "UR02 Impulsive Pyromancer",
+			"name": "UR07 Bridge Wyvern",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "148",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/234.png"
 			}
 		},
 		{
-			"name": "UR03 Unrelenting Hollows",
+			"name": "UR06 Dragonpath Hunter",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Zombie Soldier",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Dragon Warrior",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/235.png"
 			}
 		},
 		{
-			"name": "UR04 Burg Capra",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Demon Goat",
-			"collector_number": "150",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/236.png"
-			}
-		},
-		{
-			"name": "UR06 Bridge Wyvern",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "152",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/237.png"
-			}
-		},
-		{
-			"name": "UR05 Dragonpath Hunter",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Dragon Warrior",
-			"collector_number": "151",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/238.png"
-			}
-		},
-		{
-			"name": "UR08 In The Firstborn's Footsteps",
+			"name": "UR10 In The Firstborn's Footsteps",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/239.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/236.png"
 			}
 		},
 		{
@@ -2405,39 +2375,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/240.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/237.png"
 			}
 		},
 		{
-			"name": "UR10 Electrifying Strike",
+			"name": "UR11 Electrifying Strike",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "156",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/241.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/238.png"
 			}
 		},
 		{
-			"name": "UR11 Chaos Blade",
+			"name": "UR12 Chaos Blade",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "157",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/242.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/239.png"
 			}
 		},
 		{
-			"name": "UR12 Path of the Dragon",
+			"name": "UR13 Path of the Dragon",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/243.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/240.png"
 			}
 		},
 		{
@@ -2445,9 +2415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/244.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/241.png"
 			}
 		},
 		{
@@ -2455,9 +2425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/245.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/242.png"
 			}
 		},
 		{
@@ -2465,9 +2435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "83",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/246.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/243.png"
 			}
 		},
 		{
@@ -2475,9 +2445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "84",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/247.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/244.png"
 			}
 		},
 		{
@@ -2485,9 +2455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "85",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/248.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/245.png"
 			}
 		},
 		{
@@ -2495,9 +2465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "37",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/249.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/246.png"
 			}
 		},
 		{
@@ -2505,9 +2475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "39",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/250.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/247.png"
 			}
 		},
 		{
@@ -2515,9 +2485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "40",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/251.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/248.png"
 			}
 		},
 		{
@@ -2525,29 +2495,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "42",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/252.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/249.png"
 			}
 		},
 		{
-			"name": "UW07 Tarkus, Black Iron Champion",
+			"name": "UW08 Tarkus, Black Iron Champion",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/253.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/250.png"
 			}
 		},
 		{
-			"name": "UW08 Gwyn's Silver Knights",
+			"name": "UW09 Gwyn's Silver Knights",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Demigod Knight Archer",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/254.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/251.png"
 			}
 		},
 		{
@@ -2555,9 +2525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "46",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/255.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/252.png"
 			}
 		},
 		{
@@ -2565,9 +2535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "49",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/256.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/253.png"
 			}
 		},
 		{
@@ -2577,7 +2547,7 @@
 			"type": "Creature — Zombie Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/257.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/254.png"
 			}
 		},
 		{
@@ -2587,7 +2557,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/258.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/255.png"
 			}
 		},
 		{
@@ -2597,7 +2567,7 @@
 			"type": "Artifact Creature — Construct Warrior",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/259.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/256.png"
 			}
 		},
 		{
@@ -2607,7 +2577,7 @@
 			"type": "Artifact",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/260.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/257.png"
 			}
 		},
 		{
@@ -2617,7 +2587,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/261.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/258.png"
 			}
 		},
 		{
@@ -2627,7 +2597,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/262.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/259.png"
 			}
 		},
 		{
@@ -2635,9 +2605,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Knight",
-			"collector_number": "54",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/263.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/260.png"
 			}
 		},
 		{
@@ -2645,9 +2615,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Wurm",
-			"collector_number": "168",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/264.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/261.png"
 			}
 		},
 		{
@@ -2655,9 +2625,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact",
-			"collector_number": "173",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/265.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/262.png"
 			}
 		},
 		{
@@ -2665,19 +2635,19 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Ranger",
-			"collector_number": "167",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/266.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/263.png"
 			}
 		},
 		{
-			"name": "UW06 Belltower Sentry",
+			"name": "UW07 Belltower Sentry",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/267.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/264.png"
 			}
 		},
 		{
@@ -2685,89 +2655,79 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Gargoyle",
-			"collector_number": "23",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/268.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/265.png"
 			}
 		},
 		{
 			"name": "CR01 Quelana's Apprentice",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "125",
+			"type": "Creature — Human Warlock",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/266.png"
+			}
+		},
+		{
+			"name": "CR08 Merchant's Katana",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/267.png"
+			}
+		},
+		{
+			"name": "CR10 Encroaching Hordes",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/268.png"
+			}
+		},
+		{
+			"name": "CR07 Centipede Demon",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Demon Insect",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/269.png"
 			}
 		},
 		{
-			"name": "CR05 Merchant's Katana",
+			"name": "CR03 Hollowed Knight-Captain",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Artifact — Equipment",
-			"collector_number": "129",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Zombie Knight",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/270.png"
 			}
 		},
 		{
-			"name": "CR10 Burn the Hordes",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "134",
+			"name": "MB03 Artorias, Abyss-Cursed",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demigod Knight",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/271.png"
 			}
 		},
 		{
-			"name": "CR08 Centipede Demon",
-			"rarity": "common",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Demon Insect",
-			"collector_number": "132",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/272.png"
-			}
-		},
-		{
-			"name": "CR07 Demon Statues",
-			"rarity": "common",
-			"mana_cost": "{4}{R}",
-			"type": "Artifact Creature — Demon Construct",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/273.png"
-			}
-		},
-		{
-			"name": "MB03 Artorias, Abyss-Cursed",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Demigod Knight",
-			"collector_number": "103",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/274.png"
-			}
-		},
-		{
-			"name": "MB03 Artorias, Abyss-Cursed",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Demigod Knight",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/275.png"
-			}
-		},
-		{
-			"name": "RM05 Gough, Blind Trueshot",
+			"name": "RM05 Hawkeye Gough",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Giant Archer",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/276.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/272.png"
 			}
 		},
 		{
@@ -2775,9 +2735,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior Cleric",
-			"collector_number": "19",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/277.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/273.png"
 			}
 		},
 		{
@@ -2785,9 +2745,39 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "96",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/278.png"
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/274.png"
+			}
+		},
+		{
+			"name": "UR02 Forsaken of the Great Swamp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/275.png"
+			}
+		},
+		{
+			"name": "UW11",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/276.png"
+			}
+		},
+		{
+			"name": "RM06 Artorias, the Wolf Knight",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Demigod Knight",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/277.png"
 			}
 		}
 	]
@@ -2797,7 +2787,7 @@
 	1 MU01
 	1 MW01
 	1 MX10
-	1 MX09
+	1 MM03 Trusty Patches
 	2 RB01
 	2 RB02
 	2 RB03
@@ -2808,7 +2798,7 @@
 	2 RG05
 	2 RG06
 	2 RM05
-	2 RM06
+	2 RM06 Wolf Knight Artorias
 	2 RM10
 	2 RR01
 	2 RR03
@@ -2817,7 +2807,7 @@
 	2 RU01
 	2 RU02
 	2 RU03
-	2 RU04
+	2 RU04 Moonlight Butterfly
 	2 RU05
 	2 RU06
 	2 RW01
@@ -2825,7 +2815,6 @@
 	2 RW04
 	2 RW05
 	2 RW06
-	2 RX01
 	2 RX02
 	2 RX03
 	2 RX04
@@ -2853,13 +2842,12 @@
 	2 RB04 Smough, Grim Executioner
 	2 RB06 Chasm of the Abyss
 	2 RC01 Havel, Stoneclad Slayer
-	2 RL01 Kiln of the First Flame
-	2 RL02 New Londo Ruins
-	2 RL03 Lost Izalith
-	2 RL04 WB Land
-	2 RL05 Anor Londo
-	2 RL06 Ash Lake
-	2 RM01 Ciaran, Silent Blade
+	2 RL04 Kiln of the First Flame
+	2 RL01 New Londo Ruins
+	2 RL02 Lost Izalith
+	2 RL03 Anor Londo
+	2 RL05 Ash Lake
+	2 RM01 Ciaran, Lord's Blade
 	2 RM02 The Four Kings
 	2 RM07 Calamitous Blackflame
 	2 RM08 The Gaping Dragon
@@ -2875,21 +2863,20 @@
 	2 RW03 Sanctuary Guardian
 	2 RR05 Spellcopy
 	1 MB03 Artorias, Abyss-Cursed
-	1 MB03 Artorias, Abyss-Cursed
-	2 RM05 Gough, Blind Trueshot
+	2 RM05 Hawkeye Gough
+	2 RM06 Artorias, the Wolf Knight
 [uncommon(3)]
 	4 UA05 Nameless Song
-	4 UB06
 	4 UB11 Live or Die
 	4 UB13 Noncreature
 	4 UB14 Noncreature
-	4 UG06
+	4 UG06 Forsaken of Darkroot
 	4 UG10 Noncreature
 	4 UG13 Noncreature
 	4 UG14 Noncreature
 	4 UR13 Noncreature
 	4 UR14 Noncreature
-	4 UU01
+	4 UU01 Forsaken of New Londo
 	4 UU02
 	4 UU03
 	4 UU04
@@ -2899,8 +2886,7 @@
 	4 UU09 Noncreature
 	4 UU13 Noncreature
 	4 UU14 Noncreature
-	4 UW09
-	4 UW11
+	4 UW05 Forsaken of Astora
 	4 UW14 Noncreature
 	4 UM02 Pinwheel, Thrice-Masked
 	4 UZ03 Lautrec the Favored
@@ -2925,9 +2911,10 @@
 	4 UZ10 Dusk, Displaced Princess
 	4 UZ06 The Hollows Hunt
 	4 UM06 Darkmoon Knightess, Fire Keeper
-	4 UB04
-	4 UR07 Izalith Firesage
+	4 UB04 Forsaken of Carim
+	4 UR08 Izalith Firesage
 	4 UZ07 Valley Darkward
+	4 UB06 Wandering Vagabond
 	4 UB01 Darkwraith Allegiant
 	4 UB02 Bonewheel Skeleton
 	4 UB03 Knights of Ash
@@ -2951,10 +2938,10 @@
 	4 UG03 Royal Gardener
 	4 UG04 Stone Guardian
 	4 UG05 The Roots of Oolacile
-	4 UG06 Sif, Guardian Gravewolf
-	4 UG07 Taurus of the Burg
-	4 UG08 Ashen Hydra
-	4 UG09 Guardian's Respite
+	4 UG07 Sif, Guardian Gravewolf
+	4 UG08 Taurus of the Burg
+	4 UG09 Ashen Hydra
+	4 UG10 Guardian's Respite
 	4 UG11 Fang Boar Helm
 	4 UG12 Blessings of Sunlight
 	4 UL01 The Painted World
@@ -2968,16 +2955,16 @@
 	4 UL09 Sunlit Shrine
 	4 UL10 Darkroot Garden
 	4 UR01 Hollowing Mercenaries
-	4 UR02 Impulsive Pyromancer
-	4 UR03 Unrelenting Hollows
-	4 UR04 Burg Capra
-	4 UR06 Bridge Wyvern
-	4 UR05 Dragonpath Hunter
-	4 UR08 In The Firstborn's Footsteps
+	4 UR03 Great Swamp Servant
+	4 UR04 Unrelenting Hollows
+	4 UR05 Burg Capra
+	4 UR07 Bridge Wyvern
+	4 UR06 Dragonpath Hunter
+	4 UR10 In The Firstborn's Footsteps
 	4 UR09 Blazing Breath
-	4 UR10 Electrifying Strike
-	4 UR11 Chaos Blade
-	4 UR12 Path of the Dragon
+	4 UR11 Electrifying Strike
+	4 UR12 Chaos Blade
+	4 UR13 Path of the Dragon
 	4 UU07 Aural Snare
 	4 UU08 Logan's Obsession
 	4 UU10 Visions of Ariamis
@@ -2987,26 +2974,29 @@
 	4 UW03 The Crestfallen Warrior
 	4 UW04 Astora Elite
 	4 UW06 Paladin of Ariamis
-	4 UW07 Tarkus, Black Iron Champion
-	4 UW08 Gwyn's Silver Knights
+	4 UW08 Tarkus, Black Iron Champion
+	4 UW09 Gwyn's Silver Knights
 	4 UW10 Silver Knight Armor
 	4 UW13 Light in the Dark
-	4 UW06 Belltower Sentry
+	4 UW07 Belltower Sentry
+	4 UR02 Forsaken of the Great Swamp
+	4 UW11
 [common(6)]
 	8 CU01 Preying Bandit
 	8 CG09 Prison Break
 	8 CR12 Fight for the Flame
 	8 CB04 Oolacile Bloathead
 	8 CU02 Sightless Sorcerer
-	8 CU04 New Londo Haunted
+	8 CU04 The Lost of New Londo
 	8 CZ02 Vinheim Assassin
 	8 CU08 Primeval Gaze
 	8 CU09 Consider
 	8 CU10 Darkmoon Offering
+	8 CB06 Sinful Missionary
 	8 CZ01 Destined for More
 	8 CZ03 Dark Grasp
 	8 CZ04 Servant of Chaos
-	8 CZ05 Undead Determination
+	8 CZ05 Determined Undead
 	8 CZ06 Humanity Sprites
 	8 CZ07 Azure Whelp
 	8 CZ08 Festering Knight
@@ -3016,19 +3006,18 @@
 	8 CR09 A Moment of Doubt
 	8 CR13 Kalameet's Gaze
 	8 CR02 Dragonpath Hunter
-	8 CR06 Cragspider
+	8 CR05 Cragspider
 	8 CR11 Clash of Iron
 	8 CR04 Zealot of the Path
-	8 CR03 Ruthless Pyromancer
+	8 CR06 Ruthless Pyromancer
 	8 CB01 Asylum Vermin
 	8 CB02 Mindless Militia
 	8 CB03 Depths Butcher
-	8 CB06 Barbed Blade
+	8 CB08 Barbed Blade
 	8 CB13 Fina's Embrace
-	8 CB08 Tale of the Abyss
-	8 CB12 Claimed by Death
+	8 CB05 Tale of the Abyss
+	8 CB12 Meet the Locals
 	8 CB07 Ariamis Phalanx
-	8 CB05 Wandering Vagabond
 	8 CB10 Gain Favor
 	8 CB11 Loss of Self
 	8 CG01 Flameblinded Witch
@@ -3068,10 +3057,10 @@
 	8 CG07 Forest-Clan Sentries
 	8 CW08 Bell Gargoyles
 	8 CR01 Quelana's Apprentice
-	8 CR05 Merchant's Katana
-	8 CR10 Burn the Hordes
-	8 CR08 Centipede Demon
-	8 CR07 Demon Statues
+	8 CR08 Merchant's Katana
+	8 CR10 Encroaching Hordes
+	8 CR07 Centipede Demon
+	8 CR03 Hollowed Knight-Captain
 	8 CW04 Branded Healer
 	8 CB09 Hollow's Halberd
 [common | masterpiece(1)]
@@ -3080,15 +3069,16 @@
 	8 CR12 Fight for the Flame
 	8 CB04 Oolacile Bloathead
 	8 CU02 Sightless Sorcerer
-	8 CU04 New Londo Haunted
+	8 CU04 The Lost of New Londo
 	8 CZ02 Vinheim Assassin
 	8 CU08 Primeval Gaze
 	8 CU09 Consider
 	8 CU10 Darkmoon Offering
+	8 CB06 Sinful Missionary
 	8 CZ01 Destined for More
 	8 CZ03 Dark Grasp
 	8 CZ04 Servant of Chaos
-	8 CZ05 Undead Determination
+	8 CZ05 Determined Undead
 	8 CZ06 Humanity Sprites
 	8 CZ07 Azure Whelp
 	8 CZ08 Festering Knight
@@ -3098,19 +3088,18 @@
 	8 CR09 A Moment of Doubt
 	8 CR13 Kalameet's Gaze
 	8 CR02 Dragonpath Hunter
-	8 CR06 Cragspider
+	8 CR05 Cragspider
 	8 CR11 Clash of Iron
 	8 CR04 Zealot of the Path
-	8 CR03 Ruthless Pyromancer
+	8 CR06 Ruthless Pyromancer
 	8 CB01 Asylum Vermin
 	8 CB02 Mindless Militia
 	8 CB03 Depths Butcher
-	8 CB06 Barbed Blade
+	8 CB08 Barbed Blade
 	8 CB13 Fina's Embrace
-	8 CB08 Tale of the Abyss
-	8 CB12 Claimed by Death
+	8 CB05 Tale of the Abyss
+	8 CB12 Meet the Locals
 	8 CB07 Ariamis Phalanx
-	8 CB05 Wandering Vagabond
 	8 CB10 Gain Favor
 	8 CB11 Loss of Self
 	8 CG01 Flameblinded Witch
@@ -3150,10 +3139,10 @@
 	8 CG07 Forest-Clan Sentries
 	8 CW08 Bell Gargoyles
 	8 CR01 Quelana's Apprentice
-	8 CR05 Merchant's Katana
-	8 CR10 Burn the Hordes
-	8 CR08 Centipede Demon
-	8 CR07 Demon Statues
+	8 CR08 Merchant's Katana
+	8 CR10 Encroaching Hordes
+	8 CR07 Centipede Demon
+	8 CR03 Hollowed Knight-Captain
 	8 CW04 Branded Healer
 	8 CB09 Hollow's Halberd
 [foil(1)]
@@ -3162,7 +3151,7 @@
 	12 CR12 Fight for the Flame
 	12 CB04 Oolacile Bloathead
 	12 CU02 Sightless Sorcerer
-	12 CU04 New Londo Haunted
+	12 CU04 The Lost of New Londo
 	12 CZ02 Vinheim Assassin
 	12 CU08 Primeval Gaze
 	12 CU09 Consider
@@ -3171,7 +3160,7 @@
 	1 MU01
 	1 MW01
 	1 MX10
-	1 MX09
+	1 MM03 Trusty Patches
 	2 RB01
 	2 RB02
 	2 RB03
@@ -3182,7 +3171,7 @@
 	2 RG05
 	2 RG06
 	2 RM05
-	2 RM06
+	2 RM06 Wolf Knight Artorias
 	2 RM10
 	2 RR01
 	2 RR03
@@ -3191,7 +3180,7 @@
 	2 RU01
 	2 RU02
 	2 RU03
-	2 RU04
+	2 RU04 Moonlight Butterfly
 	2 RU05
 	2 RU06
 	2 RW01
@@ -3199,24 +3188,23 @@
 	2 RW04
 	2 RW05
 	2 RW06
-	2 RX01
 	2 RX02
 	2 RX03
 	2 RX04
 	2 RX05
 	2 RX06
 	6 UA05 Nameless Song
-	6 UB06
+	12 CB06 Sinful Missionary
 	6 UB11 Live or Die
 	6 UB13 Noncreature
 	6 UB14 Noncreature
-	6 UG06
+	6 UG06 Forsaken of Darkroot
 	6 UG10 Noncreature
 	6 UG13 Noncreature
 	6 UG14 Noncreature
 	6 UR13 Noncreature
 	6 UR14 Noncreature
-	6 UU01
+	6 UU01 Forsaken of New Londo
 	6 UU02
 	6 UU03
 	6 UU04
@@ -3226,13 +3214,12 @@
 	6 UU09 Noncreature
 	6 UU13 Noncreature
 	6 UU14 Noncreature
-	6 UW09
-	6 UW11
+	6 UW05 Forsaken of Astora
 	6 UW14 Noncreature
 	12 CZ01 Destined for More
 	12 CZ03 Dark Grasp
 	12 CZ04 Servant of Chaos
-	12 CZ05 Undead Determination
+	12 CZ05 Determined Undead
 	12 CZ06 Humanity Sprites
 	12 CZ07 Azure Whelp
 	12 CZ08 Festering Knight
@@ -3264,25 +3251,25 @@
 	6 UZ10 Dusk, Displaced Princess
 	6 UZ06 The Hollows Hunt
 	6 UM06 Darkmoon Knightess, Fire Keeper
-	6 UB04
-	6 UR07 Izalith Firesage
+	6 UB04 Forsaken of Carim
+	6 UR08 Izalith Firesage
 	6 UZ07 Valley Darkward
 	12 CR09 A Moment of Doubt
 	12 CR13 Kalameet's Gaze
 	12 CR02 Dragonpath Hunter
-	12 CR06 Cragspider
+	12 CR05 Cragspider
 	12 CR11 Clash of Iron
 	12 CR04 Zealot of the Path
-	12 CR03 Ruthless Pyromancer
+	12 CR06 Ruthless Pyromancer
 	12 CB01 Asylum Vermin
 	12 CB02 Mindless Militia
 	12 CB03 Depths Butcher
-	12 CB06 Barbed Blade
+	12 CB08 Barbed Blade
 	12 CB13 Fina's Embrace
-	12 CB08 Tale of the Abyss
-	12 CB12 Claimed by Death
+	12 CB05 Tale of the Abyss
+	12 CB12 Meet the Locals
 	12 CB07 Ariamis Phalanx
-	12 CB05 Wandering Vagabond
+	6 UB06 Wandering Vagabond
 	12 CB10 Gain Favor
 	12 CB11 Loss of Self
 	12 CG01 Flameblinded Witch
@@ -3330,13 +3317,12 @@
 	2 RB04 Smough, Grim Executioner
 	2 RB06 Chasm of the Abyss
 	2 RC01 Havel, Stoneclad Slayer
-	2 RL01 Kiln of the First Flame
-	2 RL02 New Londo Ruins
-	2 RL03 Lost Izalith
-	2 RL04 WB Land
-	2 RL05 Anor Londo
-	2 RL06 Ash Lake
-	2 RM01 Ciaran, Silent Blade
+	2 RL04 Kiln of the First Flame
+	2 RL01 New Londo Ruins
+	2 RL02 Lost Izalith
+	2 RL03 Anor Londo
+	2 RL05 Ash Lake
+	2 RM01 Ciaran, Lord's Blade
 	2 RM02 The Four Kings
 	2 RM07 Calamitous Blackflame
 	2 RM08 The Gaping Dragon
@@ -3374,10 +3360,10 @@
 	6 UG03 Royal Gardener
 	6 UG04 Stone Guardian
 	6 UG05 The Roots of Oolacile
-	6 UG06 Sif, Guardian Gravewolf
-	6 UG07 Taurus of the Burg
-	6 UG08 Ashen Hydra
-	6 UG09 Guardian's Respite
+	6 UG07 Sif, Guardian Gravewolf
+	6 UG08 Taurus of the Burg
+	6 UG09 Ashen Hydra
+	6 UG10 Guardian's Respite
 	6 UG11 Fang Boar Helm
 	6 UG12 Blessings of Sunlight
 	6 UL01 The Painted World
@@ -3391,16 +3377,16 @@
 	6 UL09 Sunlit Shrine
 	6 UL10 Darkroot Garden
 	6 UR01 Hollowing Mercenaries
-	6 UR02 Impulsive Pyromancer
-	6 UR03 Unrelenting Hollows
-	6 UR04 Burg Capra
-	6 UR06 Bridge Wyvern
-	6 UR05 Dragonpath Hunter
-	6 UR08 In The Firstborn's Footsteps
+	6 UR03 Great Swamp Servant
+	6 UR04 Unrelenting Hollows
+	6 UR05 Burg Capra
+	6 UR07 Bridge Wyvern
+	6 UR06 Dragonpath Hunter
+	6 UR10 In The Firstborn's Footsteps
 	6 UR09 Blazing Breath
-	6 UR10 Electrifying Strike
-	6 UR11 Chaos Blade
-	6 UR12 Path of the Dragon
+	6 UR11 Electrifying Strike
+	6 UR12 Chaos Blade
+	6 UR13 Path of the Dragon
 	6 UU07 Aural Snare
 	6 UU08 Logan's Obsession
 	6 UU10 Visions of Ariamis
@@ -3410,8 +3396,8 @@
 	6 UW03 The Crestfallen Warrior
 	6 UW04 Astora Elite
 	6 UW06 Paladin of Ariamis
-	6 UW07 Tarkus, Black Iron Champion
-	6 UW08 Gwyn's Silver Knights
+	6 UW08 Tarkus, Black Iron Champion
+	6 UW09 Gwyn's Silver Knights
 	6 UW10 Silver Knight Armor
 	6 UW13 Light in the Dark
 	12 CA01 Purposeless Undead
@@ -3424,25 +3410,27 @@
 	12 CG08 Izalith Wurm
 	12 CG13 Estus Flask
 	12 CG07 Forest-Clan Sentries
-	6 UW06 Belltower Sentry
+	6 UW07 Belltower Sentry
 	12 CW08 Bell Gargoyles
 	12 CR01 Quelana's Apprentice
-	12 CR05 Merchant's Katana
-	12 CR10 Burn the Hordes
-	12 CR08 Centipede Demon
-	12 CR07 Demon Statues
+	12 CR08 Merchant's Katana
+	12 CR10 Encroaching Hordes
+	12 CR07 Centipede Demon
+	12 CR03 Hollowed Knight-Captain
 	1 MB03 Artorias, Abyss-Cursed
-	1 MB03 Artorias, Abyss-Cursed
-	2 RM05 Gough, Blind Trueshot
+	2 RM05 Hawkeye Gough
 	12 CW04 Branded Healer
 	12 CB09 Hollow's Halberd
+	6 UR02 Forsaken of the Great Swamp
+	6 UW11
+	2 RM06 Artorias, the Wolf Knight
 [wildcard(1)]
 	6 CU01 Preying Bandit
 	6 CG09 Prison Break
 	6 CR12 Fight for the Flame
 	6 CB04 Oolacile Bloathead
 	6 CU02 Sightless Sorcerer
-	6 CU04 New Londo Haunted
+	6 CU04 The Lost of New Londo
 	6 CZ02 Vinheim Assassin
 	6 CU08 Primeval Gaze
 	6 CU09 Consider
@@ -3451,7 +3439,7 @@
 	4 MU01
 	4 MW01
 	4 MX10
-	4 MX09
+	4 MM03 Trusty Patches
 	7 RB01
 	7 RB02
 	7 RB03
@@ -3462,7 +3450,7 @@
 	7 RG05
 	7 RG06
 	7 RM05
-	7 RM06
+	7 RM06 Wolf Knight Artorias
 	7 RM10
 	7 RR01
 	7 RR03
@@ -3471,7 +3459,7 @@
 	7 RU01
 	7 RU02
 	7 RU03
-	7 RU04
+	7 RU04 Moonlight Butterfly
 	7 RU05
 	7 RU06
 	7 RW01
@@ -3479,24 +3467,23 @@
 	7 RW04
 	7 RW05
 	7 RW06
-	7 RX01
 	7 RX02
 	7 RX03
 	7 RX04
 	7 RX05
 	7 RX06
 	15 UA05 Nameless Song
-	15 UB06
+	6 CB06 Sinful Missionary
 	15 UB11 Live or Die
 	15 UB13 Noncreature
 	15 UB14 Noncreature
-	15 UG06
+	15 UG06 Forsaken of Darkroot
 	15 UG10 Noncreature
 	15 UG13 Noncreature
 	15 UG14 Noncreature
 	15 UR13 Noncreature
 	15 UR14 Noncreature
-	15 UU01
+	15 UU01 Forsaken of New Londo
 	15 UU02
 	15 UU03
 	15 UU04
@@ -3506,13 +3493,12 @@
 	15 UU09 Noncreature
 	15 UU13 Noncreature
 	15 UU14 Noncreature
-	15 UW09
-	15 UW11
+	15 UW05 Forsaken of Astora
 	15 UW14 Noncreature
 	6 CZ01 Destined for More
 	6 CZ03 Dark Grasp
 	6 CZ04 Servant of Chaos
-	6 CZ05 Undead Determination
+	6 CZ05 Determined Undead
 	6 CZ06 Humanity Sprites
 	6 CZ07 Azure Whelp
 	6 CZ08 Festering Knight
@@ -3544,25 +3530,25 @@
 	15 UZ10 Dusk, Displaced Princess
 	15 UZ06 The Hollows Hunt
 	15 UM06 Darkmoon Knightess, Fire Keeper
-	15 UB04
-	15 UR07 Izalith Firesage
+	15 UB04 Forsaken of Carim
+	15 UR08 Izalith Firesage
 	15 UZ07 Valley Darkward
 	6 CR09 A Moment of Doubt
 	6 CR13 Kalameet's Gaze
 	6 CR02 Dragonpath Hunter
-	6 CR06 Cragspider
+	6 CR05 Cragspider
 	6 CR11 Clash of Iron
 	6 CR04 Zealot of the Path
-	6 CR03 Ruthless Pyromancer
+	6 CR06 Ruthless Pyromancer
 	6 CB01 Asylum Vermin
 	6 CB02 Mindless Militia
 	6 CB03 Depths Butcher
-	6 CB06 Barbed Blade
+	6 CB08 Barbed Blade
 	6 CB13 Fina's Embrace
-	6 CB08 Tale of the Abyss
-	6 CB12 Claimed by Death
+	6 CB05 Tale of the Abyss
+	6 CB12 Meet the Locals
 	6 CB07 Ariamis Phalanx
-	6 CB05 Wandering Vagabond
+	15 UB06 Wandering Vagabond
 	6 CB10 Gain Favor
 	6 CB11 Loss of Self
 	6 CG01 Flameblinded Witch
@@ -3610,13 +3596,12 @@
 	7 RB04 Smough, Grim Executioner
 	7 RB06 Chasm of the Abyss
 	7 RC01 Havel, Stoneclad Slayer
-	7 RL01 Kiln of the First Flame
-	7 RL02 New Londo Ruins
-	7 RL03 Lost Izalith
-	7 RL04 WB Land
-	7 RL05 Anor Londo
-	7 RL06 Ash Lake
-	7 RM01 Ciaran, Silent Blade
+	7 RL04 Kiln of the First Flame
+	7 RL01 New Londo Ruins
+	7 RL02 Lost Izalith
+	7 RL03 Anor Londo
+	7 RL05 Ash Lake
+	7 RM01 Ciaran, Lord's Blade
 	7 RM02 The Four Kings
 	7 RM07 Calamitous Blackflame
 	7 RM08 The Gaping Dragon
@@ -3654,10 +3639,10 @@
 	15 UG03 Royal Gardener
 	15 UG04 Stone Guardian
 	15 UG05 The Roots of Oolacile
-	15 UG06 Sif, Guardian Gravewolf
-	15 UG07 Taurus of the Burg
-	15 UG08 Ashen Hydra
-	15 UG09 Guardian's Respite
+	15 UG07 Sif, Guardian Gravewolf
+	15 UG08 Taurus of the Burg
+	15 UG09 Ashen Hydra
+	15 UG10 Guardian's Respite
 	15 UG11 Fang Boar Helm
 	15 UG12 Blessings of Sunlight
 	15 UL01 The Painted World
@@ -3671,16 +3656,16 @@
 	15 UL09 Sunlit Shrine
 	15 UL10 Darkroot Garden
 	15 UR01 Hollowing Mercenaries
-	15 UR02 Impulsive Pyromancer
-	15 UR03 Unrelenting Hollows
-	15 UR04 Burg Capra
-	15 UR06 Bridge Wyvern
-	15 UR05 Dragonpath Hunter
-	15 UR08 In The Firstborn's Footsteps
+	15 UR03 Great Swamp Servant
+	15 UR04 Unrelenting Hollows
+	15 UR05 Burg Capra
+	15 UR07 Bridge Wyvern
+	15 UR06 Dragonpath Hunter
+	15 UR10 In The Firstborn's Footsteps
 	15 UR09 Blazing Breath
-	15 UR10 Electrifying Strike
-	15 UR11 Chaos Blade
-	15 UR12 Path of the Dragon
+	15 UR11 Electrifying Strike
+	15 UR12 Chaos Blade
+	15 UR13 Path of the Dragon
 	15 UU07 Aural Snare
 	15 UU08 Logan's Obsession
 	15 UU10 Visions of Ariamis
@@ -3690,8 +3675,8 @@
 	15 UW03 The Crestfallen Warrior
 	15 UW04 Astora Elite
 	15 UW06 Paladin of Ariamis
-	15 UW07 Tarkus, Black Iron Champion
-	15 UW08 Gwyn's Silver Knights
+	15 UW08 Tarkus, Black Iron Champion
+	15 UW09 Gwyn's Silver Knights
 	15 UW10 Silver Knight Armor
 	15 UW13 Light in the Dark
 	6 CA01 Purposeless Undead
@@ -3704,15 +3689,17 @@
 	6 CG08 Izalith Wurm
 	6 CG13 Estus Flask
 	6 CG07 Forest-Clan Sentries
-	15 UW06 Belltower Sentry
+	15 UW07 Belltower Sentry
 	6 CW08 Bell Gargoyles
 	6 CR01 Quelana's Apprentice
-	6 CR05 Merchant's Katana
-	6 CR10 Burn the Hordes
-	6 CR08 Centipede Demon
-	6 CR07 Demon Statues
+	6 CR08 Merchant's Katana
+	6 CR10 Encroaching Hordes
+	6 CR07 Centipede Demon
+	6 CR03 Hollowed Knight-Captain
 	4 MB03 Artorias, Abyss-Cursed
-	4 MB03 Artorias, Abyss-Cursed
-	7 RM05 Gough, Blind Trueshot
+	7 RM05 Hawkeye Gough
 	6 CW04 Branded Healer
 	6 CB09 Hollow's Halberd
+	15 UR02 Forsaken of the Great Swamp
+	15 UW11
+	7 RM06 Artorias, the Wolf Knight
