@@ -1,4 +1,664 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+RB05 Abyssal Greatsword added.
+CW11 Guardian's Charge added.
+A01 — Zombie added.
+A02 — Human added.
+A03 — Human Knight added.
+A04 — Illusion added.
+A05 — Human Wizard added.
+A06 — Bird added.
+A07 — Dog added.
+A08 — Dragon added.
+A09 — Fungus added.
+A10 — Wolf added.
+A11 — Soul added.
+A12 — Treasure added.
+A13 — Copy added.
+A14 — Chaos Bug added.
+A15 — Human Horror added.
+A16 — Demon added.
+A17 — Dragon added.
+RM09 Sunlight Avenger added.
+RM04 Seething Chaos added.
+MMXX The Age of Fire added.
+MBXX The Age of Dark added.
+
+RB05 removed.
+RM06 Wolf Knight Artorias removed.
+RX02 removed.
+RX03 removed.
+RX04 removed.
+RX05 removed.
+RX06 removed.
+UR13 Noncreature removed.
+CW11 Focused Parry removed.
+
+CG12 Prison Break
+rules_text: This spell costs {1} less to cast if it targets a creature you control with a +1/+1 counter on it.
+Target creature you control fights target creature you don't control. If a creature dealt damage this way survives, put a +1/+1 counter on it. => This spell costs {1} less to cast if it targets a creature you control with a +1/+1 counter on it.
+Choose one — 
+• Target creature you control fights target creature you don't control.
+• Destroy target or enchantment.
+
+CU08 Primeval Gaze
+rules_text: Counter target spell unless its controller pays {2}. If you've sacrificed a nonland permanent this turn, counter that spell unless its controller pays {4} instead. => Counter target spell unless its controller pays {2}. If that spell's controller sacrificed a nonland permanent this turn, counter that spell unless they pay {4} instead.
+
+RM10
+
+RR01
+
+RR03
+
+RR04
+
+RR06
+
+RU01
+
+RU02
+
+RU03
+
+RU04 Moonlight Butterfly
+
+RU05
+
+RU06
+
+RW01
+rules_text:  => 
+
+
+RW02
+
+RW04
+
+RW05
+
+RW06
+
+UA05 Nameless Song
+
+CB06 Sinful Missionary
+rules_text: Menace
+[i]Kindle — [/i]When this creature enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, choose one —
+• Return target artifact card from your graveyard to your hand.
+• Return target creature card from your graveyard to your hand. => Menace
+[i]Kindle — [/i]When this creature enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, return target creature or artifact card from your graveyard to your hand.
+
+UB11 Live or Die
+
+UB13 Noncreature
+
+UB14 Noncreature
+
+UG06 Forsaken of Darkroot
+rules_text: At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UG13 Noncreature
+
+UG14 Noncreature
+
+UR14 Noncreature
+
+UU01 Forsaken of New Londo
+rules_text: At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+0 and gains flying and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+0 and gains flying and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UU02
+
+UU03
+
+UU04
+
+UU05
+
+UU06
+
+UU07
+
+UU09 Noncreature
+
+UU13 Noncreature
+
+UU14 Noncreature
+
+UW05 Forsaken of Astora
+rules_text: At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UW14 Noncreature
+
+CZ01 Destined for More
+
+CZ03 Dark Grasp
+
+CZ04 Servant of Chaos
+
+CZ06 Humanity Sprites
+
+CZ07 Azure Whelp
+
+CZ08 Festering Knight
+
+CZ09 Swift Swordstress
+
+CZ10 Roots of the World
+rules_text: The first time you cast or copy a noncreature spell each turn, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => The first time you cast or copy a historic spell each turn, create a Soul token. [i](Artifacts, legendaries, and Sagas are historic. A Soul token is an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+UM02 Pinwheel, Thrice-Masked
+
+UZ03 Lautrec the Favored
+
+UZ04 Jeremiah, Exiled King
+
+ZX02 Siegmeyer
+
+UM09 Solaire, Sunlight Knight
+
+UM01 Tale of the Painted World
+
+RM02 Artorias Falls
+
+UM03 The Undead Curse
+rules_text: When this enchantment enters, and at the beginning of your upkeep, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste. => When this enchantment enters, and at the beginning of your upkeep, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste.
+
+UM04 Nurturing Chaos
+
+UM05 Bonfire's Warmth
+
+ZX01 Oswald
+
+UM07 The Duke's Great Sorceries
+rules_text: Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+II — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play that card.
+III — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+II — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play that card.
+III — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UM08 Maneater Mildred
+
+UZ09 Jolly Cooperation!
+
+UM10 The Wolf Knight's Legacy
+
+UZ01 Sieglinde, Epithet
+
+UZ02 Velka's Devoted
+
+RZ03 Scourge of the Valley
+
+CG11 Hunted by Demons
+
+UZ05 Fire Keeper Anastacia
+
+UW12 Hollowed Obsession
+rules_text: Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UZ08 Kirk, Knight of Thorns
+
+UW02 Leeroy, Golden Champion
+
+UZ10 Dusk, Displaced Princess
+
+UZ06 The Hollows Hunt
+rules_text: Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield tapped. If you return an equipment this way and it doesn't have husk, it gains husk [i](When that Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach that Equipment to it.)[/i] => Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield tapped. If you return an equipment this way and it doesn't have husk, it gains husk. [i](When that Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach that Equipment to it.)[/i]
+
+UM06 Darkmoon Knightess, Fire Keeper
+
+UB04 Forsaken of Carim
+rules_text: At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+1 and gains menace and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+1 and gains menace and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UR08 Izalith Firesage
+
+UZ07 Valley Darkward
+
+CR10 A Moment of Doubt
+
+CR13 Kalameet's Gaze
+
+CR02 Dragonpath Hunter
+
+CR06 Cragspider
+
+CR11 Clash of Iron
+
+CR04 Zealot of the Path
+
+CR07 Ruthless Pyromancer
+
+CB01 Asylum Vermin
+
+CB02 Mindless Militia
+rules_text: When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CB03 Depths Butcher
+
+CB08 Barbed Blade
+
+CB13 Fina's Embrace
+
+CB05 Tale of the Abyss
+rules_text: Bookmark r{2} — {B} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature an opponent controls gets -2/-2 until end of turn.
+III — Surveil 1. You lose 1 life and draw a card. => Bookmark r{2} — {B} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature an opponent controls gets -2/-2 until end of turn.
+III — Surveil 1. You lose 1 life and draw a card.
+special_text: Bookmark r{2} — {B} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature an opponent controls gets -2/-2 until end of turn.
+III — Surveil 1. You lose 1 life and draw a card. => Bookmark r{2} — {B} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+II — Target creature an opponent controls gets -2/-2 until end of turn.
+III — Surveil 1. You lose 1 life and draw a card.
+
+CB12 Meet the Locals
+
+CB07 Ariamis Phalanx
+
+UB06 Wandering Vagabond
+
+CB10 Gain Favor
+
+CB11 Loss of Self
+rules_text: Target opponent discards two cards.
+Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Target opponent discards two cards.
+Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CG01 Flameblinded Witch
+
+CG02 Depths Lookout
+
+CG03 Scouring Slime
+
+CG05 Hollowing Merchant
+
+CG06 Darkroot Harvester
+
+CG08 Brutish Mushroom
+
+CW10 Grass Crest Shield
+
+CG13 Within the Archtree
+
+CG04 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, creatures you control with +1/+1 counters on them gain trample until end of turn. => Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Creatures you control gain trample until end of turn.
+special_text: Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Until end of turn, creatures you control with +1/+1 counters on them gain trample until end of turn. => Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Creatures you control gain trample until end of turn.
+
+CU05 Valley Bluescale
+
+CU06 Paledrake's Fervent
+
+CU07 Blue Crystal Golem
+
+CU12 Imprisoned Across Time
+
+CU11 Crystal Curse
+rules_text: Enchant creature or artifact
+Enchanted permanent is a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color,” and it loses all other abilities. [i](If it was a creature, it's no longer a creature.)[/i]
+When enchanted permanent leaves the battlefield, draw a card. => Enchant creature
+Enchanted permanent is a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color,” and it loses all other abilities. [i](If it was a creature, it's no longer a creature.)[/i]
+When enchanted permanent leaves the battlefield, draw a card.
+
+CU13 The Great Flood
+
+CW09 Cleric's Talisman
+
+CW13 Darkmoon Malediction
+
+CW12 Rest by the Bonfire
+
+CW05 Balder Knight
+
+CW01 Apprentice Fire Keeper
+
+CW02 Astoran Cleric
+
+CW03 Soul Seeker
+
+CW08 Knights-in-Arms
+
+CW06 Spirit of the Altar
+
+MB01 Curse-Spewer Basilisk
+
+MB02 Gravelord Sword
+
+MG01 Sif, Courageous Pup
+
+MC02 The Age of Ancients
+rules_text: Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon artifact creature tokens with flying.
+III — Exile target nonland permanent an opponent controls.
+special_text: Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon artifact creature tokens with flying.
+III — Exile target nonland permanent an opponent controls.
+
+MC01 The Everlasting Dragon
+
+MM03 Kalameet, Living Calamity
+
+MM04 The Bed of Chaos
+rules_text: Defender, reach
+When The Bed of Chaos enters, create two 0/1 red and green Demon Insect creature tokens named Chaos Bug with “{T}, Sacrifice this creature: Add {R} or {G}.”
+Whenever you cast a spell, if mana from a creature was spent to cast it, you may copy it. You may choose new targets for the copy. Activate only once each turn. [i](A copy of a permanent spell becomes a token.)[/i] => Defender, reach
+When The Bed of Chaos enters, create two 0/1 red and green Insect creature tokens named Chaos Bug with “{T}, Sacrifice this creature: Add {R} or {G}.”
+Whenever you cast a spell, if mana from a creature was spent to cast it, you may copy it. You may choose new targets for the copy. Activate only once each turn. [i](A copy of a permanent spell becomes a token.)[/i]
+
+MM08 Fair Lady's Offering
+
+MM101 Dark Sun Gwyndolin
+
+MM07 Seath, Epithet
+
+MM102 Gwyn, Cindered
+
+MU02 Moonlight Greatsword
+
+MG02 Smough's Great Hammer
+
+MR02 Quelaag's Furysword
+
+MW02 Lifehunt Scythe
+
+RA01 Sac Supporter
+
+RA02 Snuggly's Nest
+
+RB04 Smough, Grim Executioner
+
+RB06 Chasm of the Abyss
+
+RC01 Havel, Stoneclad Slayer
+
+RL04 Kiln of the First Flame
+
+RL01 New Londo Ruins
+
+RL02 Lost Izalith
+
+RL03 Anor Londo
+
+RL05 Ash Lake
+
+RM01 Ciaran, Lord's Blade
+
+RM02 The Four Kings
+
+RM07 Calamitous Blackflame
+
+RM08 The Gaping Dragon
+
+RM09 Dragonslayer Ornstein
+
+RM01 Priscilla, Keeper of the Lost
+
+RM03 Gwyn Links the Flame
+cost: {2}{B}{R} => {3}{B}{R}
+rules_text: Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — You lose 1 life and draw a card. Each player sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target.
+special_text: Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — Each player loses 1 life, draws a card, then sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — You lose 1 life and draw a card. Each player sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target.
+
+RM04 Chaos Engulfs Izalith
+
+RM08 Nito's Miasma of Death
+
+RM01 Gwyndolin's Manipulation
+
+RR04 Quelaag, Matriarch of Chaos
+
+RG01 Pharis of the Black Bow
+
+RR02 Chaos Witch
+
+RW03 Sanctuary Guardian
+
+RR05 Spellcopy
+
+UB01 Darkwraith Allegiant
+
+UB02 Bonewheel Skeleton
+rules_text: Haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost. => Haste
+Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.
+
+UB03 Knights of Ash
+
+UB05 Petrus, Drenched in Sin
+rules_text: When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target creature you don't control.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target creature you don't control.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB07 Frenzied Darkwraiths
+
+UB08 Sunlit Madness
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Enchant creature
+Enchanted creature gets +1/+1 and has decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB12 Sinister Shotels
+
+UB10 Poison Mist
+
+UB09 Reach of the Abyss
+
+UA01 Crystal Lizard
+
+UA02 Lurking Mimic
+
+UA03 Bounding Dragons
+
+UA04 Pyromancer's Flame
+
+UA06 Altar to the Gods
+
+UA07 Demon's Great Hammer
+
+UA08 Zweihander
+
+UL11 Sen's Fortress
+
+UL12 Firelink Shrine
+
+UG01 Eggburdened Servants
+
+UG02 Forest-Clan Ambusher
+
+UG03 Royal Gardener
+
+UG04 Stone Guardian
+
+UG05 The Roots of Oolacile
+
+UG07 Sif, Guardian Gravewolf
+
+UG09 Ashen Hydra
+
+UG10 Guardian's Respite
+
+UG11 Fang Boar Helm
+
+UG12 Blessings of Sunlight
+
+UL01 The Painted World
+
+UL02 Oolacile Township
+
+UL03 The Northern Asylum
+
+UL04 Demon Ruins
+
+UL05 Royal Woods
+
+UL06 Ruined Cathedral
+
+UL07 Duke's Archives
+
+UL08 Blighttown
+
+UL09 Sunlit Shrine
+
+UL10 Darkroot Garden
+
+UR01 Hollowing Mercenaries
+rules_text: Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UR03 Great Swamp Servant
+
+UR04 Unrelenting Hollows
+
+UR05 Burg Capra
+rules_text: During your turn, this creature has first strike.
+At the beginning of combat on your turn, create a 2/1 black Zombie Dog creature token with haste and decayed. It attacks this turn if able. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => During your turn, this creature has first strike.
+At the beginning of combat on your turn, create a 2/1 black Zombie Dog creature token with haste and decayed. It attacks this turn if able. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UR07 Bridge Wyvern
+
+UR06 Dragonpath Hunter
+
+UR10 In The Firstborn's Footsteps
+
+UR09 Blazing Breath
+
+UR11 Electrifying Strike
+
+UR12 Chaos Blade
+
+UR13 Path of the Dragon
+
+UU07 Aural Snare
+
+UU08 Logan's Obsession
+
+UU10 Visions of Ariamis
+rules_text: Affinity for historic permanents [i](This spell costs {1} less to cast for each historic permanent you control.)[/i]
+Draw four cards. => Affinity for historic permanents [i](This spell costs {1} less to cast for each historic permanent you control.)[/i]
+Draw three cards.
+
+UU11 Just Another Undead
+
+UU12 The Paledrake's Pact
+
+UW01 Way of White Guardian
+
+UW03 The Crestfallen Warrior
+
+UW04 Astora Elite
+
+UW06 Paladin of Ariamis
+
+UW08 Tarkus, Black Iron Champion
+
+UW09 Gwyn's Silver Knights
+
+UW10 Silver Knight Armor
+
+UW13 Light in the Dark
+
+CA01 Purposeless Undead
+
+CA02 Oscar, Fading Failure
+
+CA03 Iron Sentinel
+
+CA04 Homeward Bone
+
+CA05 Knight's Claymore
+
+CL01 Abandoned Bonfire
+
+CU03 Darkmoon Squire
+
+CG10 Izalith Wurm
+
+CG07 Darkroot Huntmaster
+
+CG09 Forest-Clan Sentries
+
+UW07 Belltower Sentry
+
+CW07 Bell Gargoyles
+
+CR05 Quelana's Apprentice
+
+CR09 Merchant's Katana
+
+CR01 Blighted Hound
+
+CR08 Centipede Demon
+
+CR03 Hollowed Knight-Captain
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste and must attack this turn if able. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste and must attack this turn if able. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+MB03 Artorias, Abyss-Cursed
+
+RM05 Hawkeye Gough
+
+CW04 Branded Healer
+
+CB09 Hollow's Halberd
+
+UR02 Forsaken of the Great Swamp
+rules_text: At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UW11
+
+RM06 Artorias, the Wolf Knight
+
+UG08 Taurus of the Burg
+
+CZ05 Undead Determination
+
+
+VERSION 22 CHANGELOG
 ====================
 
 CG12 Prison Break added.
