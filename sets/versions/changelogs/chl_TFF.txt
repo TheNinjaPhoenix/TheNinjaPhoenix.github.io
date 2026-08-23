@@ -1,4 +1,303 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+CR12 Kindle the Flame added.
+CB03 Oolacile Bloathead added.
+CB01 Humanity Sprites added.
+CB02 Asylum Vermin added.
+CB04 Mindless Militia added.
+CB05 Depths Butcher added.
+CB09 Barbed Blade added.
+CB09 Tale of the Abyss added.
+CB08 Ariamis Phalanx added.
+CA05 Grass Crest Shield added.
+CW10 Cleric's Talisman added.
+CW06 Balder Knight added.
+CW04 Soul Seeker added.
+CW09 Knights-in-Arms added.
+CW07 Spirit of the Altar added.
+UR04 Darkstalker's Hand added.
+CZ06 Knight's Claymore added.
+CW08 Bell Gargoyles added.
+CW05 Branded Healer added.
+CB07 Bloodthirsty Branded added.
+A07 — Zombie Dog added.
+CW03 Determined Adventurer added.
+
+CR12 Fight for the Flame removed.
+CB04 Oolacile Bloathead removed.
+CZ06 Humanity Sprites removed.
+CB01 Asylum Vermin removed.
+CB02 Mindless Militia removed.
+CB03 Depths Butcher removed.
+CB08 Barbed Blade removed.
+CB05 Tale of the Abyss removed.
+CB07 Ariamis Phalanx removed.
+CW10 Grass Crest Shield removed.
+CW09 Cleric's Talisman removed.
+CW05 Balder Knight removed.
+CW03 Soul Seeker removed.
+CW08 Knights-in-Arms removed.
+CW06 Spirit of the Altar removed.
+UR04 Unrelenting Hollows removed.
+CA05 Knight's Claymore removed.
+CW07 Bell Gargoyles removed.
+CW04 Branded Healer removed.
+CB09 Hollow's Halberd removed.
+A07 — Dog removed.
+RM04 Seething Chaos removed.
+
+CG12 Prison Break
+rules_text: This spell costs {1} less to cast if it targets a creature you control with a +1/+1 counter on it.
+Choose one — 
+• Target creature you control fights target creature you don't control.
+• Destroy target or enchantment. => This spell costs {1} less to cast if it targets a creature you control with a +1/+1 counter on it.
+Choose one — 
+• Target creature you control fights target creature you don't control.
+• Destroy target artifact or enchantment.
+
+RW01
+rules_text: 
+ => 
+
+UA05 Nameless Song
+rules_text: Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+II — Draw a card. => Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Draw a card.
+special_text: Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+II — Draw a card. => Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Draw a card.
+
+CZ03 Dark Grasp
+type: Sorcery => Instant
+cost: {BR} => {1}{BR}
+rules_text: Dark Grasp deals 2 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Dark Grasp deals 3 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+RM02 Artorias Falls
+rules_text: Bookmark r{4} — {3}{B}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Draw a card, then discard a card.
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Draw a card, then discard a card.
+III — Return up to one creature card from your graveyard to the battlefield.
+​
+special_text: Bookmark r{4} — {3}{B}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Draw a card, then discard a card.
+Return up to one creature card from your graveyard to the battlefield.
+​ => Bookmark r{4} — {3}{B}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Draw a card, then discard a card.
+III — Return up to one creature card from your graveyard to the battlefield.
+​
+
+UM07 The Duke's Great Sorceries
+rules_text: Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play that card.
+III — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play that card.
+III — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UM10 The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Create a 2/2 green Wolf creature token. Mill three cards.
+Return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+​ => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 2/2 green Wolf creature token. Mill three cards.
+Return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+​
+special_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Create a 2/2 green Wolf creature token. Mill three cards.
+Return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+​ => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 2/2 green Wolf creature token. Mill three cards.
+Return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+​
+
+CG04 From Firelink, Onwards
+rules_text: Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Creatures you control gain trample until end of turn. => Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 white Human creature token.
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Creatures you control gain trample until end of turn.
+special_text: Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II, III — Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+IV — Creatures you control gain trample until end of turn. => Bookmark r{4} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 white Human creature token.
+Create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Creatures you control gain trample until end of turn.
+
+CU07 Blue Crystal Golem
+pt: 5/5 => 4/5
+
+CU11 Crystal Curse
+rules_text: Enchant creature
+Enchanted permanent is a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color,” and it loses all other abilities. [i](If it was a creature, it's no longer a creature.)[/i]
+When enchanted permanent leaves the battlefield, draw a card. => Enchant creature or Treasure
+Enchanted permanent is a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color,” and it loses all other abilities. [i](If it was a creature, it's no longer a creature.)[/i]
+When enchanted permanent leaves the battlefield, draw a card.
+
+CU13 The Great Flood
+rules_text: Bookmark r{3} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Tap target creature an opponent controls. Put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Tap target creature an opponent controls. Put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+special_text: Bookmark r{3} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Tap target creature an opponent controls. Put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+Return target tapped creature to its owner's hand. Draw a card.
+​ => Bookmark r{3} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Tap target creature an opponent controls. Put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+III — Return target tapped creature to its owner's hand. Draw a card.
+​
+
+MC02 The Age of Ancients
+rules_text: Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon artifact creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+Exile target nonland permanent an opponent controls.
+special_text: Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+II — Create two colorless 4/4 Dragon artifact creature tokens with flying.
+III — Exile target nonland permanent an opponent controls. => Bookmark r{3} — {4} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Search your library for a non-Saga permanent card, put it onto the battlefield, then shuffle.
+Create two colorless 4/4 Dragon artifact creature tokens with flying.
+Exile target nonland permanent an opponent controls.
+
+RM03 Gwyn Links the Flame
+rules_text: Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — You lose 1 life and draw a card. Each player sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+You lose 1 life and draw a card. Each player sacrifices a creature.
+Gwyn Links the Flame deals 3 damage to any target.
+special_text: Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+II, III — You lose 1 life and draw a card. Each player sacrifices a creature.
+IV — Gwyn Links the Flame deals 3 damage to any target. => Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature's mana value to any target.
+You lose 1 life and draw a card. Each player sacrifices a creature.
+Gwyn Links the Flame deals 3 damage to any target.
+
+UG05 The Roots of Oolacile
+rules_text: Bookmark r{3} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Create two 1/1 green Fungus creature tokens.
+special_text: Bookmark r{3} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+III — Create two 1/1 green Fungus creature tokens. => Bookmark r{3} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Search your library for a basic land card, put it onto the battlefield, then shuffle.
+Create two Soul tokens. [i](They're enchantments with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Create two 1/1 green Fungus creature tokens.
+
+UG12 Blessings of Sunlight
+rules_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+special_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 white Human creature token.
+II — Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it. => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 white Human creature token.
+Until your next turn, creatures you control gain “{T}: Add one mana of any color.”
+When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.
+
+UU12 The Paledrake's Pact
+rules_text: Bookmark r{2} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.
+​ => Bookmark r{2} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.
+​
+special_text: Bookmark r{2} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II, III — Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.
+​ => Bookmark r{2} — {1}{U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I, II — Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.
+​
+
+CR09 Merchant's Katana
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this Equipment to it.)[/i]
+Equipped creature gets +1/+0 and has first strike.
+Equip {2} => Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this Equipment to it.)[/i]
+During your turn, equipped creature gets +1/+0 and has first strike.
+Equip {2}
+
+CR01 Blighted Hound
+pt:  => 1/1
+
+CR03 Hollowed Knight-Captain
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste and must attack this turn if able. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+MMXX The Age of Fire
+rules_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+II — ​
+III — ​ => Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+​
+​
+​
+special_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+II — ​
+III — ​ => Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+​
+​
+​
+
+MBXX The Age of Dark
+rules_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+II — ​
+III — ​ => Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+​
+​
+​
+special_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+II — ​
+III — ​ => Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+​
+​
+​
+
+
+VERSION 23 CHANGELOG
 ====================
 
 RB05 Abyssal Greatsword added.
