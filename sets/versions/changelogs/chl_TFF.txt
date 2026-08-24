@@ -1,4 +1,575 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+MX10 removed.
+RR04 removed.
+UU07 removed.
+
+MM03 Trusty Patches
+
+RB01
+
+RB02
+
+RB03
+
+RB05 Abyssal Greatsword
+
+RG02
+
+RG03
+
+RG04
+
+RG05
+
+RG06
+
+RM05
+
+RM10
+
+RR01
+
+RR03
+
+RR06
+
+RU01
+
+RU02
+
+RU03
+
+RU04 Moonlight Butterfly
+
+RU05
+
+RU06
+
+RW01
+
+RW02
+
+RW04
+
+RW05
+
+RW06
+
+UA05 Nameless Song
+
+CB06 Sinful Missionary
+
+UB11 Live or Die
+
+UB13 Noncreature
+
+UB14 Noncreature
+
+UG06 Forsaken of Darkroot
+
+UG13 Noncreature
+
+UG14 Noncreature
+
+UR14 Noncreature
+
+UU01 Forsaken of New Londo
+
+UU02
+
+UU03
+
+UU04
+
+UU05
+
+UU06
+
+UU09 Noncreature
+
+UU13 Noncreature
+
+UU14 Noncreature
+
+UW05 Forsaken of Astora
+
+UW14 Noncreature
+
+CZ01 Destined for More
+
+CZ03 Dark Grasp
+
+CZ04 Servant of Chaos
+
+CB01 Humanity Sprites
+
+CZ07 Azure Whelp
+
+CZ08 Festering Knight
+
+CZ09 Swift Swordstress
+
+CZ10 Roots of the World
+
+UM02 Pinwheel, Thrice-Masked
+
+UZ03 Lautrec the Favored
+
+UZ04 Jeremiah, Exiled King
+
+ZX02 Siegmeyer
+
+UM09 Solaire, Sunlight Knight
+
+UM01 Tale of the Painted World
+
+RM02 Artorias Falls
+
+UM03 The Undead Curse
+
+UM04 Nurturing Chaos
+
+UM05 Bonfire's Warmth
+
+ZX01 Oswald
+
+UM07 The Duke's Great Sorceries
+
+UM08 Maneater Mildred
+
+UZ09 Jolly Cooperation!
+
+UM10 The Wolf Knight's Legacy
+
+UZ01 Sieglinde, Epithet
+
+UZ02 Velka's Devoted
+
+RZ03 Scourge of the Valley
+
+CG11 Hunted by Demons
+
+UZ05 Fire Keeper Anastacia
+
+UW12 Hollowed Obsession
+
+UZ08 Kirk, Knight of Thorns
+
+UW02 Leeroy, Golden Champion
+
+UZ10 Dusk, Displaced Princess
+
+UZ06 The Hollows Hunt
+
+UM06 Darkmoon Knightess, Fire Keeper
+
+UB04 Forsaken of Carim
+
+UR08 Izalith Firesage
+
+UZ07 Valley Darkward
+
+CR10 A Moment of Doubt
+
+CR13 Kalameet's Gaze
+
+CR02 Dragonpath Hunter
+
+CR06 Cragspider
+
+CR11 Clash of Iron
+
+CR04 Zealot of the Path
+
+CR07 Ruthless Pyromancer
+
+CB02 Asylum Vermin
+
+CB04 Mindless Militia
+
+CB05 Depths Butcher
+
+CB09 Barbed Blade
+
+CB13 Fina's Embrace
+
+CB10 Tale of the Abyss
+
+CB12 Meet the Locals
+
+CB08 Ariamis Phalanx
+
+UB06 Wandering Vagabond
+
+CB11 Gain Favor
+
+CG01 Flameblinded Witch
+
+CG02 Depths Lookout
+
+CG03 Scouring Slime
+
+CG05 Hollowing Merchant
+
+CG07 Darkroot Harvester
+
+CG08 Brutish Mushroom
+
+CA05 Grass Crest Shield
+
+CG13 Within the Archtree
+
+CG04 From Firelink, Onwards
+
+CU05 Valley Bluescale
+
+CU06 Paledrake's Fervent
+
+CU07 Blue Crystal Golem
+
+CU12 Imprisoned Across Time
+
+CU11 Crystal Curse
+
+CU13 The Great Flood
+
+CW10 Cleric's Talisman
+
+CW13 Darkmoon Malediction
+
+CW12 Rest by the Bonfire
+
+CW11 Guardian's Charge
+
+CW06 Balder Knight
+
+CW01 Apprentice Fire Keeper
+
+CW02 Astoran Cleric
+
+CW04 Soul Seeker
+
+CW09 Knights-in-Arms
+
+CW07 Spirit of the Altar
+
+MB01 Curse-Spewer Basilisk
+
+MB02 Gravelord Sword
+
+MG01 Sif, Courageous Pup
+
+MC02 The Age of Ancients
+
+MC01 The Everlasting Dragon
+
+MM03 Kalameet, Living Calamity
+
+MM04 The Bed of Chaos
+
+MM08 Fair Lady's Offering
+
+MM101 Dark Sun Gwyndolin
+
+MM07 Seath, Epithet
+
+MM102 Gwyn, Cindered
+
+MU02 Moonlight Greatsword
+
+MG02 Smough's Great Hammer
+
+MR02 Quelaag's Furysword
+
+MW02 Lifehunt Scythe
+
+RA01 Sac Supporter
+
+RA02 Snuggly's Nest
+
+RB04 Smough, Grim Executioner
+
+RB06 Chasm of the Abyss
+
+RC01 Havel, Stoneclad Slayer
+
+RL04 Kiln of the First Flame
+
+RL01 New Londo Ruins
+
+RL02 Lost Izalith
+
+RL03 Anor Londo
+
+RL05 Ash Lake
+
+RM01 Ciaran, Lord's Blade
+
+RM02 The Four Kings
+
+RM07 Calamitous Blackflame
+
+RM08 The Gaping Dragon
+
+RM09 Dragonslayer Ornstein
+
+RM01 Priscilla, Keeper of the Lost
+
+RM03 Gwyn Links the Flame
+
+RM04 Chaos Engulfs Izalith
+
+RM08 Nito's Miasma of Death
+
+RM01 Gwyndolin's Manipulation
+
+RR04 Quelaag, Matriarch of Chaos
+
+RG01 Pharis of the Black Bow
+
+RR02 Chaos Witch
+
+RW03 Sanctuary Guardian
+
+RR05 Spellcopy
+
+UB01 Darkwraith Allegiant
+
+UB02 Bonewheel Skeleton
+
+UB03 Knights of Ash
+
+UB05 Petrus, Drenched in Sin
+
+UB07 Frenzied Darkwraiths
+
+UB08 Sunlit Madness
+
+UB12 Sinister Shotels
+
+UB10 Poison Mist
+
+UB09 Reach of the Abyss
+
+UA01 Crystal Lizard
+
+UA02 Lurking Mimic
+
+UA03 Bounding Dragons
+
+UA04 Pyromancer's Flame
+
+UA06 Altar to the Gods
+
+UA07 Demon's Great Hammer
+
+UA08 Zweihander
+
+UL01 Sen's Fortress
+
+UL02 Firelink Shrine
+
+UG01 Eggburdened Servants
+
+UG02 Forest-Clan Ambusher
+
+UG03 Royal Gardener
+
+UG04 Stone Guardian
+
+UG05 The Roots of Oolacile
+
+UG07 Sif, Guardian Gravewolf
+
+UG09 Ashen Hydra
+
+UG10 Guardian's Respite
+
+UG11 Fang Boar Helm
+
+UG12 Blessings of Sunlight
+
+CL01 The Painted World
+
+CL02 Oolacile Township
+
+CL03 The Northern Asylum
+
+CL04 Demon Ruins
+
+CL05 Royal Woods
+
+CL06 Ruined Cathedral
+
+CL07 Duke's Archives
+
+CL08 Blighttown
+
+CL09 Sunlit Shrine
+
+CL10 Darkroot Garden
+
+UR01 Hollowing Mercenaries
+
+UR03 Great Swamp Servant
+
+UR04 Darkstalker's Hand
+
+UR05 Burg Capra
+
+UR07 Bridge Wyvern
+
+UR06 Dragonpath Hunter
+
+UR10 In The Firstborn's Footsteps
+
+UR09 Blazing Breath
+
+UR11 Electrifying Strike
+
+UR12 Chaos Blade
+
+UR13 Path of the Dragon
+
+UU07 Aural Snare
+
+UU08 Logan's Obsession
+
+UU10 Visions of Ariamis
+
+UU11 Just Another Undead
+
+UU12 The Paledrake's Pact
+
+UW01 Way of White Guardian
+
+UW03 The Crestfallen Warrior
+
+UW04 Astora Elite
+
+UW06 Paladin of Ariamis
+
+UW08 Tarkus, Black Iron Champion
+
+UW09 Gwyn's Silver Knights
+
+UW10 Silver Knight Armor
+
+UW13 Light in the Dark
+
+CA01 Purposeless Undead
+
+CA02 Oscar, Fading Failure
+
+CA03 Iron Sentinel
+
+CA04 Homeward Bone
+
+CZ06 Knight's Claymore
+
+CL11 Abandoned Bonfire
+
+CU03 Darkmoon Squire
+
+CG10 Izalith Wurm
+
+CB07 Darkroot Huntmaster
+
+CG09 Forest-Clan Sentries
+
+UW07 Belltower Sentry
+
+CW08 Bell Gargoyles
+
+CR05 Quelana's Apprentice
+
+CR09 Merchant's Katana
+
+CR01 Blighted Hound
+
+CR08 Centipede Demon
+
+CR03 Hollowed Knight-Captain
+
+MB03 Artorias, Abyss-Cursed
+
+RM05 Hawkeye Gough
+
+CW05 Branded Healer
+
+CG06 Asylum Jailor
+
+UR02 Forsaken of the Great Swamp
+
+UW11
+
+RM06 Artorias, the Wolf Knight
+
+UG08 Taurus of the Burg
+
+CZ05 Undead Determination
+
+A01 — Zombie
+
+A02 — Human
+
+A03 — Human Knight
+
+A04 — Illusion
+
+A05 — Human Wizard
+
+A06 — Bird
+
+A07 — Zombie Dog
+
+A08 — Dragon
+
+A09 — Fungus
+
+A10 — Wolf
+
+A11 — Soul
+
+A12 — Treasure
+
+A13 — Copy
+
+A14 — Chaos Bug
+
+A15 — Human Horror
+
+A16 — Demon
+
+A17 — Dragon
+
+RM09 Sunlight Avenger
+
+MMXX The Age of Fire
+rules_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+​
+II — ​ => Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+II — ​
+III — ​
+special_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+​
+II — ​ => Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — ​
+II — ​
+III — ​
+
+MBXX The Age of Dark
+
+CW03 Determined Adventurer
+
+
+VERSION 25 CHANGELOG
 ====================
 
 CB10 Tale of the Abyss added.
