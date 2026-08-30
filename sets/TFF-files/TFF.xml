@@ -5,7 +5,7 @@
 			<name>TFF</name>
 			<longname>Dark Souls: The Fire Fades — Master Set</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-29</releasedate>
+			<releasedate>2026-08-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -33,7 +33,7 @@ When this creature enters, surveil 1. (Look at the top card of your library. You
 Choose one — 
 • Target creature you control fights target creature you don&apos;t control.
 • Destroy target artifact or enchantment.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/1.png" num="161">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/1.png" num="162">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -50,7 +50,7 @@ Choose one —
 			<name>CR12 Kindle the Flame</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or artifact.
 Kindle the Flame deals 4 damage to any target.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/2.png" num="126">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/2.png" num="127">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -120,7 +120,7 @@ Kindle the Flame deals 4 damage to any target.</text>
 			<text>Kindle — When this creature enters, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, choose one —
 • Create a 1/1 black Bird creature token with flying.
 • Draw a card.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/6.png" num="220">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/6.png" num="221">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -188,7 +188,7 @@ Draw a card.</text>
 		<card>
 			<name>MR01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/10.png" num="128">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/10.png" num="129">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -239,7 +239,7 @@ Draw a card.</text>
 [-1]: Each player sacrifices a creature of their choice.
 [-2]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
 [0]: Until end of turn, Trusty Patches becomes a 3/3 Human Rogue creature with menace, indestructible, and haste.</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/13.png" num="186">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/13.png" num="187">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -307,7 +307,7 @@ Draw a card.</text>
 Equipped creature gets +2/+0 and has menace.
 Whenever equipped creature attacks, defending player sacrifices a creature.
 Equip {3}</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/17.png" num="99">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/17.png" num="100">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -323,7 +323,7 @@ Equip {3}</text>
 		<card>
 			<name>RG02</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/18.png" num="166">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/18.png" num="167">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -339,7 +339,7 @@ Equip {3}</text>
 		<card>
 			<name>RG03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/19.png" num="167">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/19.png" num="168">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -355,7 +355,7 @@ Equip {3}</text>
 		<card>
 			<name>RG04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/20.png" num="168">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/20.png" num="169">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -371,7 +371,7 @@ Equip {3}</text>
 		<card>
 			<name>RG05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/21.png" num="169">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/21.png" num="170">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -387,7 +387,7 @@ Equip {3}</text>
 		<card>
 			<name>RG06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/22.png" num="170">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/22.png" num="171">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -403,7 +403,7 @@ Equip {3}</text>
 		<card>
 			<name>RM05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/23.png" num="200">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/23.png" num="201">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -419,7 +419,7 @@ Equip {3}</text>
 		<card>
 			<name>RM10</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/24.png" num="208">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/24.png" num="209">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -435,7 +435,7 @@ Equip {3}</text>
 		<card>
 			<name>RR01</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/25.png" num="130">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/25.png" num="131">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -451,7 +451,7 @@ Equip {3}</text>
 		<card>
 			<name>RR03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/26.png" num="132">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/26.png" num="133">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -467,7 +467,7 @@ Equip {3}</text>
 		<card>
 			<name>RR06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/27.png" num="135">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/27.png" num="136">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -661,9 +661,9 @@ Whenever this creature enters or attacks, target instant or sorcery card in your
 		<card>
 			<name>UA05 Nameless Song</name>
 			<text>Bookmark r{3} — {2} (If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)
-Add one mana of any color.
-Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
-Draw a card.</text>
+I — Add one mana of any color.
+II — Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+III — Draw a card.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/39.png" num="7">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -698,7 +698,7 @@ Kindle — When this creature enters, you may sacrifice a nonland permanent. The
 			<text>Choose one —
 • Return target creature card from your graveyard to the battlefield.
 • Destroy target creature.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/41.png" num="111">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/41.png" num="112">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -715,7 +715,7 @@ Kindle — When this creature enters, you may sacrifice a nonland permanent. The
 			<name>UB10 Manus&apos;s Approach</name>
 			<text>Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Kindle — You may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, each other player sacrifices a nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/42.png" num="110">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/42.png" num="111">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -732,8 +732,8 @@ Kindle — You may sacrifice a nonland permanent. Then if you&apos;ve sacrificed
 			<name>UB14 Black Knight Armor</name>
 			<text>Equipped creature gets +3/+3.
 Equip {3}
-Equip {0}. Activate only if you&apos;ve sacrificed a nonland permanent this turn, and only once per turn.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/43.png" num="114">TFF</set>
+Equip {0}. Activate only if you&apos;ve sacrificed a nonland permanent this turn, and only once each turn.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/43.png" num="115">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -747,7 +747,7 @@ Equip {0}. Activate only if you&apos;ve sacrificed a nonland permanent this turn
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UG06 Forsaken of Darkroot</name>
+			<name>UG05 Forsaken of Darkroot</name>
 			<text>At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/44.png" num="176">TFF</set>
 			<prop>
@@ -764,52 +764,56 @@ Equip {0}. Activate only if you&apos;ve sacrificed a nonland permanent this turn
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG13 Noncreature</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/45.png" num="183">TFF</set>
+			<name>UG11 Synchronized Charge</name>
+			<text>Distribute two +1/+1 counters among one or two target creatures you control. Creatures you control with counters on them gain vigilance and trample until end of turn.
+Harmonize {4}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/45.png" num="182">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UG14 Noncreature</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/46.png" num="184">TFF</set>
+			<name>UG07 The Masked Giant</name>
+			<text>You may have this creature assign its combat damage as though it weren&apos;t blocked as long as you&apos;ve exiled a card this turn, or cast a spell from anywhere other than your hand this turn.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/46.png" num="178">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR14 Noncreature</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/47.png" num="149">TFF</set>
+			<name>UR09 Battle by the Belltower</name>
+			<text>Choose one —
+• One or two target creatures can&apos;t block this turn. This spell deals 1 damage to each creature&apos;s controller. 
+• Destroy target artifact. This spell deals 2 damage to its controller.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/47.png" num="145">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>UU01 Forsaken of New Londo</name>
@@ -884,7 +888,7 @@ Noncreature spells you cast cost {1} less to cast.</text>
 		</card>
 		<card>
 			<name>UU05 Seath&apos;s Channelers</name>
-			<text>When this creature enters, create a 2/2 coloress Zombie creature token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
+			<text>When this creature enters, create a 2/2 colorless Zombie creature token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Creatures you control have &quot;{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.&quot;</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/52.png" num="68">TFF</set>
 			<prop>
@@ -903,7 +907,7 @@ Creatures you control have &quot;{T}, Sacrifice this creature: Add {U}{U}. Spend
 		<card>
 			<name>UU06 Darkroot Battlemage</name>
 			<text>Vigilance
-Whenever you cast a historic spell, you may return target nonland permanent you don&apos;t control with equal or lesser mana value than that spell to its owner&apos;s hand. Do this only once each turn. (Artifacts, legendaries, and Sagas are historic.)</text>
+Whenever you cast a historic spell, you may tap target nonland permanent you don&apos;t control with equal or lesser mana value than that spell. Do this only once each turn. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/53.png" num="69">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -955,19 +959,19 @@ When this creature enters, choose one —
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UU14 Abyssal Onslaught</name>
+			<name>RM02 Abyssal Onslaught</name>
 			<text>Kindle — As you cast this spell, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, copy this spell. 
-Create a 1/1 black Horror creature token for each spell you&apos;ve cast this turn.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/56.png" num="77">TFF</set>
+For each spell you&apos;ve cast this turn, create a 1/1 black Horror creature token with menace and &quot;When this creature dies, each opponent loses 1 life.&quot;</text>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/56.png" num="197">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3U</manacost>
+				<manacost>2UB</manacost>
 				<cmc>4</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -1010,7 +1014,7 @@ Put a +1/+1 counter on target creature you control. It gains flying, first strik
 		<card>
 			<name>CZ01 Destined for More</name>
 			<text>Exile target creature or enchantment you control, then return it to the battlefield under its owner&apos;s control. If a historic permanent was exiled this way, draw a card. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/59.png" num="219">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/59.png" num="220">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1026,7 +1030,7 @@ Put a +1/+1 counter on target creature you control. It gains flying, first strik
 		<card>
 			<name>CZ03 Dark Grasp</name>
 			<text>Dark Grasp deals 3 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/60.png" num="221">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/60.png" num="222">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1043,7 +1047,7 @@ Put a +1/+1 counter on target creature you control. It gains flying, first strik
 			<name>CZ04 Servant of Chaos</name>
 			<text>{T}: Add {R} or {G}.
 Whenever you cast a spell from anywhere other than your hand, untap this creature.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/61.png" num="222">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/61.png" num="223">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1079,7 +1083,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 			<name>CZ07 Azure Whelp</name>
 			<text>Flying
 This creature gets +1/+1 as long as you have two or more noncreature, nonland cards in your graveyard. If you have four or more noncreature, nonland cards in your graveyard, it gets +2/+2 instead.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/63.png" num="225">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/63.png" num="226">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1096,7 +1100,7 @@ This creature gets +1/+1 as long as you have two or more noncreature, nonland ca
 		<card>
 			<name>CZ08 Festering Knight</name>
 			<text>Kindle — Whenever this creature attacks, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/64.png" num="226">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/64.png" num="227">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1114,7 +1118,7 @@ This creature gets +1/+1 as long as you have two or more noncreature, nonland ca
 			<name>CZ09 Swift Swordstress</name>
 			<text>Cooperate {1}{RW} ({1}{RW}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 During your turn, this creature has first strike.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/65.png" num="227">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/65.png" num="228">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1131,7 +1135,7 @@ During your turn, this creature has first strike.</text>
 		<card>
 			<name>CZ10 Roots of the World</name>
 			<text>The first time you cast or copy a historic spell each turn, create a Soul token. (Artifacts, legendaries, and Sagas are historic. A Soul token is an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/66.png" num="228">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/66.png" num="229">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1149,7 +1153,7 @@ During your turn, this creature has first strike.</text>
 			<text>Flying
 When Pinwheel enters, create a 1/1 blue Illusion creature token with flying.
 Kindle — At the beginning of your end step, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, create a 1/1 blue Illusion creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/67.png" num="210">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/67.png" num="211">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1168,7 +1172,7 @@ Kindle — At the beginning of your end step, you may sacrifice a nonland perman
 			<text>Menace
 When this creature enters, create a 2/2 colorless Zombie creature token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a creature you control dies, if it attacked this turn, Lautrec deals 1 damage to target opponent.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/68.png" num="232">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/68.png" num="233">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1186,7 +1190,7 @@ Whenever a creature you control dies, if it attacked this turn, Lautrec deals 1 
 			<name>UZ04 Jeremiah, Exiled King</name>
 			<text>Haste
 At the beginning of your first main phase, add {R}{G}. Spend this mana only to cast a spell from anywhere other than your hand.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/69.png" num="233">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/69.png" num="234">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1224,7 +1228,7 @@ When Siegmeyer dies, put its counters onto another target creature you control.<
 			<text>Cooperate {R}{W} ({R}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 First strike
 Attacking creatures you control get +1/+0.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/71.png" num="217">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/71.png" num="218">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1244,7 +1248,7 @@ Attacking creatures you control get +1/+0.</text>
 I — Create a 1/1 black Bird creature token with flying. 
 II — Add {W} or {U}. Spend this mana only to cast historic spells. (Artifacts, legendaries, and Sagas are historic.)
 III — Exile up to one target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/72.png" num="209">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/72.png" num="210">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1263,7 +1267,7 @@ III — Exile up to one target creature you control, then return it to the battl
 Draw a card, then discard a card.
 Return up to one creature card from your graveyard to the battlefield.
 ​</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/73.png" num="196">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/73.png" num="198">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1278,9 +1282,9 @@ Return up to one creature card from your graveyard to the battlefield.
 		</card>
 		<card>
 			<name>UM03 The Undead Curse</name>
-			<text>When this enchantment enters, and at the beginning of your upkeep, create a 2/2 colorless Zombie creature token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
+			<text>At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Creatures you control with decayed have haste.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/74.png" num="211">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/74.png" num="212">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1295,11 +1299,11 @@ Creatures you control with decayed have haste.</text>
 		</card>
 		<card>
 			<name>UM04 Nurturing Chaos</name>
-			<text>Choose one—
+			<text>Choose one —
 • Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 • Nurturing Chaos deals 3 damage to any target.
-Harmonize {4}{R}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/75.png" num="212">TFF</set>
+Harmonize {5}{R}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/75.png" num="213">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1316,7 +1320,7 @@ Harmonize {4}{R}{G} (You may cast this card from your graveyard for its harmoniz
 			<name>UM05 Bonfire&apos;s Warmth</name>
 			<text>When this enchantment enters, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 Whenever you put a +1/+1 counter on a creature you control, you may draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/76.png" num="213">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/76.png" num="214">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1332,7 +1336,7 @@ Whenever you put a +1/+1 counter on a creature you control, you may draw a card.
 		<card>
 			<name>UZ06 Oswald, Velka&apos;s Pardorner</name>
 			<text>When Oswald, Velka&apos;s Pardorner enters, return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/77.png" num="235">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/77.png" num="236">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1349,10 +1353,10 @@ Whenever you put a +1/+1 counter on a creature you control, you may draw a card.
 		<card>
 			<name>UM07 The Duke&apos;s Great Sorceries</name>
 			<text>Bookmark r{3} — {UR}{UR} (If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)
-Create a 1/1 blue Human Wizard creature token with prowess.
-Exile the top card of your library. Until the end of your next turn, you may play that card.
-When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. (Copies of permanents are tokens.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/78.png" num="215">TFF</set>
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play that card.
+III — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. (Copies of permanents are tokens.)</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/78.png" num="216">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1369,8 +1373,8 @@ When you next cast a Dragon or noncreature spell this turn, copy it. You may cho
 			<name>UM08 Maneater Mildred</name>
 			<text>Kindle — When Maneater Mildred enters, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, draw a card.
 Trample
-Maneater Mildred&apos;s power is equal to the number of nonland permanent cards in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/79.png" num="216">TFF</set>
+Maneater Mildred&apos;s power is equal to the number of permanent cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/79.png" num="217">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1388,7 +1392,7 @@ Maneater Mildred&apos;s power is equal to the number of nonland permanent cards 
 			<name>UZ09 Jolly Cooperation!</name>
 			<text>When this enchantment enters, create a 2/2 white Knight creature token.
 Whenever a creature you control becomes the target of a spell or ability you control for the first time each turn, copy that spell or ability. You may choose new targets for the copy.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/80.png" num="238">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/80.png" num="239">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1407,7 +1411,7 @@ Whenever a creature you control becomes the target of a spell or ability you con
 I — Create a 2/2 green Wolf creature token. Mill three cards.
 II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 III — Return up to one target historic card from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/81.png" num="218">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/81.png" num="219">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1423,13 +1427,13 @@ III — Return up to one target historic card from your graveyard to your hand. 
 		<card>
 			<name>UZ01 Sieglinde, Epithet</name>
 			<text>Whenever Sieglinde attacks, exile up to one other target permanent you control, then return that card to the battlefield tapped under its owner&apos;s control.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/82.png" num="230">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/82.png" num="231">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Knight</type>
 				<maintype>Creature</maintype>
-				<manacost>2W/U</manacost>
+				<manacost>1W/UW/U</manacost>
 				<cmc>3</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
@@ -1441,7 +1445,7 @@ III — Return up to one target historic card from your graveyard to your hand. 
 			<name>UZ02 Velka&apos;s Devoted</name>
 			<text>Flying
 Whenever you sacrifice a nonland permanent, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/83.png" num="231">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/83.png" num="232">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1460,7 +1464,7 @@ Whenever you sacrifice a nonland permanent, draw a card. This ability triggers o
 			<text>Flying, haste
 Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)
 {1}{BR}{BR}, Exile a creature card and noncreature card from your graveyard: Return this card from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/84.png" num="229">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/84.png" num="230">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1478,7 +1482,7 @@ Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of
 			<name>CG11 Hunted by Demons</name>
 			<text>Target creature you control deals damage equal to its power to target creature an opponent controls.
 Harmonize {5}{G}{G} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/85.png" num="160">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/85.png" num="161">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1494,13 +1498,13 @@ Harmonize {5}{G}{G} (You may cast this card from your graveyard for its harmoniz
 		<card>
 			<name>UZ05 Fire Keeper Anastacia</name>
 			<text>Whenever a nontoken creature or enchantment you control enters, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/86.png" num="234">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/86.png" num="235">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>1G/W</manacost>
+				<manacost>G/WG/W</manacost>
 				<cmc>2</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
@@ -1528,13 +1532,13 @@ Harmonize {5}{G}{G} (You may cast this card from your graveyard for its harmoniz
 			<name>UZ08 Kirk, Knight of Thorns</name>
 			<text>Whenever Kirk becomes blocked, defending player loses 2 life.
 Whenever Kirk deals combat damage to a player, mill three cards. If a creature card is milled this way, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/88.png" num="237">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/88.png" num="238">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Knight</type>
 				<maintype>Creature</maintype>
-				<manacost>2B/G</manacost>
+				<manacost>1B/GB/G</manacost>
 				<cmc>3</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
@@ -1563,7 +1567,7 @@ Whenever Kirk deals combat damage to a player, mill three cards. If a creature c
 			<name>UZ10 Dusk, Displaced Princess</name>
 			<text>When Dusk enters, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 {T}: Add {C}{C}. This mana can&apos;t be spent to cast creature spells.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/90.png" num="239">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/90.png" num="240">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1581,7 +1585,7 @@ Whenever Kirk deals combat damage to a player, mill three cards. If a creature c
 			<name>UM06 Darkmoon Knightess, Fire Keeper</name>
 			<text>During your turn, Darkmoon Knightess has first strike.
 Whenever an equipped creature you control dies, each opponent loses 1 life and you draw a card. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/91.png" num="214">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/91.png" num="215">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1598,7 +1602,7 @@ Whenever an equipped creature you control dies, each opponent loses 1 life and y
 		<card>
 			<name>UB03 Forsaken of Carim</name>
 			<text>At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/92.png" num="103">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/92.png" num="104">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1613,7 +1617,7 @@ Whenever an equipped creature you control dies, each opponent loses 1 life and y
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR08 Izalith Firesage</name>
+			<name>UR07 Ruin Firesage</name>
 			<text>Trample
 Whenever you cast a spell, this creature deals 1 damage to any target. If that spell was cast from anywhere other than your hand, this creature deals 2 damage to any target instead.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/93.png" num="143">TFF</set>
@@ -1633,8 +1637,8 @@ Whenever you cast a spell, this creature deals 1 damage to any target. If that s
 		<card>
 			<name>UZ07 Guardian of Londo Ruins</name>
 			<text>Flying, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever this creature enters, look at the top four cards of your library. You may reveal a noncreature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/94.png" num="236">TFF</set>
+Whenever this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/94.png" num="237">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1653,7 +1657,7 @@ Whenever this creature enters, look at the top four cards of your library. You m
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards.
 Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/95.png" num="124">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/95.png" num="125">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1669,7 +1673,7 @@ Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmoniz
 		<card>
 			<name>CR13 Kalameet&apos;s Gaze</name>
 			<text>Kalameet&apos;s Gaze deals 6 damage to target creature. When that creature dies this turn, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/96.png" num="127">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/96.png" num="128">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1685,7 +1689,7 @@ Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmoniz
 		<card>
 			<name>CR02 Dragonpath Hunter</name>
 			<text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/97.png" num="116">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/97.png" num="117">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1700,29 +1704,28 @@ Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmoniz
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CR06 Cragspider</name>
-			<text>Reach
-This creature gets +1/+0 and has trample as long as you&apos;ve exiled a card this turn, or cast a spell from anywhere other than your hand this turn.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/98.png" num="120">TFF</set>
+			<name>UR12 A Dark Spirit Has Invaded</name>
+			<text>Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Create a token that&apos;s a copy of target creature you control or target creature card in your graveyard, except it has haste and &quot;At the beginning of the end step, sacrifice this token.&quot;</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/98.png" num="148">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Spider Mutant</type>
-				<maintype>Creature</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>3R</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CR11 Clash of Iron</name>
 			<text>Choose one —
 • Target creature gets +3/+2 until end of turn.
 • Clash of Iron deals 2 damage to target creature. Destroy up to one target Equipment attached to that creature.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/99.png" num="125">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/99.png" num="126">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1738,7 +1741,7 @@ This creature gets +1/+0 and has trample as long as you&apos;ve exiled a card th
 		<card>
 			<name>CR04 Zealot of the Path</name>
 			<text>When this creature enters, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/100.png" num="118">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/100.png" num="119">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1757,7 +1760,7 @@ This creature gets +1/+0 and has trample as long as you&apos;ve exiled a card th
 			<text>Cooperate {2}{R} ({2}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 Menace
 This creature has +2/+0 as long as it&apos;s attacking.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/101.png" num="121">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/101.png" num="122">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1919,7 +1922,7 @@ Swampcycling {2B} ({2B}, Discard this card: Search your library for a Swamp card
 			<text>Kindle — Whenever this creature attacks, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, choose one —
 • Put a +1/+1 counter on this creature. It gains trample until end of turn.
 • Attach target Equipment you control to this creature.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/110.png" num="106">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/110.png" num="107">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1953,7 +1956,7 @@ Draw two cards and create a Soul token. (It&apos;s an enchantment with &quot;{1}
 		<card>
 			<name>CG01 Flameblinded Witch</name>
 			<text>When this creature enters, create a Soul token and you gain 1 life. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/112.png" num="150">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/112.png" num="151">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1971,7 +1974,7 @@ Draw two cards and create a Soul token. (It&apos;s an enchantment with &quot;{1}
 			<name>CG02 Depths Lookout</name>
 			<text>Cooperate {1}{G} ({1}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 Vigilance</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/113.png" num="151">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/113.png" num="152">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1989,7 +1992,7 @@ Vigilance</text>
 			<name>CG03 Scouring Slime</name>
 			<text>Deathtouch
 When this creature enters, you may exile target card from a graveyard. If you do, you gain 3 life.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/114.png" num="152">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/114.png" num="153">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2006,7 +2009,7 @@ When this creature enters, you may exile target card from a graveyard. If you do
 		<card>
 			<name>CG05 Hollowing Merchant</name>
 			<text>At the beginning of your end step, if you cast a spell from anywhere other than your hand this turn, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/115.png" num="154">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/115.png" num="155">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2024,7 +2027,7 @@ When this creature enters, you may exile target card from a graveyard. If you do
 			<name>CG07 Darkroot Harvester</name>
 			<text>Cooperate {2}{G} ({2}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 Trample</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/116.png" num="156">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/116.png" num="157">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2042,7 +2045,7 @@ Trample</text>
 			<name>CG08 Brutish Mushroom</name>
 			<text>Trample 
 Whenever you sacrifice a nonland permanent, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/117.png" num="157">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/117.png" num="158">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2061,7 +2064,7 @@ Whenever you sacrifice a nonland permanent, this creature gets +1/+0 until end o
 			<text>Equipped creature gets +0/+3 and has vigilance.
 Whenever equipped creature deals combat damage to a player, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 Equip {1}</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/118.png" num="242">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/118.png" num="243">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2077,7 +2080,7 @@ Equip {1}</text>
 			<text>Enchant land
 When this enchantment enters, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 Whenever enchanted land is tapped for mana, its controller adds one mana of any color that land could produce.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/119.png" num="162">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/119.png" num="163">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2096,7 +2099,7 @@ Whenever enchanted land is tapped for mana, its controller adds one mana of any 
 Create a 1/1 white Human creature token.
 Create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 Creatures you control gain trample until end of turn.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/120.png" num="153">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/120.png" num="154">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2436,7 +2439,7 @@ Equip—Sacrifice a creature or pay {2}.</text>
 			<name>MG01 Sif, Courageous Pup</name>
 			<text>Vigilance
 Whenever you put one or more +1/+1 counters on Sif, it gains indestructible until end of turn. If this is the second time this ability has resolved this turn, Sif fights up to one target creature.</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/139.png" num="163">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/139.png" num="164">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2488,7 +2491,7 @@ Exile target nonland permanent an opponent controls.</text>
 			<text>Flying, first strike
 Whenever Kalameet deals damage to a player, until your next turn, if a source would deal damage to that player or a permanent they control, it deals double that damage instead.
 {2}{R}, Exile a noncreature, nonland card from your graveyard: Kalameet deals 1 damage to target opponent.</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/142.png" num="185">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/142.png" num="186">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2507,7 +2510,7 @@ Whenever Kalameet deals damage to a player, until your next turn, if a source wo
 			<text>Defender, reach
 When The Bed of Chaos enters, create two 0/1 red and green Insect creature tokens named Chaos Bug with &quot;{T}, Sacrifice this creature: Add {R} or {G}.&quot;
 Whenever you cast a spell, if mana from a creature was spent to cast it, you may copy it. You may choose new targets for the copy. Activate only once each turn. (A copy of a permanent spell becomes a token.)</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/143.png" num="187">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/143.png" num="188">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2527,7 +2530,7 @@ Whenever you cast a spell, if mana from a creature was spent to cast it, you may
 • Search your library for a permanent card, reveal it, put it into your hand, then shuffle.
 • Search your library for a land card, put it onto the battlefield tapped, then shuffle.
 Entwine—Sacrifice a creature. (Choose both if you pay the entwine cost.)</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/144.png" num="189">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/144.png" num="190">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2546,7 +2549,7 @@ Entwine—Sacrifice a creature. (Choose both if you pay the entwine cost.)</text
 Deathtouch
 Exploit (When this creature enters, you may sacrifice a creature.)
 When Dark Sun Gwyndolin exploits a creature, exile target card from a graveyard with mana value X or less, where X is the exploited card&apos;s mana value. You may cast a copy of the exiled card without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/145.png" num="190">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/145.png" num="191">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2566,7 +2569,7 @@ When Dark Sun Gwyndolin exploits a creature, exile target card from a graveyard 
 Whenever Seath enters or attacks, you may exile your hand, then draw that many cards. 
 You may play land cards and cast Dragon and noncreature cards from among cards you own that were put into exile this turn.
 You may cast a spell each turn from among cards you own exiled that turn without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/146.png" num="188">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/146.png" num="189">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2586,7 +2589,7 @@ You may cast a spell each turn from among cards you own exiled that turn without
 First strike
 Gwyn attacks each combat if able.
 Whenever Gwyn attacks, sacrifice up to one other historic permanent. If you do, Gwyn gets +X/+X until end of turn, where X is that permanent&apos;s mana value, and can&apos;t be sacrificed this turn.</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/147.png" num="191">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/147.png" num="192">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2623,7 +2626,7 @@ Equip {2}</text>
 			<text>Equipped creature gets +2/+0 and has trample.
 Whenever equipped creature deals combat damage to a player, mill cards equal to the damage dealt, then create a Soul token for each creature card milled this way. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 Equip {2}</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/149.png" num="164">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/149.png" num="165">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2641,7 +2644,7 @@ Equip {2}</text>
 			<text>Equipped creature gets +2/+0 and has haste.
 Whenever equipped creature deals combat damage to a player, exile cards from the top of your library until you reveal a nonland card with equal or lesser mana value to that damage. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.
 Equip {2}</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/150.png" num="129">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/150.png" num="130">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2675,7 +2678,7 @@ Equip {2}</text>
 		<card>
 			<name>RA01 Sac Supporter</name>
 			<text>Whenever you sacrifice a creature as part of casting a spell or activating an ability, create a 2/2 colorless Human creature token with decayed. This ability triggers only once each turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/152.png" num="243">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/152.png" num="244">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2692,7 +2695,7 @@ Equip {2}</text>
 {1}, {T}, Sacrifice a non-Treasure token: Create a tapped Treasure token.
 {2}, {T}, Sacrifice a Treasure: Draw a card.
 {W}{U}{B}{R}{G}, {T}, Exile Snuggly&apos;s Nest: Search your library for a historic card, put if onto the battlefield, then shuffle. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/153.png" num="244">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/153.png" num="245">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2709,7 +2712,7 @@ Equip {2}</text>
 			<text>Menace
 When Smough enters, each player sacrifices a nonland permanent.
 Whenever a creature you control dies, you lose 1 life and draw a card.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/154.png" num="98">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/154.png" num="99">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2727,7 +2730,7 @@ Whenever a creature you control dies, you lose 1 life and draw a card.</text>
 			<name>RB06 Chasm of the Abyss</name>
 			<text>At the beginning of your upkeep, you lose 1 life and create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 Soul enchantments you control are 1/1 black Spirit creatures with flying in addition to their other types.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/155.png" num="100">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/155.png" num="101">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2763,7 +2766,7 @@ Prevent all noncombat damage that would be dealt to Havel.</text>
 			<text>({T}: Add {R} or {W}.)
 Kiln of the First Flame enters tapped.
 When Kiln of the First Flame enters, you may pay 1 life. If you do, add {C}.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/157.png" num="265">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/157.png" num="266">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2780,7 +2783,7 @@ When Kiln of the First Flame enters, you may pay 1 life. If you do, add {C}.</te
 			<text>({T}: Add {U} or {B}.)
 New Londo Ruins enters tapped.
 When New Londo Ruins enters, you may pay 1 life. If you do, add {C}.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/158.png" num="262">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/158.png" num="263">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2797,7 +2800,7 @@ When New Londo Ruins enters, you may pay 1 life. If you do, add {C}.</text>
 			<text>({T}: Add {R} or {G}.)
 Lost Izalith enters tapped.
 When Lost Izalith enters, you may pay 1 life. If you do, add {C}.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/159.png" num="263">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/159.png" num="264">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2814,7 +2817,7 @@ When Lost Izalith enters, you may pay 1 life. If you do, add {C}.</text>
 			<text>({T}: Add {W} or {B}.)
 Anor Londo enters tapped.
 When Anor Londo enters, you may pay 1 life. If you do, add {C}.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/160.png" num="264">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/160.png" num="265">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2831,7 +2834,7 @@ When Anor Londo enters, you may pay 1 life. If you do, add {C}.</text>
 			<text>({T}: Add {G} or {U}.)
 Ash Lake enters tapped.
 When Ash Lake enters, you may pay 1 life. If you do, add {C}.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/161.png" num="266">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/161.png" num="267">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2848,7 +2851,7 @@ When Ash Lake enters, you may pay 1 life. If you do, add {C}.</text>
 			<text>Double strike
 Historic spells you cast cost {1} less to cast. (Artifacts, legendaries, and Sagas are historic.)
 {W}{U}: Ciaran gets +2/+2 until end of turn. Activate only per turn, and only if you&apos;ve cast a historic spell this turn.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/162.png" num="193">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/162.png" num="194">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2863,23 +2866,23 @@ Historic spells you cast cost {1} less to cast. (Artifacts, legendaries, and Sag
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RM02 The Four Kings</name>
+			<name>RB03 The Four Kings</name>
 			<text>Flying
 Whenever The Four Kings attacks, choose one at random:
 • Each opponent loses 4 life.
 • You draw two cards and lose 2 life.
 • Each player sacrifices a creature.
 • Sacrifice The Four Kings. Create a 4/4 black Human Horror creature token with flying.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/163.png" num="197">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/163.png" num="98">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>2UB</manacost>
+				<manacost>2BB</manacost>
 				<cmc>4</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -2888,7 +2891,7 @@ Whenever The Four Kings attacks, choose one at random:
 			<name>RM07 Calamitous Blackflame</name>
 			<text>This spell costs {X} less to cast, where X is the number of Dragon, instant and sorcery cards in your graveyard.
 Calamitous Blackflame deals 4 damage to each of up to X creatures.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/164.png" num="203">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/164.png" num="204">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2906,7 +2909,7 @@ Calamitous Blackflame deals 4 damage to each of up to X creatures.</text>
 			<text>The Gaping Dragon costs {1} less for each creature card in your graveyard.
 Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
 Trample</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/165.png" num="205">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/165.png" num="206">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2925,7 +2928,7 @@ Trample</text>
 			<text>Vigilance, haste
 Ornstein has flying during your turn.
 Whenever Ornstein becomes the target of a spell or ability you control for the first time each turn, he deals 1 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/166.png" num="206">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/166.png" num="207">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2947,7 +2950,7 @@ Priscilla can&apos;t be blocked.
 When Priscilla enters, choose one —
 • Return up to one other target permanent you control to its owner&apos;s hand.
 • Destroy target artifact or enchantment.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/167.png" num="195">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/167.png" num="196">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2967,7 +2970,7 @@ When Priscilla enters, choose one —
 Put a decayed counter on target creature. Gwyn Links the Flame deals damage equal to that creature&apos;s mana value to any target.
 You lose 1 life and draw a card. Each player sacrifices a creature.
 Gwyn Links the Flame deals 3 damage to any target.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/168.png" num="198">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/168.png" num="199">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2986,7 +2989,7 @@ Gwyn Links the Flame deals 3 damage to any target.</text>
 I — Chaos Engulfs Izalith deals 3 damage to each creature.
 II — Create a 4/4 green Demon creature token with trample.
 III — Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/169.png" num="199">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/169.png" num="200">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3003,7 +3006,7 @@ III — Sacrifice a land. Search your library for two basic land cards, put them
 			<name>RM08 Nito&apos;s Miasma of Death</name>
 			<text>When Nito&apos;s Miasma of Death enters, each player sacrifices a creature.
 Once during each of your turns, you may play a land or cast a permanent spell from among cards in your graveyard that were put there this turn.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/170.png" num="204">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/170.png" num="205">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3022,7 +3025,7 @@ Once during each of your turns, you may play a land or cast a permanent spell fr
 I — For each player, exile up to one target nonland permanent they control until this Saga leaves the battlefield.
 II — You gain life equal to the greatest mana value among cards exiled with this Saga.
 III — Gain control of target creature.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/171.png" num="194">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/171.png" num="195">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3036,11 +3039,11 @@ III — Gain control of target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RR04 Quelaag, Matriarch of Chaos</name>
+			<name>RR04 Quelaag, Chaos Matriarch</name>
 			<text>First strike, reach
 When Quelaag enters, exile the top two cards of your library. You may play those cards until the end of your next turn.
-Whenever you cast a spell from anywhere but your hand, Quelaag deals damage equal to that spell&apos;s mana value to any target.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/172.png" num="133">TFF</set>
+Whenever you cast a spell from anywhere other than your hand, Quelaag deals damage equal to that spell&apos;s mana value to any target.</text>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/172.png" num="134">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3058,7 +3061,7 @@ Whenever you cast a spell from anywhere but your hand, Quelaag deals damage equa
 			<name>RG01 Pharis of the Black Bow</name>
 			<text>Flash, reach
 Whenever Pharis enters and whenever an opponent draws their second card each turn, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/173.png" num="165">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/173.png" num="166">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3075,7 +3078,7 @@ Whenever Pharis enters and whenever an opponent draws their second card each tur
 		<card>
 			<name>RR02 Chaos Witch</name>
 			<text>Kindle — When this creature enters, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/174.png" num="131">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/174.png" num="132">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3112,7 +3115,7 @@ Whenever this creature attacks, exile target nontoken permanent. Return it to th
 			<text>Choose one —
 • Copy another target instant or sorcery spell. You may choose new targets for the copy.
 • Create a token that&apos;s a copy of a creature you control, except it has haste. Exile that token at the beginning of the end step.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/176.png" num="134">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/176.png" num="135">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3129,7 +3132,7 @@ Whenever this creature attacks, exile target nontoken permanent. Return it to th
 			<name>UB01 Darkwraith Allegiant</name>
 			<text>Lifelink 
 Whenever you sacrifice a nonland permanent, this creature deals 1 damage to target opponent.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/177.png" num="101">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/177.png" num="102">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3148,7 +3151,7 @@ Whenever you sacrifice a nonland permanent, this creature deals 1 damage to targ
 			<text>Haste
 Decayed (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/178.png" num="102">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/178.png" num="103">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3165,7 +3168,7 @@ You may cast this card from your graveyard by sacrificing a nonland permanent in
 		<card>
 			<name>UB04 Knights of Ash</name>
 			<text>At the beginning of your first main phase, you may pay 2 life. If you do, add two mana of any one color. Spend this mana only to cast Equipment spells or activate activated abilities of permanents you control.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/179.png" num="104">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/179.png" num="105">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3184,7 +3187,7 @@ You may cast this card from your graveyard by sacrificing a nonland permanent in
 			<text>When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
 • Destroy target creature you don&apos;t control.
 • Create a 2/2 colorless Zombie creature token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/180.png" num="105">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/180.png" num="106">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3202,7 +3205,7 @@ You may cast this card from your graveyard by sacrificing a nonland permanent in
 			<name>UB07 Frenzied Darkwraiths</name>
 			<text>Menace
 Kindle — Whenever this creature enters or attacks, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, this creature deals 3 damage to any target and you gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/181.png" num="107">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/181.png" num="108">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3221,7 +3224,7 @@ Kindle — Whenever this creature enters or attacks, you may sacrifice a nonland
 			<text>Enchant creature
 When this Aura enters, look at target player&apos;s hand. You may choose a nonland card from it. That player discards that card.
 Enchanted creature gets +1/+1 and has decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/182.png" num="112">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/182.png" num="113">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3239,7 +3242,7 @@ Enchanted creature gets +1/+1 and has decayed. (A creature with decayed can&apos
 			<text>Husk (When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Equipped creature has menace.
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/183.png" num="113">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/183.png" num="114">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3256,7 +3259,7 @@ Equip {1}</text>
 			<name>UB09 Poison Mist</name>
 			<text>All creatures get -2/-2 until end of turn.
 Harmonize {5}{B}{B} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/184.png" num="109">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/184.png" num="110">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3273,7 +3276,7 @@ Harmonize {5}{B}{B} (You may cast this card from your graveyard for its harmoniz
 			<name>UB08 Darkstalker&apos;s Secret</name>
 			<text>Search your library for a card, put it into your hand or graveyard, then shuffle.
 Kindle — You may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, target creature gets -X/-X until end of turn, where X is the number of nonland permanents in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/185.png" num="108">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/185.png" num="109">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3290,7 +3293,7 @@ Kindle — You may sacrifice a nonland permanent. Then if you&apos;ve sacrificed
 			<name>UA01 Crystal Lizard</name>
 			<text>When this creature leaves the battlefield, draw a card.
 {T}, Sacrifice this creature: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/186.png" num="245">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/186.png" num="246">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3303,11 +3306,11 @@ Kindle — You may sacrifice a nonland permanent. Then if you&apos;ve sacrificed
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UA02 Lurking Mimic</name>
+			<name>UA03 Lurking Mimic</name>
 			<text>Flash
 When this creature enters, destroy target creature. Its controller creates a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 {T}, Sacrifice this creature: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/187.png" num="246">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/187.png" num="247">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3320,10 +3323,10 @@ When this creature enters, destroy target creature. Its controller creates a Sou
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR06 Bounding Dragons</name>
-			<text>Trample
-Whenever this creature deals combat damage to a player, exile the top two cards of your library. You may play one of those cards until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/188.png" num="141">TFF</set>
+			<name>CR06 Bounding Dragons</name>
+			<text>Reach
+This creature gets +1/+0 and has trample as long as you&apos;ve exiled a card this turn, or cast a spell from anywhere other than your hand this turn.</text>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/188.png" num="121">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3333,7 +3336,7 @@ Whenever this creature deals combat damage to a player, exile the top two cards 
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3342,7 +3345,7 @@ Whenever this creature deals combat damage to a player, exile the top two cards 
 			<text>Equipped creature gets +1/+0.
 Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on equipped creature.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/189.png" num="247">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/189.png" num="248">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3357,7 +3360,7 @@ Equip {2}</text>
 			<name>UA06 Altar to the Gods</name>
 			<text>Whenever one or more cards are put into an opponent&apos;s graveyard, you may exile them. Do this only once each turn.
 {1}, {T}, Sacrifice this artifact: Target creature gains protection from the color of your choice until end of turn. (That permanent can&apos;t be targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/190.png" num="248">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/190.png" num="249">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3373,7 +3376,7 @@ Equip {2}</text>
 			<text>Husk (When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Equipped creature gets +6/+6 and loses flying.
 Equip {6}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/191.png" num="249">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/191.png" num="250">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3390,7 +3393,7 @@ Equip {6}</text>
 Equipped creature gets +4/+0 and has trample.
 Whenever equipped creature attacks, put a stun counter on it.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/192.png" num="250">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/192.png" num="251">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3406,7 +3409,7 @@ Equip {2}</text>
 			<text>Sen&apos;s Fortress enters tapped.
 When this land enters, return another land you control to its owner&apos;s hand, then surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}: Add {C}{C}.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/193.png" num="267">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/193.png" num="268">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3421,7 +3424,7 @@ When this land enters, return another land you control to its owner&apos;s hand,
 			<name>UL02 Firelink Shrine</name>
 			<text>{T}: Add {C}.
 {T}, Exile a card from your graveyard: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/194.png" num="268">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/194.png" num="269">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3437,7 +3440,7 @@ When this land enters, return another land you control to its owner&apos;s hand,
 			<text>Deathtouch
 {T}: Add one mana of any color.
 {T}, Sacrifice this creature: Add two mana of any one color. This mana can&apos;t be used to cast spells from your hand.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/195.png" num="171">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/195.png" num="172">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3456,7 +3459,7 @@ When this land enters, return another land you control to its owner&apos;s hand,
 			<text>Cooperate {1}{G} ({1}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 Reach
 {1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/196.png" num="172">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/196.png" num="173">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3471,19 +3474,20 @@ Reach
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG03 Royal Gardener</name>
-			<text>Kindle — When this creature enters, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, put a trample counter on this creature and create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/197.png" num="173">TFF</set>
+			<name>UG03 Manserpent Warrior</name>
+			<text>Trample
+Kindle — When this creature enters, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, put a +1/+1 counter on this creature and create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/197.png" num="174">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Scarecrow</type>
+				<type>Creature — Snake Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/3</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3491,7 +3495,7 @@ Reach
 			<name>UG04 Stone Guardian</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on that creature instead.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/198.png" num="174">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/198.png" num="175">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3506,12 +3510,12 @@ If one or more +1/+1 counters would be put on a creature you control, that many 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG05 The Roots of Oolacile</name>
+			<name>UG13 The Roots of Oolacile</name>
 			<text>Bookmark r{3} — {1}{G} (If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)
-Search your library for a basic land card, put it onto the battlefield, then shuffle.
-Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-Create two 1/1 green Fungus creature tokens.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/199.png" num="175">TFF</set>
+I — Search your library for a basic land card, put it onto the battlefield, then shuffle.
+II — Create two Soul tokens. (They&apos;re enchantments with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+III — Create two 1/1 green Fungus creature tokens.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/199.png" num="184">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3525,9 +3529,9 @@ Create two 1/1 green Fungus creature tokens.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UG07 Sif, Guardian Gravewolf</name>
+			<name>UG06 Sif, Guardian Gravewolf</name>
 			<text>Vigilance
-When Sif deals combat damage to a player, [effect].</text>
+{1}{G}, {T}: You may remove a counter from a creature you control. If you do, tap that creature and it gains indestructible until end of turn.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/200.png" num="177">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3538,7 +3542,7 @@ When Sif deals combat damage to a player, [effect].</text>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3546,8 +3550,8 @@ When Sif deals combat damage to a player, [effect].</text>
 			<name>UG09 Ashen Hydra</name>
 			<text>Reach
 This creature enters with X +1/+1 counters on it.
-When this creature enters, you may sacrifice another creature. If you do, search your library for a basic land card, put it on the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/201.png" num="179">TFF</set>
+Kindle — When this creature enters, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, search your library for a basic land card, put it on the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/201.png" num="180">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3567,7 +3571,7 @@ When this creature enters, you may sacrifice another creature. If you do, search
 • Exile target artifact.
 • Exile target enchantment.
 • Create a 2/2 Wolf creature token.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/202.png" num="180">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/202.png" num="181">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3581,11 +3585,11 @@ When this creature enters, you may sacrifice another creature. If you do, search
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UG11 Fang Boar Helm</name>
+			<name>UG12 Fang Boar Helm</name>
 			<text>When this Equipment enters, attach it to target creature you control. That creature fights up to one target creature.
 Equipped creature gets +2/+0 and has trample.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/203.png" num="181">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/203.png" num="183">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3599,12 +3603,12 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UG12 Blessings of Sunlight</name>
+			<name>UG14 Blessings of Sunlight</name>
 			<text>Bookmark r{3} — {G} (If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)
-Create a 1/1 white Human creature token.
-Until your next turn, creatures you control gain &quot;{T}: Add one mana of any color.&quot;
-When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/204.png" num="182">TFF</set>
+I — Create a 1/1 white Human creature token.
+II — Until the end of your next turn, creatures you control gain &quot;{T}: Add one mana of any color.&quot;
+III — When you next cast a creature spell this turn, that creature enters with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/204.png" num="185">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3622,7 +3626,7 @@ When you next cast a creature spell this turn, that creature enters with an addi
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/205.png" num="251">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/205.png" num="252">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3639,7 +3643,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/206.png" num="252">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/206.png" num="253">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3656,7 +3660,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/207.png" num="253">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/207.png" num="254">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3673,7 +3677,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/208.png" num="254">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/208.png" num="255">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3690,7 +3694,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/209.png" num="255">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/209.png" num="256">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3707,7 +3711,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/210.png" num="256">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/210.png" num="257">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3724,7 +3728,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/211.png" num="257">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/211.png" num="258">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3741,7 +3745,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/212.png" num="258">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/212.png" num="259">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3758,7 +3762,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/213.png" num="259">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/213.png" num="260">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3775,7 +3779,7 @@ When this land enters, it deals 1 damage to target opponent.
 			<text>This land enters tapped.
 When this land enters, it deals 1 damage to target opponent.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/214.png" num="260">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/214.png" num="261">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3790,7 +3794,7 @@ When this land enters, it deals 1 damage to target opponent.
 		<card>
 			<name>UR01 Hollowing Mercenaries</name>
 			<text>Whenever this creature attacks, you may pay {2}. If you do, create a 2/2 colorless Zombie creature token with decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/215.png" num="136">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/215.png" num="137">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3807,8 +3811,8 @@ When this land enters, it deals 1 damage to target opponent.
 		<card>
 			<name>UR04 Darkstalker&apos;s Hand</name>
 			<text>Cooperate {2}{R} ({2}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
-Whenever this creature attacks with one or more other creatures, another attacking creature you control gets +X/+0 until end of turn, where is the number of other attacking creatures.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/216.png" num="139">TFF</set>
+Whenever this creature attacks, another attacking creature you control gets +X/+0 until end of turn, where is the number of attacking creatures.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/216.png" num="140">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3826,7 +3830,7 @@ Whenever this creature attacks with one or more other creatures, another attacki
 			<name>UR05 Burg Capra</name>
 			<text>During your turn, this creature has first strike.
 At the beginning of combat on your turn, create a 2/1 black Zombie Dog creature token with haste and decayed. It gains menace until end of turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/217.png" num="140">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/217.png" num="141">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3841,7 +3845,7 @@ At the beginning of combat on your turn, create a 2/1 black Zombie Dog creature 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR07 Bridge Wyvern</name>
+			<name>UR06 Bridge Wyvern</name>
 			<text>Flying
 Whenever another creature or artifact you control enters, this creature deals 1 damage to each opponent.
 Whenever this creature attacks, create a tapped Treasure token.</text>
@@ -3860,30 +3864,30 @@ Whenever this creature attacks, create a tapped Treasure token.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR03 Dragonpath Hunter</name>
-			<text>Whenever you pay this card&apos;s cooperate cost, and when this creature enters, it deals 1 damage to any target.
+			<name>UR03 Laurentius, Epithet</name>
+			<text>Whenever you pay this card&apos;s cooperate cost, exile the top card of your library. You may play that card until your next end step.
 Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
-Menace</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/219.png" num="138">TFF</set>
+Prowess</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/219.png" num="139">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Dragon Warrior</type>
+				<type>Legendary Creature — Human Warlock</type>
 				<maintype>Creature</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UR10 In The Firstborn&apos;s Footsteps</name>
+			<name>UR11 In The Firstborn&apos;s Footsteps</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards, then create a tapped Treasure token.
 {4}{R}{R}, Exile this card from your graveyard: Create a 4/4 colorless Dragon creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/220.png" num="145">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/220.png" num="147">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3897,10 +3901,10 @@ Draw two cards, then create a tapped Treasure token.
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UR09 Blazing Breath</name>
+			<name>UR10 Blazing Breath</name>
 			<text>Blazing Breath deals 2 damage to each creature without flying. 
 Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/221.png" num="144">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/221.png" num="146">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3914,30 +3918,29 @@ Harmonize {5}{R}{R} (You may cast this card from your graveyard for its harmoniz
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UR11 Electrifying Strike</name>
-			<text>Choose one —
-• One or two target creatures can&apos;t block this turn. This spell deals 1 damage to each creature&apos;s controller. 
-• Destroy target artifact. This spell deals 2 damage to its controller.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/222.png" num="146">TFF</set>
+			<name>UR08 Strength of a Lord</name>
+			<text>Target creature you control gains double strike until end of turn.
+Kindle — You may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, that creature also gets trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/222.png" num="144">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UR12 Chaos Blade</name>
+			<name>UR13 Chaos Blade</name>
 			<text>Husk (When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Equipped creature has +1/+0.
 Whenever equipped creature dies, it deals 1 damage to any target.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/223.png" num="147">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/223.png" num="149">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3951,11 +3954,11 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UR13 Path of the Dragon</name>
+			<name>UR14 Path of the Dragon</name>
 			<text>Enchant creature
 Enchanted creature has prowess and is a Dragon in addition to its other types.
-When enchanted creature dies, return this Aura to your hand.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/224.png" num="148">TFF</set>
+When enchanted creature dies, exile this Aura. Until your next end step, you may cast it.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/224.png" num="150">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3970,7 +3973,7 @@ When enchanted creature dies, return this Aura to your hand.</text>
 		</card>
 		<card>
 			<name>UU08 Judge Trangressions</name>
-			<text>This spell costs {U} less if if targets a spell that was cast from anywhere other than its owner&apos;s hand and/or targets a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
+			<text>This spell costs {U} less if it targets a spell that was cast from anywhere other than its owner&apos;s hand and/or targets a historic permanent. (Artifacts, legendaries, and Sagas are historic.)
 Counter target spell.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/225.png" num="71">TFF</set>
 			<prop>
@@ -4039,9 +4042,9 @@ Enchanted creature becomes a 2/2 colorless Zombie with decayed. (It loses all ot
 		<card>
 			<name>UU12 The Paledrake&apos;s Pact</name>
 			<text>Bookmark r{2} — {U} (If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)
-Draw a card.
-Put a prowess counter on up to one target creature you control.
-Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.</text>
+I — Draw a card.
+II — Put a prowess counter on up to one target creature you control.
+III — Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/229.png" num="75">TFF</set>
 			<prop>
 				<layout>saga</layout>
@@ -4235,7 +4238,7 @@ Equip {2}</text>
 			<name>CA03 Iron Sentinel</name>
 			<text>Defender
 {5}: This creature gets +2/+0 and gains trample until end of turn. It can attack this turn as though it didn&apos;t have defender.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/240.png" num="240">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/240.png" num="241">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4251,7 +4254,7 @@ Equip {2}</text>
 			<name>CA04 Homeward Bone</name>
 			<text>{T}: Add one mana of any color.
 {3}, {T}, Sacrifice this artifact: Return target creature you control or target creature card in your graveyard to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/241.png" num="241">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/241.png" num="242">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4267,7 +4270,7 @@ Equip {2}</text>
 			<text>Husk (When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Equipped creature gets +2/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/242.png" num="224">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/242.png" num="225">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4285,7 +4288,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<text>You may have Abandoned Bonfire enter tapped. When you do, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/243.png" num="261">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/243.png" num="262">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4319,7 +4322,7 @@ As long as you control a historic permanent, this creature gets +1/+0. (Artifact
 			<text>Trample
 This creature can&apos;t be blocked by creatures with power 2 or less.
 Forestcycling {2G} ({2G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/245.png" num="159">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/245.png" num="160">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4354,7 +4357,7 @@ Forestcycling {2G} ({2G}, Discard this card: Search your library for a Forest ca
 			<name>CG09 Forest-Clan Sentries</name>
 			<text>This creature costs {1} less to cast for each historic permanent you control. (Artifacts, legendaries, and Sagas are historic.)
 Vigilance, reach</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/247.png" num="158">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/247.png" num="159">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4409,7 +4412,7 @@ Flying</text>
 			<name>CR05 Quelana&apos;s Apprentice</name>
 			<text>Cooperate {1}{R} ({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 Haste</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/250.png" num="119">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/250.png" num="120">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4429,7 +4432,7 @@ Haste</text>
 Equipped creature gets +1/+0.
 During your turn, equipped creature has first strike.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/251.png" num="123">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/251.png" num="124">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4446,7 +4449,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 			<name>CR01 Blighted Hound</name>
 			<text>Haste
 Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/252.png" num="115">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/252.png" num="116">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4464,7 +4467,7 @@ Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counte
 			<name>CR08 Centipede Demon</name>
 			<text>Trample, haste
 Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/253.png" num="122">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/253.png" num="123">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4481,7 +4484,7 @@ Mountaincycling {2R} ({2R}, Discard this card: Search your library for a Mountai
 		<card>
 			<name>CR03 Hollowed Knight-Captain</name>
 			<text>When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/254.png" num="117">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/254.png" num="118">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4518,7 +4521,7 @@ Kindle — At the beginning of combat on your turn, you may sacrifice a nonland 
 			<text>Vigilance, reach
 When Hawkeye Gough enters, put a +1/+1 counter on each creature you control.
 Whenever one or more +1/+1 counters are put on Hawkeye Gough, tap target creature an opponent controls.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/256.png" num="201">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/256.png" num="202">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4554,7 +4557,7 @@ Whenever this creature or another creature you control enters, this creature you
 			<name>CG06 Asylum Jailor</name>
 			<text>Reach
 When this creature enters, mill four cards. Put a land card from among the milled cards into your hand. If you can&apos;t, create a Treasure token. (To mill four cards, put the top three cards of your library into your graveyard.)</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/258.png" num="155">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/258.png" num="156">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4571,7 +4574,7 @@ When this creature enters, mill four cards. Put a land card from among the mille
 		<card>
 			<name>UR02 Forsaken of the Great Swamp</name>
 			<text>At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/259.png" num="137">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/259.png" num="138">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4590,7 +4593,7 @@ When this creature enters, mill four cards. Put a land card from among the mille
 			<text>Vigilance
 When Artorias enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 Triggered abilities you control can&apos;t cause you to sacrifice or exile equipped creatures you control.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/260.png" num="202">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/260.png" num="203">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4608,7 +4611,7 @@ Triggered abilities you control can&apos;t cause you to sacrifice or exile equip
 			<name>UG08 Taurus of the Burg</name>
 			<text>Trample, haste
 When this creature enters, destroy noncreature permanent.</text>
-			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/261.png" num="178">TFF</set>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/261.png" num="179">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4625,7 +4628,7 @@ When this creature enters, destroy noncreature permanent.</text>
 		<card>
 			<name>CZ05 Undead Determination</name>
 			<text>Target creature you control gains hexproof and indestructible until end of turn. If that creature is tapped, put a +1/+1 counter on it.</text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/262.png" num="223">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/262.png" num="224">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4936,7 +4939,7 @@ When this creature enters, destroy noncreature permanent.</text>
 			<text>Cooperate {R}{W} ({R}{W}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)
 Haste
 Whenever this creature is dealt damage, it deals that much damage to target creature or player.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/280.png" num="207">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/280.png" num="208">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4956,7 +4959,7 @@ Whenever this creature is dealt damage, it deals that much damage to target crea
 ​
 ​
 ​</text>
-			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/281.png" num="192">TFF</set>
+			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/281.png" num="193">TFF</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -5008,7 +5011,7 @@ Whenever this creature is dealt damage, it deals that much damage to target crea
 		<card>
 			<name>BL01 Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/284.png" num="269">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/284.png" num="270">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5023,7 +5026,7 @@ Whenever this creature is dealt damage, it deals that much damage to target crea
 		<card>
 			<name>BL02 Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/285.png" num="270">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/285.png" num="271">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5038,7 +5041,7 @@ Whenever this creature is dealt damage, it deals that much damage to target crea
 		<card>
 			<name>BL03 Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/286.png" num="271">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/286.png" num="272">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5053,7 +5056,7 @@ Whenever this creature is dealt damage, it deals that much damage to target crea
 		<card>
 			<name>BL04 Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/287.png" num="272">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/287.png" num="273">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5068,7 +5071,7 @@ Whenever this creature is dealt damage, it deals that much damage to target crea
 		<card>
 			<name>BL05 Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/288.png" num="273">TFF</set>
+			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/288.png" num="274">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5081,16 +5084,17 @@ Whenever this creature is dealt damage, it deals that much damage to target crea
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>UA03</name>
-			<text></text>
+			<name>UA02 Destitute Knight</name>
+			<text>When this creature enters, exile target card from a graveyard. If that card was a creature, create a tapped Treasure token.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/289.png" num="6">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Knight</type>
 				<maintype>Creature</maintype>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5112,6 +5116,24 @@ When this creature dies, each opponent loses 1 life.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>UU14 Dark Sun&apos;s Offering</name>
+			<text>Choose one — 
+• Exile target creature you control. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+• Return target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/291.png" num="77">TFF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

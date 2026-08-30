@@ -1,4 +1,178 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+UG05 Forsaken of Darkroot added.
+UG11 Synchronized Charge added.
+UG07 The Masked Giant added.
+UR09 Battle by the Belltower added.
+RM02 Abyssal Onslaught added.
+UR07 Ruin Firesage added.
+UR12 A Dark Spirit Has Invaded added.
+RB03 The Four Kings added.
+RR04 Quelaag, Chaos Matriarch added.
+UA03 Lurking Mimic added.
+CR06 Bounding Dragons added.
+UG03 Manserpent Warrior added.
+UG13 The Roots of Oolacile added.
+UG06 Sif, Guardian Gravewolf added.
+UG12 Fang Boar Helm added.
+UG14 Blessings of Sunlight added.
+UR06 Bridge Wyvern added.
+UR03 Laurentius, Epithet added.
+UR11 In The Firstborn's Footsteps added.
+UR10 Blazing Breath added.
+UR08 Strength of a Lord added.
+UR13 Chaos Blade added.
+UR14 Path of the Dragon added.
+UA02 Destitute Knight added.
+UU14 Dark Sun's Offering added.
+
+UG06 Forsaken of Darkroot removed.
+UG13 Noncreature removed.
+UG14 Noncreature removed.
+UR14 Noncreature removed.
+UU14 Abyssal Onslaught removed.
+UR08 Izalith Firesage removed.
+CR06 Cragspider removed.
+RM02 The Four Kings removed.
+RR04 Quelaag, Matriarch of Chaos removed.
+UA02 Lurking Mimic removed.
+UR06 Bounding Dragons removed.
+UG03 Royal Gardener removed.
+UG05 The Roots of Oolacile removed.
+UG07 Sif, Guardian Gravewolf removed.
+UG11 Fang Boar Helm removed.
+UG12 Blessings of Sunlight removed.
+UR07 Bridge Wyvern removed.
+UR03 Dragonpath Hunter removed.
+UR10 In The Firstborn's Footsteps removed.
+UR09 Blazing Breath removed.
+UR11 Electrifying Strike removed.
+UR12 Chaos Blade removed.
+UR13 Path of the Dragon removed.
+UA03 removed.
+
+UA05 Nameless Song
+rules_text: Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Draw a card. => Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+II — Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Draw a card.
+special_text: Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Add one mana of any color.
+Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Draw a card. => Bookmark r{3} — {2} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Add one mana of any color.
+II — Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Draw a card.
+
+UB14 Black Knight Armor
+rules_text: Equipped creature gets +3/+3.
+Equip {3}
+Equip {0}. Activate only if you've sacrificed a nonland permanent this turn, and only once per turn. => Equipped creature gets +3/+3.
+Equip {3}
+Equip {0}. Activate only if you've sacrificed a nonland permanent this turn, and only once each turn.
+
+UU05 Seath's Channelers
+rules_text: When this creature enters, create a 2/2 coloress Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have “{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.” => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have “{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.”
+
+UU06 Darkroot Battlemage
+rules_text: Vigilance
+Whenever you cast a historic spell, you may return target nonland permanent you don't control with equal or lesser mana value than that spell to its owner's hand. Do this only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Vigilance
+Whenever you cast a historic spell, you may tap target nonland permanent you don't control with equal or lesser mana value than that spell. Do this only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+UM03 The Undead Curse
+rules_text: When this enchantment enters, and at the beginning of your upkeep, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste. => At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste.
+
+UM04 Nurturing Chaos
+rules_text: Choose one—
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Chaos deals 3 damage to any target.
+Harmonize {4}{R}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Chaos deals 3 damage to any target.
+Harmonize {5}{R}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i]
+
+UZ06 Oswald, Velka's Pardorner
+
+UM07 The Duke's Great Sorceries
+rules_text: Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play that card.
+III — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+special_text: Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Create a 1/1 blue Human Wizard creature token with prowess.
+Exile the top card of your library. Until the end of your next turn, you may play that card.
+When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i] => Bookmark r{3} — {UR}{UR} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 1/1 blue Human Wizard creature token with prowess.
+II — Exile the top card of your library. Until the end of your next turn, you may play that card.
+III — When you next cast a Dragon or noncreature spell this turn, copy it. You may choose new targets for the copy. [i](Copies of permanents are tokens.)[/i]
+
+UM08 Maneater Mildred
+rules_text: [i]Kindle [/i]— When Maneater Mildred enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, draw a card.
+Trample
+Maneater Mildred's power is equal to the number of nonland permanent cards in your graveyard. => [i]Kindle [/i]— When Maneater Mildred enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, draw a card.
+Trample
+Maneater Mildred's power is equal to the number of permanent cards in your graveyard.
+
+UZ01 Sieglinde, Epithet
+cost: {2}{WU} => {1}{WU}{WU}
+
+UZ05 Fire Keeper Anastacia
+cost: {1}{GW} => {GW}{GW}
+
+UZ08 Kirk, Knight of Thorns
+cost: {2}{BG} => {1}{BG}{BG}
+
+UZ07 Guardian of Londo Ruins
+rules_text: Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature enters, look at the top four cards of your library. You may reveal a noncreature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+UG09 Ashen Hydra
+rules_text: Reach
+This creature enters with X +1/+1 counters on it.
+When this creature enters, you may sacrifice another creature. If you do, search your library for a basic land card, put it on the battlefield tapped, then shuffle. => Reach
+This creature enters with X +1/+1 counters on it.
+[i]Kindle [/i]— When this creature enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, search your library for a basic land card, put it on the battlefield tapped, then shuffle.
+
+UR04 Darkstalker's Hand
+rules_text: Cooperate {2}{R} [i]({2}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Whenever this creature attacks with one or more other creatures, another attacking creature you control gets +X/+0 until end of turn, where is the number of other attacking creatures. => Cooperate {2}{R} [i]({2}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Whenever this creature attacks, another attacking creature you control gets +X/+0 until end of turn, where is the number of attacking creatures.
+
+UU08 Judge Trangressions
+rules_text: This spell costs {U} less if if targets a spell that was cast from anywhere other than its owner's hand and/or targets a historic permanent. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Counter target spell. => This spell costs {U} less if it targets a spell that was cast from anywhere other than its owner's hand and/or targets a historic permanent. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Counter target spell.
+
+UU12 The Paledrake's Pact
+rules_text: Bookmark r{2} — {U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Draw a card.
+Put a prowess counter on up to one target creature you control.
+Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells. => Bookmark r{2} — {U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Draw a card.
+II — Put a prowess counter on up to one target creature you control.
+III — Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.
+special_text: Bookmark r{2} — {U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+Draw a card.
+Put a prowess counter on up to one target creature you control.
+Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells. => Bookmark r{2} — {U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Draw a card.
+II — Put a prowess counter on up to one target creature you control.
+III — Shuffle up to three target noncreature cards from your graveyard into your library. Add {U}{U}. Spend this mana only to cast noncreature spells.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 CB03 Branded Pickpocket added.
