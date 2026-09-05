@@ -1,4 +1,210 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+UG11 Clear the Path added.
+CR10 Cathartic Reunion added.
+RA02 Snuggly's Nest added.
+Zombie added.
+Human added.
+Knight added.
+Illusion added.
+Human Wizard added.
+Bird added.
+Zombie Dog added.
+Dragon added.
+Fungus added.
+Wolf added.
+Soul added.
+Treasure added.
+Copy added.
+Chaos Bug added.
+Horror Noble added.
+Demon added.
+Dragon added.
+Horror added.
+RA03 added.
+RG05 Seek the Everlasting added.
+RR07 added.
+RM06 added.
+RM04 The Witch of Izalith added.
+RA05 added.
+
+UG11 Synchronized Charge removed.
+CR10 A Moment of Doubt removed.
+RA03 Snuggly's Nest removed.
+A01 — Zombie removed.
+A02 — Human removed.
+A03 — Knight removed.
+A04 — Illusion removed.
+A05 — Human Wizard removed.
+A06 — Bird removed.
+A07 — Zombie Dog removed.
+A08 — Dragon removed.
+A09 — Fungus removed.
+A10 — Wolf removed.
+A11 — Soul removed.
+A12 — Treasure removed.
+A13 — Copy removed.
+A14 — Chaos Bug removed.
+A15 — Human Horror removed.
+A16 — Demon removed.
+A17 — Dragon removed.
+A18 — Horror removed.
+RA02 removed.
+RG05 removed.
+RA05 Fair Lady Saga? removed.
+MM04 The Witch of Izalith removed.
+
+CB03 Branded Pickpocket
+rules_text: Menace => Menace
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+UG05 Forsaken of Darkroot
+rules_text: At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UM04 Nurturing Flames
+rules_text: Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Flames deals 3 damage to any target.
+Harmonize {5}{R}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Flames deals 3 damage to any target.
+Discordance {R}{G} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+CG11 Hunted by Demons
+rules_text: Target creature you control deals damage equal to its power to target creature an opponent controls.
+Harmonize {5}{G}{G} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Target creature you control deals damage equal to its power to target creature an opponent controls.
+Discordance {G} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+CR04 Zealot of the Path
+rules_text: When this creature enters, mill the top card of your library. You may play that card until your next end step. => Haste
+When this creature enters, exile the top card of your library. You may play that card until the end of your next turn.
+
+CB04 Mindless Militia
+rules_text: When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Discordance {1}{B} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+CG03 Scouring Slime
+rules_text: Deathtouch
+When this creature enters, you may exile target card from a graveyard. If you do, you gain 3 life. => Deathtouch
+When this creature enters, mill two cards. You may exile target card from a graveyard. If you do, you gain 3 life.
+
+MM04 The Bed of Chaos
+rules_text: Defender, reach
+When The Bed of Chaos enters, create two 0/1 red and green Insect creature tokens named Chaos Bug with “{T}, Sacrifice this creature: Add {R} or {G}.”
+Whenever you cast a spell, if mana from a creature was spent to cast it, you may copy it. You may choose new targets for the copy. Activate only once each turn. [i](A copy of a permanent spell becomes a token.)[/i] => Defender, reach
+When The Bed of Chaos enters, create two 0/1 red and green Demon Insect creature tokens named Chaos Bug with “{T}, Sacrifice this creature: Add {R} or {G}.”
+Whenever you cast a spell, if mana produced by a creature was spent to cast it, you may copy it. You may choose new targets for the copy. Do this only once each turn. [i](A copy of a permanent spell becomes a token.)[/i]
+
+RB01 The Furtive Pygmy
+rules_text: The Furtive Pygmy can cooperate from your graveyard.
+Cooperate {1}{B} [i]({1}{B}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Creatures you control with decayed get +1/+1. During combat, triggered abilities you control can't cause you to sacrifice them. => The Furtive Pygmy can cooperate from your graveyard.
+Cooperate {B} [i]({B}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Creatures you control with decayed get +1/+1. During combat, triggered abilities you control can't cause you to sacrifice them.
+
+UB05 Chester, Far-Flung Scoundrel
+rules_text: Deathtouch
+When Chester enters, each player sacrifices a creature. If they can't, they discard a card.
+Whenever another creature you control dies, draw a card. This ability triggers only once during each of your turns. => Deathtouch
+When Chester enters, each player sacrifices a creature. If they can't, they discard a card.
+Whenever another creature you control dies, surveil 1. If you put a card in your graveyard this way, each opponent loses 1 life. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+UB07 Frenzied Darkwraiths
+rules_text: Menace
+[i]Kindle — [/i]Whenever this creature enters or attacks, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, this creature deals 3 damage to any target and you gain 3 life. => Menace
+[i]Kindle — [/i]Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.
+Discordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+UB09 Poison Mist
+rules_text: All creatures get -2/-2 until end of turn.
+Harmonize {5}{B}{B} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Sacrifice a creature. Each other creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.
+Discordance {B}{B} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+CR06 Bounding Dragons
+rules_text: Reach
+As long as you've put a card into exile this turn or cast a spell from anywhere other than your hand this turn, this creature gets +1/+0 and has trample. => Reach
+As long as you've put a card from your library into your graveyard or exile this turn, or cast a spell from anywhere other than your hand this turn, this creature gets +1/+0 and has trample.
+
+UG02 Forest-Clan Ambusher
+rules_text: Cooperate {1}{G} [i]({1}{G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Reach
+{1}, Sacrifice this creature: Destroy target artifact or enchantment. => Cooperate {G} [i]({G}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Reach
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.
+
+UR10 Blazing Breath
+cost: {1}{R} => {2}{R}
+rules_text: Blazing Breath deals 2 damage to each creature without flying. 
+Harmonize {5}{R}{R} [i](You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)[/i] => Blazing Breath deals 2 damage to each creature without flying. 
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+UR14 Path of the Dragon
+rules_text: Enchant creature
+Enchanted creature has prowess and is a Dragon in addition to its other types.
+When enchanted creature dies, exile this Aura. Until your next end step, you may cast it. => Enchant creature
+Enchanted creature has prowess and is a Dragon in addition to its other types.
+Discordance {R} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+CG10 Izalith Wurm
+rules_text: Trample
+This creature can't be blocked by creatures with power 2 or less.
+Forestcycling {2G} [i]({2G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+This creature can't be blocked by creatures with power 2 or less.
+Discordance {3}{G}{G} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i]
+
+CG09 Forest-Clan Sentries
+rules_text: This creature costs {1} less to cast for each historic permanent you control. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Vigilance, reach => This creature costs {1} less to cast if you control a historic permanent. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Vigilance, reach
+Forestcycling {2G} [i]({2G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+RG02 The Fair Lady
+rules_text: Reach
+{T}: Add one mana of any color.
+[i]Kindle — [/i]At the beginning of your postcombat main phase, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, you mill three cards and gain 3 life. => Reach
+{T}, Mill a card: Add one mana of any color.
+[i]Kindle — [/i]At the beginning of your postcombat main phase, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, gain 3 life.
+
+RR04 Ceaseless Discharge
+cost: {2}{R}{R}{R} => {3}{R}{R}{R}
+
+RW06 Legacy of the Flame
+cost: {4}{W}{W} => {3}{W}{W}
+
+MM103 Manus, Father of the Abyss
+type:  => Legendary Creature — Horror
+cost: {2}{B}{G}{U} => {3}{B}{G}{U}
+rules_text:  => Deathtouch
+When Manus enters, create two 1/1 black Horror creature tokens with menace and “When this creature dies, each opponent loses 1 life.”
+If sacrificing a nonland permanent causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+pt:  => 3/5
+
+R0 — Characters missing cards
+rules_text: [b]Definites:[/b]
+Chosen Undead [i](at least 1 card)[/i]
+Logan [i](Izzet — Rare)[/i]
+Quelana [i](Gruul — Rare)[/i]; 
+Shiva [i](G — Probably uncommon slot)[/i]
+Gwynevere [i](Selesnya or Bant?)[/i]
+
+[b]Maybes:[/b]
+Lloyd [i](WU/WUR)[/i]
+Velka [i](WB)[/i]
+Frampt [i](G+)[/i] => [b]Definites:[/b]
+Chosen Undead [i](at least 1 card)[/i]
+Quelana [i](Gruul — Rare)[/i]; 
+Gwynevere [i](Selesnya or Bant?)[/i]
+
+[b]Maybes:[/b]
+Lloyd [i](WU/WUR)[/i]
+Velka [i](WB)[/i]
+Frampt [i](G+)[/i]
+
+RA06
+
+
+VERSION 30 CHANGELOG
 ====================
 
 UM04 Nurturing Flames added.
