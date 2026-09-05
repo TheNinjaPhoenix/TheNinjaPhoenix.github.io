@@ -1,4 +1,259 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+UZ04 Chaos Witch Quelana added.
+UZ06 Oswald, Velka's Pardoner added.
+CG11 Crush into the Dirt added.
+RR06 Calamitous Blackflame added.
+RR03 Quelaag, Chaos Matriarch added.
+RR05 Discordance R Rare added.
+UR05 Darkstalker's Hand added.
+UR01 Burg Capra added.
+RR02 Sunlight Avenger added.
+RR07 Dragonslayer's Swordspear added.
+RB07 Discordance B Rare added.
+RM06 Velka, Goddess of Sin added.
+UR04 Batwing Demon added.
+MM06 Firelink Altar added.
+
+UZ04 Jeremiah, Exiled King removed.
+UZ06 Oswald, Velka's Pardorner removed.
+CG11 Hunted by Demons removed.
+RR05 Quelana's Fury removed.
+RR02 Quelaag, Chaos Matriarch removed.
+UR01 Hollowing Mercenaries removed.
+UR04 Darkstalker's Hand removed.
+UR05 Burg Capra removed.
+RR03 Sunlight Avenger removed.
+Dragon removed.
+RR06 Dragonslayer's Swordspear removed.
+RR07 removed.
+RB07 removed.
+RM06 removed.
+
+CR12 Kindle the Flame
+rules_text: As an additional cost to cast this spell, sacrifice a creature or artifact.
+Kindle the Flame deals 4 damage to any target. => As an additional cost to cast this spell, sacrifice a creature or artifact.
+Kindle the Flame deals 4 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.
+
+UG05 Forsaken of Darkroot
+rules_text: At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UG11 Clear the Path
+rules_text: Put a +1/+1 counter on each of up to X target creatures you control. Creatures you control with counters on them gain trample until end of turn.
+Discordance {X}{G} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => Put a +1/+1 counter on each of up to X target creatures you control. Creatures you control with counters on them gain trample until end of turn.
+Discordance {X}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+UU01 Forsaken of New Londo
+rules_text: At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UU05 Seath's Channelers
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have “{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.” => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have “{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.”
+
+UW06 Forsaken of Astora
+rules_text: At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CZ03 Dark Grasp
+rules_text: Dark Grasp deals 3 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Dark Grasp deals 3 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UM03 The Undead Curse
+rules_text: At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste. => At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control with decayed have haste.
+
+UM04 Nurturing Flames
+rules_text: Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Flames deals 3 damage to any target.
+Discordance {R}{G} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Flames deals 3 damage to any target.
+Discordance {R}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+RM03 Scourge of the Valley
+rules_text: Flying, haste
+Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{1}{B}{R}, Exile a creature card and noncreature card from your graveyard: Return this card from your graveyard to the battlefield. Activate only as a sorcery. => Flying, haste
+Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by exiling a creature card and a noncreature card in addition to paying its mana cost.
+
+UW12 Hollowed Obsession
+rules_text: Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB03 Forsaken of Carim
+rules_text: At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CR04 Zealot of the Path
+rules_text: Haste
+When this creature enters, exile the top card of your library. You may play that card until the end of your next turn. => Cooperate {1}{R} [i]({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Haste
+
+CB04 Mindless Militia
+rules_text: When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Discordance {1}{B} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Discordance {1}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+MM102 Gwyn, Cindered
+type: Lendary Creature — God Zombie Knight => Legendary Creature — God Zombie Knight
+
+RB02 The Four Kings
+rules_text: Flying
+Whenever The Four Kings attacks, choose one that hasn't been chosen — 
+• Each opponent loses 4 life.
+• You draw two cards and lose 2 life.
+• Each player sacrifices a creature.
+• Sacrifice The Four Kings. Create a 4/4 black Human Horror creature token with flying. => Flying
+Whenever The Four Kings attacks, choose one that hasn't been chosen — 
+• Each opponent loses 4 life.
+• You draw two cards and lose 2 life.
+• Each player discards a card.
+• Sacrifice The Four Kings. Create a 4/4 black Human Horror creature token with flying.
+
+UB02 Bonewheel Skeleton
+rules_text: Haste
+Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost. => Haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.
+
+UB07 Frenzied Darkwraiths
+rules_text: Menace
+[i]Kindle — [/i]Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.
+Discordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => Menace
+[i]Kindle — [/i]Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.
+Discordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+UB12 Sunlit Madness
+rules_text: Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB09 Poison Mist
+rules_text: Sacrifice a creature. Each other creature gets -X/-X until end of turn, where X is the number of creature cards in your graveyard.
+Discordance {B}{B} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => All creatures get -2/-2 until end of turn. If this card's discordance cost was paid, creatures your opponents control get -3/-3 until end of turn instead.
+Discordance {4}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+CR06 Bounding Dragons
+rules_text: Reach
+As long as you've put a card from your library into your graveyard or exile this turn, or cast a spell from anywhere other than your hand this turn, this creature gets +1/+0 and has trample. => Reach
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+pt: 3/4 => 4/3
+
+UR10 Blazing Breath
+rules_text: Blazing Breath deals 2 damage to each creature without flying. 
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => Blazing Breath deals 2 damage to each creature without flying.
+
+UR14 Path of the Dragon
+rules_text: Enchant creature
+Enchanted creature has prowess and is a Dragon in addition to its other types.
+Discordance {R} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => Enchant creature
+Enchanted creature has prowess and is a Dragon in addition to its other types.
+Discordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+CG10 Izalith Wurm
+rules_text: Trample
+This creature can't be blocked by creatures with power 2 or less.
+Discordance {3}{G}{G} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => Trample
+This creature can't be blocked by creatures with power 2 or less.
+Discordance {3}{G}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+CB07 Darkroot Huntmaster
+rules_text: Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CR05 Quelana's Apprentice
+rules_text: Cooperate {1}{R} [i]({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Haste => When this creature enters, it deals 1 damage to any target.
+Discordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+pt: 3/2 => 2/2
+
+CR03 Hollowed Knight-Captain
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UR02 Forsaken of the Great Swamp
+rules_text: At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Zombie Dog
+rules_text: Haste, decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Dragon
+
+MMXX The Age of Fire
+
+MM02 The Age of Dark
+
+Horror
+
+RB05 Abyssal Greatsword
+
+RU02 Kindle U Rare
+
+RG02 The Fair Lady
+
+RW02 Cooperate W
+
+RW04 Andre of Astora
+
+RW03 Darkmoon Knightess, Fire Keeper
+
+RW05 Equipment W
+
+RU03 Historic Support U
+
+RU04 Logan, the Crystal Sage
+
+RU05 Shattered Illusions
+
+RU06 Historic Saga Support
+
+RA03
+
+RR04 Ceaseless Discharge
+cost: {3}{R}{R}{R} => {2}{R}{R}{R}
+
+RG03 Cooperate G Rare
+
+RG04 Historic Support G
+
+RG05 Seek the Everlasting
+rules_text: Search your library for a creature, enchantment, or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+Discordance {1}{G} [i](You may cast a copy of this from your graveyard if it entered there this turn from your hand, battlefield, or library by exiling it and paying its discordance cost.)[/i] => Search your library for a creature, enchantment, or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+Discordance {1}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]
+
+RG06 Saga Historic Support
+
+UA02 Sen's Golem
+
+RA04
+
+RW06 Legacy of the Flame
+
+RU07
+
+MM103 Manus, Father of the Abyss
+
+RM04 The Witch of Izalith
+
+R0 — Characters missing cards
+
+UW07 Petrus, Drenched in Sin
+rules_text: When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target tapped creature.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target tapped creature.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+RM07 In Seath's Presence
+
+RA05
+
+RA06
+
+
+VERSION 31 CHANGELOG
 ====================
 
 UG11 Clear the Path added.
