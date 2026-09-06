@@ -68,7 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "Direct Damage (4+)"
+            "notes": ""
         },
         {
             "card_name": "CB03 Branded Pickpocket",
@@ -152,7 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Bird TFF<1>"
         },
         {
             "card_name": "CU08 Primeval Gaze",
@@ -404,7 +404,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "If you're wondering why there's 14 uncommons and not 15 like it says in Nuts & Bolts #16, that's because the article is wrong on the number of uncommons in black and red. https://www.tumblr.com/markrosewater/745307427137896448/in-nuts-bolts-16-play-boosters-you-say-black"
+            "notes": ""
         },
         {
             "card_name": "UG05 Forsaken of Darkroot",
@@ -414,7 +414,7 @@
             "number": 182,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -435,7 +435,7 @@
             "number": 188,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
-            "rules_text": "Put a +1/+1 counter on each of up to X target creatures you control. Creatures you control with counters on them gain trample until end of turn.\nDiscordance {X}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Put a +1/+1 counter on each of up to X target creatures you control. Creatures you control with counters on them gain trample until end of turn.\nDiscordance {X}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "If you're wondering why there's 14 uncommons and not 15 like it says in Nuts & Bolts #16, that's because the article is wrong on the number of uncommons in black and red. https://www.tumblr.com/markrosewater/745307427137896448/in-nuts-bolts-16-play-boosters-you-say-black"
+            "notes": ""
         },
         {
             "card_name": "UU01 Forsaken of New Londo",
@@ -582,7 +582,7 @@
             "number": 73,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\nCreatures you control have \u201c{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.\u201d",
+            "rules_text": "When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]\nCreatures you control have \u201c{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -593,7 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UU06 Domhnall, Curio Collector",
@@ -677,7 +677,7 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Horror TFF<1>"
         },
         {
             "card_name": "UW06 Forsaken of Astora",
@@ -687,7 +687,7 @@
             "number": 38,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -729,7 +729,7 @@
             "number": 228,
             "color_identity": "BR",
             "cost": "{1}{BR}",
-            "rules_text": "Dark Grasp deals 3 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Dark Grasp deals 3 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i]Those serving the Darkstalker use the power of the Dark to absorb the humanity of their victims.[/i]",
             "pt": "",
             "special_text": "",
@@ -740,7 +740,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "CZ04 Servant of Chaos",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "UM02 Pinwheel, Thrice-Masked",
@@ -887,7 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": "!tokens Illusion TFF<1>"
         },
         {
             "card_name": "UZ03 Lautrec the Favored",
@@ -908,7 +908,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UZ04 Chaos Witch Quelana",
@@ -929,7 +929,7 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "UW04 Siegmeyer, Bumbling Coward",
@@ -950,7 +950,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "UM09 Solaire, Sunlight Knight",
@@ -971,7 +971,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "UM03 The Undead Curse",
@@ -981,7 +981,7 @@
             "number": 218,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\nCreatures you control with decayed have haste.",
+            "rules_text": "At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]\nCreatures you control with decayed have haste.",
             "flavor_text": "[i]With the First Flame, came life. With life, came death. With death, came the Undead.[/i]",
             "pt": "",
             "special_text": "",
@@ -992,7 +992,7 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UM04 Nurturing Flames",
@@ -1002,7 +1002,7 @@
             "number": 219,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Choose one \u2014\n\u2022 Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n\u2022 Nurturing Flames deals 3 damage to any target.\nDiscordance {R}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n\u2022 Nurturing Flames deals 3 damage to any target.\nDiscordance {R}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1034,7 +1034,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "UZ06 Oswald, Velka's Pardoner",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "UZ09 Jolly Cooperation!",
@@ -1097,7 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": "!tokens Knight TFF<1>"
         },
         {
             "card_name": "UZ01 Sieglinde, Epithet",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "UW12 Hollowed Obsession",
@@ -1212,7 +1212,7 @@
             "number": 44,
             "color_identity": "W",
             "cost": "{W}{W}",
-            "rules_text": "Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1223,7 +1223,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UZ08 Shiva, Forest-Clan Captain",
@@ -1244,7 +1244,7 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "UW02 Leeroy, Golden Champion",
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "UM06 Kirk, Knight of Thorns",
@@ -1317,7 +1317,7 @@
             "number": 108,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1349,7 +1349,7 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "UZ07 Guardian of Londo Ruins",
@@ -1412,7 +1412,7 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "Direct Damage \u2014 Deals 6"
+            "notes": ""
         },
         {
             "card_name": "CR02 Dragonpath Hunter",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Copy TFF<1>"
         },
         {
             "card_name": "CR11 Clash of Iron",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "Modal Shatter"
+            "notes": ""
         },
         {
             "card_name": "CR04 Zealot of the Path",
@@ -1538,7 +1538,7 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF"
         },
         {
             "card_name": "CB04 Mindless Militia",
@@ -1548,7 +1548,7 @@
             "number": 86,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\nDiscordance {1}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]\nDiscordance {1}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -1559,7 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "CB05 Butcher of the Depths",
@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "CB13 Fina's Embrace",
@@ -1622,7 +1622,7 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "Slightly Overcosted Removal"
+            "notes": ""
         },
         {
             "card_name": "CB12 Meet the Locals",
@@ -1685,7 +1685,7 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "Black's creature percentages have jumped from 52% (10 out of 19) to 62% (9 out of 14), and its average power has jumped from 3.25 to 3.56.\n\nKeyword Distribution (At Common)\n\n2 Flying (different powers)\n1.5 Menace\n1.25 Deathtouch\n1 Lifelink\n\nWhile black has two common fliers, they're not quite as strong as white's or blue's. That is, they're good enough to include in your deck but are less often the all-star of the common creatures. Menace has been creeping up as it plays so well. Usually, deathtouch is on one of the smaller creatures, whereas lifelink tends to be on something slightly bigger than is seen in white at common."
+            "notes": ""
         },
         {
             "card_name": "CB11 Gain Favor",
@@ -1706,7 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF"
         },
         {
             "card_name": "CG01 Flameblinded Witch",
@@ -1727,7 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF"
         },
         {
             "card_name": "CG02 Depths Lookout",
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "CG07 Darkroot Harvester",
@@ -1853,7 +1853,7 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF"
         },
         {
             "card_name": "CG13 Within the Archtree",
@@ -1874,7 +1874,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "Mana Acceleration"
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "CU05 Valley Bluescale",
@@ -1958,7 +1958,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "Top/Bottom spell"
+            "notes": ""
         },
         {
             "card_name": "CU11 Crystal Curse",
@@ -1979,7 +1979,7 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": "Witness Protection?"
+            "notes": ""
         },
         {
             "card_name": "CW10 Cleric's Talisman",
@@ -2000,7 +2000,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "CW13 Darkmoon Malediction",
@@ -2021,7 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "Banishing Light"
+            "notes": ""
         },
         {
             "card_name": "CW12 Rest by the Bonfire",
@@ -2042,7 +2042,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Human TFF<3>"
         },
         {
             "card_name": "CW11 Guardian's Charge",
@@ -2063,7 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "Common spells must be a bit more practical. For white, which has the least spells by percentage, that means focusing mostly on removal cards. Combat tricks want to prioritize designs that save the creature (meaning you use them to functionally get rid of the opponent's creature without going down on creatures). Pacifism-style effects (Auras that keep you from attacking, blocking, and sometimes activating) are being replaced by Banishing Light-style effects (cards that exile something while they're on the battlefield). Effects that neutralize a creature without killing it need to have more \"text wiping\" because many rares have powerful noncombat abilities, often static or triggered, and the common cards need to be able to answer them. The Disenchant slot will most often be modal and will sometimes be an answer to creatures in addition to artifacts and enchantments.\n\nI also want to point out that this change forces certain effects out of spells and onto creatures. I'll use the go-wide team-pump effect (\"Creatures you control get +N/+N until end of turn.\"). Uncommon can clearly do larger pumps that help win games, but the simple +1/+1 granting will probably exist more on a creature as an \"enters the battlefield\" effect or an activated ability."
+            "notes": ""
         },
         {
             "card_name": "CW06 Balder Knight",
@@ -2105,7 +2105,7 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "Having less commons means less overall cards, both in creatures and noncreatures. White is still number one in the number of creatures, meaning it gets the most creatures by percentage of any color. While it's gone down one creature slot from Draft Boosters to Play Boosters, it's gone up in percentage. The default for Draft Boosters was 63% (12 out of 19) while the default for Play Boosters is 73% (11 out of 15).\n\nThe reason for this is that the drop in common cards means we have no room for \"unplayable commons.\" \"Unplayable common\" is defined as a card that situationally might be unplayable in a sealed deck. The card is too narrow in what it does. A good example would be what we used to call \"sideboard cards,\" such as Naturalize or Disenchant (\"Destroy target artifact or enchantment\"). It's the kind of card you usually don't start with because it often is a dead card in your hand, but you might sideboard it in if the opponent is running threats that it answers. The other major reason a card might be unplayable is power level.\n\nWe're doing three things to get rid of unplayable commons. One, the average power level will be higher (although set more for Limited play than Constructed). If you're playing a color, most monocolor creatures in that color will at least be playable in your deck. Some creatures may be more synergistic with certain draft themes, but the base creature stats will usually be something you can run. Two, we're moving some effects from common to uncommon. An example is temporary stealing (cards like Threaten) that we normally do at common in red. Three, we'll be making more use of modal effects. We can still do a Naturalize or Disenchant effect at common, but it will be paired with another effect that is generally more useful, allowing it to be standard in your deck.\n\nThe result of these changes is that the creature percentages at common are going up a bit. Creatures are just easier to make usable in more decks and inherently have a built-in win condition.\n\nThe other major effect you can see on creatures is that the average size is going up, especially in white. In Draft Boosters, white's default average power was 2.95. In Play Boosters, that goes up to 3.28. That's around a third of a power greater. This is being done to ensure that every creature is playable, as lower-powered creatures can become more situational.\n\nKeyword Distribution (At Common)\n\n3 Flying (different powers)\n2 Vigilance\n1 Lifelink (low power)\n0.25 First strike\n0.20 Double strike\n\nThis set skeleton is set up a bit differently than the last one. Rather than call out slots for certain keyword abilities at common, the set skeleton lays out roughly how often it should appear. If an ability appears at a number below one, that means it might not always appear in every set but will average that number over multiple sets. However, first strike in white has fallen out of favor with R&D. The ability causes ground stalls, which is why we often only make it work offensively."
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "CW02 Astoran Cleric",
@@ -2147,7 +2147,7 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "CW09 Knights-in-Arms",
@@ -2210,7 +2210,7 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Copy TFF<1>"
         },
         {
             "card_name": "MB02 Gravelord Sword",
@@ -2315,7 +2315,7 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Chaos Bug TFF<2>"
         },
         {
             "card_name": "MM08 Offering to the Fair Lady",
@@ -2420,7 +2420,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF"
         },
         {
             "card_name": "MR02 Quelaag's Furysword",
@@ -2504,7 +2504,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": "!tokens Bird TFF<1>\n!tokens !tapped Treasure TFF<1>"
         },
         {
             "card_name": "RB03 Nito, First of the Dead",
@@ -2546,7 +2546,7 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF"
         },
         {
             "card_name": "RA01 Havel, Stoneclad Slayer",
@@ -2567,7 +2567,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555]"
+            "notes": ""
         },
         {
             "card_name": "RL04 Kiln of the First Flame",
@@ -2588,7 +2588,7 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
+            "notes": "!tapped"
         },
         {
             "card_name": "RL01 New Londo Ruins",
@@ -2609,7 +2609,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "RL02 Lost Izalith",
@@ -2630,7 +2630,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "RL03 Anor Londo",
@@ -2651,7 +2651,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
+            "notes": "!tapped"
         },
         {
             "card_name": "RL05 Ash Lake",
@@ -2672,7 +2672,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "RM01 Ciaran, Lord's Blade",
@@ -2703,7 +2703,7 @@
             "number": 100,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Flying\nWhenever The Four Kings attacks, choose one that hasn't been chosen \u2014 \n\u2022 Each opponent loses 4 life.\n\u2022 You draw two cards and lose 2 life.\n\u2022 Each player discards a card.\n\u2022 Sacrifice The Four Kings. Create a 4/4 black Human Horror creature token with flying.",
+            "rules_text": "Flying\nWhenever The Four Kings attacks, choose one that hasn't been chosen \u2014 \n\u2022 Each opponent loses 4 life.\n\u2022 You draw two cards and lose 2 life.\n\u2022 Each player discards a card.\n\u2022 Sacrifice The Four Kings. Create a 4/4 black Horror Noble creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Horror Noble TFF<1>"
         },
         {
             "card_name": "RR06 Calamitous Blackflame",
@@ -2861,7 +2861,7 @@
             "alias": "",
             "position": "135",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF"
         },
         {
             "card_name": "RR01 Chaos Witch",
@@ -2903,7 +2903,7 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "MM07 Seath, Obssessive Paledrake",
@@ -2955,7 +2955,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "Haste\nDecayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\nYou may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.",
+            "rules_text": "Haste\nDecayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]\nYou may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -2966,7 +2966,7 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": "While creature percentages go up in white uncommon and down in blue uncommon, they stay at mostly the same percentage in black.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
+            "notes": ""
         },
         {
             "card_name": "UB04 Knights of Ash",
@@ -3018,7 +3018,7 @@
             "number": 112,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "Menace\n[i]Kindle \u2014 [/i]Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.\nDiscordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Menace\n[i]Kindle \u2014 [/i]Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.\nDiscordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/5",
             "special_text": "",
@@ -3039,7 +3039,7 @@
             "number": 117,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Enchant creature\nWhen this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.\nEnchanted creature gets +1/+1 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Enchant creature\nWhen this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.\nEnchanted creature gets +1/+1 and has decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i]\u201cFinally, I have found it... My very own sun...\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -3071,7 +3071,7 @@
             "alias": "",
             "position": "145",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UB09 Poison Mist",
@@ -3081,7 +3081,7 @@
             "number": 114,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "All creatures get -2/-2 until end of turn. If this card's discordance cost was paid, creatures your opponents control get -3/-3 until end of turn instead.\nDiscordance {4}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "All creatures get -2/-2 until end of turn. If this card's discordance cost was paid, creatures your opponents control get -3/-3 until end of turn instead.\nDiscordance {3}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3134,7 +3134,7 @@
             "alias": "",
             "position": "148",
             "rotated": false,
-            "notes": "Play Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
+            "notes": ""
         },
         {
             "card_name": "UA03 Lurking Mimic",
@@ -3155,7 +3155,7 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "CR06 Bounding Dragons",
@@ -3165,7 +3165,7 @@
             "number": 125,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Reach\nDiscordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Reach\nDiscordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i]Undead exploring Lost Izalith call these beasts demons; in reality, they are the husks of the primordial dragons.[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3239,7 +3239,7 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UA08 Zweihander",
@@ -3260,7 +3260,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UL01 Sen's Fortress",
@@ -3281,7 +3281,7 @@
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "UL02 Firelink Shrine",
@@ -3386,7 +3386,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": ""
         },
         {
             "card_name": "UG06 Sif, Guardian Gravewolf",
@@ -3449,7 +3449,7 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "Green uncommon creature percentage have gone up slightly from 62% (8 out of 13) to 64% (9 out of 14), making it the only color, along with white, to go up in percentage.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
+            "notes": "!tokens Wolf TFF<1>"
         },
         {
             "card_name": "UG12 Fang Boar Helm",
@@ -3491,7 +3491,7 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL02 Oolacile Township",
@@ -3512,7 +3512,7 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL03 The Northern Asylum",
@@ -3533,7 +3533,7 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL04 Demon Ruins",
@@ -3554,7 +3554,7 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL05 Royal Woods",
@@ -3575,7 +3575,7 @@
             "alias": "",
             "position": "169",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL06 Ruined Cathedral",
@@ -3596,7 +3596,7 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL07 Duke's Archives",
@@ -3617,7 +3617,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "[60 rares are listed for the set skeleton. I've assigned seven per color and one per color pair, leaving the rest unassigned. There is no particular reason for this. Reassign them as you see fit to better serve the needs of your set. \u2014thetitan555"
+            "notes": "!tapped"
         },
         {
             "card_name": "CL08 Blighttown",
@@ -3638,7 +3638,7 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL09 Sunlit Shrine",
@@ -3659,7 +3659,7 @@
             "alias": "",
             "position": "173",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "CL10 Darkroot Garden",
@@ -3680,7 +3680,7 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": ""
+            "notes": "!tapped"
         },
         {
             "card_name": "RR05 Discordance R Rare",
@@ -3732,7 +3732,7 @@
             "number": 142,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "During your turn, this creature has first strike.\nAt the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "During your turn, this creature has first strike.\nAt the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3743,7 +3743,7 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie Dog TFF<1>"
         },
         {
             "card_name": "UR06 Bridge Wyvern",
@@ -3764,7 +3764,7 @@
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens !tapped Treasure TFF<1>"
         },
         {
             "card_name": "UR03 Laurentius, Modest Mentor",
@@ -3806,7 +3806,7 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Dragon TFF<1>"
         },
         {
             "card_name": "UR10 Blazing Breath",
@@ -3869,7 +3869,7 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "UR14 Path of the Dragon",
@@ -3879,7 +3879,7 @@
             "number": 155,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Enchant creature\nEnchanted creature has prowess and is a Dragon in addition to its other types.\nDiscordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Enchant creature\nEnchanted creature has prowess and is a Dragon in addition to its other types.\nDiscordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3995,7 +3995,7 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": "While uncommon goes up 20 cards, only five are seen in monocolor, one per color. Like common in white, there is a shift upward in creature percentages. For example, creatures in white go from 61% (8 of 13) to 72% (10 of 14) at uncommon. This is due to the same larger factors. We just want more Limited-playable cards at common and uncommon.\n\nUncommon cards are also being raised in power level because they must compete more directly with rares and mythic rares.\n\nAnother change to uncommon is a shifting away from \"sideways build-arounds.\" More of those designs can be done at rare, as rares show up more frequently than they did in the Draft Booster world.\n\n...\n\nPlay Boosters have added 20 cards to uncommon. By default, five went to monocolor, ten to multicolor, and five to colorless, most often artifacts or lands. The uncommon creatures, like those at common, want to be generically useful. This is often where we'll put cards that have synergy with large set themes, allowing all colors access to it."
+            "notes": ""
         },
         {
             "card_name": "UW03 The Crestfallen Warrior",
@@ -4016,7 +4016,7 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "UW05 Astora Elite",
@@ -4226,7 +4226,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "CL11 Abandoned Bonfire",
@@ -4278,7 +4278,7 @@
             "number": 165,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
-            "rules_text": "Trample\nThis creature can't be blocked by creatures with power 2 or less.\nDiscordance {3}{G}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Trample\nThis creature can't be blocked by creatures with power 2 or less.\nDiscordance {3}{G}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "7/6",
             "special_text": "",
@@ -4299,7 +4299,7 @@
             "number": 89,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4310,7 +4310,7 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie Dog TFF<1>"
         },
         {
             "card_name": "CG09 Forest-Clan Sentries",
@@ -4383,7 +4383,7 @@
             "number": 124,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When this creature enters, it deals 1 damage to any target.\nDiscordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "When this creature enters, it deals 1 damage to any target.\nDiscordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4394,7 +4394,7 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": "Red has the second-largest increase in creature percentages at common, jumping from 53% (10 out of 19) to 64% (9 out of 14). Its power has jumped from an average of 3.15 to 3.39. Red's two biggest changes are that it no longer has a guaranteed one-drop slot and instead has a guaranteed six-drop slot.\n\nKeyword Distribution (At Common)\n\n1.5 Trample\n1.5 Menace\n1.5 Haste\n1 Reach\n0.25 First strike\n0.20 Double strike\nLike black, we've been increasing red's menace percentages because we've enjoyed how it plays. It also now has a dedicated slot for reach, as having more rares and mythic rares means more flying threats. Like white, first strike is down."
+            "notes": ""
         },
         {
             "card_name": "CR09 Merchant's Katana",
@@ -4415,7 +4415,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "CR01 Blighted Hound",
@@ -4467,7 +4467,7 @@
             "number": 122,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4478,7 +4478,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "MB03 Artorias, Abyss-Cursed",
@@ -4562,7 +4562,7 @@
             "alias": "",
             "position": "216",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure TFF<1>"
         },
         {
             "card_name": "UR02 Forsaken of the Great Swamp",
@@ -4572,7 +4572,7 @@
             "number": 143,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -4877,7 +4877,7 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Knight TFF<1>"
         },
         {
             "card_name": "UM01 Tale of the Painted World",
@@ -4898,7 +4898,7 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": "Uncommon (Play Booster): 20 Slots (the majority are creatures)\n\nOne of the biggest changes from Draft Boosters to Play Boosters was the decision to increase from one multicolor card per two-color combination to two. One will be an enabler, helping make the archetype work. The other will be a strong payoff for doing what the archetype is telling you to do. In the Draft Booster world, we'd have to choose which of these two functions the gold signpost had. In the Play Booster world, we have space to do both. This is where ten of the 20 new cards in uncommon are going."
+            "notes": "!tokens Bird TFF<1>"
         },
         {
             "card_name": "UM07 The Duke's Great Sorceries",
@@ -4919,7 +4919,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Human Wizard TFF<2>"
         },
         {
             "card_name": "UM10 The Wolf Knight's Legacy",
@@ -4940,7 +4940,7 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Wolf TFF<1>"
         },
         {
             "card_name": "CB10 Tale of the Abyss",
@@ -4961,7 +4961,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Horror TFF<1>"
         },
         {
             "card_name": "CG04 From Firelink, Onwards",
@@ -4982,7 +4982,7 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokensHuman TFF<1>\n!tokens Soul TFF<1>"
         },
         {
             "card_name": "CU13 The Great Flood",
@@ -5024,7 +5024,7 @@
             "alias": "",
             "position": "238",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Dragon TFF<2>"
         },
         {
             "card_name": "RM03 Gwyn's Sacrifice",
@@ -5066,7 +5066,7 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Demon TFF <1>"
         },
         {
             "card_name": "RM01 Gwyndolin's Manipulation",
@@ -5108,7 +5108,7 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<2>\n!tokens Fungus TFF<2>"
         },
         {
             "card_name": "UG14 Blessings of Sunlight",
@@ -5129,7 +5129,7 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Human TFF<1>"
         },
         {
             "card_name": "UU12 The Paledrake's Pact",
@@ -5286,7 +5286,7 @@
             "number": 13,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Haste, decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5570,7 +5570,7 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "RU02 Kindle U Rare",
@@ -5675,7 +5675,7 @@
             "alias": "",
             "position": "269",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Soul TFF<1>"
         },
         {
             "card_name": "RW05 Equipment W",
@@ -5759,7 +5759,7 @@
             "alias": "",
             "position": "273",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Copy TFF<1>"
         },
         {
             "card_name": "RU06 Historic Saga Support",
@@ -5822,7 +5822,7 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "RR04 Ceaseless Discharge",
@@ -5895,7 +5895,7 @@
             "number": 175,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "Search your library for a creature, enchantment, or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.\nDiscordance {1}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Search your library for a creature, enchantment, or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.\nDiscordance {1}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6000,7 +6000,7 @@
             "number": 105,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Discordance cost [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Discordance cost [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6053,7 +6053,7 @@
             "alias": "",
             "position": "287",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Horror TFF<2>"
         },
         {
             "card_name": "RM06 Velka, Goddess of Sin",
@@ -6126,7 +6126,7 @@
             "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.\n\u2022 Destroy target tapped creature.\n\u2022 Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.\n\u2022 Destroy target tapped creature.\n\u2022 Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -6137,7 +6137,7 @@
             "alias": "",
             "position": "291",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Zombie TFF<1>"
         },
         {
             "card_name": "RM07 In Seath's Presence",
@@ -6210,7 +6210,7 @@
             "number": 145,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Flying, haste\nDiscordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by exiling it and paying its discordance cost.)[/i]",
+            "rules_text": "Flying, haste\nDiscordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -6231,7 +6231,7 @@
             "number": 195,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. If it was a legendary creature, put a link counter on Firelink Altar.\n{8}, Sacrifice Firelink Altar: Search your library for a legendary creature card, put it onto the battlefield, then shuffle. It gains haste until end of turn. This ability costs {1} less to activate for each counter on Firelink Altar.",
+            "rules_text": "Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. If it was a legendary creature, put a link counter on Firelink Altar.\n{8}, Exile Firelink Altar: Search your library for a legendary creature card, put it onto the battlefield, then shuffle. It gains haste until end of turn. This ability costs {1} less to activate for each counter on Firelink Altar.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6245,5 +6245,5 @@
             "notes": ""
         }
     ],
-    "version": 32
+    "version": 33
 }
