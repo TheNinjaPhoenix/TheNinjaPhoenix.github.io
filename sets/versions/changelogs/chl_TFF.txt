@@ -1,4 +1,609 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+CU01 Hungering Crow added.
+CG10 Prison Break added.
+UG06 Forsaken of Darkroot added.
+UZ08 Smough, Grim Executioner added.
+UG04 Shiva, Forest-Clan Captain added.
+CR05 Dragonpath Hunter added.
+CB07 Velka's Emissary added.
+CG03 Depths Lookout added.
+CG02 Scouring Slime added.
+CG04 Hollowing Merchant added.
+CG06 Darkroot Harvester added.
+CG07 Brutish Mushroom added.
+RR05 Calamitous Blackflame added.
+RG04 The Gaping Dragon added.
+RM08 Nito's Miasma added.
+RW04 Sanctuary Guardian added.
+UB09 Nito's Miasma added.
+RA03 Altar to the Gods added.
+UA06 Demon's Great Hammer added.
+UA07 Zweihander added.
+UG05 Stone Guardian added.
+UG07 Sif, Guardian Gravewolf added.
+RR07 The First Flame added.
+UR05 Jeremiah, Exiled King added.
+CG09 Izalith Wurm added.
+UB06 Darkroot Huntmaster added.
+CG08 Forest-Clan Sentries added.
+CR02 Quelana's Apprentice added.
+CW05 Thorolund Cleric added.
+CG05 Asylum Jailor added.
+RW05 Artorias, the Wolf Knight added.
+CG12 From Firelink, Onwards added.
+MM09 The Age of Fire added.
+RU04 Darkmoon Decree added.
+RW03 Cooperate Support Rare added.
+RW02 Andre of Astora added.
+RW01 Darkmoon Knightess, Fire Keeper added.
+RW06 Equipment W added.
+RU03 Logan, the Crystal Sage added.
+RU06 Historic Saga added.
+RR06 Dragonslayer's Swordspear added.
+RX06 added.
+RG06 Saga (cool Izalithy name) added.
+RX01 added.
+RW07 What Vestiges Remain added.
+RB07 Another B Rare added.
+RX04 added.
+RX02 added.
+UL03 Asylum Tunnel added.
+RX03 added.
+RX05 added.
+RM06 Solaire, Sunless added.
+RU02 Priscilla, Forlorn Guardian added.
+
+CU01 Preying Bandit removed.
+CG12 Prison Break removed.
+UG05 Forsaken of Darkroot removed.
+UG07 Smough, Grim Executioner removed.
+UZ08 Shiva, Forest-Clan Captain removed.
+CR02 Dragonpath Hunter removed.
+UB06 Wandering Vagabond removed.
+CG02 Depths Lookout removed.
+CG03 Scouring Slime removed.
+CG05 Hollowing Merchant removed.
+CG07 Darkroot Harvester removed.
+CG08 Brutish Mushroom removed.
+RR06 Calamitous Blackflame removed.
+RG07 The Gaping Dragon removed.
+RM01 Priscilla, Keeper of the Lost removed.
+RM08 Nito's Miasma of Death removed.
+RW01 Sanctuary Guardian removed.
+UB09 Poison Mist removed.
+UA06 Altar to the Gods removed.
+UA07 Demon's Great Hammer removed.
+UA08 Zweihander removed.
+UG04 Stone Guardian removed.
+UG06 Sif, Guardian Gravewolf removed.
+RR05 Discordance R Rare removed.
+UR05 Darkstalker's Hand removed.
+CG10 Izalith Wurm removed.
+CB07 Darkroot Huntmaster removed.
+CG09 Forest-Clan Sentries removed.
+CR05 Quelana's Apprentice removed.
+CW05 Branded Healer removed.
+CG06 Asylum Jailor removed.
+RW07 Artorias, the Wolf Knight removed.
+CG04 From Firelink, Onwards removed.
+MMXX The Age of Fire removed.
+RU02 Kindle U Rare removed.
+RW02 Cooperate W removed.
+RW04 Andre of Astora removed.
+RW03 Darkmoon Knightess, Fire Keeper removed.
+RW05 Equipment W removed.
+RU03 Historic Support U removed.
+RU04 Logan, the Crystal Sage removed.
+RU06 Historic Saga Support removed.
+RA03 removed.
+RR07 Dragonslayer's Swordspear removed.
+RG04 Historic Support G removed.
+RG06 Saga Historic Support removed.
+RA04 removed.
+RW06 Legacy of the Flame removed.
+RB07 Discordance B Rare removed.
+RU07 removed.
+RM06 Velka, Goddess of Sin removed.
+RA05 removed.
+RA06 removed.
+
+CB03 Branded Pickpocket
+rules_text: Menace
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters or dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+RB04 A Marvellous Hunt
+type: Sorcery => Instant
+rules_text: Target player sacrifices a creature.
+[i]Kindle[/i] — You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn and you cast this spell from your hand, exile this card. During your next turn, you may cast it from exile. => Destroy target nontoken creature.
+[i]Kindle[/i] — You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn and you cast this spell from your hand, exile this card. During your next turn, you may cast it from exile.
+
+RM10 Dusk, Displaced Princess
+cost: {G}{U} => {1}{G}{U}
+rules_text:  => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+If a triggered ability of a historic permanent you control triggers, you may have that ability trigger an additional time. Do this only once each turn. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+pt:  => 2/3
+
+UB10 Manus's Approach
+rules_text: Surveil 2, then draw two cards. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+[i]Kindle [/i]— You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, each other player sacrifices a nonland permanent. => Surveil 2, then draw two cards. You lose 2 life. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+[i]Kindle [/i]— You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, each other player sacrifices a nonland permanent.
+
+UU01 Forsaken of New Londo
+rules_text: At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+RM02 Abyssal Onslaught
+rules_text: This spell costs {1} less for each nonland permanent you've sacrificed this turn.
+Create X 1/1 black Horror creature tokens with menace and “When this creature dies, each opponent loses 1 life.” => This spell costs {1} less for each nonland permanent you've sacrificed this turn.
+Create X 1/1 black Horror creature tokens with menace and “When this token dies, each opponent loses 1 life.”
+
+UZ04 Chaos Witch Quelana
+rules_text: Haste
+At the beginning of your first main phase, mill a card.
+{T}: Add {R}{G}. Spend this mana only to cast a spell from anywhere other than your hand. => Haste
+At the beginning of your upkeep, mill a card.
+{T}: Add {R}{G}. This mana can't be used to cast spells from your hand.
+
+UZ09 Jolly Cooperation!
+rules_text: When this enchantment enters, create a 2/2 white Knight creature token.
+Whenever a creature you control becomes the target of a spell or ability you control for the first time each turn, copy that spell or ability. You may choose new targets for the copy. => When this enchantment enters, create a 2/2 white Knight creature token.
+Whenever you cast an Equipment spell or a target a creature you control with a spell or ability, you may discard a card, then draw a card. Do this only once each turn.
+
+CB02 Asylum Vermin
+
+CB09 Barbed Blade
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +2/+0.
+Whenever equipped creature attacks, each opponent loses 1 life.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, each opponent loses 1 life.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+CB11 Gain Favor
+
+CG01 Flameblinded Witch
+
+CA05 Grass Crest Shield
+
+CG13 Within the Archtree
+rules_text: Enchant land
+When this enchantment enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color that land could produce. => Enchant land
+When this enchantment enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Enchanted land has “{T}: Add two mana of any one color.”
+
+CU06 Paledrake's Fervent
+cost: {3}{U}{U} => {4}{U}
+
+CU07 Blue Crystal Golem
+cost: {5}{U} => {4}{U}{U}
+
+CW10 Cleric's Talisman
+cost: {1}{W} => {2}{W}
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +1/+0.
+When equipped creature dies, you gain 2 life.
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +1/+0 and has “{3}{W}: Creatures you control get +1/+1 until end of turn.”
+Equip {1} [i]({1}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+CW07 Spirit of the Altar
+pt: 3/3 => 4/3
+
+MB02 Gravelord Sword
+cost: {1}{B}{B} => {2}{B}{B}
+rules_text: Equipped creature gets +2/+0 and has menace.
+[i]Kindle[/i] — Whenever equipped creature attacks, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a number of hone counters on Gravelord Sword equal to the greatest mana value among permanents you've sacrificed this turn. [i](Each hone counter on an Equipment grants +1/+0 to equipped creature.)[/i]
+Equip—Sacrifice a creature or pay {2}. => Equipped creature gets +2/+2 and has deathtouch.
+Whenever equipped creature attacks, you may return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Equip {2}
+
+MC01 The Everlasting Dragon
+type: Legendary Creature — Elder Dragon => Legendary Artifact Creature — Elder Dragon
+cost: {7} => {10}
+rules_text: Flying
+[effects] => Impending 4—{6} [i](If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)[/i]
+Flying, indestructible
+Whenever this creature enters or attacks, exile up to one target nonland permanent.
+pt: 7/7 => 9/9
+
+MG02 Smough's Great Hammer
+rules_text: Equipped creature gets +2/+0 and has trample.
+Whenever equipped creature deals combat damage to a player, mill cards equal to the damage dealt, then create a Soul token for each creature card milled this way. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Equip {2} => Equipped creature gets +2/+0 and has trample.
+Whenever equipped creature attacks, mill three cards, then put a +1/+1 counter on equipped creature for each nonland permanent card milled this way.
+Equip {2}
+
+MR02 Quelaag's Furysword
+rules_text: Equipped creature gets +2/+0 and has haste.
+Whenever equipped creature deals combat damage to a player, exile cards from the top of your library until you reveal a nonland card with equal or lesser mana value to that damage. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.
+Equip {2} => Equipped creature gets +2/+0 and has haste.
+Whenever equipped creature deals combat damage to a player, mill a card. You may play that card this turn without paying its mana cost. 
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]
+Equip {2}
+
+RB01 The Furtive Pygmy
+rules_text: The Furtive Pygmy can cooperate from your graveyard.
+Cooperate {B} [i]({B}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Creatures you control with decayed get +1/+1. During combat, triggered abilities you control can't cause you to sacrifice them. => Creatures you control with decayed get +1/+1. During combat, triggered abilities you control can't cause you to sacrifice them.
+Pay 3 life: Put this card from your graveyard into your library fourth from the top.
+Discordance {B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]
+
+RA02 Snuggly's Nest
+rules_text: When Snuggly's Nest enters, create a 1/1 black Bird creature token with flying.
+{1}, {T}, Sacrifice a non-Treasure token: Create a tapped Treasure token.
+{2}, {T}, Sacrifice a Treasure: Draw a card.
+{W}{U}{B}{R}{G}, {T}, Exile Snuggly's Nest: Search your library for a historic card, put if onto the battlefield, then shuffle. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => When Snuggly's Nest enters, create a 1/1 black Bird creature token with flying.
+{1}, {T}, Sacrifice a non-Treasure token: Create a tapped Treasure token.
+{2}, {T}, Sacrifice a Treasure: Draw a card.
+{W}{U}{B}{R}{G}, {T}, Exile Snuggly's Nest: Search your library for a historic card, put it onto the battlefield, then shuffle. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+RB03 Nito, First of the Dead
+rules_text: Menace
+When Nito enters, each player sacrifices another creature.
+Whenever a creature you control dies, you lose 1 life and draw a card. => Menace
+When Nito enters, each player sacrifices another creature.
+Whenever a creature you control dies, you draw a card and lose 1 life.
+
+RA01 Havel, Stoneclad Slayer
+rules_text: Protection from Dragons [i](This creature can't be blocked, targeted or dealt damage by Dragons.)[/i]
+Vigilance
+This creature can block Dragons as though he had reach.
+Prevent all noncombat damage that would be dealt to Havel. => Vigilance
+Havel can block Dragons as though it had reach.
+If Havel would take damage from a Dragon or from a noncreature spell or permanent, prevent all but 1 of that damage.
+
+RR03 Quelaag, Chaos Matriarch
+
+RG01 Pharis of the Black Bow
+
+RR01 Chaos Witch
+
+MM07 Seath, Obssessive Paledrake
+
+UB01 Darkwraith Allegiant
+
+UB02 Bonewheel Skeleton
+rules_text: Haste
+Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost. => Haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.
+
+UB04 Knights of Ash
+
+UB05 Chester, Far-Flung Scoundrel
+pt: 3/3 => 2/4
+
+UB07 Frenzied Darkwraiths
+rules_text: Menace
+[i]Kindle — [/i]Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.
+Discordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Menace
+Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.
+Discordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]
+
+UB12 Sunlit Madness
+
+UB13 Sinister Shotels
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature has menace.
+Equip {1} => Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on this creature and draw a card.
+Equip {1}
+
+UB08 Darkstalker's Secret
+
+UA01 Crystal Lizard
+
+UA03 Lurking Mimic
+
+CR06 Bounding Dragons
+
+UA04 Pyromancer's Flame
+
+UL01 Sen's Fortress
+
+UL02 Firelink Shrine
+
+UG01 Eggburdened Servants
+
+UG02 Forest-Clan Ambusher
+
+UG03 Manserpent Warrior
+
+UG09 Ashen Hydra
+
+UG10 Guardian's Respite
+
+UG12 Fang Boar Helm
+rules_text: When this Equipment enters, attach it to target creature you control. That creature fights up to one target creature.
+Equipped creature gets +2/+0 and has trample.
+Equip {2} => When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +3/+3 and has trample.
+Equip {2}
+
+CL01 The Painted World
+
+CL02 Oolacile Township
+
+CL03 The Northern Asylum
+
+CL04 Demon Ruins
+
+CL05 Royal Woods
+
+CL06 Ruined Cathedral
+
+CL07 Duke's Archives
+
+CL08 Blighttown
+
+CL09 Sunlit Shrine
+
+CL10 Darkroot Garden
+
+UR01 Burg Capra
+rules_text: During your turn, this creature has first strike.
+At the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => During your turn, this creature has first strike.
+At the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UR06 Bridge Wyvern
+
+UR03 Laurentius, Modest Mentor
+rules_text: Whenever you pay this card's cooperate cost, mill the top card of your library. You may play that card until your next end step.
+Cooperate {1}{R} [i]({1}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Prowess => Prowess
+Whenever this creature attacks, mill the top card of your library. You may play that card this turn.
+
+UR11 In The Firstborn's Footsteps
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards, then create a tapped Treasure token.
+{4}{R}{R}, Exile this card from your graveyard: Create a 4/4 colorless Dragon creature token with flying. => As an additional cost to cast this spell, discard a card.
+Draw two cards, then create a tapped Treasure token.
+{4}{R}{R}, Exile this card from your graveyard: Create a 4/4 colorless Dragon artifact creature token with flying.
+
+UR10 Blazing Breath
+
+UR08 Strength of a Lord
+
+UR13 Chaos Blade
+
+UR14 Path of the Dragon
+
+UU08 Judge Trangressions
+rules_text: This spell costs {U} less if it targets a spell that was cast from anywhere other than its owner's hand and/or targets a historic permanent. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Counter target spell. => This spell costs {U} less if it targets a spell that was cast from anywhere other than its owner's hand and/or targets a historic card. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Counter target spell.
+
+UU09 The Serpent's Truths
+
+UU10 Visions of Ariamis
+
+UU11 Just Another Undead
+
+CW01 Way of White Guardian
+
+UW03 The Crestfallen Warrior
+
+UW05 Astora Elite
+
+UW10 Paladin of Ariamis
+
+UW09 Tarkus, Black Iron Berenike
+
+UW11 Silver Knight Armor
+
+UW13 Light in the Dark
+
+CA01 Purposeless Undead
+
+CA02 Oscar, Fading Failure
+
+CA03 Iron Sentinel
+
+CA04 Homeward Bone
+
+CZ06 Knight's Claymore
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +2/+0.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Equipped creature gets +2/+1.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+CL11 Abandoned Bonfire
+
+CU03 Darkmoon Squire
+
+UW08 Belltower Sentry
+
+CW08 Bell Gargoyles
+pt: 3/2 => 3/3
+
+CR09 Merchant's Katana
+
+CR01 Blighted Hound
+
+CR08 Centipede Demon
+
+CR03 Hollowed Knight-Captain
+
+MB03 Artorias, Abyss-Cursed
+
+RM05 Hawkeye Gough
+
+UR02 Forsaken of the Great Swamp
+rules_text: At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UG08 Taurus of the Burg
+
+CZ05 Undead Determination
+
+RR02 Sunlight Avenger
+cost: {2}{R}{R} => {1}{R}{R}
+pt: 4/3 => 3/2
+
+CW03 Determined Adventurer
+rules_text: Whenever you cast a historic spell, put a +1/+1 counter on this creature. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Whenever you target this creature with a spell or ability, it gets +1/+1 until end of turn.
+
+UU14 Dark Sun's Offering
+
+MM03 Trusty Patches
+
+UA05 Nameless Song
+
+UW14 The Dragonslayer's Heroics
+
+UM01 Tale of the Painted World
+
+UM07 The Duke's Great Sorceries
+
+UM10 The Wolf Knight's Legacy
+
+CB10 Tale of the Abyss
+
+CU13 The Great Flood
+
+MC02 The Age of Ancients
+
+RM03 Gwyn's Sacrifice
+
+RM04 Chaos Engulfs Izalith
+cost: {3}{R}{G} => {R}{G}
+rules_text: Bookmark r{2} — {1}{G}{G} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Chaos Engulfs Izalith deals 3 damage to each creature.
+II — Create a 4/4 green Demon creature token with trample.
+III — Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle. => Bookmark r{2} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards.
+II — Return a land card from your graveyard to the battlefield tapped.
+III — Exile four cards from your graveyard. Until end of turn, you may cast a spell from among cards exiled this way.
+special_text: Bookmark r{2} — {1}{G}{G} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Chaos Engulfs Izalith deals 3 damage to each creature.
+II — Create a 4/4 green Demon creature token with trample.
+III — Sacrifice a land. Search your library for two basic land cards, put them onto the battlefield, then shuffle. => Bookmark r{2} — {1}{G} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards.
+II — Return a land card from your graveyard to the battlefield tapped.
+III — Exile four cards from your graveyard. Until end of turn, you may cast a spell from among cards exiled this way.
+
+RM01 Gwyndolin's Manipulation
+rules_text: Bookmark r{3} — 3{U}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — For each player, exile up to one target nonland permanent they control until this Saga leaves the battlefield.
+II — You gain life equal to the greatest mana value among cards exiled with this Saga.
+III — Gain control of target creature. => Bookmark r{2} — {W}{U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Gain control of target creature until this Saga leaves the battlefield.
+II — Exile target creature. At the beginning of your next end step, return it to the battlefield under its owner's control.
+III — Until end of turn, if a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+special_text: Bookmark r{3} — 3{U}{U} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — For each player, exile up to one target nonland permanent they control until this Saga leaves the battlefield.
+II — You gain life equal to the greatest mana value among cards exiled with this Saga.
+III — Gain control of target creature. => Bookmark r{2} — {W}{U} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Gain control of target creature until this Saga leaves the battlefield.
+II — Exile target creature. At the beginning of your next end step, return it to the battlefield under its owner's control.
+III — Until end of turn, if a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+UG13 The Roots of Oolacile
+
+UG14 Blessings of Sunlight
+
+UU12 The Paledrake's Pact
+
+Zombie
+
+Human
+
+Knight
+
+Illusion
+
+Human Wizard
+
+Bird
+
+Zombie Dog
+rules_text: Haste, decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Dragon
+type: Token Creature — Dragon => Token Artifact Creature — Dragon
+
+Fungus
+
+Wolf
+
+Soul
+
+Treasure
+
+Copy
+
+Chaos Bug
+
+Horror Noble
+
+Demon
+
+Horror
+rules_text: Menace
+When this creature dies, each opponent loses 1 life. => Menace
+When this token dies, each opponent loses 1 life.
+
+RB05 Abyssal Greatsword
+
+RG02 The Fair Lady
+
+RU05 Shattered Illusions
+rules_text: Return target creature or enchantment to its owner's hand. You create a token that's a copy of it. If that card was historic, draw a card. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Return target creature or enchantment to its owner's hand. Create a token that's a copy of it. If that card was historic, draw a card. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+RR04 Ceaseless Discharge
+
+RG03 Cooperate G Rare
+cost:  => {2}{G}{G}
+
+RG05 Seek the Everlasting
+
+UA02 Sen's Golem
+
+MM103 Manus, Father of the Abyss
+rules_text: Deathtouch
+When Manus enters, create two 1/1 black Horror creature tokens with menace and “When this creature dies, each opponent loses 1 life.”
+If sacrificing a nonland permanent causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Deathtouch
+When Manus enters, create two 1/1 black Horror creature tokens with menace and “When this token dies, each opponent loses 1 life.”
+If sacrificing a nonland permanent causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+RM04 The Witch of Izalith
+rules_text: {T}, Mill a card: Add one mana of any color. 
+During each of your turns, you may play a land card from among land cards that were put there from your library this turn.
+Cards in your graveyard have discordance. Their discordance cost is equal to their mana cost. => {T}, Mill a card: Add one mana of any color. 
+During each of your turns, you may play land cards from your graveyard that were put there from anywhere this turn.
+Cards in your graveyard have discordance. Their discordance cost is equal to their mana cost. [i](You may cast a copy of that card from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]
+
+R0 — Characters missing cards
+
+UW07 Petrus, Drenched in Sin
+
+RM07 In Seath's Presence
+
+UR04 Batwing Demon
+
+MM06 Firelink Altar
+
+MM02 The Age of Dark
+cost: {U}{B} => {2}{U}{B}
+rules_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — 
+II — 
+III — => Bookmark r{4} — {U}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards. You may put a card from among them into your hand.
+II, III, IV — Exile an instant or sorcery card from a graveyard with mana value less than or equal to the number of lore counters on this Saga. You may cast a copy of it without paying its mana cost.
+special_text: Bookmark r{3} — {X} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — 
+II — 
+III — => Bookmark r{4} — {U}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards. You may put a card from among them into your hand.
+II, III, IV — Exile an instant or sorcery card from a graveyard with mana value less than or equal to the number of lore counters on this Saga. You may cast a copy of it without paying its mana cost.
+
+
+VERSION 33 CHANGELOG
 ====================
 
 
