@@ -1,6 +1,6 @@
 ﻿[
     {
-        "card_name": "MW01",
+        "card_name": "MW01 Incandescence",
         "number": 25,
         "shape": "normal",
         "set": "TFF",
@@ -160,15 +160,15 @@
         "position": "264"
     },
     {
-        "card_name": "RW03 Cooperate Support Rare",
+        "card_name": "RW03 Sanctuary Guardian",
         "number": 29,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "265"
+        "position": "136"
     },
     {
-        "card_name": "RU03 Logan, the Crystal Sage",
+        "card_name": "RU03 Big Hat Logan",
         "number": 65,
         "shape": "normal",
         "set": "TFF",
@@ -200,12 +200,12 @@
         "position": "274"
     },
     {
-        "card_name": "RW04 Sanctuary Guardian",
+        "card_name": "RW04 Artorias, the Wolf Knight",
         "number": 30,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "136"
+        "position": "217"
     },
     {
         "card_name": "RU04 Darkmoon Decree",
@@ -240,15 +240,15 @@
         "position": "130"
     },
     {
-        "card_name": "RW05 Artorias, the Wolf Knight",
+        "card_name": "RW05 Gwyn's Silver Knights",
         "number": 31,
         "shape": "normal",
         "set": "TFF",
         "rotated": false,
-        "position": "217"
+        "position": "265"
     },
     {
-        "card_name": "RU05 Shattered Illusions",
+        "card_name": "RU05 Shattered Truths",
         "number": 67,
         "shape": "normal",
         "set": "TFF",
@@ -312,7 +312,7 @@
         "position": "272"
     },
     {
-        "card_name": "RG06 Saga (cool Izalithy name)",
+        "card_name": "RG06 To the Ruins of Izalith",
         "number": 176,
         "shape": "saga",
         "set": "TFF",
@@ -1527,7 +1527,7 @@
         "position": "238"
     },
     {
-        "card_name": "RM04 Chaos Engulfs Izalith",
+        "card_name": "RM04 The Birth of Chaos",
         "number": 206,
         "shape": "saga",
         "set": "TFF",

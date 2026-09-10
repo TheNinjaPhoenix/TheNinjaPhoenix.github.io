@@ -1,4 +1,81 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+MW01 Incandescence added.
+RW03 Sanctuary Guardian added.
+RW04 Artorias, the Wolf Knight added.
+RM04 The Birth of Chaos added.
+RW05 Gwyn's Silver Knights added.
+RU03 Big Hat Logan added.
+RU05 Shattered Truths added.
+RG06 To the Ruins of Izalith added.
+
+MW01 removed.
+RW04 Sanctuary Guardian removed.
+RW05 Artorias, the Wolf Knight removed.
+RM04 Chaos Engulfs Izalith removed.
+RW03 Cooperate Support Rare removed.
+RU03 Logan, the Crystal Sage removed.
+RU05 Shattered Illusions removed.
+RG06 Saga (cool Izalithy name) removed.
+
+UW06 Forsaken of Astora
+rules_text: At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB02 Bonewheel Skeleton
+rules_text: Haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost. => Haste
+Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.
+
+UB12 Sunlit Madness
+rules_text: Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB06 Darkroot Huntmaster
+rules_text: Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UR02 Forsaken of the Great Swamp
+rules_text: At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Zombie Dog
+rules_text: Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i] => Haste, decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+RG02 The Fair Lady
+rules_text: Reach
+{T}, Mill a card: Add one mana of any color.
+[i]Kindle — [/i]At the beginning of your postcombat main phase, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, gain 3 life. => Reach
+{T}: Add one mana of any color.
+[i]Kindle — [/i]At the beginning of your postcombat main phase, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, you mill two cards and gain 2 life.
+
+RU02 Priscilla, Forlorn Guardian
+rules_text: Flash
+Priscilla can't be blocked.
+When Priscilla enters, choose one —
+• Return up to one other target permanent you control to its owner's hand.
+• Tap target creature an opponent controls. Put a stun counter on it. => Flash
+Whenever you cast a noncreature spell, put a +1/+1 counter on Priscilla and choose one —
+• Return up to one other target permanent you control to its owner's hand.
+• Tap target creature an opponent controls. Put a stun counter on it.
+
+MM02 The Age of Dark
+rules_text: Bookmark r{4} — {U}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards. You may put a card from among them into your hand.
+II, III, IV — Exile an instant or sorcery card from a graveyard with mana value less than or equal to the number of lore counters on this Saga. You may cast a copy of it without paying its mana cost. => Bookmark r{1} — {U}{B} [i](If you cast this spell for its bookmark cost, it enters with a lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards. You may put a card from among them into your hand.
+II, III, IV — Exile an instant or sorcery card from a graveyard with mana value less than or equal to the number of lore counters on this Saga. You may cast a copy of it without paying its mana cost.
+special_text: Bookmark r{4} — {U}{B} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards. You may put a card from among them into your hand.
+II, III, IV — Exile an instant or sorcery card from a graveyard with mana value less than or equal to the number of lore counters on this Saga. You may cast a copy of it without paying its mana cost. => Bookmark r{1} — {U}{B} [i](If you cast this spell for its bookmark cost, it enters with a lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Mill four cards. You may put a card from among them into your hand.
+II, III, IV — Exile an instant or sorcery card from a graveyard with mana value less than or equal to the number of lore counters on this Saga. You may cast a copy of it without paying its mana cost.
+
+
+VERSION 34 CHANGELOG
 ====================
 
 CU01 Hungering Crow added.

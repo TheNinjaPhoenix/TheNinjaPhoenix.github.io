@@ -111,10 +111,10 @@
 			}
 		},
 		{
-			"name": "MW01",
+			"name": "MW01 Incandescence",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/11.png"
@@ -1361,11 +1361,11 @@
 			}
 		},
 		{
-			"name": "RW04 Sanctuary Guardian",
+			"name": "RW03 Sanctuary Guardian",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Manticore",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/136.png"
 			}
@@ -2171,11 +2171,11 @@
 			}
 		},
 		{
-			"name": "RW05 Artorias, the Wolf Knight",
+			"name": "RW04 Artorias, the Wolf Knight",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — Demigod Knight",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/217.png"
 			}
@@ -2391,7 +2391,7 @@
 			}
 		},
 		{
-			"name": "RM04 Chaos Engulfs Izalith",
+			"name": "RM04 The Birth of Chaos",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment — Saga",
@@ -2651,11 +2651,11 @@
 			}
 		},
 		{
-			"name": "RW03 Cooperate Support Rare",
+			"name": "RW05 Gwyn's Silver Knights",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Creature",
-			"collector_number": "29",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Demigod Knight",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/265.png"
 			}
@@ -2691,7 +2691,7 @@
 			}
 		},
 		{
-			"name": "RU03 Logan, the Crystal Sage",
+			"name": "RU03 Big Hat Logan",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Wizard",
@@ -2701,7 +2701,7 @@
 			}
 		},
 		{
-			"name": "RU05 Shattered Illusions",
+			"name": "RU05 Shattered Truths",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
@@ -2771,7 +2771,7 @@
 			}
 		},
 		{
-			"name": "RG06 Saga (cool Izalithy name)",
+			"name": "RG06 To the Ruins of Izalith",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment — Saga",
@@ -2974,7 +2974,7 @@
 
 [rare(1)]
 	1 MU01
-	1 MW01
+	1 MW01 Incandescence
 	2 RB04 A Marvellous Hunt
 	2 RM10 Dusk, Displaced Princess
 	2 RU01 Moonlight Butterfly
@@ -3012,36 +3012,36 @@
 	2 RR03 Quelaag, Chaos Matriarch
 	2 RG01 Pharis of the Black Bow
 	2 RR01 Chaos Witch
-	2 RW04 Sanctuary Guardian
+	2 RW03 Sanctuary Guardian
 	1 MM07 Seath, Obssessive Paledrake
 	2 RA03 Altar to the Gods
 	2 RR07 The First Flame
 	1 MB03 Artorias, Abyss-Cursed
 	2 RM05 Hawkeye Gough
-	2 RW05 Artorias, the Wolf Knight
+	2 RW04 Artorias, the Wolf Knight
 	2 RR02 Sunlight Avenger
 	1 MM03 Trusty Patches
 	1 MC02 The Age of Ancients
 	2 RM03 Gwyn's Sacrifice
-	2 RM04 Chaos Engulfs Izalith
+	2 RM04 The Birth of Chaos
 	2 RM01 Gwyndolin's Manipulation
 	1 MM09 The Age of Fire
 	2 RB05 Abyssal Greatsword
 	2 RU04 Darkmoon Decree
 	2 RG02 The Fair Lady
-	2 RW03 Cooperate Support Rare
+	2 RW05 Gwyn's Silver Knights
 	2 RW02 Andre of Astora
 	2 RW01 Darkmoon Knightess, Fire Keeper
 	2 RW06 Equipment W
-	2 RU03 Logan, the Crystal Sage
-	2 RU05 Shattered Illusions
+	2 RU03 Big Hat Logan
+	2 RU05 Shattered Truths
 	2 RU06 Historic Saga
 	2 RR06 Dragonslayer's Swordspear
 	2 RR04 Ceaseless Discharge
 	2 RG03 Cooperate G Rare
 	2 RX06
 	2 RG05 Seek the Everlasting
-	2 RG06 Saga (cool Izalithy name)
+	2 RG06 To the Ruins of Izalith
 	2 RX01
 	2 RW07 What Vestiges Remain
 	2 RB07 Another B Rare
@@ -3353,7 +3353,7 @@
 	12 CU09 Consider
 	12 CU10 Mysteries of Oolacile
 	1 MU01
-	1 MW01
+	1 MW01 Incandescence
 	2 RB04 A Marvellous Hunt
 	2 RM10 Dusk, Displaced Princess
 	2 RU01 Moonlight Butterfly
@@ -3478,7 +3478,7 @@
 	2 RR03 Quelaag, Chaos Matriarch
 	2 RG01 Pharis of the Black Bow
 	2 RR01 Chaos Witch
-	2 RW04 Sanctuary Guardian
+	2 RW03 Sanctuary Guardian
 	1 MM07 Seath, Obssessive Paledrake
 	6 UB01 Darkwraith Allegiant
 	6 UB02 Bonewheel Skeleton
@@ -3559,7 +3559,7 @@
 	12 CW05 Thorolund Cleric
 	12 CG05 Asylum Jailor
 	6 UR02 Forsaken of the Great Swamp
-	2 RW05 Artorias, the Wolf Knight
+	2 RW04 Artorias, the Wolf Knight
 	6 UG08 Taurus of the Burg
 	12 CZ05 Undead Determination
 	2 RR02 Sunlight Avenger
@@ -3576,7 +3576,7 @@
 	12 CU13 The Great Flood
 	1 MC02 The Age of Ancients
 	2 RM03 Gwyn's Sacrifice
-	2 RM04 Chaos Engulfs Izalith
+	2 RM04 The Birth of Chaos
 	2 RM01 Gwyndolin's Manipulation
 	6 UG13 The Roots of Oolacile
 	6 UG14 Blessings of Sunlight
@@ -3585,19 +3585,19 @@
 	2 RB05 Abyssal Greatsword
 	2 RU04 Darkmoon Decree
 	2 RG02 The Fair Lady
-	2 RW03 Cooperate Support Rare
+	2 RW05 Gwyn's Silver Knights
 	2 RW02 Andre of Astora
 	2 RW01 Darkmoon Knightess, Fire Keeper
 	2 RW06 Equipment W
-	2 RU03 Logan, the Crystal Sage
-	2 RU05 Shattered Illusions
+	2 RU03 Big Hat Logan
+	2 RU05 Shattered Truths
 	2 RU06 Historic Saga
 	2 RR06 Dragonslayer's Swordspear
 	2 RR04 Ceaseless Discharge
 	2 RG03 Cooperate G Rare
 	2 RX06
 	2 RG05 Seek the Everlasting
-	2 RG06 Saga (cool Izalithy name)
+	2 RG06 To the Ruins of Izalith
 	6 UA02 Sen's Golem
 	2 RX01
 	2 RW07 What Vestiges Remain
@@ -3628,7 +3628,7 @@
 	6 CU09 Consider
 	6 CU10 Mysteries of Oolacile
 	4 MU01
-	4 MW01
+	4 MW01 Incandescence
 	7 RB04 A Marvellous Hunt
 	7 RM10 Dusk, Displaced Princess
 	7 RU01 Moonlight Butterfly
@@ -3753,7 +3753,7 @@
 	7 RR03 Quelaag, Chaos Matriarch
 	7 RG01 Pharis of the Black Bow
 	7 RR01 Chaos Witch
-	7 RW04 Sanctuary Guardian
+	7 RW03 Sanctuary Guardian
 	4 MM07 Seath, Obssessive Paledrake
 	15 UB01 Darkwraith Allegiant
 	15 UB02 Bonewheel Skeleton
@@ -3834,7 +3834,7 @@
 	6 CW05 Thorolund Cleric
 	6 CG05 Asylum Jailor
 	15 UR02 Forsaken of the Great Swamp
-	7 RW05 Artorias, the Wolf Knight
+	7 RW04 Artorias, the Wolf Knight
 	15 UG08 Taurus of the Burg
 	6 CZ05 Undead Determination
 	7 RR02 Sunlight Avenger
@@ -3851,7 +3851,7 @@
 	6 CU13 The Great Flood
 	4 MC02 The Age of Ancients
 	7 RM03 Gwyn's Sacrifice
-	7 RM04 Chaos Engulfs Izalith
+	7 RM04 The Birth of Chaos
 	7 RM01 Gwyndolin's Manipulation
 	15 UG13 The Roots of Oolacile
 	15 UG14 Blessings of Sunlight
@@ -3860,19 +3860,19 @@
 	7 RB05 Abyssal Greatsword
 	7 RU04 Darkmoon Decree
 	7 RG02 The Fair Lady
-	7 RW03 Cooperate Support Rare
+	7 RW05 Gwyn's Silver Knights
 	7 RW02 Andre of Astora
 	7 RW01 Darkmoon Knightess, Fire Keeper
 	7 RW06 Equipment W
-	7 RU03 Logan, the Crystal Sage
-	7 RU05 Shattered Illusions
+	7 RU03 Big Hat Logan
+	7 RU05 Shattered Truths
 	7 RU06 Historic Saga
 	7 RR06 Dragonslayer's Swordspear
 	7 RR04 Ceaseless Discharge
 	7 RG03 Cooperate G Rare
 	7 RX06
 	7 RG05 Seek the Everlasting
-	7 RG06 Saga (cool Izalithy name)
+	7 RG06 To the Ruins of Izalith
 	15 UA02 Sen's Golem
 	7 RX01
 	7 RW07 What Vestiges Remain

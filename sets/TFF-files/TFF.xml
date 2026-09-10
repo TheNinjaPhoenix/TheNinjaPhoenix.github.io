@@ -203,16 +203,17 @@ Draw a card.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>MW01</name>
-			<text></text>
+			<name>MW01 Incandescence</name>
+			<text>At the beginning of your upkeep, you gain 1 life and create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
+Whenever you exile one or more creature cards, you may create a token that&apos;s a copy of one of them, except it&apos;s a 1/1 Spirit.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/11.png" num="25">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -576,7 +577,7 @@ Create X 1/1 black Horror creature tokens with menace and &quot;When this token 
 		</card>
 		<card>
 			<name>UW06 Forsaken of Astora</name>
-			<text>At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/32.png" num="39">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2469,10 +2470,10 @@ Kindle — When this creature enters, you may sacrifice a nonland permanent. The
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RW04 Sanctuary Guardian</name>
+			<name>RW03 Sanctuary Guardian</name>
 			<text>Flying
 Whenever this creature attacks, exile target nontoken permanent. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step. If it entered under your control, create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/136.png" num="30">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/136.png" num="29">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2528,7 +2529,7 @@ Whenever you sacrifice a nonland permanent, this creature deals 1 damage to targ
 		<card>
 			<name>UB02 Bonewheel Skeleton</name>
 			<text>Haste
-Decayed (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Decayed (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)
 You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/139.png" num="107">TFF</set>
 			<prop>
@@ -2603,7 +2604,7 @@ Discordance {2}{B}{B} (You may cast a copy of this from your graveyard if it was
 			<name>UB12 Sunlit Madness</name>
 			<text>Enchant creature
 When this Aura enters, look at target player&apos;s hand. You may choose a nonland card from it. That player discards that card.
-Enchanted creature gets +1/+1 and has decayed. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+Enchanted creature gets +1/+1 and has decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/143.png" num="117">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3667,7 +3668,7 @@ Discordance {3}{G}{G} (You may cast a copy of this from your graveyard if it was
 		</card>
 		<card>
 			<name>UB06 Darkroot Huntmaster</name>
-			<text>Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/203.png" num="111">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3907,7 +3908,7 @@ When this creature enters, mill four cards. Put a land card from among the mille
 		</card>
 		<card>
 			<name>UR02 Forsaken of the Great Swamp</name>
-			<text>At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/216.png" num="143">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3923,11 +3924,11 @@ When this creature enters, mill four cards. Put a land card from among the mille
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RW05 Artorias, the Wolf Knight</name>
+			<name>RW04 Artorias, the Wolf Knight</name>
 			<text>Vigilance
 When Artorias enters, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 Triggered abilities you control can&apos;t cause you to sacrifice or exile equipped creatures you control.</text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/217.png" num="31">TFF</set>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/217.png" num="30">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4318,7 +4319,7 @@ IV — Gwyn&apos;s Sacrifice deals 3 damage to any target.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RM04 Chaos Engulfs Izalith</name>
+			<name>RM04 The Birth of Chaos</name>
 			<text>Bookmark r{2} — {1}{G} (If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)
 I — Mill four cards.
 II — Return a land card from your graveyard to the battlefield tapped.
@@ -4524,7 +4525,7 @@ III — Shuffle up to three target noncreature cards from your graveyard into yo
 		</card>
 		<card>
 			<name>Zombie Dog TFF</name>
-			<text>Haste, decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>Haste, decayed (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="common" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/250.png" num="12">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4768,8 +4769,8 @@ Kindle — You may sacrifice a nonland permanent. Then if you&apos;ve sacrificed
 		<card>
 			<name>RG02 The Fair Lady</name>
 			<text>Reach
-{T}, Mill a card: Add one mana of any color.
-Kindle — At the beginning of your postcombat main phase, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, gain 3 life.</text>
+{T}: Add one mana of any color.
+Kindle — At the beginning of your postcombat main phase, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, you mill two cards and gain 2 life.</text>
 			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/264.png" num="172">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4785,18 +4786,21 @@ Kindle — At the beginning of your postcombat main phase, you may sacrifice a n
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RW03 Cooperate Support Rare</name>
-			<text></text>
-			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/265.png" num="29">TFF</set>
+			<name>RW05 Gwyn&apos;s Silver Knights</name>
+			<text>Reach, lifelink
+This creature costs {1} less to cast for each creature attacking you.
+Whenever this creature enters, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/265.png" num="31">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Demigod Knight</type>
 				<maintype>Creature</maintype>
-				<manacost>1WW</manacost>
-				<cmc>3</cmc>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4856,7 +4860,7 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RU03 Logan, the Crystal Sage</name>
+			<name>RU03 Big Hat Logan</name>
 			<text>Prowess
 Whenever you cast a noncreature spell, noncreature spells you cast cost {1} less to cast until end of turn.</text>
 			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/269.png" num="65">TFF</set>
@@ -4874,7 +4878,7 @@ Whenever you cast a noncreature spell, noncreature spells you cast cost {1} less
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RU05 Shattered Illusions</name>
+			<name>RU05 Shattered Truths</name>
 			<text>Return target creature or enchantment to its owner&apos;s hand. Create a token that&apos;s a copy of it. If that card was historic, draw a card. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/270.png" num="67">TFF</set>
 			<prop>
@@ -4996,7 +5000,7 @@ Discordance {1}{G} (You may cast a copy of this from your graveyard if it was pu
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RG06 Saga (cool Izalithy name)</name>
+			<name>RG06 To the Ruins of Izalith</name>
 			<text>Bookmark r{2} — {1}{G}{G} (If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)
 I — Create two 3/3 green Demon creature tokens with trample.
 II — Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
@@ -5309,8 +5313,7 @@ Whenever an equipped creature you control other than Solaire dies, you may attac
 		<card>
 			<name>RU02 Priscilla, Forlorn Guardian</name>
 			<text>Flash
-Priscilla can&apos;t be blocked.
-When Priscilla enters, choose one —
+Whenever you cast a noncreature spell, put a +1/+1 counter on Priscilla and choose one —
 • Return up to one other target permanent you control to its owner&apos;s hand.
 • Tap target creature an opponent controls. Put a stun counter on it.</text>
 			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/295.png" num="64">TFF</set>
@@ -5329,7 +5332,7 @@ When Priscilla enters, choose one —
 		</card>
 		<card>
 			<name>MM02 The Age of Dark</name>
-			<text>Bookmark r{4} — {U}{B} (If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)
+			<text>Bookmark r{1} — {U}{B} (If you cast this spell for its bookmark cost, it enters with a lore counters on it. Read only that chapter, then sacrifice it.)
 I — Mill four cards. You may put a card from among them into your hand.
 II, III, IV — Exile an instant or sorcery card from a graveyard with mana value less than or equal to the number of lore counters on this Saga. You may cast a copy of it without paying its mana cost.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/296.png" num="191">TFF</set>
