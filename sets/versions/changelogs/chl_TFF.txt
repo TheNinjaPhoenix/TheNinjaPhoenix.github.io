@@ -1,4 +1,99 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+UB09 Poison Mist added.
+RU06 Gwyndolin's Manipulation added.
+RU04 Gwyndolin's Decree added.
+RM01 The Knights' Resolve added.
+RG06 Journey to Izalith added.
+RB07 Hunter of the Branded added.
+RM06 Blades of the Darkmoon added.
+RM07 Ciaran's Tracers added.
+RU07 added.
+RG07 added.
+
+UB09 Nito's Miasma removed.
+RM01 Gwyndolin's Manipulation removed.
+RU04 Darkmoon Decree removed.
+RU06 Historic Saga removed.
+RX06 removed.
+RG06 To the Ruins of Izalith removed.
+RB07 Another B Rare removed.
+R0 — Characters missing cards removed.
+RX04 removed.
+RX05 removed.
+
+UZ04 Chaos Witch Quelana
+cost: {2}{RG}{RG} => {1}{RG}{RG}
+rules_text: Haste
+At the beginning of your upkeep, mill a card.
+{T}: Add {R}{G}. This mana can't be used to cast spells from your hand. => Haste
+When Chaos Witch Quelana enters, mill a card. You may play that card this turn.
+{T}: Add {R}{G}. This mana can't be used to cast spells from your hand.
+pt: 4/3 => 2/3
+
+UW04 Siegmeyer, Bumbling Coward
+rules_text: Vigilance
+Siegmeyer enters with a +1/+1 counter on it.
+When Siegmeyer dies, put its counters onto another target creature you control. => Vigilance
+Siegmeyer enters with a +1/+1 counter on it.
+When Siegmeyer dies, put his counters onto another target creature you control.
+
+UG04 Shiva, Forest-Clan Captain
+rules_text: Vigilance
+[i]Kindle [/i]— Whenever Shiva attacks, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on Shiva. It must be blocked if able this turn. => Vigilance
+[i]Kindle [/i]— Whenever Shiva attacks, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on Shiva. He must be blocked if able this turn.
+
+MG01 Sif, Courageous Pup
+rules_text: Vigilance
+Whenever you put one or more +1/+1 counters on Sif, it gains indestructible until end of turn. If this is the second time this ability has resolved this turn, Sif fights up to one target creature. => Vigilance
+Whenever you put one or more +1/+1 counters on Sif, they gain indestructible until end of turn. If this is the second time this ability has resolved this turn, Sif fights up to one target creature.
+
+MM101 Dark Sun Gwyndolin
+
+MM102 Gwyn, Cindered
+
+RA01 Havel, Stoneclad Slayer
+rules_text: Vigilance
+Havel can block Dragons as though it had reach.
+If Havel would take damage from a Dragon or from a noncreature spell or permanent, prevent all but 1 of that damage. => Vigilance
+Havel can block Dragons as though he had reach.
+If Havel would take damage from a Dragon or from a noncreature spell or permanent, prevent all but 1 of that damage.
+
+RR07 The First Flame
+
+UW03 The Crestfallen Warrior
+rules_text: When The Crestfallen Warrior enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+{1}, Sacrifice another creature: The Crestfallen Warrior gains indestructible until end of turn. Tap it. => When The Crestfallen Warrior enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+{1}, Sacrifice another creature: The Crestfallen Warrior gains indestructible until end of turn. Tap him.
+
+RM04 The Birth of Chaos
+
+RX01
+
+UW07 Petrus, Drenched in Sin
+
+RM07 In Seath's Presence
+
+UR04 Batwing Demon
+
+MM06 Firelink Altar
+
+UL03 Asylum Tunnel
+
+RX03
+
+RX02
+
+RM06 Solaire, Sunless
+
+RU02 Priscilla, Forlorn Guardian
+pt: 2/3 => 1/3
+
+MM02 The Age of Dark
+
+
+VERSION 35 CHANGELOG
 ====================
 
 MW01 Incandescence added.
