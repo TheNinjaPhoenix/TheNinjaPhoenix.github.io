@@ -1,4 +1,567 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Hungering Crow added.
+Prison Break added.
+Kindle the Flame added.
+Branded Pickpocket added.
+Sightless Sorcerer added.
+The Lost of New Londo added.
+Vinheim Assassin added.
+Primeval Gaze added.
+Consider added.
+Mysteries of Oolacile added.
+Incandescence added.
+A Marvellous Hunt added.
+Dusk, Displaced Princess added.
+Moonlight Butterfly added.
+Sinful Missionary added.
+Live or Die added.
+Manus's Approach added.
+Black Knight Armor added.
+Forsaken of Darkroot added.
+Clear the Path added.
+Smough, Grim Executioner added.
+Battle by the Belltower added.
+Forsaken of New Londo added.
+Ingward, Epithet added.
+Darkroot Scout added.
+Beatrice, the Heretic added.
+Seath's Channelers added.
+Domhnall, Curio Collector added.
+Valley Darkward added.
+Perilous Research added.
+Abyssal Onslaught added.
+Forsaken of Astora added.
+Destined for More added.
+Dark Grasp added.
+Servant of Chaos added.
+Humanity Sprites added.
+Azure Whelp added.
+Festering Knight added.
+Swift Swordstress added.
+Roots of the World added.
+Pinwheel, Thrice-Masked added.
+Lautrec the Favored added.
+Chaos Witch Quelana added.
+Siegmeyer, Bumbling Branded added.
+Solaire, Sunlight Knight added.
+The Undead Curse added.
+Nurturing Flames added.
+Bonfire's Warmth added.
+Oswald, Velka's Pardoner added.
+Maneater Mildred added.
+Jolly Cooperation! added.
+Sieglinde, Epithet added.
+Velka's Devoted added.
+Scourge of the Valley added.
+Crush into the Dirt added.
+Fire Keeper Anastacia added.
+Hollowed Obsession added.
+Shiva, Forest-Clan Captain added.
+Leeroy, Golden Champion added.
+Alvina, Darkroot Warden added.
+Kirk, Knight of Thorns added.
+Forsaken of Carim added.
+Ruin Firesage added.
+Guardian of Londo Ruins added.
+Cathartic Reunion added.
+Kalameet's Gaze added.
+Dragonpath Hunter added.
+A Dark Spirit Has Invaded added.
+Clash of Iron added.
+Zealot of the Path added.
+Ruthless Pyromancer added.
+Asylum Vermin added.
+Mindless Militia added.
+Butcher of the Depths added.
+Barbed Blade added.
+Fina's Embrace added.
+Meet the Locals added.
+Ariamis Phalanx added.
+Velka's Emissary added.
+Gain Favor added.
+Flameblinded Witch added.
+Depths Lookout added.
+Scouring Slime added.
+Hollowing Merchant added.
+Darkroot Harvester added.
+Brutish Mushroom added.
+Grass Crest Shield added.
+Within the Archtree added.
+Valley Bluescale added.
+Paledrake's Fervent added.
+Blue Crystal Golem added.
+Imprisoned Across Time added.
+Crystal Curse added.
+Cleric's Talisman added.
+Darkmoon Malediction added.
+Rest by the Bonfire added.
+Guardian's Charge added.
+Balder Knight added.
+Apprentice Fire Keeper added.
+Astoran Cleric added.
+Soul Seeker added.
+Knights-in-Arms added.
+Spirit of the Altar added.
+Curse-Spewer Basilisk added.
+Gravelord Sword added.
+Sif, Courageous Pup added.
+The Everlasting Dragon added.
+Kalameet, Living Calamity added.
+The Bed of Chaos added.
+Offering to the Fair Lady added.
+Dark Sun Gwyndolin added.
+Gwyn, Cindered added.
+Moonlight Greatsword added.
+Smough's Great Hammer added.
+Quelaag's Furysword added.
+Lifehunt Scythe added.
+The Furtive Pygmy added.
+Snuggly's Nest added.
+Nito, First of the Dead added.
+Fragmented Humanity added.
+Havel, Stoneclad Slayer added.
+Kiln of the First Flame added.
+New Londo Ruins added.
+Lost Izalith added.
+Anor Londo added.
+Ash Lake added.
+Ciaran, Lord's Blade added.
+The Four Kings added.
+Calamitous Blackflame added.
+The Gaping Dragon added.
+Dragonslayer Ornstein added.
+Nito's Miasma added.
+Quelaag, Chaos Matriarch added.
+Pharis of the Black Bow added.
+Chaos Witch added.
+Sanctuary Guardian added.
+Seath, Obssessive Paledrake added.
+Darkwraith Allegiant added.
+Bonewheel Skeleton added.
+Knights of Ash added.
+Chester, Far-Flung Scoundrel added.
+Titanite Demon added.
+Sunlit Madness added.
+Sinister Shotels added.
+Poison Mist added.
+Contemplate Death added.
+Crystal Lizard added.
+Lurking Mimic added.
+Bounding Dragon added.
+Pyromancer's Flame added.
+Altar to the Gods added.
+Demon's Great Hammer added.
+Zweihander added.
+Sen's Fortress added.
+Firelink Shrine added.
+Eggburdened Servants added.
+Forest-Clan Ambusher added.
+Manserpent Warrior added.
+Stone Guardian added.
+Sif, Guardian Gravewolf added.
+Ashen Hydra added.
+Guardian's Respite added.
+Fang Boar Helm added.
+The Painted World added.
+Oolacile Township added.
+The Northern Asylum added.
+Demon Ruins added.
+Royal Woods added.
+Ruined Cathedral added.
+Duke's Archives added.
+Blighttown added.
+Sunlit Shrine added.
+Darkroot Garden added.
+The First Flame added.
+Jeremiah, Exiled King added.
+Burg Capra added.
+Bridge Wyvern added.
+Laurentius, Modest Mentor added.
+In The Firstborn's Footsteps added.
+Blazing Breath added.
+Strength of a Lord added.
+Chaos Blade added.
+Path of the Dragon added.
+Dark Sun's Judgment added.
+The Serpent's Truths added.
+Visions of Ariamis added.
+Just Another Undead added.
+Way of White Guardian added.
+The Crestfallen Warrior added.
+Astora Elite added.
+Paladin of Ariamis added.
+Tarkus, Black Iron Berenike added.
+Silver Knight Armor added.
+Light in the Dark added.
+Purposeless Undead added.
+Oscar, Fading Failure added.
+Iron Sentinel added.
+Homeward Bone added.
+Knight's Claymore added.
+Abandoned Bonfire added.
+Darkmoon Squire added.
+Izalith Wurm added.
+Darkroot Huntmaster added.
+Forest-Clan Sentries added.
+Belltower Sentry added.
+Bell Gargoyles added.
+Quelana's Apprentice added.
+Merchant's Katana added.
+Blighted Hound added.
+Centipede Demon added.
+Hollowed Knight-Captain added.
+Artorias, Abyss-Cursed added.
+Hawkeye Gough added.
+Thorolund Cleric added.
+Asylum Jailor added.
+Forsaken of the Great Swamp added.
+Artorias, the Wolf Knight added.
+Taurus of the Burg added.
+Undead Determination added.
+Sunlight Avenger added.
+Determined Adventurer added.
+Dark Sun's Offering added.
+Trusty Patches added.
+Nameless Song added.
+The Dragonslayer's Heroics added.
+Tale of the Painted World added.
+The Duke's Great Sorceries added.
+The Wolf Knight's Legacy added.
+Tale of the Abyss added.
+From Firelink, Onwards added.
+The Great Flood added.
+The Age of Ancients added.
+Link the Flame added.
+The Birth of Chaos added.
+Gwyndolin's Manipulation added.
+The Roots of Oolacile added.
+Blessings of Sunlight added.
+The Paledrake's Pact added.
+The Age of Fire added.
+Abyssal Greatsword added.
+Misguided Moonlight added.
+The Fair Lady added.
+Gwyn's Silver Knights added.
+Andre of Astora added.
+Darkmoon Knightess, Fire Keeper added.
+Darkmoon Bow added.
+Big Hat Logan added.
+Shattered Truths added.
+The Knights' Resolve added.
+Dragonslayer's Swordspear added.
+Ceaseless Discharge added.
+Champion of the Father added.
+Mourn the Memory added.
+Seek the Everlasting added.
+Journey to Izalith added.
+Sen's Golem added.
+Relentless Invader added.
+What Vestiges Remain added.
+Blades of the Darkmoon added.
+Manus, Father of the Abyss added.
+The Witch of Izalith added.
+Petrus, Drenched in Sin added.
+In Seath's Presence added.
+Ciaran's Tracers added.
+Praise the Sun! added.
+Batwing Demon added.
+Firelink Altar added.
+Asylum Tunnel added.
+The Chosen Undead added.
+Solaire, Sunless added.
+Priscilla, Forlorn Guardian added.
+The Age of Dark added.
+Quiet Resolve added.
+Gwynevere, Sunlight Princess added.
+Prodigiuous Knowledge added.
+Cindered Sun added.
+
+CU01 Hungering Crow removed.
+CG10 Prison Break removed.
+CR12 Kindle the Flame removed.
+CB03 Branded Pickpocket removed.
+CU02 Sightless Sorcerer removed.
+CU04 The Lost of New Londo removed.
+CZ02 Vinheim Assassin removed.
+CU08 Primeval Gaze removed.
+CU09 Consider removed.
+CU10 Mysteries of Oolacile removed.
+MW01 Incandescence removed.
+RB04 A Marvellous Hunt removed.
+RM10 Dusk, Displaced Princess removed.
+RU01 Moonlight Butterfly removed.
+CB06 Sinful Missionary removed.
+UB11 Live or Die removed.
+UB10 Manus's Approach removed.
+UB14 Black Knight Armor removed.
+UG06 Forsaken of Darkroot removed.
+UG11 Clear the Path removed.
+UZ08 Smough, Grim Executioner removed.
+UR09 Battle by the Belltower removed.
+UU01 Forsaken of New Londo removed.
+UU04 Ingward, Epithet removed.
+UU02 Darkroot Scout removed.
+UU03 Beatrice, the Heretic removed.
+UU05 Seath's Channelers removed.
+UU06 Domhnall, Curio Collector removed.
+UU07 Valley Darkward removed.
+UU13 Perilous Research removed.
+RM02 Abyssal Onslaught removed.
+UW06 Forsaken of Astora removed.
+CZ01 Destined for More removed.
+CZ03 Dark Grasp removed.
+CZ04 Servant of Chaos removed.
+CB01 Humanity Sprites removed.
+CZ07 Azure Whelp removed.
+CZ08 Festering Knight removed.
+CZ09 Swift Swordstress removed.
+CZ10 Roots of the World removed.
+UM02 Pinwheel, Thrice-Masked removed.
+UZ03 Lautrec the Favored removed.
+UZ04 Chaos Witch Quelana removed.
+UW04 Siegmeyer, Bumbling Branded removed.
+UM09 Solaire, Sunlight Knight removed.
+UM03 The Undead Curse removed.
+UM04 Nurturing Flames removed.
+UM05 Bonfire's Warmth removed.
+UZ06 Oswald, Velka's Pardoner removed.
+UM08 Maneater Mildred removed.
+UZ09 Jolly Cooperation! removed.
+UZ01 Sieglinde, Epithet removed.
+UZ02 Velka's Devoted removed.
+RM03 Scourge of the Valley removed.
+CG11 Crush into the Dirt removed.
+UZ05 Fire Keeper Anastacia removed.
+UW12 Hollowed Obsession removed.
+UG04 Shiva, Forest-Clan Captain removed.
+UW02 Leeroy, Golden Champion removed.
+UZ10 Alvina, Darkroot Warden removed.
+UM06 Kirk, Knight of Thorns removed.
+UB03 Forsaken of Carim removed.
+UR07 Ruin Firesage removed.
+UZ07 Guardian of Londo Ruins removed.
+CR10 Cathartic Reunion removed.
+CR13 Kalameet's Gaze removed.
+CR05 Dragonpath Hunter removed.
+UR12 A Dark Spirit Has Invaded removed.
+CR11 Clash of Iron removed.
+CR04 Zealot of the Path removed.
+CR07 Ruthless Pyromancer removed.
+CB02 Asylum Vermin removed.
+CB04 Mindless Militia removed.
+CB05 Butcher of the Depths removed.
+CB09 Barbed Blade removed.
+CB13 Fina's Embrace removed.
+CB12 Meet the Locals removed.
+CB08 Ariamis Phalanx removed.
+CB07 Velka's Emissary removed.
+CB11 Gain Favor removed.
+CG01 Flameblinded Witch removed.
+CG03 Depths Lookout removed.
+CG02 Scouring Slime removed.
+CG04 Hollowing Merchant removed.
+CG06 Darkroot Harvester removed.
+CG07 Brutish Mushroom removed.
+CA05 Grass Crest Shield removed.
+CG13 Within the Archtree removed.
+CU05 Valley Bluescale removed.
+CU06 Paledrake's Fervent removed.
+CU07 Blue Crystal Golem removed.
+CU12 Imprisoned Across Time removed.
+CU11 Crystal Curse removed.
+CW10 Cleric's Talisman removed.
+CW13 Darkmoon Malediction removed.
+CW12 Rest by the Bonfire removed.
+CW11 Guardian's Charge removed.
+CW06 Balder Knight removed.
+UW01 Apprentice Fire Keeper removed.
+CW02 Astoran Cleric removed.
+CW04 Soul Seeker removed.
+CW09 Knights-in-Arms removed.
+CW07 Spirit of the Altar removed.
+MB01 Curse-Spewer Basilisk removed.
+MB02 Gravelord Sword removed.
+MG01 Sif, Courageous Pup removed.
+MA01 The Everlasting Dragon removed.
+MR01 Kalameet, Living Calamity removed.
+MM04 The Bed of Chaos removed.
+MM08 Offering to the Fair Lady removed.
+MM101 Dark Sun Gwyndolin removed.
+MM102 Gwyn, Cindered removed.
+MU02 Moonlight Greatsword removed.
+MG02 Smough's Great Hammer removed.
+MR02 Quelaag's Furysword removed.
+MW02 Lifehunt Scythe removed.
+RB01 The Furtive Pygmy removed.
+RA02 Snuggly's Nest removed.
+RB03 Nito, First of the Dead removed.
+RB06 Fragmented Humanity removed.
+RA01 Havel, Stoneclad Slayer removed.
+RL04 Kiln of the First Flame removed.
+RL01 New Londo Ruins removed.
+RL02 Lost Izalith removed.
+RL03 Anor Londo removed.
+RL05 Ash Lake removed.
+RM01 Ciaran, Lord's Blade removed.
+RB02 The Four Kings removed.
+RR05 Calamitous Blackflame removed.
+RG04 The Gaping Dragon removed.
+RM09 Dragonslayer Ornstein removed.
+RM08 Nito's Miasma removed.
+RR03 Quelaag, Chaos Matriarch removed.
+RG01 Pharis of the Black Bow removed.
+RR01 Chaos Witch removed.
+RW03 Sanctuary Guardian removed.
+MM07 Seath, Obssessive Paledrake removed.
+UB01 Darkwraith Allegiant removed.
+UB02 Bonewheel Skeleton removed.
+UB04 Knights of Ash removed.
+UB05 Chester, Far-Flung Scoundrel removed.
+UB07 Titanite Demon removed.
+UB12 Sunlit Madness removed.
+UB13 Sinister Shotels removed.
+UB09 Poison Mist removed.
+UB08 Contemplate Death removed.
+UA01 Crystal Lizard removed.
+UA03 Lurking Mimic removed.
+CR06 Bounding Dragon removed.
+UA04 Pyromancer's Flame removed.
+RA03 Altar to the Gods removed.
+UA06 Demon's Great Hammer removed.
+UA07 Zweihander removed.
+UL01 Sen's Fortress removed.
+UL02 Firelink Shrine removed.
+UG01 Eggburdened Servants removed.
+UG02 Forest-Clan Ambusher removed.
+UG03 Manserpent Warrior removed.
+UG05 Stone Guardian removed.
+UG07 Sif, Guardian Gravewolf removed.
+UG09 Ashen Hydra removed.
+UG10 Guardian's Respite removed.
+UG12 Fang Boar Helm removed.
+CL01 The Painted World removed.
+CL02 Oolacile Township removed.
+CL03 The Northern Asylum removed.
+CL04 Demon Ruins removed.
+CL05 Royal Woods removed.
+CL06 Ruined Cathedral removed.
+CL07 Duke's Archives removed.
+CL08 Blighttown removed.
+CL09 Sunlit Shrine removed.
+CL10 Darkroot Garden removed.
+RR07 The First Flame removed.
+UR05 Jeremiah, Exiled King removed.
+UR01 Burg Capra removed.
+UR06 Bridge Wyvern removed.
+UR03 Laurentius, Modest Mentor removed.
+UR11 In The Firstborn's Footsteps removed.
+UR10 Blazing Breath removed.
+UR08 Strength of a Lord removed.
+UR13 Chaos Blade removed.
+UR14 Path of the Dragon removed.
+RU04 Dark Sun's Judgment removed.
+UU09 The Serpent's Truths removed.
+UU10 Visions of Ariamis removed.
+UU11 Just Another Undead removed.
+CW01 Way of White Guardian removed.
+UW03 The Crestfallen Warrior removed.
+UW05 Astora Elite removed.
+UW10 Paladin of Ariamis removed.
+UW09 Tarkus, Black Iron Berenike removed.
+UW11 Silver Knight Armor removed.
+UW13 Light in the Dark removed.
+CA01 Purposeless Undead removed.
+CA02 Oscar, Fading Failure removed.
+CA03 Iron Sentinel removed.
+CA04 Homeward Bone removed.
+CZ06 Knight's Claymore removed.
+CL11 Abandoned Bonfire removed.
+CU03 Darkmoon Squire removed.
+CG09 Izalith Wurm removed.
+UB06 Darkroot Huntmaster removed.
+CG08 Forest-Clan Sentries removed.
+UW08 Belltower Sentry removed.
+CW08 Bell Gargoyles removed.
+CR02 Quelana's Apprentice removed.
+CR09 Merchant's Katana removed.
+CR01 Blighted Hound removed.
+CR08 Centipede Demon removed.
+CR03 Hollowed Knight-Captain removed.
+MB03 Artorias, Abyss-Cursed removed.
+RM05 Hawkeye Gough removed.
+CW05 Thorolund Cleric removed.
+CG05 Asylum Jailor removed.
+UR02 Forsaken of the Great Swamp removed.
+RW04 Artorias, the Wolf Knight removed.
+UG08 Taurus of the Burg removed.
+CZ05 Undead Determination removed.
+RR02 Sunlight Avenger removed.
+CW03 Determined Adventurer removed.
+UU14 Dark Sun's Offering removed.
+MM03 Trusty Patches removed.
+UA05 Nameless Song removed.
+UW14 The Dragonslayer's Heroics removed.
+UM01 Tale of the Painted World removed.
+UM07 The Duke's Great Sorceries removed.
+UM10 The Wolf Knight's Legacy removed.
+CB10 Tale of the Abyss removed.
+CG12 From Firelink, Onwards removed.
+CU13 The Great Flood removed.
+MC02 The Age of Ancients removed.
+RM03 Link the Flame removed.
+RM04 The Birth of Chaos removed.
+RU07 Gwyndolin's Manipulation removed.
+UG13 The Roots of Oolacile removed.
+UG14 Blessings of Sunlight removed.
+UU12 The Paledrake's Pact removed.
+MM09 The Age of Fire removed.
+RB05 Abyssal Greatsword removed.
+UU08 Misguided Moonlight removed.
+RG02 The Fair Lady removed.
+RW05 Gwyn's Silver Knights removed.
+RW02 Andre of Astora removed.
+RW01 Darkmoon Knightess, Fire Keeper removed.
+RW06 Darkmoon Bow removed.
+RU03 Big Hat Logan removed.
+RU06 Shattered Truths removed.
+RM01 The Knights' Resolve removed.
+RR06 Dragonslayer's Swordspear removed.
+RR04 Ceaseless Discharge removed.
+RG03 Champion of the Father removed.
+MU01 Mourn the Memory removed.
+RG05 Seek the Everlasting removed.
+RG06 Journey to Izalith removed.
+UA02 Sen's Golem removed.
+RB07 Relentless Invader removed.
+RW07 What Vestiges Remain removed.
+RM06 Blades of the Darkmoon removed.
+MM103 Manus, Father of the Abyss removed.
+RM04 The Witch of Izalith removed.
+UW07 Petrus, Drenched in Sin removed.
+RM07 In Seath's Presence removed.
+RM07 Ciaran's Tracers removed.
+RM09 Praise the Sun! removed.
+UR04 Batwing Demon removed.
+MA02 Firelink Altar removed.
+UL03 Asylum Tunnel removed.
+MM06 The Chosen Undead removed.
+RM06 Solaire, Sunless removed.
+RU02 Priscilla, Forlorn Guardian removed.
+MM02 The Age of Dark removed.
+RG07 Quiet Resolve removed.
+MM05 Gwynevere, Sunlight Princess removed.
+RU05 Prodigiuous Knowledge removed.
+RM01 Cindered Sun removed.
+
+Illusion
+
+Demon
+rules_text:  => Trample
+
+
+VERSION 37 CHANGELOG
 ====================
 
 UW04 Siegmeyer, Bumbling Branded added.
