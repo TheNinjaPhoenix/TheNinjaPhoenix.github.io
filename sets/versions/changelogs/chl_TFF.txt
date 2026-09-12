@@ -1,4 +1,9 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+No changes.
+
+VERSION 38 CHANGELOG
 ====================
 
 Hungering Crow added.
