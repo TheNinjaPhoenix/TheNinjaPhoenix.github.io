@@ -2703,7 +2703,7 @@
             "number": 122,
             "color_identity": "R",
             "cost": "{X}{R}{R}",
-            "rules_text": "This spell costs {X} less to cast, where X is the number of noncreature, nonland cards in your graveyard.\nCalamitous Blackflame deals 4 damage to each of up to X creatures or planeswalkers.",
+            "rules_text": "This spell costs {X} less to cast, where X is the number of noncreature, nonland cards in your graveyard.\nCalamitous Blackflame deals 4 damage to each of up to X target creatures or planeswalkers.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
