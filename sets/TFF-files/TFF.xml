@@ -188,8 +188,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Incandescence</name>
-			<text>At the beginning of your upkeep, you gain 1 life and create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-Whenever you exile one or more creature cards, create a token that&apos;s a copy of one of them, except it&apos;s a 1/1 Spirit. This ability triggers only once each turn.</text>
+			<text>Whenever you exile one or more creature cards from your hand or library, or from the battlefield under your control, create a token that&apos;s a copy of one of them, except it&apos;s a 1/1 Spirit. This ability triggers only once each turn.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/10.png" num="25">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4959,20 +4958,20 @@ Prevent all combat damage that would be dealt to this creature.</text>
 		</card>
 		<card>
 			<name>Mourn the Memory</name>
-			<text>Draw a card.
-Kindle — Whenever you cast your third spell each turn, if this card is in your graveyard, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, copy this card. You may cast the copy without paying its mana cost.</text>
+			<text>When this enchantment enters, draw a card.
+Kindle — Whenever you cast your third spell each turn, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, draw a card.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/274.png" num="63">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Seek the Everlasting</name>

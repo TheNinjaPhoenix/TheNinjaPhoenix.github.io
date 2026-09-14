@@ -2744,7 +2744,7 @@
 			"name": "Mourn the Memory",
 			"rarity": "mythic",
 			"mana_cost": "{U}",
-			"type": "Instant",
+			"type": "Enchantment",
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/274.png"

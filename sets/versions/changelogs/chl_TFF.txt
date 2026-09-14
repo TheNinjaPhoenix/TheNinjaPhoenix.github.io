@@ -1,4 +1,20 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+
+
+Incandescence
+rules_text: At the beginning of your upkeep, you gain 1 life and create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever you exile one or more creature cards, create a token that's a copy of one of them, except it's a 1/1 Spirit. This ability triggers only once each turn. => Whenever you exile one or more creature cards from your hand or library, or from the battlefield under your control, create a token that's a copy of one of them, except it's a 1/1 Spirit. This ability triggers only once each turn.
+
+Mourn the Memory
+type: Instant => Enchantment
+rules_text: Draw a card.
+[i]Kindle [/i]— Whenever you cast your third spell each turn, if this card is in your graveyard, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, copy this card. You may cast the copy without paying its mana cost. => When this enchantment enters, draw a card.
+[i]Kindle [/i]— Whenever you cast your third spell each turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, draw a card.
+
+
+VERSION 40 CHANGELOG
 ====================
 
 Ingward, New Londo Sealer added.
