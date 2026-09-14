@@ -1,4 +1,29 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+Ingward, New Londo Sealer added.
+Sieglinde, the Unbranded added.
+
+Ingward, Epithet removed.
+Sieglinde, Epithet removed.
+
+Incandescence
+cost: {1}{W} => {2}{W}
+rules_text: At the beginning of your upkeep, you gain 1 life and create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever you exile one or more creature cards, you may create a token that's a copy of one of them, except it's a 1/1 Spirit. This ability triggers only once each turn. => At the beginning of your upkeep, you gain 1 life and create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+Whenever you exile one or more creature cards, create a token that's a copy of one of them, except it's a 1/1 Spirit. This ability triggers only once each turn.
+
+Live or Die
+
+Perilous Research
+
+Calamitous Blackflame
+rules_text: This spell costs {X} less to cast, where X is the number of noncreature, nonland cards in your graveyard.
+Calamitous Blackflame deals 4 damage to each of up to X creatures or planeswalkers. => This spell costs {X} less to cast, where X is the number of noncreature, nonland cards in your graveyard.
+Calamitous Blackflame deals 4 damage to each of up to X target creatures or planeswalkers.
+
+
+VERSION 39 CHANGELOG
 ====================
 
 No changes.

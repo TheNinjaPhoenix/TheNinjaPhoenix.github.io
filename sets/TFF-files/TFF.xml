@@ -5,7 +5,7 @@
 			<name>TFF</name>
 			<longname>Dark Souls: The Fire Fades</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-12</releasedate>
+			<releasedate>2026-09-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -189,15 +189,15 @@ Draw a card.</text>
 		<card>
 			<name>Incandescence</name>
 			<text>At the beginning of your upkeep, you gain 1 life and create a Soul token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.&quot;)
-Whenever you exile one or more creature cards, you may create a token that&apos;s a copy of one of them, except it&apos;s a 1/1 Spirit. This ability triggers only once each turn.</text>
+Whenever you exile one or more creature cards, create a token that&apos;s a copy of one of them, except it&apos;s a 1/1 Spirit. This ability triggers only once each turn.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/10.png" num="25">TFF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -416,7 +416,7 @@ Whenever Smough deals combat damage to a player, mill three cards. Create a Soul
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Ingward, Epithet</name>
+			<name>Ingward, New Londo Sealer</name>
 			<text>Flash
 Kindle — When Ingward enters, you may sacrifice a nonland permanent. Then if you&apos;ve sacrificed a nonland permanent this turn, counter target noncreature spell, activated ability or triggered ability.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/23.png" num="57">TFF</set>
@@ -923,7 +923,7 @@ Whenever you target a creature you control with a spell or ability, you may copy
 			<related count="1">Knight TFF</related>
 		</card>
 		<card>
-			<name>Sieglinde, Epithet</name>
+			<name>Sieglinde, the Unbranded</name>
 			<text>Whenever Sieglinde attacks, exile up to one other target permanent you control, then return that card to the battlefield tapped under its owner&apos;s control.</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/51.png" num="239">TFF</set>
 			<prop>
@@ -2327,7 +2327,7 @@ Whenever The Four Kings attacks, choose one that hasn&apos;t been chosen —
 		<card>
 			<name>Calamitous Blackflame</name>
 			<text>This spell costs {X} less to cast, where X is the number of noncreature, nonland cards in your graveyard.
-Calamitous Blackflame deals 4 damage to each of up to X creatures or planeswalkers.</text>
+Calamitous Blackflame deals 4 damage to each of up to X target creatures or planeswalkers.</text>
 			<set rarity="rare" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/128.png" num="122">TFF</set>
 			<prop>
 				<layout>normal</layout>

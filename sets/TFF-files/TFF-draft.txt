@@ -103,7 +103,7 @@
 		{
 			"name": "Incandescence",
 			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "25",
 			"image_uris": {
@@ -231,7 +231,7 @@
 			}
 		},
 		{
-			"name": "Ingward, Epithet",
+			"name": "Ingward, New Londo Sealer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Wizard",
@@ -511,7 +511,7 @@
 			}
 		},
 		{
-			"name": "Sieglinde, Epithet",
+			"name": "Sieglinde, the Unbranded",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Legendary Creature — Human Knight",
@@ -3077,7 +3077,7 @@
 	4 Smough, Grim Executioner
 	4 Battle by the Belltower
 	4 Forsaken of New Londo
-	4 Ingward, Epithet
+	4 Ingward, New Londo Sealer
 	4 Darkroot Scout
 	4 Beatrice, the Heretic
 	4 Seath's Channelers
@@ -3096,7 +3096,7 @@
 	4 Oswald, Velka's Pardoner
 	4 Maneater Mildred
 	4 Jolly Cooperation!
-	4 Sieglinde, Epithet
+	4 Sieglinde, the Unbranded
 	4 Velka's Devoted
 	4 Fire Keeper Anastacia
 	4 Hollowed Obsession
@@ -3377,7 +3377,7 @@
 	6 Smough, Grim Executioner
 	6 Battle by the Belltower
 	6 Forsaken of New Londo
-	6 Ingward, Epithet
+	6 Ingward, New Londo Sealer
 	6 Darkroot Scout
 	6 Beatrice, the Heretic
 	6 Seath's Channelers
@@ -3405,7 +3405,7 @@
 	6 Oswald, Velka's Pardoner
 	6 Maneater Mildred
 	6 Jolly Cooperation!
-	6 Sieglinde, Epithet
+	6 Sieglinde, the Unbranded
 	6 Velka's Devoted
 	2 Scourge of the Valley
 	12 Crush into the Dirt
@@ -3654,7 +3654,7 @@
 	15 Smough, Grim Executioner
 	15 Battle by the Belltower
 	15 Forsaken of New Londo
-	15 Ingward, Epithet
+	15 Ingward, New Londo Sealer
 	15 Darkroot Scout
 	15 Beatrice, the Heretic
 	15 Seath's Channelers
@@ -3682,7 +3682,7 @@
 	15 Oswald, Velka's Pardoner
 	15 Maneater Mildred
 	15 Jolly Cooperation!
-	15 Sieglinde, Epithet
+	15 Sieglinde, the Unbranded
 	15 Velka's Devoted
 	7 Scourge of the Valley
 	6 Crush into the Dirt
