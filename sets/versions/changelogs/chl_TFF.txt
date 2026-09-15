@@ -1,4 +1,26 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+
+
+Forsaken of Darkroot
+rules_text: At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Offering to the Fair Lady
+rules_text: Choose one —
+• Search your library for a permanent card, reveal it, put it into your hand, then shuffle.
+• Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Entwine— Sacrifice a creature. [i](Choose both if you pay the entwine cost.)[/i] => Choose one —
+• Search your library for a nonland permanent card, reveal it, put it into your hand, then shuffle.
+• Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Entwine— Sacrifice a creature. [i](Choose both if you pay the entwine cost.)[/i]
+
+Pharis of the Black Bow
+
+In Seath's Presence
+
+
+VERSION 41 CHANGELOG
 ====================
 
 

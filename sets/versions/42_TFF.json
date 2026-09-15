@@ -393,7 +393,7 @@
             "number": 166,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -2304,7 +2304,7 @@
             "number": 213,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
-            "rules_text": "Choose one \u2014\n\u2022 Search your library for a permanent card, reveal it, put it into your hand, then shuffle.\n\u2022 Search your library for a land card, put it onto the battlefield tapped, then shuffle.\nEntwine\u2014 Sacrifice a creature. [i](Choose both if you pay the entwine cost.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Search your library for a nonland permanent card, reveal it, put it into your hand, then shuffle.\n\u2022 Search your library for a land card, put it onto the battlefield tapped, then shuffle.\nEntwine\u2014 Sacrifice a creature. [i](Choose both if you pay the entwine cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2819,7 +2819,7 @@
             "alias": "",
             "position": "133",
             "rotated": false,
-            "notes": "!tokens Soul TFF"
+            "notes": "!tag wishlist\n!tokens Soul TFF"
         },
         {
             "card_name": "Chaos Witch",
@@ -5990,7 +5990,7 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": "!tag wishlist\n!tag removal"
+            "notes": "!tag removal"
         },
         {
             "card_name": "Ciaran's Tracers",

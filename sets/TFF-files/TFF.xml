@@ -5,7 +5,7 @@
 			<name>TFF</name>
 			<longname>Dark Souls: The Fire Fades</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-14</releasedate>
+			<releasedate>2026-09-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -329,7 +329,7 @@ Equip {0}. Activate only if you&apos;ve sacrificed a nonland permanent this turn
 		</card>
 		<card>
 			<name>Forsaken of Darkroot</name>
-			<text>At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. (A creature with decayed can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="uncommon" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/18.png" num="166">TFF</set>
 			<prop>
 				<layout>normal</layout>
@@ -1968,7 +1968,7 @@ Whenever you cast a spell, if mana produced by a creature was spent to cast it, 
 		<card>
 			<name>Offering to the Fair Lady</name>
 			<text>Choose one —
-• Search your library for a permanent card, reveal it, put it into your hand, then shuffle.
+• Search your library for a nonland permanent card, reveal it, put it into your hand, then shuffle.
 • Search your library for a land card, put it onto the battlefield tapped, then shuffle.
 Entwine— Sacrifice a creature. (Choose both if you pay the entwine cost.)</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/109.png" num="213">TFF</set>
