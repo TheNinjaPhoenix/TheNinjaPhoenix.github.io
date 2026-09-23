@@ -1,4 +1,824 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+Prodigious Knowledge added.
+
+Prodigiuous Knowledge removed.
+
+Prison Break
+cost: {2}{G} => {1}{G}
+rules_text: This spell costs {1} less to cast if it targets a creature you control with a +1/+1 counter on it.
+Choose one — 
+• Target creature you control fights target creature you don't control.
+• Destroy target artifact or enchantment. => Choose one — 
+• Target creature you control fights target creature you don't control.
+• Destroy target artifact or enchantment.
+
+Sightless Sorcerer
+rules_text: The first noncreature spell you cast each turn costs {1} less to cast. => Vigilance
+When this creature dies, draw a card.
+
+Consider
+type: Sorcery => Instant
+
+Dusk, Displaced Princess
+
+Moonlight Butterfly
+
+Sinful Missionary
+
+Live or Die
+
+Manus's Approach
+
+Black Knight Armor
+
+Forsaken of Darkroot
+
+Clear the Path
+rules_text: Put a +1/+1 counter on each of up to X target creatures you control. Creatures you control with counters on them gain trample until end of turn.
+Discordance {X}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Put a +1/+1 counter on each of up to X target creatures you control. Creatures you control with counters on them gain trample until end of turn.
+Discordance {X}{G} [i](You may cast this card from your graveyard for {X}{G} if it was put there this turn from your hand or library.)[/i]
+
+Smough, Grim Executioner
+
+Battle by the Belltower
+
+Forsaken of New Londo
+rules_text: At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Ingward, New Londo Sealer
+
+Darkroot Scout
+rules_text: Flash
+When Darkroot Scout enters, up to one target creature you control can't be blocked this turn. => Flash
+When this creature enters, tap target creature and put a stun counter on it.
+{1}{U}, {T}, Sacrifice this creature: Shuffle target creature with a stun counter on it into its owner's library.
+
+Beatrice, the Heretic
+
+Domhnall, Curio Collector
+type: Creature — Human Citizen => Legendary Creature — Human Citizen
+
+Valley Darkward
+
+Perilous Research
+
+Abyssal Onslaught
+
+Forsaken of Astora
+rules_text: At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Destined for More
+
+Dark Grasp
+rules_text: Dark Grasp deals 3 damage to target creature. If a creature dealt damage this way would die this turn, create a 2/2 colorless Zombie token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Dark Grasp deals 3 damage to target creature. When that creature dies this turn, create a 2/2 colorless Zombie token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Servant of Chaos
+
+Humanity Sprites
+
+Azure Whelp
+
+Festering Knight
+
+Swift Swordstress
+
+Roots of the World
+
+Pinwheel, Thrice-Masked
+
+Lautrec the Favored
+
+Chaos Witch Quelana
+
+Siegmeyer, Bumbling Branded
+
+Solaire, Sunlight Knight
+
+The Undead Curse
+rules_text: At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have haste. => At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have haste.
+
+Nurturing Flames
+rules_text: Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Flames deals 3 damage to any target.
+Discordance {R}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Choose one —
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+• Nurturing Flames deals 3 damage to any target.
+Discordance {R}{G} [i](You may cast this card from your graveyard for {R}{G} if it was put there this turn from your hand or library.)[/i]
+
+Bonfire's Warmth
+
+Oswald, Velka's Pardoner
+
+Maneater Mildred
+
+Jolly Cooperation!
+rules_text: When this enchantment enters, create a 2/2 white Knight creature token.
+Whenever you target a creature you control with a spell or ability, you may copy that ability. Do this only once each turn. => When this enchantment enters, create a 2/2 white Knight creature token.
+Whenever a creature you control becomes the target of a spell or ability you control for the first time each turn, you may copy that ability. Do this only once each turn.
+
+Sieglinde, the Unbranded
+
+Velka's Devoted
+
+Scourge of the Valley
+rules_text: Flying, haste
+Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by exiling a creature card and a noncreature card in addition to paying its mana cost. => Flying, haste
+Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by exiling a creature card and a noncreature card from your graveyard in addition to paying its mana cost.
+
+Crush into the Dirt
+
+Fire Keeper Anastacia
+
+Hollowed Obsession
+rules_text: Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Shiva, Forest-Clan Captain
+
+Leeroy, Golden Champion
+rules_text: Whenever you put one or more +1/+1 counters on a creature you control, another target creature you control gets +X/+X until end of turn, where X is the number of counters put on that creature. => Whenever you put one or more +1/+1 counters on Leeroy, another target creature you control gets +X/+X until end of turn, where X is the number of counters put on Leeroy this way.
+
+Alvina, Darkroot Warden
+
+Kirk, Knight of Thorns
+
+Forsaken of Carim
+rules_text: At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Ruin Firesage
+
+Guardian of Londo Ruins
+
+Cathartic Reunion
+
+Kalameet's Gaze
+
+Dragonpath Hunter
+
+A Dark Spirit Has Invaded
+rules_text: Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Create a token that's a copy of target creature you control or target creature card in your graveyard, except it has haste and “At the beginning of the end step, sacrifice this token.” => Surveil 2. When you do, create a token that's a copy of target creature you control or target creature card in your graveyard, except it has haste and “At the beginning of the end step, sacrifice this token.” [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Clash of Iron
+
+Zealot of the Path
+
+Ruthless Pyromancer
+
+Asylum Vermin
+
+Mindless Militia
+rules_text: When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Discordance {1}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Discordance {1}{B} [i](You may cast this card from your graveyard for {1}{B} if it was put there this turn from your hand or library.)[/i]
+
+Butcher of the Depths
+
+Barbed Blade
+
+Fina's Embrace
+
+Meet the Locals
+
+Ariamis Phalanx
+
+Velka's Emissary
+
+Gain Favor
+
+Flameblinded Witch
+
+Depths Lookout
+
+Scouring Slime
+
+Hollowing Merchant
+
+Darkroot Harvester
+
+Brutish Mushroom
+
+Grass Crest Shield
+
+Within the Archtree
+
+Valley Bluescale
+
+Paledrake's Fervent
+
+Blue Crystal Golem
+
+Imprisoned Across Time
+rules_text: Target creature's owner puts in on their choice of the top or bottom of their library. If you control a historic permanent, you choose instead. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => This spell costs {1} less to cast if it targets a historic creature. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Target creature's owner puts in on their choice of the top or bottom of their library.
+
+Crystal Curse
+
+Cleric's Talisman
+
+Darkmoon Malediction
+
+Rest by the Bonfire
+
+Guardian's Charge
+
+Balder Knight
+
+Apprentice Fire Keeper
+
+Astoran Cleric
+
+Soul Seeker
+
+Knights-in-Arms
+
+Spirit of the Altar
+
+Curse-Spewer Basilisk
+
+Gravelord Sword
+
+Sif, Courageous Pup
+
+The Everlasting Dragon
+
+Kalameet, Living Calamity
+
+The Bed of Chaos
+
+Offering to the Fair Lady
+
+Dark Sun Gwyndolin
+
+Gwyn, Cindered
+
+Moonlight Greatsword
+
+Smough's Great Hammer
+
+Quelaag's Furysword
+rules_text: Equipped creature gets +2/+0 and has haste.
+Whenever equipped creature deals combat damage to a player, mill a card. You may play that card this turn without paying its mana cost. 
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]
+Equip {2} => Equipped creature gets +2/+0 and has haste.
+Whenever equipped creature deals combat damage to a player, mill a card. You may play that card this turn without paying its mana cost. 
+Discordance {1}{R} [i](You may cast this card from your graveyard for {1}{R} if it was put there this turn from your hand or library.)[/i]
+Equip {2}
+
+Lifehunt Scythe
+
+The Furtive Pygmy
+rules_text: Creatures you control with decayed get +1/+1. During combat, triggered abilities you control can't cause you to sacrifice them.
+Pay 3 life: Put this card from your graveyard into your library fourth from the top.
+Discordance {B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Creatures you control with decayed get +1/+1. Triggered abilities of those creatures can't cause you to sacrifice them.
+Pay 3 life: Put this card from your graveyard into your library fourth from the top.
+Discordance {B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]
+
+Snuggly's Nest
+
+Nito, First of the Dead
+
+Fragmented Humanity
+
+Havel, Stoneclad Slayer
+
+Kiln of the First Flame
+
+New Londo Ruins
+
+Lost Izalith
+
+Anor Londo
+
+Ash Lake
+
+Ciaran, Lord's Blade
+rules_text: Double strike
+Historic spells you cast cost {1} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{W}{U}: Ciaran gets +2/+2 until end of turn. Activate only per turn, and only if you've cast a historic spell this turn. => Double strike
+Historic spells you cast cost {1} less to cast. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+{W}{U}: Ciaran gets +2/+2 until end of turn. Activate only once per turn, and only if you've cast a historic spell this turn.
+
+The Four Kings
+
+The Gaping Dragon
+
+Dragonslayer Ornstein
+
+Nito's Miasma
+
+Quelaag, Chaos Matriarch
+
+Pharis of the Black Bow
+
+Sanctuary Guardian
+
+Seath, Obssessive Paledrake
+
+Darkwraith Allegiant
+
+Bonewheel Skeleton
+rules_text: Haste
+Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost. => Haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.
+pt: 3/1 => 2/1
+
+Knights of Ash
+
+Chester, Far-Flung Scoundrel
+
+Titanite Demon
+rules_text: Menace
+Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.
+Discordance {2}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Menace
+Whenever this creature enters or attacks, this creature deals 2 damage to any target and you gain 2 life.
+Discordance {2}{B}{B} [i](You may cast this card from your graveyard for {2}{B}{B} if it was put there this turn from your hand or library.)[/i]
+
+Sunlit Madness
+rules_text: Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Sinister Shotels
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on this creature and draw a card.
+Equip {1} => Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on equipped creature and draw a card.
+Equip {1}
+
+Poison Mist
+rules_text: All creatures get -2/-2 until end of turn. If this card's discordance cost was paid, creatures your opponents control get -3/-3 until end of turn instead.
+Discordance {3}{B}{B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => All creatures get -2/-2 until end of turn. If this card's discordance cost was paid, creatures your opponents control get -2/-2 until end of turn instead.
+Discordance {3}{B}{B} [i](You may cast this card from your graveyard for {3}{B}{B} if it was put there this turn from your hand or library.)[/i]
+
+Contemplate Death
+rules_text: Search your library for a card, put it into your hand or graveyard, then shuffle.
+[i]Kindle — [/i]You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, target creature gets -X/-X until end of turn, where X is the number of nonland permanents in your graveyard. => Choose one —
+• Search your library for a card, put it into your hand or graveyard, then shuffle.
+• Target creature gets -X/-X until end of turn, where X is the number of nonland permanents in your graveyard.
+
+Crystal Lizard
+
+Lurking Mimic
+
+Bounding Dragon
+rules_text: Reach
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Reach
+Discordance {1}{R} [i](You may cast this card from your graveyard for {1}{R} if it was put there this turn from your hand or library.)[/i]
+
+Pyromancer's Flame
+
+Altar to the Gods
+
+Demon's Great Hammer
+
+Zweihander
+
+Sen's Fortress
+
+Firelink Shrine
+
+Eggburdened Servants
+
+Forest-Clan Ambusher
+
+Manserpent Warrior
+
+Stone Guardian
+
+Sif, Guardian Gravewolf
+
+Guardian's Respite
+
+Fang Boar Helm
+
+The Painted World
+
+Oolacile Township
+
+The Northern Asylum
+
+Demon Ruins
+
+Royal Woods
+
+Ruined Cathedral
+
+Duke's Archives
+
+Blighttown
+
+Sunlit Shrine
+
+Darkroot Garden
+
+The First Flame
+rules_text: When this enchantment enters, you may discard a card. If you do, draw two cards.
+Whenever an attacking creature you control dies, this enchantment deals 2 damage to each opponent.
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => When this enchantment enters, you may discard a card. If you do, draw two cards.
+Whenever an attacking creature you control dies, this enchantment deals 2 damage to each opponent.
+Discordance {1}{R} [i](You may cast this card from your graveyard for {1}{R} if it was put there this turn from your hand or library.)[/i]
+
+Bridge Wyvern
+
+Laurentius, Modest Mentor
+rules_text: Prowess
+Whenever this creature attacks, mill the top card of your library. You may play that card this turn. => Prowess
+Whenever this creature attacks, mill a card. You may play that card this turn.
+
+In The Firstborn's Footsteps
+
+Blazing Breath
+
+Strength of a Lord
+
+Chaos Blade
+
+Path of the Dragon
+rules_text: Enchant creature
+Enchanted creature has prowess and is a Dragon in addition to its other types.
+Discordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Enchant creature
+Enchanted creature has prowess and is a Dragon in addition to its other types.
+Discordance {R} [i](You may cast this card from your graveyard for {R} if it was put there this turn from your hand or library.)[/i]
+
+Dark Sun's Judgment
+
+The Serpent's Truths
+
+Visions of Ariamis
+cost: {U} => {1}{U}
+rules_text: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+[i]Kindle [/i]— You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn and you cast this spell from your hand, exile this card. During your next turn, you may cast it from exile. => Target creature you control can't be blocked this turn.
+Draw a card.
+Whenever you cast a historic spell, if this card is in your graveyard, you may exile it. During your next turn, you may cast a copy of it. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+Just Another Undead
+rules_text: Flash
+Enchant creature
+Enchanted creature becomes a 2/2 colorless Zombie with decayed. [i](It loses all other colors and abilities. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Flash
+Enchant creature
+Enchanted creature is a 2/2 colorless Zombie with decayed, and it loses all other abilities, card types, and creature types. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Way of White Guardian
+
+The Crestfallen Warrior
+
+Astora Elite
+rules_text: Vigilance
+Whenever one or more creatures you control die, draw a card. This ability triggers only once each turn. => Vigilance
+Whenever an equipped creature you control dies, draw a card. This ability triggers only once each turn.
+
+Paladin of Ariamis
+
+Tarkus, Black Iron Berenike
+
+Silver Knight Armor
+
+Light in the Dark
+
+Purposeless Undead
+
+Oscar, Fading Failure
+
+Iron Sentinel
+
+Homeward Bone
+
+Knight's Claymore
+
+Abandoned Bonfire
+
+Darkmoon Squire
+
+Izalith Wurm
+rules_text: Trample
+This creature can't be blocked by creatures with power 2 or less.
+Discordance {3}{G}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Trample
+This creature can't be blocked by creatures with power 2 or less.
+Discordance {3}{G}{G} [i](You may cast this card from your graveyard for {3}{G}{G} if it was put there this turn from your hand or library.)[/i]
+
+Darkroot Huntmaster
+rules_text: Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Forest-Clan Sentries
+
+Belltower Sentry
+
+Bell Gargoyles
+
+Quelana's Apprentice
+rules_text: Prowess
+Discordance {R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Prowess
+Discordance {R} [i](You may cast this card from your graveyard for {R} if it was put there this turn from your hand or library.)[/i]
+
+Merchant's Katana
+
+Blighted Hound
+
+Centipede Demon
+
+Hollowed Knight-Captain
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Hawkeye Gough
+
+Thorolund Cleric
+rules_text: Lifelink
+Whenever this creature or another creature you control enters, this creature you control gets +1/+0 until end of turn. => Lifelink
+Whenever another creature you control enters, this creature gets +1/+0 until end of turn.
+
+Asylum Jailor
+
+Forsaken of the Great Swamp
+rules_text: At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Artorias, the Wolf Knight
+
+Taurus of the Burg
+
+Undead Determination
+
+Sunlight Avenger
+
+Determined Adventurer
+rules_text: Whenever you target this creature with a spell or ability, it gets +1/+1 until end of turn. => Whenever this creature becomes the target of a spell or ability you control, it gets +1/+1 until end of turn.
+
+Dark Sun's Offering
+
+Trusty Patches
+
+Nameless Song
+cost: {1} => {2}
+
+The Dragonslayer's Heroics
+
+Tale of the Painted World
+
+The Duke's Great Sorceries
+
+Tale of the Abyss
+
+From Firelink, Onwards
+
+The Great Flood
+
+The Age of Ancients
+
+The Birth of Chaos
+
+Gwyndolin's Manipulation
+
+The Roots of Oolacile
+
+Blessings of Sunlight
+
+The Paledrake's Pact
+
+Zombie
+rules_text: Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Human
+
+Knight
+
+Illusion
+
+Human Wizard
+
+Bird
+
+Zombie Dog
+rules_text: Haste, decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Dragon
+
+Fungus
+
+Wolf
+
+Soul
+
+Treasure
+
+Copy
+
+Chaos Bug
+
+Horror Noble
+
+Demon
+
+The Age of Fire
+
+Horror
+
+Abyssal Greatsword
+
+Misguided Moonlight
+
+Gwyn's Silver Knights
+
+Andre of Astora
+
+Darkmoon Bow
+
+Big Hat Logan
+
+Shattered Truths
+
+The Knights' Resolve
+
+Dragonslayer's Swordspear
+
+Ceaseless Discharge
+
+Champion of the Father
+
+Seek the Everlasting
+rules_text: Search your library for a creature, enchantment, or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+Discordance {1}{G} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Search your library for a creature, enchantment, or land card and reveal it. Put it onto the battlefield tapped if it's a land card. Otherwise, put it into your hand. Then shuffle.
+Discordance {1}{G} [i](You may cast this card from your graveyard for {1}{G} if it was put there this turn from your hand or library.)[/i]
+
+Journey to Izalith
+
+Sen's Golem
+
+Relentless Invader
+
+What Vestiges Remain
+
+Blades of the Darkmoon
+
+Manus, Father of the Abyss
+
+The Witch of Izalith
+rules_text: {T}, Mill a card: Add one mana of any color. 
+During each of your turns, you may play land cards from your graveyard that were put there from anywhere this turn.
+Cards in your graveyard have discordance. Their discordance cost is equal to their mana cost. [i](You may cast a copy of that card from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => {T}, Mill a card: Add one mana of any color. 
+During each of your turns, you may play land cards from your graveyard that were put there from anywhere this turn.
+Cards in your graveyard have discordance. Their discordance cost is equal to their mana cost. [i](You may cast that card from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i]
+
+Petrus, Drenched in Sin
+rules_text: When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target tapped creature.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target tapped creature.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+In Seath's Presence
+
+Ciaran's Tracers
+rules_text: When this Equipment enters, draw a card, then discard a card.
+Equipped creature has double strike.
+Equip {3}. This costs {1} less for each spell you've cast this turn. => When this Equipment enters, draw a card, then discard a card.
+Equipped creature has double strike.
+Equip {3}. This ability costs {1} less to activate for each spell you've cast this turn.
+
+Praise the Sun!
+
+Batwing Demon
+rules_text: Flying, haste
+Discordance {1}{R} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Flying, haste
+Discordance {1}{R} [i](You may cast this card from your graveyard for {1}{R} if it was put there this turn from your hand or library.)[/i]
+
+Asylum Tunnel
+
+Solaire, Sunless
+
+Priscilla, Forlorn Guardian
+
+The Age of Dark
+
+Quiet Resolve
+
+Cindered Sun
+
+The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Mill three cards. You may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Mill three cards. When you do, you may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Mill three cards. You may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Mill three cards. When you do, you may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+Darkmoon Knightess, Fire Keeper
+rules_text: During your turn, Darkmoon Knightess has first strike.
+Whenever you target a creature you control with a spell or ability, draw a card. This ability triggers only once each turn.
+{W}, Sacrifice a token: Choose a color. Another target creature you control gains hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn. => During your turn, Darkmoon Knightess has first strike.
+{W}, {T}: Choose a color. Another target creature you control gains hexproof from that color until end of turn. It can't be blocked by creatures of that color this turn.
+pt: 2/1 => 3/1
+
+Artorias, Abyss-Cursed
+rules_text: Trample, haste, decayed
+[i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, return Artorias from your graveyard to the battlefield. => Trample
+Whenever Artorias enters or attacks, exile up to one target card from a graveyard. If a creature card was exiled this way, put a +1/+1 counter on Artorias and each opponent loses 1 life. Otherwise, you lose 1 life and draw a card.
+pt: 4/2 => 4/3
+
+A Marvellous Hunt
+type: Instant => Sorcery
+cost: {1}{B} => {B}{B}
+rules_text: Destroy target nontoken creature or planeswalker.
+[i]Kindle[/i] — You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn and you cast this spell from your hand, exile this card. During your next turn, you may cast it from exile. => Choose one. If you've sacrificed a nonland permanent this turn, you may choose both instead.
+• Destroy target nontoken creature or planeswalker.
+• Target opponent discards a card.
+
+Calamitous Blackflame
+cost: {X}{R}{R} => {2}{R}{R}
+rules_text: This spell costs {X} less to cast, where X is the number of noncreature, nonland cards in your graveyard.
+Calamitous Blackflame deals 4 damage to each of up to X target creatures or planeswalkers. => This spell deals 3 damage to each creature, planeswalker, and player. Damage dealt this way can't be prevented.
+
+Ashen Hydra
+cost: {X}{G} => {X}{G}{G}
+pt: 0/0 => 1/1
+
+Burg Capra
+cost: {R} => {1}{R}
+rules_text: During your turn, this creature has first strike.
+At the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i] => During your turn, this creature has first strike.
+At the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 2/1 => 2/2
+
+Chaos Witch
+rules_text: Prowess
+[i]Kindle — [/i]When this creature enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, exile the top two cards of your library. Until the end of your next turn, you may play those cards. => Prowess
+[i]Kindle — [/i]When this creature enters, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, mill a card. You may play that card this turn.
+
+Firelink Altar
+rules_text: Each creature you control enters with an additional +1/+1 counter on it for each other creature you control.
+Whenever a creature you control dies, if it had counters on it, put those counters onto Firelink Altar.
+{8}, {T}, Remove all counters from Firelink Altar: Search your library for a legendary creature card, put it onto the battlefield, then shuffle. It gains haste until end of turn. This ability costs {1} less to activate for each counter on Firelink Altar. => Each creature you control enters with an additional +1/+1 counter on it.
+Whenever a creature you control dies, if it had counters on it, put those counters onto Firelink Altar.
+{8}, {T}, Remove all counters from Firelink Altar: Search your library for a legendary creature card, put it onto the battlefield, then shuffle. It gains haste until end of turn. This ability costs {1} less to activate for each counter on Firelink Altar.
+
+Gwynevere, Sunlight Princess
+cost: {G}{W}{U} => {1}{G}{W}{U}
+pt: 2/5 => 2/4
+
+Jeremiah, Exiled King
+rules_text: Cooperate {2}{R} [i]({2}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Whenever this creature attacks, another attacking creature you control gets +X/+0 until end of turn, where is the number of attacking creatures. => Cooperate {2}{R} [i]({2}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+During combat, this creature gets +X/+0, where X is the number of attacking creatures.
+
+Link the Flame
+cost: {3}{B}{R} => {2}{B}{R}
+rules_text: Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. This Saga deals damage equal to that creature's mana value to any target.
+II, III — You lose 1 life and draw a card. Each player sacrifices a creature.
+IV — This Saga deals 3 damage to any target. => Bookmark r{1} — {B}{R} [i](If you cast this spell for its bookmark cost, it enters with a lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Sacrifice a creature. This Saga deals damage equal to that creature's mana value to any target.
+II — Exile all cards from target player's graveyard.
+III — Discard your hand, then draw that many cards.
+special_text: Bookmark r{4} — {1}{R} [i](If you cast this spell for its bookmark cost, it enters with four lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Put a decayed counter on target creature. This Saga deals damage equal to that creature's mana value to any target.
+II, III — You lose 1 life and draw a card. Each player sacrifices a creature.
+IV — This Saga deals 3 damage to any target. => Bookmark r{1} — {B}{R} [i](If you cast this spell for its bookmark cost, it enters with a lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Sacrifice a creature. This Saga deals damage equal to that creature's mana value to any target.
+II — Exile all cards from target player's graveyard.
+III — Discard your hand, then draw that many cards.
+
+Mourn the Memory
+rules_text: When this enchantment enters, draw a card.
+[i]Kindle [/i]— Whenever you cast your third spell each turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, draw a card. => When this enchantment enters, draw a card.
+Whenever you cast your third spell each turn, you may sacrifice this enchantment. When you do, draw a card.
+
+Seath's Channelers
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have “{T}, Sacrifice this creature: Add {U}{U}. Spend this mana only to cast noncreature spells.” => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{T}, Sacrifice a creature: Add {U}{U}. Spend this mana only to cast noncreature spells.
+
+The Chosen Undead
+cost: {1}{W}{B} => {2}{W}{B}
+rules_text: Cooperate {W}{B} [i]({W}{B}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Vigilance, deathtouch
+When this creature deals combat damage to a player, exile up to one target historic permanent. If you don't exile a card this way, put two +1/+1 counters on this creature. => Cooperate 1{W}{B} [i]({1}{W}{B}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Vigilance, deathtouch
+When this creature deals combat damage to a player, exile up to one target historic permanent. If you don't exile a card this way, put two +1/+1 counters on this creature.
+pt: 3/2 => 3/3
+
+The Fair Lady
+pt: 1/4 => 1/2
+
+
+VERSION 42 CHANGELOG
 ====================
 
 
