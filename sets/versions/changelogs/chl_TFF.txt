@@ -1,4 +1,20 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+
+
+Brutish Mushroom
+rules_text: Trample 
+Kindle — At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, this creature gets +2/+0 until end of turn. => Trample 
+[i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, this creature gets +2/+0 until end of turn.
+
+Dark Sun's Judgment
+rules_text: Counter target spell.
+Kindle — You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, at the beginning of your next main phase, add an amount of {C} to your mana pool equal to the amount of mana spent to cast that spell. => Counter target spell.
+[i]Kindle [/i]— You may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, at the beginning of your next main phase, add an amount of {C} to your mana pool equal to the amount of mana spent to cast that spell.
+
+
+VERSION 44 CHANGELOG
 ====================
 
 
