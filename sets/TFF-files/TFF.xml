@@ -5,7 +5,7 @@
 			<name>TFF</name>
 			<longname>Dark Souls: The Fire Fades</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-23</releasedate>
+			<releasedate>2026-09-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4103,7 +4103,7 @@ III — Return target tapped creature to its owner&apos;s hand. Draw a card.</te
 		<card>
 			<name>The Age of Ancients</name>
 			<text>Bookmark r{2} — {4} (If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)
-I — Create two colorless 4/4 Dragon artifact creature tokens with flying.
+I — Create two 4/4 colorless Dragon artifact creature tokens with flying.
 II — Exile target nonland permanent an opponent controls.
 III — Look at the top ten cards of your library. Put a non-Saga permanent card from among them onto the battlefield. Put the rest on the bottom in a random order.</text>
 			<set rarity="mythic" picurl="https://TheNinjaPhoenix.github.io/sets/TFF-files/img/227.png" num="1">TFF</set>
@@ -4486,7 +4486,7 @@ III — Shuffle up to three target noncreature cards from your graveyard into yo
 				<cmc>0</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>

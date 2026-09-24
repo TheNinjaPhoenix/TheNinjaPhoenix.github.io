@@ -1,4 +1,29 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+
+
+The Age of Ancients
+rules_text: Bookmark r{2} — {4} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+III — Look at the top ten cards of your library. Put a non-Saga permanent card from among them onto the battlefield. Put the rest on the bottom in a random order. => Bookmark r{2} — {4} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create two 4/4 colorless Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+III — Look at the top ten cards of your library. Put a non-Saga permanent card from among them onto the battlefield. Put the rest on the bottom in a random order.
+special_text: Bookmark r{2} — {4} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create two colorless 4/4 Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+III — Look at the top ten cards of your library. Put a non-Saga permanent card from among them onto the battlefield. Put the rest on the bottom in a random order. => Bookmark r{2} — {4} [i](If you cast this spell for its bookmark cost, it enters with two lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create two 4/4 colorless Dragon artifact creature tokens with flying.
+II — Exile target nonland permanent an opponent controls.
+III — Look at the top ten cards of your library. Put a non-Saga permanent card from among them onto the battlefield. Put the rest on the bottom in a random order.
+
+Demon
+pt: 4/4 => 3/3
+
+
+VERSION 43 CHANGELOG
 ====================
 
 Prodigious Knowledge added.
