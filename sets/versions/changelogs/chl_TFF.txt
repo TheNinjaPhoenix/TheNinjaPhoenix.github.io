@@ -1,4 +1,172 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+
+
+Incandescence
+rules_text: Whenever you exile one or more creature cards from your hand or library, or from the battlefield under your control, create a token that's a copy of one of them, except it's a 1/1 Spirit. This ability triggers only once each turn. => Whenever you exile one or more creature cards from your hand or from the battlefield under your control, create a token that's a copy of one of them, except it's a 1/1 Spirit. This ability triggers only once each turn.
+
+Forsaken of Darkroot
+rules_text: At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {G}. When you do, this creature gets +2/+2 and gains trample and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Forsaken of New Londo
+rules_text: At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {U}. When you do, this creature gets +2/+2 and gains flying and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Forsaken of Astora
+rules_text: At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {W}. When you do, this creature gets +2/+2 and gains lifelink and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Destined for More
+rules_text: Exile target creature or enchantment you control, then return it to the battlefield under its owner's control. If a historic permanent was exiled this way, draw a card. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Exile target creature or enchantment you control, then return it to the battlefield under its owner's control. If a legendary creature was exiled this way, draw a card.
+
+Dark Grasp
+type: Instant => Sorcery
+rules_text: Dark Grasp deals 3 damage to target creature. When that creature dies this turn, create a 2/2 colorless Zombie token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Dark Grasp deals 3 damage to target creature. When that creature dies this turn, create a 2/2 colorless Zombie token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+The Undead Curse
+rules_text: At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have haste. => At the beginning of combat on your turn, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control have haste.
+
+Fire Keeper Anastacia
+rules_text: Whenever a nontoken creature or enchantment you control enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i] => Whenever another nontoken creature or enchantment you control enters, create a Soul token. [i](It's an enchantment with “{1}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)[/i]
+
+Hollowed Obsession
+rules_text: Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Exile target creature. Its controller creates a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Forsaken of Carim
+rules_text: At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {B}. When you do, this creature gets +2/+2 and gains menace and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Mindless Militia
+rules_text: When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Discordance {1}{B} [i](You may cast this card from your graveyard for {1}{B} if it was put there this turn from your hand or library.)[/i] => When this creature dies, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Discordance {1}{B} [i](You may cast this card from your graveyard for {1}{B} if it was put there this turn from your hand or library.)[/i]
+
+Sif, Courageous Pup
+
+The Furtive Pygmy
+rules_text: Creatures you control with decayed get +1/+1. Triggered abilities of those creatures can't cause you to sacrifice them.
+Pay 3 life: Put this card from your graveyard into your library fourth from the top.
+Discordance {B} [i](You may cast a copy of this from your graveyard if it was put there this turn from your hand or library by paying its discordance cost.)[/i] => Triggered abilities of creatures you control with decayed can't cause you to sacrifice them.
+You may cast The Furtive Pygmy from your graveyard by paying 3 life and discarding a card in addition to paying its other costs. If you do, it enters with a finality counter on it.
+
+Kiln of the First Flame
+
+New Londo Ruins
+
+Lost Izalith
+
+Anor Londo
+
+Ash Lake
+
+Nito's Miasma
+type: Instant => Sorcery
+cost: {1}{B}{G} => {B}{G}
+
+Pharis of the Black Bow
+pt: 2/1 => 2/2
+
+Bonewheel Skeleton
+rules_text: Haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost. => Haste
+Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+You may cast this card from your graveyard by sacrificing a nonland permanent in addition to paying its mana cost.
+
+Sunlit Madness
+rules_text: Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Enchant creature
+When this Aura enters, look at target player's hand. You may choose a nonland card from it. That player discards that card.
+Enchanted creature gets +1/+1 and has decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Sinister Shotels
+rules_text: Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on equipped creature and draw a card.
+Equip {1} => Husk [i](When this Equipment enters, create a 2/2 colorless Zombie creature token with decayed, then attach this to it. A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+[i]Kindle [/i]— At the beginning of combat on your turn, you may sacrifice a nonland permanent. Then if you've sacrificed a nonland permanent this turn, put a +1/+1 counter on equipped creature.
+Equip {2}
+
+Darkroot Huntmaster
+rules_text: Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever you sacrifice a nonland permanent, create a 2/1 black Zombie Dog creature token with haste and decayed. This ability triggers only once each turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Hollowed Knight-Captain
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Forsaken of the Great Swamp
+rules_text: At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => At the beginning of combat on your turn you may pay {R}. When you do, this creature gets +3/+0 and gains haste and decayed until end of turn. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Sunlight Avenger
+rules_text: Cooperate {R}{R} [i]({R}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Whenever this creature deals combat damage to a player, exile a card at random from your graveyard. You may play that card this turn. At the beginning of your next end step, this creature deals 2 damage to each opponent if that card is still exiled. => Cooperate {R}{R} [i]({R}{R}, Exile this card from your hand: Put a +1/+1 counter on target creature and it gains the following abilities until end of turn. You may cast this card on a later turn from exile.)[/i]
+Whenever this creature deals combat damage to a player, exile a card at random from your graveyard. You may play that card until the beginning of your next end step. At the beginning of your next end step, this creature deals 2 damage to each opponent if that card is still exiled.
+
+Zombie
+rules_text: Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i] => Decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Zombie Dog
+rules_text: Haste, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i] => Haste, decayed [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Misguided Moonlight
+rules_text: This spell costs {U} less if it targets a spell that was cast from anywhere other than its owner's hand and/or targets a historic card. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Counter target spell. => This spell costs {1} less if it targets a spell that was cast from anywhere other than its owner's hand and/or targets a legendary card.
+Counter target spell.
+
+Blades of the Darkmoon
+rules_text: When this enchantment enters, it deals 2 damage to any target and you gain 2 life.
+Whenever a creature deals damage to you, destroy it unless its controller pays {2}. => When this enchantment enters, target opponent loses 2 life and you gain 2 life.
+Artifacts and creatures your opponents control enter tapped.
+
+Petrus, Drenched in Sin
+rules_text: When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target tapped creature.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When Petrus, Drenched in Sin enters, choose one or both. If you choose both, you lose 2 life.
+• Destroy target tapped creature.
+• Create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Praise the Sun!
+rules_text: Choose one —
+• Exile target creature you control. Create a token that's a copy of it, except its a 1/1 Spirit. Return the exiled card to its owner's hand at the beginning of the next end step.
+• This spell deals 3 damage to any target and you gain 3 life. => Choose one —
+• Exile target creature you control. Create a token that's a copy of it, except its a 1/1 Spirit. Return the exiled card to the battlefield tapped under its owner's control at the beginning of the next end step.
+• This spell deals 3 damage to any target and you gain 3 life.
+
+Quiet Resolve
+cost: {1}{G} => {2}{G}
+rules_text: You may play an additional land on each of your turns.
+Whenever a land you control enters, put a +1/+1 counter on target creature you control. => You may play an additional land on each of your turns.
+Whenever a land you control enters, put a +1/+1 counter on target creature you control. This ability triggers only once each turn.
+
+The Wolf Knight's Legacy
+rules_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Mill three cards. When you do, you may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Mill three cards. When you do, you may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+special_text: Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Mill three cards. When you do, you may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => Bookmark r{3} — {G} [i](If you cast this spell for its bookmark cost, it enters with three lore counters on it. Read only that chapter, then sacrifice it.)[/i]
+I — Create a 2/2 green Wolf creature token.
+II — Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+III — Mill three cards. When you do, you may return up to one target historic card from your graveyard to your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+Burg Capra
+rules_text: During your turn, this creature has first strike.
+At the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => During your turn, this creature has first strike.
+At the beginning of combat on your turn, you may pay {2}. If you do, create a 2/1 black Zombie Dog creature token with haste and decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Mourn the Memory
+
+Seath's Channelers
+rules_text: When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{T}, Sacrifice a creature: Add {U}{U}. Spend this mana only to cast noncreature spells. => When this creature enters, create a 2/2 colorless Zombie creature token with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{T}, Sacrifice a creature: Add {U}{U}. Spend this mana only to cast noncreature spells.
+
+
+VERSION 45 CHANGELOG
 ====================
 
 

@@ -314,7 +314,7 @@
 			"name": "Dark Grasp",
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "228",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/31.png"
@@ -1283,8 +1283,8 @@
 		{
 			"name": "Nito's Miasma",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Instant",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
 			"collector_number": "211",
 			"image_uris": {
 				"en": "https://TheNinjaPhoenix.github.io/sets/TFF-files/img/128.png"
@@ -2793,7 +2793,7 @@
 		{
 			"name": "Quiet Resolve",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "176",
 			"image_uris": {
@@ -3068,7 +3068,7 @@
 	1 Mourn the Memory
 	1 The Chosen Undead
 	2 The Fair Lady
-[uncommon(2)]
+[uncommon(3)]
 	4 Live or Die
 	4 Manus's Approach
 	4 Black Knight Armor
@@ -3630,123 +3630,6 @@
 	6 Seath's Channelers
 	1 The Chosen Undead
 	2 The Fair Lady
-[historic(1)]
-	7 Dusk, Displaced Princess
-	15 Black Knight Armor
-	15 Smough, Grim Executioner
-	15 Ingward, New Londo Sealer
-	15 Beatrice, the Heretic
-	15 Domhnall, Curio Collector
-	15 Pinwheel, Thrice-Masked
-	15 Lautrec the Favored
-	15 Chaos Witch Quelana
-	15 Siegmeyer, Bumbling Branded
-	15 Solaire, Sunlight Knight
-	15 Oswald, Velka's Pardoner
-	15 Maneater Mildred
-	15 Sieglinde, the Unbranded
-	15 Fire Keeper Anastacia
-	15 Shiva, Forest-Clan Captain
-	15 Leeroy, Golden Champion
-	15 Alvina, Darkroot Warden
-	15 Kirk, Knight of Thorns
-	15 A Dark Spirit Has Invaded
-	6 Barbed Blade
-	6 Grass Crest Shield
-	6 Blue Crystal Golem
-	6 Cleric's Talisman
-	4 Gravelord Sword
-	4 Sif, Courageous Pup
-	4 The Everlasting Dragon
-	4 Kalameet, Living Calamity
-	4 The Bed of Chaos
-	4 Offering to the Fair Lady
-	4 Dark Sun Gwyndolin
-	4 Gwyn, Cindered
-	4 Moonlight Greatsword
-	4 Smough's Great Hammer
-	4 Quelaag's Furysword
-	4 Lifehunt Scythe
-	7 The Furtive Pygmy
-	7 Snuggly's Nest
-	7 Nito, First of the Dead
-	7 Havel, Stoneclad Slayer
-	7 Ciaran, Lord's Blade
-	7 The Four Kings
-	7 The Gaping Dragon
-	7 Dragonslayer Ornstein
-	7 Quelaag, Chaos Matriarch
-	7 Pharis of the Black Bow
-	7 Sanctuary Guardian
-	4 Seath, Obssessive Paledrake
-	15 Chester, Far-Flung Scoundrel
-	15 Titanite Demon
-	15 Sinister Shotels
-	15 Crystal Lizard
-	15 Lurking Mimic
-	15 Pyromancer's Flame
-	7 Altar to the Gods
-	15 Demon's Great Hammer
-	15 Zweihander
-	15 Stone Guardian
-	15 Sif, Guardian Gravewolf
-	15 Fang Boar Helm
-	15 Laurentius, Modest Mentor
-	15 Chaos Blade
-	15 The Crestfallen Warrior
-	15 Tarkus, Black Iron Berenike
-	15 Silver Knight Armor
-	6 Oscar, Fading Failure
-	6 Iron Sentinel
-	6 Homeward Bone
-	6 Knight's Claymore
-	15 Belltower Sentry
-	6 Bell Gargoyles
-	6 Merchant's Katana
-	7 Hawkeye Gough
-	7 Artorias, the Wolf Knight
-	7 Sunlight Avenger
-	4 Trusty Patches
-	15 Nameless Song
-	15 The Dragonslayer's Heroics
-	15 Tale of the Painted World
-	15 The Duke's Great Sorceries
-	6 Tale of the Abyss
-	6 From Firelink, Onwards
-	6 The Great Flood
-	4 The Age of Ancients
-	7 The Birth of Chaos
-	7 Gwyndolin's Manipulation
-	15 The Roots of Oolacile
-	15 Blessings of Sunlight
-	15 The Paledrake's Pact
-	4 The Age of Fire
-	7 Abyssal Greatsword
-	7 Andre of Astora
-	7 Darkmoon Bow
-	7 Big Hat Logan
-	7 Shattered Truths
-	7 The Knights' Resolve
-	7 Dragonslayer's Swordspear
-	7 Ceaseless Discharge
-	7 Journey to Izalith
-	15 Sen's Golem
-	7 What Vestiges Remain
-	4 Manus, Father of the Abyss
-	7 The Witch of Izalith
-	15 Petrus, Drenched in Sin
-	7 Ciaran's Tracers
-	7 Solaire, Sunless
-	7 Priscilla, Forlorn Guardian
-	4 The Age of Dark
-	15 The Wolf Knight's Legacy
-	7 Darkmoon Knightess, Fire Keeper
-	4 Artorias, Abyss-Cursed
-	4 Firelink Altar
-	4 Gwynevere, Sunlight Princess
-	15 Jeremiah, Exiled King
-	4 The Chosen Undead
-	7 The Fair Lady
 [wildcard(1)]
 	6 Hungering Crow
 	6 Prison Break
@@ -4024,25 +3907,3 @@
 	15 Seath's Channelers
 	4 The Chosen Undead
 	7 The Fair Lady
-[land(1)]
-	15 Plains
-	15 Island
-	15 Swamp
-	15 Mountain
-	15 Forest
-	12 The Painted World
-	12 Oolacile Township
-	12 The Northern Asylum
-	12 Demon Ruins
-	12 Royal Woods
-	12 Ruined Cathedral
-	12 Duke's Archives
-	12 Blighttown
-	12 Sunlit Shrine
-	12 Darkroot Garden
-	1 Kiln of the First Flame
-	1 New Londo Ruins
-	1 Lost Izalith
-	1 Anor Londo
-	1 Ash Lake
-
